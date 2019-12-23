@@ -3,7 +3,7 @@ template: HomePage
 slug: ''
 title: React
 featuredImage: ./images/boek.png
-subtitle: De jongste telg van de Web Development Library.
+subtitle: De jongste telg van de Web Development Library familie.
 meta:
   description: This is a meta description.
   title: The Ultimate Gatsby Starter
