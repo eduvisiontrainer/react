@@ -4,13 +4,15 @@ slug: ''
 title: React
 featuredImage: ./images/boek.png
 subtitle: >-
-  In dit deel van de Web Development Library gaat de auteur in op het inzetten
-  en toepassen van de React-bibliotheek.
+  In dit deel van de Web Development Library, het toepassen van de
+  React-bibliotheek.
 meta:
   description: This is a meta description.
   title: The Ultimate Gatsby Starter
 ---
-Yellowcake is an opinionated starter project created by [Thrive Digital](https://thriveweb.com.au/) a [Gold Coast Web Design](https://thriveweb.com.au/) studio. to help you create lightening fast websites with [Gatsby](https://gatsbyjs.org) and [Netlify CMS](https://netlifycms.org).
+Deze website is bedoeld ter ondersteuning voor een ieder die zich via dit boek verder willen verdiepen in de technologie. Verder kunt u via deze website contact opnemen met de auteur, suggesties voor verbeteringen in het handboek doorgeven en vragen die u heeft over het boek stellen.
+
+Het schrijven van een boek kost veel tijd. De React-bibliotheek komt regelmatig met een update, dus in het boek zullen zaken niet helemaal meer kloppen. Op deze website houden we bij wat er inmiddels anders is, dan hoe we het in het boek hebben beschreven. Mocht een hoofdstuk ingrijpend veranderen, dan zullen we hier een aangepaste online versie van dat hoofdstuk plaatsen. We streven ernaar ongeveer eens per jaar een herdruk te maken.
 
 View the [project overview](https://thriveweb.com.au/the-lab/yellowcake-gatsby-react-js-starter-project/) and the [docs](https://github.com/thriveweb/yellowcake/blob/master/README.md).
 
