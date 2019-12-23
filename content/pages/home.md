@@ -1,9 +1,11 @@
 ---
 template: HomePage
 slug: ''
-title: Yellowcake
-featuredImage: './images/boek.png'
-subtitle: ' Welcome to the ultimate Gatsby and Netlify starter project.'
+title: React
+featuredImage: ./images/boek.png
+subtitle: >-
+  In dit deel van de Web Development Library gaat de auteur in op het inzetten
+  en toepassen van de React-bibliotheek.
 meta:
   description: This is a meta description.
   title: The Ultimate Gatsby Starter
