@@ -5,8 +5,8 @@ import './Footer.css'
 export default () => (
   <div>
     <h2 className="taCenter">
-      Follow us{' '}
-      <a href="https://instagram.com/thrivegoldcoast/">@thrivegoldcoast</a>
+      Volg mij{' '}
+      <a href="https://www.instagram.com/authorjimdunk/">@authorjimdunk</a>
     </h2>
     <br />
     <InstagramFeed count="8" />
@@ -14,7 +14,7 @@ export default () => (
       <div className="container taCenter">
         <span>
           © Copyright {new Date().getFullYear()} All rights reserved. Crafted by{' '}
-          <a href="https://thriveweb.com.au/">Thrive</a>.
+          <a href="http://unboundit.com/">UnboundiT</a>.
         </span>
       </div>
     </footer>
