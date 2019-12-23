@@ -1,8 +1,8 @@
-siteTitle: Yellow Cake
-siteUrl: 'https://yellowcake.netlify.com'
+siteTitle: React Web Development Library
+siteUrl: 'https://react.space'
 siteDescription: >-
-  A starter project for creating lightning-fast websites with Gatsby v2 Netlify
-  CMS v2 and Uploadcare media library.
+  Deze website is bedoeld ter ondersteuning voor een ieder die zich via dit boek
+  verder willen verdiepen in React.
 socialMediaCard:
   image: 'https://ucarecdn.com/fcc8d148-a9a8-42ee-a793-0f12b1437f61/'
-googleTrackingId: 'UA-133175780-1'
+googleTrackingId: UA-133175780-1
