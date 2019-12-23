@@ -3,9 +3,7 @@ template: HomePage
 slug: ''
 title: React
 featuredImage: ./images/boek.png
-subtitle: >-
-  In dit deel van de Web Development Library, het toepassen van de
-  React-bibliotheek.
+subtitle: De jongste telg van de Web Development Library.
 meta:
   description: This is a meta description.
   title: The Ultimate Gatsby Starter
