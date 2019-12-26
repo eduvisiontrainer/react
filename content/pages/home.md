@@ -24,11 +24,3 @@ In acht hoofdstukken pak ik met u de beginselen van React aan die leiden tot het
 * Bouwproject 2
 * Bouwproject 3
 * Hulpprogramma's en hulpmiddelen
-
-
-
-## Get started
-
-View the [Netlify CMS Docs](https://www.netlifycms.org/docs/) and the [Netlify CMS Repo](https://github.com/netlify/netlify-cms).
-
-[![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/thriveweb/yellowcake&stack=cms)
