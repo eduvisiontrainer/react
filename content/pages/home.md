@@ -6,7 +6,7 @@ featuredImage: ./images/boek.png
 subtitle: De jongste telg van de Web Development Library familie.
 meta:
   description: This is a meta description.
-  title: The Ultimate Gatsby Starter
+  title: React Web Development Library
 ---
 Deze website is bedoeld ter ondersteuning voor een ieder die zich via dit boek verder willen verdiepen in de technologie. Verder kunt u via deze website contact opnemen met de auteur, suggesties voor verbeteringen in het handboek doorgeven en vragen die u heeft over het boek stellen.
 
