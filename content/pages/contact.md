@@ -7,7 +7,10 @@ subtitle: This is the contact page subtitle.
 address: 'Stuartweg 8a, 4131 NJ VIANEN'
 phone: +31 (0)347-357 000
 email: react@unboundit.com
-locations: []
+locations:
+  - lat: ''
+    lng: ''
+    mapLink: ''
 meta:
   description: This is a meta description.
   title: Contact Page
