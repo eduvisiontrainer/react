@@ -501,9 +501,9 @@ accordion:
     title: AF
   - description: Techniek voor het verbeteren van beelden die onder een hoek bekeken worden. Is een synoniem van Anisotropische filtering
     title: Anisotropic filtering
-  - description: betekent anoniem, maar de term anoniem wordt vaak gebruikt in combinatie met FTP-servers: bij Anonymous FTP heeft iedereen toegang tot die server, zonder gebruikersnaam of wachtwoord en is een synoniem van Anonymous FTP
+  - description: betekent anoniem, maar de term anoniem wordt vaak gebruikt in combinatie met FTP-servers, bij Anonymous FTP heeft iedereen toegang tot die server, zonder gebruikersnaam of wachtwoord en is een synoniem van Anonymous FTP
     title: Anonymous
-  - description: betekent anoniem, maar de term anoniem wordt vaak gebruikt in combinatie met FTP-servers: bij Anonymous FTP heeft iedereen toegang tot die server, zonder gebruikersnaam of wachtwoord. Is een synoniem van Anonymous
+  - description: betekent anoniem, maar de term anoniem wordt vaak gebruikt in combinatie met FTP-servers, bij Anonymous FTP heeft iedereen toegang tot die server, zonder gebruikersnaam of wachtwoord. Is een synoniem van Anonymous
     title: Anonymous FTP
   - description: American National Standards Institute, instantie verantwoordelijk voor het vastleggen van standaarden in de Verenigde Staten
     title: ANSI
