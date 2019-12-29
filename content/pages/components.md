@@ -46,7 +46,7 @@ accordion:
   - description: Map in een unixsysteem waarin de belangrijkste libraries staan. Zie ook...UNIX, Library
     title: /lib
   - description: Map in een unixsysteem waarin bestanden staan waarvan niet zeker is waar ze thuis horen. Zie ook...UNIX
-    title: /lost+found
+    title: /lost&#43;found
   - description: Map in een unixsysteem voor verwisselbare schijven. Zie ook...UNIX
     title: /media
   - description: Map in een unixsysteem waarin het proc-bestandssysteem staan geparkeerd. Zie ook...UNIX, proc
@@ -334,7 +334,7 @@ accordion:
   - description: ADSL over 2 kabels
     title: ADSL2
   - description: Een verbeterde variant van ADSL2, met name door de twee kabels beter te benutten
-    title: ADSL2+
+    title: ADSL2&#43;
   - description: ATM DSU, terminal adapter die wordt gebruikt om toegang te krijgen tot een ATM netwerk via een HSSI compatible apparaat
     title: ADSU
   - description: Abstract Data Type, een databaseveld dat door de gebruiker zelf is gemaakt
@@ -454,7 +454,7 @@ accordion:
   - description: Een socket voor processors van AMD, werkt met DDR2 geheugen. Zie ook...socket, AMD
     title: AM2
   - description: Opvolger van AM2, backwards compatible met AM2. Zie ook...backwards compatible, AM2
-    title: AM2+
+    title: AM2&#43;
   - description: Een webbrowser die door het W3C wordt gebruikt om nieuwe standaarden mee te ontwikkelen. Eerst was Amaya bedoeld als HTML en CSS editor. Zie ook...w3c
     title: Amaya
   - description: Advanced Micro Devices, Fabrikant van microprocessoren
@@ -609,10 +609,10 @@ accordion:
     title: ASOP
   - description: Application Service Provider, bedrijf dat programma&#39;s via het internet aanbied aan klanten zodat ze altijd de nieuwste versie hebben
     title: ASP
-  - description: Active Server Pages, programmeertaal van Microsoft voor internetpagina&#39;s, vervangen door ASP+
+  - description: Active Server Pages, programmeertaal van Microsoft voor internetpagina&#39;s, vervangen door ASP&#43;
     title: ASP
   - description: Active Server Pages Plus, snellere versie van ASP doordat scripts worden gecompileerd naar MSIL. Zie ook...ASP, MSIL
-    title: ASP+
+    title: ASP&#43;
   - description: De verhouding hoogte...breedte van het scherm. 4...3 is normaal en 16...9 breedbeeld, maar er zijn veel meer varianten
     title: Aspectratio
   - description: Advanced SCSI Programming Interface, een API voor het aansturen van SCSI en ATAPI apparaten. Zie ook...API
@@ -741,7 +741,7 @@ accordion:
     title: Backplane link
   - description: Een reservekopie van de bestand, voor het geval de orginelen verloren gaan
     title: Backup
-  - description: Als iets backwards compatible is wil dat zeggen dat het zonder problemen kan worden vervangen door oudere versies van zichzelf, of dat het een oudere versie van zichzelf kan vervangen. Voorbeeld... een backwards compatible processor van AMD die werkt op een AM2+ socket kun je ook in een AM2 socket plaatsen, en je kunt een AM2 processor in een AM2+ socket plaatsen
+  - description: Als iets backwards compatible is wil dat zeggen dat het zonder problemen kan worden vervangen door oudere versies van zichzelf, of dat het een oudere versie van zichzelf kan vervangen. Voorbeeld... een backwards compatible processor van AMD die werkt op een AM2&#43; socket kun je ook in een AM2 socket plaatsen, en je kunt een AM2 processor in een AM2&#43; socket plaatsen
     title: Backwards compatible
   - description: Bandwidth Allocation Control Protocol, Een systeem waarbij een modem meer lijnen gebruikt als er veel dataverkeer is
     title: BACP
@@ -1123,12 +1123,12 @@ accordion:
     title: bzt
   - description: Programmeertaal
     title: C
-  - description: Engelse uitspraak... C-Sharp. programmeeromgeving van Microsoft, gebaseerd op de programmeertaal C++
+  - description: Engelse uitspraak... C-Sharp. programmeeromgeving van Microsoft, gebaseerd op de programmeertaal C&#43;&#43;
     title: C#
   - description: Programmeertaal, objectgeorienteerd
-    title: C++
+    title: C&#43;&#43;
   - description: objectgeoriënteerde programmeertaal, mengeling van C en SmallTalk
-    title: C+@
+    title: C&#43;@
   - description: Certificerende Authoriteit, een instantie die certificaten uitgeeft. Dit is een voorbeeld van een trusted third party (TTP). Zie ook...TTP
     title: CA
   - description: Een bestandsformaat voor compressie, vaak bij installaties van software gebruikt. Zie ook...compressie
@@ -1228,7 +1228,7 @@ accordion:
   - description: Candela, Een maat voor de lichtsterkte van een lichtbron (ook een normaal beeldscherm dus) in een bepaalde richting. 1 candela komt overeen met de hoeveelheid licht van een kaars
     title: cd
   - description: Een audioCD geschikt voor karaoke
-    title: CD+G
+    title: CD&#43;G
   - description: CD interactive, Norm ontwikkeld door Philips voor interactieve CD&#39;s. Is nooit echt populair geworden en is een synoniem van Green Book
     title: CD-I
   - description: CD interactive, Norm ontwikkeld door Philips voor interactieve CD&#39;s. Is nooit echt populair geworden. Is een synoniem van CD-I
@@ -1573,7 +1573,7 @@ accordion:
     title: CPM
   - description: Critical Path Method, wiskundig model dat de duur van een project berekent op basis van duur van individuele taken en de afhankelijkheden daartussen
     title: CPM
-  - description: Een tekstbestand dat C++ broncode bevat
+  - description: Een tekstbestand dat C&#43;&#43; broncode bevat
     title: cpp
   - description: Characters per second, Tekens per seconde. Oude eenheid voor afdruksnelheden van (dot-matrix)printers
     title: Cps
@@ -2054,9 +2054,9 @@ accordion:
   - description: Digital Versatile Disc, (voorheen Digital Video Disc). Kan 4,7 GB aan data bevatten. Is een synoniem van DVD
     title: HDCD
   - description: DVD Recordable, 4,7 GB, eenmalig beschijfbare DVD. Minder compatible dan de DVD-R maar goedkoper en makkelijker. Zie ook...compatible
-    title: DVD+R
+    title: DVD&#43;R
   - description: DVD ReWritable, 4,7 GB; minder compatible dan DVD-RW; 1000x herschrijfbaar. Zie ook...Compatible
-    title: DVD+RW
+    title: DVD&#43;RW
   - description: Een DVD met 4,9 GB aan opslagcapaciteit aan beide kanten, totaal dus 9,4 GB
     title: DVD-10
   - description: Een DVD met 13,3 GB aan opslagcapaciteit aan de ene kant en 8,5 GB aan de andere kant,
@@ -2071,11 +2071,11 @@ accordion:
     title: DVD-DL
   - description: DVD Recordable, 4,7 GB; eenmalig beschijfbare DVD. compatible met meeste DVD-spelers. Zie ook...compatible
     title: DVD-R
-  - description: DVD Random Access Memory, DVD, 2,6 of 4,7 GB, niet compatibel met DVD-R, DVD+R, DVD-RW en DVD+RW; goedgekeurd door het dvd-forum. Kan vaak herschreven worden
+  - description: DVD Random Access Memory, DVD, 2,6 of 4,7 GB, niet compatibel met DVD-R, DVD&#43;R, DVD-RW en DVD&#43;RW; goedgekeurd door het dvd-forum. Kan vaak herschreven worden
     title: DVD-RAM
   - description: DVD Read Only Memory, DVD die alleen te lezen is
     title: DVD-ROM
-  - description: DVD ReWritable, 4,7 GB; meer compatible dan DVD+RW; 1000x herschrijfbaar. Zie ook...Compatible
+  - description: DVD ReWritable, 4,7 GB; meer compatible dan DVD&#43;RW; 1000x herschrijfbaar. Zie ook...Compatible
     title: DVD-RW
   - description: DVD Video Recording, 1x te beschrijven DVD, speciaal voor videobestanden
     title: DVD-VR
@@ -4031,7 +4031,7 @@ accordion:
     title: Metadata
   - description: Een functie die bij een klasse hoort waarmee een object aangepast of gebruikt kan worden. Zie ook...functie, klasse, object
     title: Methode
-  - description: Microsoft Foundation Classes, API voor het gebruiken van basisfunctionaliteit van Windows in C++ programma&#39;s. Zie ook...API
+  - description: Microsoft Foundation Classes, API voor het gebruiken van basisfunctionaliteit van Windows in C&#43;&#43; programma&#39;s. Zie ook...API
     title: MFC
   - description: My Favourite Toy Language, Afkorting voor &#39;mijn favoriete speelgoedtaal&#39;, wordt vooral gebruikt bij het chatten. Zie ook...Chatten
     title: MFTL
@@ -4629,7 +4629,7 @@ accordion:
     title: Overklokken
   - description: Het &quot;opvoeren&quot; van een computer door meer opdrachten door de processor heen te sturen. Hierdoor kan het systeem echter beschadigt raken als dit verkeerd gedaan wordt, omdat de processor oververhit kan raken. Is een synoniem van Overklokken
     title: Overclocken
-  - description: Een functie of een operator meerdere functies geven. Zo wordt afhankelijk van het gebruik een functie gekozen. Wordt in C(++) gebruikt
+  - description: Een functie of een operator meerdere functies geven. Zo wordt afhankelijk van het gebruik een functie gekozen. Wordt in C(&#43;&#43;) gebruikt
     title: Overladen
   - description: Een frame van een gecomprimeerde video waarin alle verschillen sinds het vorige p-frame zijn opgeslagen. Zie ook...i-frame, b-frame, frame
     title: p-frame
@@ -6047,8 +6047,8 @@ accordion:
     title: SWMBO
   - description: Super Extended Graphics Array, Een resolutie van 1280x1024
     title: SXGA
-  - description: Super Extended Graphics Array+, Een resolutie van 1400x1050
-    title: SXGA+
+  - description: Super Extended Graphics Array&#43;, Een resolutie van 1400x1050
+    title: SXGA&#43;
   - description: Symmetrie geeft verhoudingen aan. Als een lijn symmetrisch is, dan is de uploadsnelheid gelijk aan de download snelheid. Dit is bijvoorbeeld een thuisnetwerk. Een asymetrische is bijvoorbeeld een inbel-internetverbinding of een ADSL-verbinding. Daarbij is de downloadsnelheid hoger dan de uploadsnelheid
     title: Symmetrie
   - description: commando om de communicatie te synchroniseren. Zie ook...Synchroniseren
@@ -6917,10 +6917,10 @@ accordion:
     title: SVGA
   - description: Wide Super Extended Graphics Array, Een resolutie van (meestal) 1440x900, hoewel volgens de definitie elke resolutie breder dan SXGA in aanmerking komt, omdat deze resolutie de &#39;breedbeeldvariant&#39; van SXGA is
     title: WSXGA
-  - description: Wide Super Extended Graphics Array Plus, Een resolutie van (meestal) 1680x1050, hoewel volgens de definitie elke resolutie breder dan SXGA+ in aanmerking komt, omdat deze resolutie de &#39;breedbeeldvariant&#39; van SXGA+ is en is een synoniem van SXGA+    title: Wide Super Extended Graphics Array, Een resolutie van (meestal) 1440x900, hoewel volgens de definitie elke resolutie breder dan SXGA in aanmerking komt, omdat deze resolutie de &#39;breedbeeldvariant&#39; van SXGA is. Is een synoniem van WSXGA
-    title: WSXGA+
-  - description: Wide Super Extended Graphics Array Plus, Een resolutie van (meestal) 1680x1050, hoewel volgens de definitie elke resolutie breder dan SXGA+ in aanmerking komt, omdat deze resolutie de &#39;breedbeeldvariant&#39; van SXGA+ is. Is een synoniem van WSXGA+
-    title: SXGA+
+  - description: Wide Super Extended Graphics Array Plus, Een resolutie van (meestal) 1680x1050, hoewel volgens de definitie elke resolutie breder dan SXGA&#43; in aanmerking komt, omdat deze resolutie de &#39;breedbeeldvariant&#39; van SXGA&#43; is en is een synoniem van SXGA&#43;    title: Wide Super Extended Graphics Array, Een resolutie van (meestal) 1440x900, hoewel volgens de definitie elke resolutie breder dan SXGA in aanmerking komt, omdat deze resolutie de &#39;breedbeeldvariant&#39; van SXGA is. Is een synoniem van WSXGA
+    title: WSXGA&#43;
+  - description: Wide Super Extended Graphics Array Plus, Een resolutie van (meestal) 1680x1050, hoewel volgens de definitie elke resolutie breder dan SXGA&#43; in aanmerking komt, omdat deze resolutie de &#39;breedbeeldvariant&#39; van SXGA&#43; is. Is een synoniem van WSXGA&#43;
+    title: SXGA&#43;
   - description: Want To Buy, Afkorting voor &#39;te koop gevraagd&#39;, wordt vooral gebruikt bij het chatten. Zie ook...Chatten
     title: WTB
   - description: What the F*ck, Term die gebruikt wordt om aan te geven dat de gebruiker verbaast is of iets niet snapt
