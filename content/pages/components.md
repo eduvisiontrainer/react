@@ -181,9 +181,9 @@ accordion:
     title: 486
   - description: Apple Unix, besturingssysteem van Apple. Zie ook...Besturingssysteem
     title: A/UX
-  - description: Verbinding tussen de processor en het geheugen die toegang bied tot het HMA en is een synoniem van Adressing Line 20. Zie ook...HMA, http://en.wikipedia.org/wiki/A20_line, Gate A20
+  - description: Verbinding tussen de processor en het geheugen die toegang bied tot het HMA en is een synoniem van Adressing Line 20. Zie ook...HMA, http...//en.wikipedia.org/wiki/A20_line, Gate A20
     title: A20
-  - description: Verbinding tussen de processor en het geheugen die toegang bied tot het HMA. Is een synoniem van A20. Zie ook...HMA, http://en.wikipedia.org/wiki/A20_line, Gate A20
+  - description: Verbinding tussen de processor en het geheugen die toegang bied tot het HMA. Is een synoniem van A20. Zie ook...HMA, http...//en.wikipedia.org/wiki/A20_line, Gate A20
     title: Adressing Line 20
   - description: Advanced Audio Distribution Profile, een bluetooth-profiel om muziek mee te verzenden. Zie ook...Bluetooth-profiel
     title: A2DP
@@ -613,7 +613,7 @@ accordion:
     title: ASP
   - description: Active Server Pages Plus, snellere versie van ASP doordat scripts worden gecompileerd naar MSIL. Zie ook...ASP, MSIL
     title: ASP+
-  - description: De verhouding hoogte:breedte van het scherm. 4:3 is normaal en 16:9 breedbeeld, maar er zijn veel meer varianten
+  - description: De verhouding hoogte...breedte van het scherm. 4...3 is normaal en 16...9 breedbeeld, maar er zijn veel meer varianten
     title: Aspectratio
   - description: Advanced SCSI Programming Interface, een API voor het aansturen van SCSI en ATAPI apparaten. Zie ook...API
     title: ASPI
@@ -661,7 +661,7 @@ accordion:
     title: ATM
   - description: Adobe Type Manager, systeem van Adobe om afwijkende lettergroottes toch scherp op beeldscherm te kunnen tonen
     title: ATM
-  - description: Asynchronous Transfer Mode, techniek voor supersnelle netwerken, werkt met cell relay. Het wordt momenteel nog veel gebruikt in de telefonie: telefoongesprekken over een vaste telefoonlijn worden over een ATM netwerk vervoert naar de centrale. Zie ook...Cell Relay
+  - description: Asynchronous Transfer Mode, techniek voor supersnelle netwerken, werkt met cell relay. Het wordt momenteel nog veel gebruikt in de telefonie... telefoongesprekken over een vaste telefoonlijn worden over een ATM netwerk vervoert naar de centrale. Zie ook...Cell Relay
     title: ATM
   - description: Systeem lijkend op RSS, alleen dan uitgebreider. Zie ook...RSS
     title: ATOM
@@ -741,7 +741,7 @@ accordion:
     title: Backplane link
   - description: Een reservekopie van de bestand, voor het geval de orginelen verloren gaan
     title: Backup
-  - description: Als iets backwards compatible is wil dat zeggen dat het zonder problemen kan worden vervangen door oudere versies van zichzelf, of dat het een oudere versie van zichzelf kan vervangen. Voorbeeld: een backwards compatible processor van AMD die werkt op een AM2+ socket kun je ook in een AM2 socket plaatsen, en je kunt een AM2 processor in een AM2+ socket plaatsen
+  - description: Als iets backwards compatible is wil dat zeggen dat het zonder problemen kan worden vervangen door oudere versies van zichzelf, of dat het een oudere versie van zichzelf kan vervangen. Voorbeeld... een backwards compatible processor van AMD die werkt op een AM2+ socket kun je ook in een AM2 socket plaatsen, en je kunt een AM2 processor in een AM2+ socket plaatsen
     title: Backwards compatible
   - description: Bandwidth Allocation Control Protocol, Een systeem waarbij een modem meer lijnen gebruikt als er veel dataverkeer is
     title: BACP
@@ -991,7 +991,7 @@ accordion:
     title: Botnet
   - description: scripts die doen alsof ze mensen zijn, bijvoorbeeld als tegenstander in games. Dit is vaak heel vervelend voor de tegenspelers, omdat bots vaak sneller en beter zijn
     title: Bots
-  - description: Letterlijk: Flessenhals. De bottleneck is de het langzaamste onderdeel in een verbinding, waardoor snellere onderdelen hun maximale snelheid niet kunnen benutten of de maximale snelheid van een verbinding 
+  - description: Letterlijk... Flessenhals. De bottleneck is de het langzaamste onderdeel in een verbinding, waardoor snellere onderdelen hun maximale snelheid niet kunnen benutten of de maximale snelheid van een verbinding 
     title: Bottleneck
   - description: Bridge Protocol Data Unit, een pakket waarin gegevens worden aangevraagd over het netwerk aan de andere kant van een bridge. Zie ook...PDU, bridge
     title: BPDU
@@ -1015,9 +1015,9 @@ accordion:
     title: BRAS
   - description: Be right back, Betekent ben zo terug. Wordt veel gebruikt bij het chatten en IM. Zie ook...IM, Chatten
     title: brb
-  - description: Een beeldscherm of beeldmateriaal met een aspectratio van meestal 16:9 en soms 16:10 (dat is hetzelfde als 8:5) of 5:3. Zie ook...Aspectratio
+  - description: Een beeldscherm of beeldmateriaal met een aspectratio van meestal 16...9 en soms 16...10 (dat is hetzelfde als 8...5) of 5...3. Zie ook...Aspectratio
     title: Breedbeeld
-  - description: een bridge (letterlijk: brug) verbindt 2 netwerken met elkaar
+  - description: een bridge (letterlijk... brug) verbindt 2 netwerken met elkaar
     title: Bridge
   - description: Breedband. Analoge verzendingen over een draad die meerdere signalen tegelijkertijd kan dragen, bijvoorbeeld DSL verbindingen en is een synoniem van Breedband
     title: Broadband
@@ -1069,13 +1069,13 @@ accordion:
     title: Budgetmodel
   - description: Deel van het geheugen waarin gegevens worden opgeslagen als de ontvanger nog niet klaar is voor ontvangst
     title: Buffer
-  - description: Dat wat er gebeurt als een programma probeert gegevens in een volle buffer te schrijven: er worden gegevens die achter de buffer liggen overschreven. Hierdoor kunnen programma's chrashen of de veiligheid van het systeem kan in gevaar komen, doordat aanvallers zo code kunnen plaatsen in geheugen waarin normaal gesproken programma's staan
+  - description: Dat wat er gebeurt als een programma probeert gegevens in een volle buffer te schrijven... er worden gegevens die achter de buffer liggen overschreven. Hierdoor kunnen programma's chrashen of de veiligheid van het systeem kan in gevaar komen, doordat aanvallers zo code kunnen plaatsen in geheugen waarin normaal gesproken programma's staan
     title: Buffer overflow
   - description: Het leegraken van de buffer (meestal tijdens het branden) waardoor niet kan worden verdergegaan met het wegschrijven van data
     title: Buffer underrun
   - description: Fout in een programma
     title: Bug
-  - description: Letterlijk: bouw. Het laatste deel van een versienummer van bepaalde software. (waaronder Windows) Normaal gesproken worden bij elke build fouten/bugs verwijderd. Het getal is afkomstig van hoevaak de software gecompileerd (gebouwd, klaargemaakt voor gebruik) is. Zie ook...Compileren, Windows
+  - description: Letterlijk... bouw. Het laatste deel van een versienummer van bepaalde software. (waaronder Windows) Normaal gesproken worden bij elke build fouten/bugs verwijderd. Het getal is afkomstig van hoevaak de software gecompileerd (gebouwd, klaargemaakt voor gebruik) is. Zie ook...Compileren, Windows
     title: Build
   - description: Een glazen buisje met daarin 2 platen en een rooster. (tegenwoordig ook stuurroosters) Deze werden veel voor versterkers gebruikt (veel muzikanten gebruiken ze nog steeds) maar voor veel toepassingen zijn ze door transistoren vervangen. In de allereerste computers werden buizen gebruikt, omdat er nog geen transistoren bestonden. Zie ook...Transistor
     title: Buis
@@ -1091,15 +1091,15 @@ accordion:
     title: BURN-proof
   - description: Een stand waarin een apparaat ononderbroken gegevens verzend, dus zonder te wachten op signalen vanaf de ontvangende kant over of alles wel is aangekomen
     title: Burst mode
-  - description: Een manier van data uitwisseling binnen een computer waarin niet geschakeld wordt: alle aangesloten apparaten zitten direct aan hetzelfde draadje. Dit in tegenstelling tot verbindingen waar slechts 2 apparaten aan gekoppeld kunnen worden, verbindingen waar geschakeld wordt of token ring systemen en is een synoniem van Gegevensbus. Zie ook...Systeembus
+  - description: Een manier van data uitwisseling binnen een computer waarin niet geschakeld wordt... alle aangesloten apparaten zitten direct aan hetzelfde draadje. Dit in tegenstelling tot verbindingen waar slechts 2 apparaten aan gekoppeld kunnen worden, verbindingen waar geschakeld wordt of token ring systemen en is een synoniem van Gegevensbus. Zie ook...Systeembus
     title: Bus
-  - description: Een manier van data uitwisseling binnen een computer waarin niet geschakeld wordt: alle aangesloten apparaten zitten direct aan hetzelfde draadje. Dit in tegenstelling tot verbindingen waar slechts 2 apparaten aan gekoppeld kunnen worden, verbindingen waar geschakeld wordt of token ring systemen. Is een synoniem van Bus. Zie ook...Systeembus
+  - description: Een manier van data uitwisseling binnen een computer waarin niet geschakeld wordt... alle aangesloten apparaten zitten direct aan hetzelfde draadje. Dit in tegenstelling tot verbindingen waar slechts 2 apparaten aan gekoppeld kunnen worden, verbindingen waar geschakeld wordt of token ring systemen. Is een synoniem van Bus. Zie ook...Systeembus
     title: Gegevensbus
   - description: Een verbinding die onderdelen in een computer met elkaar verbind of een verbinding is tussen meerdere computers. Typisch aan een bus is dat meer dan 2 apparaten aan dezelfde set kabels kunnen zijn verbonden
     title: Bus
   - description: Een techniek waarmee een netwerkkaart de controle van de systeembus over kan nemen, zodat de processor zich er niet mee bezig hoeft te houden. Dit kan een flinke prestatiewinst opleveren. Zie ook...systeembus
     title: Bus-mastering
-  - description: Bussen zijn vaak trager dan de apparaten (vaak processors) die erop werken. Bijvoorbeeld: 4x bussnelheid wil zeggen dat het apparaat 4x zo snel werkt als de bus waar het op zit
+  - description: Bussen zijn vaak trager dan de apparaten (vaak processors) die erop werken. Bijvoorbeeld... 4x bussnelheid wil zeggen dat het apparaat 4x zo snel werkt als de bus waar het op zit
     title: Bussnelheid
   - description: Een netwerkstructuur waarbij alle computer in 1 lijn zijn aangesloten. Zie ook...topologie
     title: Bustopologie
@@ -1123,7 +1123,7 @@ accordion:
     title: bzt
   - description: Programmeertaal
     title: C
-  - description: Engelse uitspraak: C-Sharp. programmeeromgeving van Microsoft, gebaseerd op de programmeertaal C++
+  - description: Engelse uitspraak... C-Sharp. programmeeromgeving van Microsoft, gebaseerd op de programmeertaal C++
     title: C#
   - description: Programmeertaal, objectgeorienteerd
     title: C++
@@ -1205,7 +1205,7 @@ accordion:
     title: CBL
   - description: Constant BitRate. QoS klasse die gebruikt wordt voor verbindingen die heel precies hun informatie uitwisseling timen of een datastroom die een vaste grootte per tijdseenheid heeft, dus per seconde altijd evenveel bits heeft
     title: CBR
-  - description: Carbon Copy, Een kopie van een e-mailbericht verzenden. Er is tegenwoordig geen verschil meer tussen een gewone geadresseerde en een CC-geadresseerde, maar veel mailprogramma's laten de functie nog steeds aanwezig. De naam Carbon Copy (koolkopie) komt van het kopieren van gewone post doormiddel van een velletje carbonpapier: dit drukte door en liet dezelfde tekst op een vel eronder achter.
+  - description: Carbon Copy, Een kopie van een e-mailbericht verzenden. Er is tegenwoordig geen verschil meer tussen een gewone geadresseerde en een CC-geadresseerde, maar veel mailprogramma's laten de functie nog steeds aanwezig. De naam Carbon Copy (koolkopie) komt van het kopieren van gewone post doormiddel van een velletje carbonpapier... dit drukte door en liet dezelfde tekst op een vel eronder achter.
     title: CC
   - description: Call Control Block, het aanroepen van een controleblok
     title: CCB
@@ -1283,7 +1283,7 @@ accordion:
     title: CER
   - description: Het Europese Laboratorium voor Deeltjesfysica, waar de eerste conferentie over het World Wide Web werd gehouden; algemeen beschouwd als de geboorteplaats van de internet-technologie. Het werk aan deze technologie en het vastleggen van normen is inmiddels overgedragen aan het World Wide Web Consortium (W3C, op w3.org)
     title: Cern
-  - description: Letterlijk: het uitreiken van certificaten. Hiermee wordt meestal bedoelt dat een bepaald product getest is en goed genoeg is bevonden om een bepaald certificaat te kunnen hebben
+  - description: Letterlijk... het uitreiken van certificaten. Hiermee wordt meestal bedoelt dat een bepaald product getest is en goed genoeg is bevonden om een bepaald certificaat te kunnen hebben
     title: Certificeren
   - description: CompactFlash, Een formaat flashkaart. Zie ook...Flashkaart
     title: CF
@@ -1313,11 +1313,11 @@ accordion:
     title: Chip
   - description: Een aantal chips op het moederbord die allemaal een aparte taak hebben. Deze chips zorgen meestal voor dingen zoals het aansturen van de videokaart of de harde schijf
     title: Chipset
-  - description: Letterlijk: Stik pakket. Pakket dat wordt gezonden om de verzender te vertellen dat zijn verzendsnelheid te hoog is en is een synoniem van Choke, Choke Packet
+  - description: Letterlijk... Stik pakket. Pakket dat wordt gezonden om de verzender te vertellen dat zijn verzendsnelheid te hoog is en is een synoniem van Choke, Choke Packet
     title: Choke pakket
-  - description: Letterlijk: Stik pakket. Pakket dat wordt gezonden om de verzender te vertellen dat zijn verzendsnelheid te hoog is. Is een synoniem van Choke pakket
+  - description: Letterlijk... Stik pakket. Pakket dat wordt gezonden om de verzender te vertellen dat zijn verzendsnelheid te hoog is. Is een synoniem van Choke pakket
     title: Choke
-  - description: Letterlijk: Stik pakket. Pakket dat wordt gezonden om de verzender te vertellen dat zijn verzendsnelheid te hoog is. Is een synoniem van Choke pakket
+  - description: Letterlijk... Stik pakket. Pakket dat wordt gezonden om de verzender te vertellen dat zijn verzendsnelheid te hoog is. Is een synoniem van Choke pakket
     title: Choke Packet
   - description: Een techniek om bewegingen te herkennen. Wordt vooral gebruikt bij videocompressie
     title: Chroma motion
@@ -1435,9 +1435,9 @@ accordion:
     title: CFM
   - description: Programmeertaal voor websites van macromedia. Erg prijzig. De extensies van Coldfusion bestanden zijn .cfm en .cfml. Is een synoniem van Coldfusion
     title: CFML
-  - description: Als op een netwerk 2 computer tegelijkertijd proberen iets te versturen verstoren de berichten elkaar: ze botsen. Als de computer die merken stoppen ze met sturen, en wachten een willekeurige hoeveelheid tijd voordat ze opnieuw sturen. Dit noemt met een backoff. De andere stuurt niet voordat de andere klaar is met sturen en is een synoniem van Botsing. Zie ook...Backoff
+  - description: Als op een netwerk 2 computer tegelijkertijd proberen iets te versturen verstoren de berichten elkaar... ze botsen. Als de computer die merken stoppen ze met sturen, en wachten een willekeurige hoeveelheid tijd voordat ze opnieuw sturen. Dit noemt met een backoff. De andere stuurt niet voordat de andere klaar is met sturen en is een synoniem van Botsing. Zie ook...Backoff
     title: Collision
-  - description: Als op een netwerk 2 computer tegelijkertijd proberen iets te versturen verstoren de berichten elkaar: ze botsen. Als de computer die merken stoppen ze met sturen, en wachten een willekeurige hoeveelheid tijd voordat ze opnieuw sturen. Dit noemt met een backoff. De andere stuurt niet voordat de andere klaar is met sturen. Is een synoniem van Collision. Zie ook...Backoff
+  - description: Als op een netwerk 2 computer tegelijkertijd proberen iets te versturen verstoren de berichten elkaar... ze botsen. Als de computer die merken stoppen ze met sturen, en wachten een willekeurige hoeveelheid tijd voordat ze opnieuw sturen. Dit noemt met een backoff. De andere stuurt niet voordat de andere klaar is met sturen. Is een synoniem van Collision. Zie ook...Backoff
     title: Botsing
   - description: techniek om botsingen op het netwerk te detecteren. Zie ook...CSMA/CD, Botsing
     title: Collision Detection
@@ -1525,7 +1525,7 @@ accordion:
     title: Console
   - description: Het kleiner maken van een bestand, al dan niet met gegevensverlies. Zie ook...compressie.
     title: Zippen
-  - description: Een opslagmethode of een opslagformaat waarin op verschillende manieren kan worden opgeslagen, eigenlijk een soort overkoepelend geheel, een raamwerk waarin zich alleen beschrijvende data bevindt. OGG en AVI zijn voorbeelden van containerformaten: er kunnen verschillende compressiemethodes zijn.
+  - description: Een opslagmethode of een opslagformaat waarin op verschillende manieren kan worden opgeslagen, eigenlijk een soort overkoepelend geheel, een raamwerk waarin zich alleen beschrijvende data bevindt. OGG en AVI zijn voorbeelden van containerformaten... er kunnen verschillende compressiemethodes zijn.
     title: Containerformaat
   - description: Engels voor inhoud
     title: Content
@@ -1611,7 +1611,7 @@ accordion:
     title: CRS
   - description: Cathode Ray Tube, soortnaam voor monitoren die met een beeldbuis werken
     title: CRT
-  - description: Create, Read, Update, Delete, De 4 meestgebruikte commando's aan een database: aanmaken, lezen, veranderen en verwijderen
+  - description: Create, Read, Update, Delete, De 4 meestgebruikte commando's aan een database... aanmaken, lezen, veranderen en verwijderen
     title: CRUD
   - description: processor van Transmeta, voor mobiele computers, energiezuinig
     title: Crusoe
@@ -1657,7 +1657,7 @@ accordion:
     title: CWYL
   - description: See You, Afkorting voor tot ziens. Wordt veel gebruikt bij het chatten
     title: cya
-  - description: Deze term komt uit de roman 'Neuromancer' van William Gibson. In deze roman werd gesproken over een directe verbinding tussen hersenen en computers. Cyberspace betekent nu zoiets als alle communicatie via computers (lees: Internet)
+  - description: Deze term komt uit de roman 'Neuromancer' van William Gibson. In deze roman werd gesproken over een directe verbinding tussen hersenen en computers. Cyberspace betekent nu zoiets als alle communicatie via computers (lees... Internet)
     title: Cyberspace
   - description: Programeertaal ontwikkelt door Digital Mars
     title: D
@@ -1757,9 +1757,9 @@ accordion:
     title: DDR2
   - description: Opvolger van DDR2. Gebruikt andere pin lay-out (andere connecties met het moederbord) en is vaak sneller dan DDR2. Zie ook...DDR2
     title: DDR3
-  - description: Betekend feitelijk of in de praktijk. Meestal heeft men het over de facto standaarden: standaarden die standaard zijn omdat ze nu eenmaal het meest gebruikt worden, in tegenstelling tot de jure standaarden. Zie ook...De jure
+  - description: Betekend feitelijk of in de praktijk. Meestal heeft men het over de facto standaarden... standaarden die standaard zijn omdat ze nu eenmaal het meest gebruikt worden, in tegenstelling tot de jure standaarden. Zie ook...De jure
     title: De Facto
-  - description: Betekend bij wet. Meestal heeft men het over de jure standaarden: standaarden die standaard zijn omdat ze door een bepaalde machthebbende organisatie zijn gemaakt, in tegenstelling tot de facto standaarden. De Jure standaarden kunnen echter ook de facto standaarden zijn, maar dat hoeft niet. Zie ook...De facto
+  - description: Betekend bij wet. Meestal heeft men het over de jure standaarden... standaarden die standaard zijn omdat ze door een bepaalde machthebbende organisatie zijn gemaakt, in tegenstelling tot de facto standaarden. De Jure standaarden kunnen echter ook de facto standaarden zijn, maar dat hoeft niet. Zie ook...De facto
     title: De Jure
   - description: een programma dat een programma kan terugvertalen naar assembler. Zie ook...assembler, broncode
     title: Deassembler
@@ -1819,7 +1819,7 @@ accordion:
     title: DGME
   - description: Dynamic Host Configuration Protocol, protocol van IETF om computers automatisch van IP-adres te voorzien. Wordt gebruikt in praktisch alle hedendaagse routers en computers
     title: DHCP
-  - description: Dynamic Hyper Text Markup Language, eigenlijk geen techniek op zichzelf, maar een verzameling technieken (net zoals AJAX), namelijk: HTML, CSS, Javascript en DOM
+  - description: Dynamic Hyper Text Markup Language, eigenlijk geen techniek op zichzelf, maar een verzameling technieken (net zoals AJAX), namelijk... HTML, CSS, Javascript en DOM
     title: DHTML
   - description: De grootte van een beeldscherm gemeten van linkboven naar rechtsonder (of van rechtsboven naar linksonder, dat maakt niet uit bij een rechthoekig beelscherm)
     title: Diagonaal
@@ -1937,11 +1937,11 @@ accordion:
     title: Double
   - description: Techniek waarbij 2 draadloze kanalen tegelijk gebruikt worden bij draadloos internet, waardoor de snelheid toeneemt
     title: Double-Channel Bonding
-  - description: Letterlijk: beneden. Als een website down is, is deze niet te bereiken en kan dus geen informatie/diensten leveren
+  - description: Letterlijk... beneden. Als een website down is, is deze niet te bereiken en kan dus geen informatie/diensten leveren
     title: Down
   - description: Het tegensgestelde van upgraden, het vervangen van software of firmware door eerdere versies. Vaak wordt dit gedaan om beveiligingen te omzeilen. Zie ook...Upgraden
     title: Downgraden
-  - description: Het ophalen van een bestand via een communicatieerverbinding, bijvoorbeeld via het internet of via een USB kabel. (voorbeeld: het ophalen van foto's van het internet en van een digitale fotocamera heet allebei downloaden) Het verzenden van data (het tegenstelde van downloaden dus) heet uploaden. Zie ook...uploaden
+  - description: Het ophalen van een bestand via een communicatieerverbinding, bijvoorbeeld via het internet of via een USB kabel. (voorbeeld... het ophalen van foto's van het internet en van een digitale fotocamera heet allebei downloaden) Het verzenden van data (het tegenstelde van downloaden dus) heet uploaden. Zie ook...uploaden
     title: Downloaden
   - description: Distributed Processing, een verwerkingsproces verdelen over enkele eenheden, zoals bij Distributed Computing (DC). Zie ook...DC
     title: DP
@@ -2145,7 +2145,7 @@ accordion:
     title: EAN
   - description: European Academic Research Network, Europese versie van Bitnet. Zie ook...bitnet
     title: EARN
-  - description: Letterlijk: een paasei. Een grapje dat de programmeur in een programma heeft gestopt
+  - description: Letterlijk... een paasei. Een grapje dat de programmeur in een programma heeft gestopt
     title: Easter Egg
   - description: Environmental Audio Extensions, API van Creative Labs voor geluidseffecten
     title: EAX
@@ -2201,9 +2201,9 @@ accordion:
     title: EMFJI
   - description: Expanded Memory Management, geheugenbeheersysteem voor DOS. Zie ook...DOS
     title: EMM
-  - description: Emotion icon, een paar tekens die saneb een bepaald gezichtje uitbeelden, zoals :) als glimlach of ;) als knipoog en is een synoniem van smiley
+  - description: Emotion icon, een paar tekens die saneb een bepaald gezichtje uitbeelden, zoals ...) als glimlach of ;) als knipoog en is een synoniem van smiley
     title: Emoticon
-  - description: Emotion icon, een paar tekens die saneb een bepaald gezichtje uitbeelden, zoals :) als glimlach of ;) als knipoog. Is een synoniem van Emoticon
+  - description: Emotion icon, een paar tekens die saneb een bepaald gezichtje uitbeelden, zoals ...) als glimlach of ;) als knipoog. Is een synoniem van Emoticon
     title: smiley
   - description: E-mail Management and Processing. Het beheren en verwerken van e-mail of een adresseringsmethode voor geheugen onder DOS.
     title: EMP
@@ -2229,7 +2229,7 @@ accordion:
     title: Encryptie
   - description: Norm voor zuinige computers/beelschermen
     title: Energy Star
-  - description: Letterlijk vertaald: motor. Hier wordt vaak een systeem bedoelt die "het zware werk doet", waaronder een engine in een database (zoekt de data op) en een engine in een computerspel (deze bedenkt zetten van de tegenspelers en maakt het beeld)
+  - description: Letterlijk vertaald... motor. Hier wordt vaak een systeem bedoelt die "het zware werk doet", waaronder een engine in een database (zoekt de data op) en een engine in een computerspel (deze bedenkt zetten van de tegenspelers en maakt het beeld)
     title: Engine
   - description: modus van een processor om te kunnen werken met 32-bits besturingssystemen
     title: Enhanced mode
@@ -2293,9 +2293,9 @@ accordion:
     title: EUV
   - description: Enhanced Versatile Disc, Chinees alternatief voor DVD. Deze is bijna licentie- en patentvrij, zodat hij erg goedkoop is
     title: EVD
-  - description: Enhanced Virus Protection, Een systeem in bepaalde AMD-processoren die ervoor zorgt dat het OS aan kan geven welke delen van het geheugen code mogen bevatten en welke niet: zo wordt het gebruik van buffer overflows beperkt. Zie ook...Buffer Overflow
+  - description: Enhanced Virus Protection, Een systeem in bepaalde AMD-processoren die ervoor zorgt dat het OS aan kan geven welke delen van het geheugen code mogen bevatten en welke niet... zo wordt het gebruik van buffer overflows beperkt. Zie ook...Buffer Overflow
     title: EVP
-  - description: 1000 peta, dat is 1.000.000.000.000.000.000 keer iets, ofwel een triljoen, bijvoorbeeld: een exabyte is 1.000.000.000.000.000.000 byte, een exahertz is 1.000.000.000.000.000.000 hertz
+  - description: 1000 peta, dat is 1.000.000.000.000.000.000 keer iets, ofwel een triljoen, bijvoorbeeld... een exabyte is 1.000.000.000.000.000.000 byte, een exahertz is 1.000.000.000.000.000.000 hertz
     title: Exa
   - description: 1000 Petabyte. 1 triljoen bytes. Vroeger was een Exabyte 1024 Petabyte, maar tegenwoordig heb je het dan over een Exbibyte en is een synoniem van EB
     title: Exabyte
@@ -2401,9 +2401,9 @@ accordion:
     title: Bestandsserver
   - description: programma of kenmerk dat een zoekactie beperkter maakt
     title: Filter
-  - description: schakeling/programma die/dat aan de hand van de invoer en de situatie een specifiek (voorspelbaar) uitvoersignaal geeft. De term finite-state wil zoveel zeggen als: beperkt aantal mogelijkheden, oftewel, voor elke invoer is een uitvoer van tevoren al bekend
+  - description: schakeling/programma die/dat aan de hand van de invoer en de situatie een specifiek (voorspelbaar) uitvoersignaal geeft. De term finite-state wil zoveel zeggen als... beperkt aantal mogelijkheden, oftewel, voor elke invoer is een uitvoer van tevoren al bekend
     title: Finite-state machine
-  - description: bescherming tegen inbrekers vanuit het internet. Dit werkt doormiddel van filteren: gegevens worden gecontroleerd aan de hand van een lijst regels, en worden dan afgekeurd of toegelaten
+  - description: bescherming tegen inbrekers vanuit het internet. Dit werkt doormiddel van filteren... gegevens worden gecontroleerd aan de hand van een lijst regels, en worden dan afgekeurd of toegelaten
     title: Firewall
   - description: een aansluiting voor audio/video met een snelheid tussen de snelheid 100 Mb/s en de 1600Mbit/s en is een synoniem van IEEE 1394, iLink, FW
     title: FireWire
@@ -2455,7 +2455,7 @@ accordion:
     title: Flood
   - description: Een "overstroming". Hiermee wordt vaak een aanval bedoeld om een systeem plat te leggen of om mensen te plagen. Een flood is een zeer grote hoeveelheid (nutteloze) tekens. Is een synoniem van Flood
     title: flooden
-  - description: Floating Point operations per second, Aantal zwevende-komma berekenigen per seconde. Het aantal FLOPS weerspiegeld de echte snelheid van de computer. Vaak wordt voor de snelheid gebruik gemaakt van het aantal hertz van en een processor, maar dat is achterhaalt: sommige 1600 Mhz processoren zijn sneller dan andere 3000 Mhz processoren. Zie ook...hertz
+  - description: Floating Point operations per second, Aantal zwevende-komma berekenigen per seconde. Het aantal FLOPS weerspiegeld de echte snelheid van de computer. Vaak wordt voor de snelheid gebruik gemaakt van het aantal hertz van en een processor, maar dat is achterhaalt... sommige 1600 Mhz processoren zijn sneller dan andere 3000 Mhz processoren. Zie ook...hertz
     title: FLOPS
   - description: Fluorescent Multilayer Disk, techniek van C3D voor gelaagde schijven, bijvoorbeeld FMD-ROM en ClearCard
     title: FMD
@@ -2505,7 +2505,7 @@ accordion:
     title: FPS
   - description: Floating Point Unit, rekengedeelte van een processor voor getallen met cijfers achter de komma
     title: FPU
-  - description: Fully Qualified Domain Name, Een hostnaam die uniek is. Bijvoorbeeld: bij het aanroepen van een lokale computer via de naam computerboven wordt een niet unieke domeinnaam gebruikt: er kunnen immers meer computers zijn die computerboven heten op andere netwerken. Als men computerboven.voorbeeld.nl gebruikt weet je zeker dat deze uniek is, omdat er maar een netwerk is dat voorbeeld.nl heet waarbij er maar 1 computer mag zijn die computerboven heet. Overigens hoort een FQDN te eindigen met een punt, maar dat is bij de meeste browsers niet nodig: zodra er een TLD wordt gevonden wordt de domeinnaam als een FQDN behandeld. Zie ook...TLD, Domeinnaam, Hostnaam
+  - description: Fully Qualified Domain Name, Een hostnaam die uniek is. Bijvoorbeeld... bij het aanroepen van een lokale computer via de naam computerboven wordt een niet unieke domeinnaam gebruikt... er kunnen immers meer computers zijn die computerboven heten op andere netwerken. Als men computerboven.voorbeeld.nl gebruikt weet je zeker dat deze uniek is, omdat er maar een netwerk is dat voorbeeld.nl heet waarbij er maar 1 computer mag zijn die computerboven heet. Overigens hoort een FQDN te eindigen met een punt, maar dat is bij de meeste browsers niet nodig... zodra er een TLD wordt gevonden wordt de domeinnaam als een FQDN behandeld. Zie ook...TLD, Domeinnaam, Hostnaam
     title: FQDN
   - description: Een FPS spelen, waarbij je zoveel mogelijk frags wilt halen. Zie ook...FPS, Frags
     title: Fraggen
@@ -2583,7 +2583,7 @@ accordion:
     title: FUP
   - description: Full Up Ready To Burst, Afkorting voor 'zo vol, staat op het punt om uit z'n voegen te barsten' (slaat vaak op harde schijven of andere opslagmedia), wordt vooral gebruikt bij het chatten. Zie ook...Chatten
     title: FURTB
-  - description: Een processor-reeks van AMD waarin zowel 'gewone' CPU's als GPU's zitten: zo heb je geen grafische kaart meer nodig
+  - description: Een processor-reeks van AMD waarin zowel 'gewone' CPU's als GPU's zitten... zo heb je geen grafische kaart meer nodig
     title: Fusion
   - description: logica die uitgaat begrippen met elk hun eigen waarde. Dit werkt onder andere met waarschijnlijkheid. Zie ook...Bayasian logic
     title: Fuzzy logic
@@ -2607,9 +2607,9 @@ accordion:
     title: FYI
   - description: Iets wat ergens aanwezig is, in tegenstelling tot virtueel. Zie ook...virtueel
     title: Fysiek
-  - description: PHY, De 1e laag uit het OSI-model. Deze laag beschrijft de hardware: de manier waarop signalen worden verzonden (voltages, kabels, aansluitingen en dergeljke) en is een synoniem van Physical layer. Zie ook...OSI, de tutorial hardware/wat_is_het_OSI_model
+  - description: PHY, De 1e laag uit het OSI-model. Deze laag beschrijft de hardware... de manier waarop signalen worden verzonden (voltages, kabels, aansluitingen en dergeljke) en is een synoniem van Physical layer. Zie ook...OSI, de tutorial hardware/wat_is_het_OSI_model
     title: Fysieke laag
-  - description: PHY, De 1e laag uit het OSI-model. Deze laag beschrijft de hardware: de manier waarop signalen worden verzonden (voltages, kabels, aansluitingen en dergeljke). Is een synoniem van Fysieke laag. Zie ook...OSI, de tutorial hardware/wat_is_het_OSI_model
+  - description: PHY, De 1e laag uit het OSI-model. Deze laag beschrijft de hardware... de manier waarop signalen worden verzonden (voltages, kabels, aansluitingen en dergeljke). Is een synoniem van Fysieke laag. Zie ook...OSI, de tutorial hardware/wat_is_het_OSI_model
     title: Physical layer
   - description: Grin, Afkorting voor 'grijns', wordt vooral gebruikt bij het chatten. Zie ook...Chatten
     title: G
@@ -2709,7 +2709,7 @@ accordion:
     title: Intern geheugen
   - description: Slot waarin een geheugenmodule geplaatst kan worden. Zie ook...slot, geheugenmodule
     title: Geheugenbank
-  - description: Het opslaan van een momentopname van het geheugen: alle gegevens die zich op dat moment in het geheugen bevinden wegschrijven naar een bestand
+  - description: Het opslaan van een momentopname van het geheugen... alle gegevens die zich op dat moment in het geheugen bevinden wegschrijven naar een bestand
     title: Geheugendump
   - description: Probleem bij accu's dat ze minder energie op kunnen slaan als ze voor het opladen niet helemaal leeg zijn. Zie ook...Accu
     title: Geheugeneffect
@@ -2743,7 +2743,7 @@ accordion:
     title: GiB
   - description: Een formaat voor plaatjes
     title: gif
-  - description: 1000 mega, dat is 1.000.000.000 keer iets, ofwel een miljard, bijvoorbeeld: een gigabyte is 1.000.000.000 byte, een gigahertz is 1.000.000.000 hertz
+  - description: 1000 mega, dat is 1.000.000.000 keer iets, ofwel een miljard, bijvoorbeeld... een gigabyte is 1.000.000.000 byte, een gigahertz is 1.000.000.000 hertz
     title: Giga
   - description: Ethernet met een snelheid van 1000 megabit per seconde en is een synoniem van GbE. Zie ook...Ethernet
     title: Gigabit ethernet
@@ -2869,7 +2869,7 @@ accordion:
     title: Hack
   - description: Het openbreken van computersystemen of netwerken door beveiligingen te omzeilen of te 'kraken'. Zie ook...Hacker
     title: Hacken
-  - description: Persoon die computersystemen openbreekt door beveiligingen te omzeilen. Er zijn verschillende klassificaties in gebruik: een white hat hacker spoort beveiligingsproblemen op en rapporteert deze, black hat hacker (ook wel cracker) misbruikt de lekken en een grey hat hacker zit daar tussenin. Zie ook...White hat hacker, Grey hat hacker, Black hat hacker
+  - description: Persoon die computersystemen openbreekt door beveiligingen te omzeilen. Er zijn verschillende klassificaties in gebruik... een white hat hacker spoort beveiligingsproblemen op en rapporteert deze, black hat hacker (ook wel cracker) misbruikt de lekken en een grey hat hacker zit daar tussenin. Zie ook...White hat hacker, Grey hat hacker, Black hat hacker
     title: Hacker
   - description: Hugs And Kisses, Afkorting voor 'knuffels en kussen...', wordt vooral gebruikt bij het chatten. Zie ook...Chatten
     title: HAK
@@ -2877,7 +2877,7 @@ accordion:
     title: HAL
   - description: Het gebruik van een communicatieverbinding in 1 richting tegelijkertijd, in tegenstelling tot Full Duplex. Zie ook...Full Duplex, de tutorial hardware/terminologie
     title: Half Duplex
-  - description: Een rack dat de helft van een gewoon rack breed is: 9.5 inch (24 cm)
+  - description: Een rack dat de helft van een gewoon rack breed is... 9.5 inch (24 cm)
     title: Half-rack
   - description: Het gebruik van een mobieltje zonder dat je je handen nodig hebt, bijvoorbeeld door deze in een houder met luidspreker te plaatsen
     title: Handsfree
@@ -2917,9 +2917,9 @@ accordion:
     title: HCI
   - description: High Density, Hoge dichtheid. Aanduiding voor 1,44 MB diskettes
     title: HD
-  - description: High Definition, geeft aan dat een film in hoge kwaliteit (lees: hoge resolutie) is. Alleen HD-televisies kunnen HD-films afspelen zonder dat er kwaliteit verloren gaat en is een synoniem van HD-film
+  - description: High Definition, geeft aan dat een film in hoge kwaliteit (lees... hoge resolutie) is. Alleen HD-televisies kunnen HD-films afspelen zonder dat er kwaliteit verloren gaat en is een synoniem van HD-film
     title: HD
-  - description: High Definition, geeft aan dat een film in hoge kwaliteit (lees: hoge resolutie) is. Alleen HD-televisies kunnen HD-films afspelen zonder dat er kwaliteit verloren gaat. Is een synoniem van HD
+  - description: High Definition, geeft aan dat een film in hoge kwaliteit (lees... hoge resolutie) is. Alleen HD-televisies kunnen HD-films afspelen zonder dat er kwaliteit verloren gaat. Is een synoniem van HD
     title: HD-film
   - description: High Definition 1080, Een resolutie van 1920x1080
     title: HD 1080
@@ -2959,17 +2959,17 @@ accordion:
     title: Hello World
   - description: Norm voor grafische weergave. Verouderd
     title: Hercules
-  - description: Het aantal hertz is een maat voor het aantal keer per seconde dat er iets gebeurd, een maat voor de frequentie. In de computerwereld wordt dit vaak gebuikt bij processoren om hun verweringssnelheid aan te geven. Hoe hoger het aantal hertz, hoe vaker er een berekening in gaat. 1 hertz betekent dan dat er 1 processorcyclus per seconde is. Het aantal berekeningen per cyclus heeft echter ook nog invloed op de snelheid, dus met hertz is niet meteen sneller. Voor de 'echte' snelheid van een processor moet naar het aantal FLOPS worden gekeken. hertz wordt afgekort tot hz, en dan kunnen er ook nog voorvoegsels bijkomen: KHz, Kilohertz; MHz, Megahertz en GHz, Gigahertz en is een synoniem van Hz, Khz, Mhz, Ghz, Thz. Zie ook...processor, flops
+  - description: Het aantal hertz is een maat voor het aantal keer per seconde dat er iets gebeurd, een maat voor de frequentie. In de computerwereld wordt dit vaak gebuikt bij processoren om hun verweringssnelheid aan te geven. Hoe hoger het aantal hertz, hoe vaker er een berekening in gaat. 1 hertz betekent dan dat er 1 processorcyclus per seconde is. Het aantal berekeningen per cyclus heeft echter ook nog invloed op de snelheid, dus met hertz is niet meteen sneller. Voor de 'echte' snelheid van een processor moet naar het aantal FLOPS worden gekeken. hertz wordt afgekort tot hz, en dan kunnen er ook nog voorvoegsels bijkomen... KHz, Kilohertz; MHz, Megahertz en GHz, Gigahertz en is een synoniem van Hz, Khz, Mhz, Ghz, Thz. Zie ook...processor, flops
     title: hertz
-  - description: Het aantal hertz is een maat voor het aantal keer per seconde dat er iets gebeurd, een maat voor de frequentie. In de computerwereld wordt dit vaak gebuikt bij processoren om hun verweringssnelheid aan te geven. Hoe hoger het aantal hertz, hoe vaker er een berekening in gaat. 1 hertz betekent dan dat er 1 processorcyclus per seconde is. Het aantal berekeningen per cyclus heeft echter ook nog invloed op de snelheid, dus met hertz is niet meteen sneller. Voor de 'echte' snelheid van een processor moet naar het aantal FLOPS worden gekeken. hertz wordt afgekort tot hz, en dan kunnen er ook nog voorvoegsels bijkomen: KHz, Kilohertz; MHz, Megahertz en GHz, Gigahertz. Is een synoniem van hertz. Zie ook...processor, flops
+  - description: Het aantal hertz is een maat voor het aantal keer per seconde dat er iets gebeurd, een maat voor de frequentie. In de computerwereld wordt dit vaak gebuikt bij processoren om hun verweringssnelheid aan te geven. Hoe hoger het aantal hertz, hoe vaker er een berekening in gaat. 1 hertz betekent dan dat er 1 processorcyclus per seconde is. Het aantal berekeningen per cyclus heeft echter ook nog invloed op de snelheid, dus met hertz is niet meteen sneller. Voor de 'echte' snelheid van een processor moet naar het aantal FLOPS worden gekeken. hertz wordt afgekort tot hz, en dan kunnen er ook nog voorvoegsels bijkomen... KHz, Kilohertz; MHz, Megahertz en GHz, Gigahertz. Is een synoniem van hertz. Zie ook...processor, flops
     title: Hz
-  - description: Het aantal hertz is een maat voor het aantal keer per seconde dat er iets gebeurd, een maat voor de frequentie. In de computerwereld wordt dit vaak gebuikt bij processoren om hun verweringssnelheid aan te geven. Hoe hoger het aantal hertz, hoe vaker er een berekening in gaat. 1 hertz betekent dan dat er 1 processorcyclus per seconde is. Het aantal berekeningen per cyclus heeft echter ook nog invloed op de snelheid, dus met hertz is niet meteen sneller. Voor de 'echte' snelheid van een processor moet naar het aantal FLOPS worden gekeken. hertz wordt afgekort tot hz, en dan kunnen er ook nog voorvoegsels bijkomen: KHz, Kilohertz; MHz, Megahertz en GHz, Gigahertz. Is een synoniem van hertz. Zie ook...processor, flops
+  - description: Het aantal hertz is een maat voor het aantal keer per seconde dat er iets gebeurd, een maat voor de frequentie. In de computerwereld wordt dit vaak gebuikt bij processoren om hun verweringssnelheid aan te geven. Hoe hoger het aantal hertz, hoe vaker er een berekening in gaat. 1 hertz betekent dan dat er 1 processorcyclus per seconde is. Het aantal berekeningen per cyclus heeft echter ook nog invloed op de snelheid, dus met hertz is niet meteen sneller. Voor de 'echte' snelheid van een processor moet naar het aantal FLOPS worden gekeken. hertz wordt afgekort tot hz, en dan kunnen er ook nog voorvoegsels bijkomen... KHz, Kilohertz; MHz, Megahertz en GHz, Gigahertz. Is een synoniem van hertz. Zie ook...processor, flops
     title: Khz
-  - description: Het aantal hertz is een maat voor het aantal keer per seconde dat er iets gebeurd, een maat voor de frequentie. In de computerwereld wordt dit vaak gebuikt bij processoren om hun verweringssnelheid aan te geven. Hoe hoger het aantal hertz, hoe vaker er een berekening in gaat. 1 hertz betekent dan dat er 1 processorcyclus per seconde is. Het aantal berekeningen per cyclus heeft echter ook nog invloed op de snelheid, dus met hertz is niet meteen sneller. Voor de 'echte' snelheid van een processor moet naar het aantal FLOPS worden gekeken. hertz wordt afgekort tot hz, en dan kunnen er ook nog voorvoegsels bijkomen: KHz, Kilohertz; MHz, Megahertz en GHz, Gigahertz. Is een synoniem van hertz. Zie ook...processor, flops
+  - description: Het aantal hertz is een maat voor het aantal keer per seconde dat er iets gebeurd, een maat voor de frequentie. In de computerwereld wordt dit vaak gebuikt bij processoren om hun verweringssnelheid aan te geven. Hoe hoger het aantal hertz, hoe vaker er een berekening in gaat. 1 hertz betekent dan dat er 1 processorcyclus per seconde is. Het aantal berekeningen per cyclus heeft echter ook nog invloed op de snelheid, dus met hertz is niet meteen sneller. Voor de 'echte' snelheid van een processor moet naar het aantal FLOPS worden gekeken. hertz wordt afgekort tot hz, en dan kunnen er ook nog voorvoegsels bijkomen... KHz, Kilohertz; MHz, Megahertz en GHz, Gigahertz. Is een synoniem van hertz. Zie ook...processor, flops
     title: Mhz
-  - description: Het aantal hertz is een maat voor het aantal keer per seconde dat er iets gebeurd, een maat voor de frequentie. In de computerwereld wordt dit vaak gebuikt bij processoren om hun verweringssnelheid aan te geven. Hoe hoger het aantal hertz, hoe vaker er een berekening in gaat. 1 hertz betekent dan dat er 1 processorcyclus per seconde is. Het aantal berekeningen per cyclus heeft echter ook nog invloed op de snelheid, dus met hertz is niet meteen sneller. Voor de 'echte' snelheid van een processor moet naar het aantal FLOPS worden gekeken. hertz wordt afgekort tot hz, en dan kunnen er ook nog voorvoegsels bijkomen: KHz, Kilohertz; MHz, Megahertz en GHz, Gigahertz. Is een synoniem van hertz. Zie ook...processor, flops
+  - description: Het aantal hertz is een maat voor het aantal keer per seconde dat er iets gebeurd, een maat voor de frequentie. In de computerwereld wordt dit vaak gebuikt bij processoren om hun verweringssnelheid aan te geven. Hoe hoger het aantal hertz, hoe vaker er een berekening in gaat. 1 hertz betekent dan dat er 1 processorcyclus per seconde is. Het aantal berekeningen per cyclus heeft echter ook nog invloed op de snelheid, dus met hertz is niet meteen sneller. Voor de 'echte' snelheid van een processor moet naar het aantal FLOPS worden gekeken. hertz wordt afgekort tot hz, en dan kunnen er ook nog voorvoegsels bijkomen... KHz, Kilohertz; MHz, Megahertz en GHz, Gigahertz. Is een synoniem van hertz. Zie ook...processor, flops
     title: Ghz
-  - description: Het aantal hertz is een maat voor het aantal keer per seconde dat er iets gebeurd, een maat voor de frequentie. In de computerwereld wordt dit vaak gebuikt bij processoren om hun verweringssnelheid aan te geven. Hoe hoger het aantal hertz, hoe vaker er een berekening in gaat. 1 hertz betekent dan dat er 1 processorcyclus per seconde is. Het aantal berekeningen per cyclus heeft echter ook nog invloed op de snelheid, dus met hertz is niet meteen sneller. Voor de 'echte' snelheid van een processor moet naar het aantal FLOPS worden gekeken. hertz wordt afgekort tot hz, en dan kunnen er ook nog voorvoegsels bijkomen: KHz, Kilohertz; MHz, Megahertz en GHz, Gigahertz. Is een synoniem van hertz. Zie ook...processor, flops
+  - description: Het aantal hertz is een maat voor het aantal keer per seconde dat er iets gebeurd, een maat voor de frequentie. In de computerwereld wordt dit vaak gebuikt bij processoren om hun verweringssnelheid aan te geven. Hoe hoger het aantal hertz, hoe vaker er een berekening in gaat. 1 hertz betekent dan dat er 1 processorcyclus per seconde is. Het aantal berekeningen per cyclus heeft echter ook nog invloed op de snelheid, dus met hertz is niet meteen sneller. Voor de 'echte' snelheid van een processor moet naar het aantal FLOPS worden gekeken. hertz wordt afgekort tot hz, en dan kunnen er ook nog voorvoegsels bijkomen... KHz, Kilohertz; MHz, Megahertz en GHz, Gigahertz. Is een synoniem van hertz. Zie ook...processor, flops
     title: Thz
   - description: volgens het 16-tallig stelsel, cijfers van 0 t/m F, bijvoorbeeld 1F komt overeen met 31 in het tientallig stelsel, 20 komt overeen met 32, etc
     title: Hexadecimaal
@@ -3133,13 +3133,13 @@ accordion:
     title: Hypermedia
   - description: een tekst waarin zogenaamde hyperlinks de gebruiker naar een ander hypertext-document kunnen wijzen. HTML is de meest gebruikte opmaaktaal voor Hypertext. Zie ook...HTML, Opmaaktaal
     title: Hypertext
-  - description: Een supersnelle punt-naar-punt verbinding. Deze is vooral bekend via AMD: deze gebruikt de techniek om de processor met andere onderdelen van de computer te verbinden. Hypertransport wordt daarnaast ook gebruikt voor andere verbindingen binnenin de computer en is een synoniem van HT, Lightning Data Transport, LDT
+  - description: Een supersnelle punt-naar-punt verbinding. Deze is vooral bekend via AMD... deze gebruikt de techniek om de processor met andere onderdelen van de computer te verbinden. Hypertransport wordt daarnaast ook gebruikt voor andere verbindingen binnenin de computer en is een synoniem van HT, Lightning Data Transport, LDT
     title: Hypertransport
-  - description: Een supersnelle punt-naar-punt verbinding. Deze is vooral bekend via AMD: deze gebruikt de techniek om de processor met andere onderdelen van de computer te verbinden. Hypertransport wordt daarnaast ook gebruikt voor andere verbindingen binnenin de computer. Is een synoniem van Hypertransport
+  - description: Een supersnelle punt-naar-punt verbinding. Deze is vooral bekend via AMD... deze gebruikt de techniek om de processor met andere onderdelen van de computer te verbinden. Hypertransport wordt daarnaast ook gebruikt voor andere verbindingen binnenin de computer. Is een synoniem van Hypertransport
     title: HT
-  - description: Een supersnelle punt-naar-punt verbinding. Deze is vooral bekend via AMD: deze gebruikt de techniek om de processor met andere onderdelen van de computer te verbinden. Hypertransport wordt daarnaast ook gebruikt voor andere verbindingen binnenin de computer. Is een synoniem van Hypertransport
+  - description: Een supersnelle punt-naar-punt verbinding. Deze is vooral bekend via AMD... deze gebruikt de techniek om de processor met andere onderdelen van de computer te verbinden. Hypertransport wordt daarnaast ook gebruikt voor andere verbindingen binnenin de computer. Is een synoniem van Hypertransport
     title: Lightning Data Transport
-  - description: Een supersnelle punt-naar-punt verbinding. Deze is vooral bekend via AMD: deze gebruikt de techniek om de processor met andere onderdelen van de computer te verbinden. Hypertransport wordt daarnaast ook gebruikt voor andere verbindingen binnenin de computer. Is een synoniem van Hypertransport
+  - description: Een supersnelle punt-naar-punt verbinding. Deze is vooral bekend via AMD... deze gebruikt de techniek om de processor met andere onderdelen van de computer te verbinden. Hypertransport wordt daarnaast ook gebruikt voor andere verbindingen binnenin de computer. Is een synoniem van Hypertransport
     title: LDT
   - description: het aanbrengen van hyphens (afbreekstreepjes) in woorden, doorgaans om een regel mooier uit te vullen
     title: Hyphenate
@@ -3323,7 +3323,7 @@ accordion:
     title: IM
   - description: Instant Messaging, systeem waarbij iemand de contactpersonen die op hetzelfde moment on-line zijn elektronische berichten kan sturen. Het heeft veel weg van e-mail, alleen doordat je zeker weet dat iemand er daadwerkelijk is heb je veel sneller antwoord. Is een synoniem van IM
     title: Messenger
-  - description: Engels voor afbeelding/plaatjeof Een exacte kopie (in dezelfde volgorde als het orgineel) van iets, meestal een CD/DVD of harde schijf. Met behulp van een image kun je het orginele medium kopiëren of herstellen. Dat de gegevens dezelfde volgorde als het orgineel hebben is vooral belangrijk als de computer ervan moet opstarten: bij het opstarten wordt de eerste sector op de schijf gebruikt
+  - description: Engels voor afbeelding/plaatjeof Een exacte kopie (in dezelfde volgorde als het orgineel) van iets, meestal een CD/DVD of harde schijf. Met behulp van een image kun je het orginele medium kopiëren of herstellen. Dat de gegevens dezelfde volgorde als het orgineel hebben is vooral belangrijk als de computer ervan moet opstarten... bij het opstarten wordt de eerste sector op de schijf gebruikt
     title: Image
   - description: In My Arrogant Opinion, Afkorting voor 'naar mijn arrogante mening, ...', wordt vooral gebruikt bij het chatten. Zie ook...Chatten
     title: IMAO
@@ -3357,7 +3357,7 @@ accordion:
     title: INCITS
   - description: Niet compatible. Zie ook...Compatible
     title: Incompatible
-  - description: Tegenstrijdig, vaak bij redundant uitgevoerde systemen gegevens die niet met elkaar kloppen: een van de 2 gegevens klopt niet, maar het in niet na te gaan welke van de 2. Zie ook...Redundantie
+  - description: Tegenstrijdig, vaak bij redundant uitgevoerde systemen gegevens die niet met elkaar kloppen... een van de 2 gegevens klopt niet, maar het in niet na te gaan welke van de 2. Zie ook...Redundantie
     title: Inconsistent
   - description: inhoudsopgave of een lijst met alle records in een database
     title: Index
@@ -3377,9 +3377,9 @@ accordion:
     title: Initialisatie
   - description: printer die bolletjes inkt op het papier spuit
     title: Inkjetprinter
-  - description: Je aanmelden op een systeem: je moet vaak je naam en wachtwoord invoeren, zodat men zeker weet dat jij bent wie je zegt te zijn en is een synoniem van Aanmelden
+  - description: Je aanmelden op een systeem... je moet vaak je naam en wachtwoord invoeren, zodat men zeker weet dat jij bent wie je zegt te zijn en is een synoniem van Aanmelden
     title: Inloggen
-  - description: Je aanmelden op een systeem: je moet vaak je naam en wachtwoord invoeren, zodat men zeker weet dat jij bent wie je zegt te zijn. Is een synoniem van Inloggen
+  - description: Je aanmelden op een systeem... je moet vaak je naam en wachtwoord invoeren, zodat men zeker weet dat jij bent wie je zegt te zijn. Is een synoniem van Inloggen
     title: Aanmelden
   - description: Een gegevenspakket van headers voorzien. Zie ook...header
     title: Inpakken
@@ -3487,7 +3487,7 @@ accordion:
     title: ISDN
   - description: International Standarlization Organisation, organisatie die standaarden bedenkt
     title: ISO
-  - description: een netwerk model van het iso dat bestaat uit 7 verschillende levels, of lagen: Fysiek, Data Link, Netwerk, Transport, Sessie, Presentatie en Applicatie
+  - description: een netwerk model van het iso dat bestaat uit 7 verschillende levels, of lagen... Fysiek, Data Link, Netwerk, Transport, Sessie, Presentatie en Applicatie
     title: ISO Network Model
   - description: Een bestand dat alle bestanden van een CD bevat in de volgorde zoals ze op de CD staan. Dit kun je in 1x op een CD branden. Dit formaat wordt veel gebruikt voor het emuleren van CD's bij games en bij het branden van opstartbare CD's, omdat daar de volgorde van de bestanden belangrijk iss
     title: iso-bestand
@@ -3521,7 +3521,7 @@ accordion:
     title: IT
   - description: Model processor van Intel, 64 bits
     title: Itanium
-  - description: Ander woord voor herhaling. Meestal wordt dit woord gebruikt bij een iteratief proces, wat wil zeggen dat iets berekend wordt door dezelfde berekening wordt uitgevoerd met de uitkomst van de vorige berekening, en dit zo een aantal keer te herhalen. Zie ook...http://nl.wikipedia.org/wiki/Iteratie
+  - description: Ander woord voor herhaling. Meestal wordt dit woord gebruikt bij een iteratief proces, wat wil zeggen dat iets berekend wordt door dezelfde berekening wordt uitgevoerd met de uitkomst van de vorige berekening, en dit zo een aantal keer te herhalen. Zie ook...http...//nl.wikipedia.org/wiki/Iteratie
     title: Iteratie
   - description: In The Final Analysis, Afkorting voor 'in de uiteindelijke analyse', wordt vooral gebruikt bij het chatten. Zie ook...Chatten
     title: ITFA
@@ -3687,7 +3687,7 @@ accordion:
     title: Gezichtshoek
   - description: Het commando in Linux om een proces direct af te breken. Wordt vooral gebruikt als er programma's niet meer reageren en bij het afsluiten van het systeem
     title: Kill
-  - description: 1000 keer iets, bijvoorbeeld: een kilobyte is 1000 byte, kilohertz is 1000 hertz
+  - description: 1000 keer iets, bijvoorbeeld... een kilobyte is 1000 byte, kilohertz is 1000 hertz
     title: kilo
   - description: 1 KiloByte, afgekort kB, is precies 1000 bytes. Vroeger werd 1024 byte voor een kilobyte gebruikt (dat was makkelijker), maar volgens een nieuwe standaard is een kilobyte 1000 bytes, en 1024 byte wordt een kibibyte genoemd (afgekort KiB). Deze standaard wordt echter nog maar slecht opgevolgd, dus pas op met deze getallen en is een synoniem van KB
     title: kilobyte
@@ -3773,7 +3773,7 @@ accordion:
     title: LDAP
   - description: LDAP Data Interchange Format, formaat van LDAP-gegevens. Zie ook...LDAP
     title: LDIF
-  - description: reclame op het internet zoals een banner, maar dan breder: 728 x 90. Zie ook...Banner
+  - description: reclame op het internet zoals een banner, maar dan breder... 728 x 90. Zie ook...Banner
     title: Leaderbord
   - description: Een gebruiker van Gnutella die zich met 4 of minder ultrapeers verbindt en gebruik maakt van de diensten van het netwerk. Zie ook...Gnutella, Ultrapeer
     title: Leaf
@@ -3873,9 +3873,9 @@ accordion:
     title: Lus
   - description: Een mogelijkheid in UNIX om een bestand aan te koppelen in de directory-tree. Op die manier kunnen bijvoorbeeld ISO-bestanden als een map worden aangesproken. Zie ook...UNIX, Aankoppelen
     title: Loop device
-  - description: Een codec waarbij het te coderen materiaal wordt verkleind zonder kwaliteitsverlies. Bij audio is de verhouding van de grootte orgineel:verkleind normaal gesproken rond de 2:1. Zie ook...codec
+  - description: Een codec waarbij het te coderen materiaal wordt verkleind zonder kwaliteitsverlies. Bij audio is de verhouding van de grootte orgineel...verkleind normaal gesproken rond de 2...1. Zie ook...codec
     title: Lossless
-  - description: Een codec waarbij het te coderen materiaal wordt verkleind met kwaliteitsverlies. Vaak kan materiaal lossy worden gecodeerd zonder dat het opvalt. Bij audio is de verhouding van de grootte orgineel:verkleind normaal gesproken 12:1 of groter, bij video wordt zelfs 100:1 gehaald. Zie ook...codec
+  - description: Een codec waarbij het te coderen materiaal wordt verkleind met kwaliteitsverlies. Vaak kan materiaal lossy worden gecodeerd zonder dat het opvalt. Bij audio is de verhouding van de grootte orgineel...verkleind normaal gesproken 12...1 of groter, bij video wordt zelfs 100...1 gehaald. Zie ook...codec
     title: Lossy
   - description: Bekendste spreadsheet van Lotus, eerste versie in 1982, laatste versie in 2002. Wordt nauwelijks nog gebruikt. Zie ook...spreadsheet
     title: Lotus 123
@@ -4013,7 +4013,7 @@ accordion:
     title: MiB
   - description: Iets om gegevens in te plaatsen die weer uitgelezen kunnen worden, bijvoorbeeld een diskette, CD, harde schijf etc
     title: Medium
-  - description: 1000 kilo, dat is 1.000.000 keer iets, ofwel een miljoen, bijvoorbeeld: een megabyte is 1.000.000 byte, een megahertz is 1.000.000 hertz
+  - description: 1000 kilo, dat is 1.000.000 keer iets, ofwel een miljoen, bijvoorbeeld... een megabyte is 1.000.000 byte, een megahertz is 1.000.000 hertz
     title: Mega
   - description: 1 megabyte is 1 miljoen bytes, ofwel 1000 kilobyte. Vroeger was een megabyte 1024 kilobyte, maar volgens een nieuwe standaard zijn het er maar 1000. Als je het nu over 1024 kibibyte hebt is het een mebibyte en is een synoniem van MB. Zie ook...kibibyte, mebibyte
     title: Megabyte
@@ -4127,11 +4127,11 @@ accordion:
     title: Modem
   - description: een persoon die niet relevante of ongepaste berichten van een mailinglist, forum of nieuwsgroep verwijdert, of personen waarschuwt en blokkeert, zo nemen ze de beheerder(s) werk uit handen
     title: Moderator
-  - description: Het opdelen van een geheel in verschillende onderdelen. AMD bouwt zijn processor bijvoorbeeld op uit verschillende segmenten die naar wens kunnen worden aangepast: de opbouw is modulair
+  - description: Het opdelen van een geheel in verschillende onderdelen. AMD bouwt zijn processor bijvoorbeeld op uit verschillende segmenten die naar wens kunnen worden aangepast... de opbouw is modulair
     title: Modulareit
-  - description: Een onderdeel van een modulair systeem: eenvoudig uitwisselbare eenheid. Bij software wordt met deze term soms ook plug-in bedoeld, bij hardware een apparaat dat via een universele aansluiting een systeem upgradet. Zie ook...Upgraden, Plugin
+  - description: Een onderdeel van een modulair systeem... eenvoudig uitwisselbare eenheid. Bij software wordt met deze term soms ook plug-in bedoeld, bij hardware een apparaat dat via een universele aansluiting een systeem upgradet. Zie ook...Upgraden, Plugin
     title: Module
-  - description: Als je de modulo van een deling berekend bereken je eigenlijk dat wat er overblijft. Voorbeeld: 12 gedeeld 5 is 2,4; maar 12 modulo 5 is 2, doordat je uit 12 2x 5 kunt halen, en dan nog 2 overhoudt. Het wordt vaak aangeduidt met een %-teken, dus 12 % 5 = 2
+  - description: Als je de modulo van een deling berekend bereken je eigenlijk dat wat er overblijft. Voorbeeld... 12 gedeeld 5 is 2,4; maar 12 modulo 5 is 2, doordat je uit 12 2x 5 kunt halen, en dan nog 2 overhoudt. Het wordt vaak aangeduidt met een %-teken, dus 12 % 5 = 2
     title: Modulo
   - description: Een kaart waarop de belangrijkste onderdelen van een computer zijn geplaatst, o.a. de processor, chipset en de belangrijkste poorten en is een synoniem van Mobo. Zie ook...Kaart, chipset, de tutorial hardware/hoe_werkt_een_computer
     title: Moederbord
@@ -4151,9 +4151,9 @@ accordion:
     title: BTX
   - description: Matter Of Fact, Afkorting voor 'om precies te zijn', wordt vooral gebruikt bij het chatten. Zie ook...Chatten
     title: MOF
-  - description: Een veelgebruikte stekker waarmee je onder andere je harde schijf en optische drives mee aansluit. De naam Molex-stekker komt van de fabrikant ervan: Molex en is een synoniem van 4-pin Peripheral
+  - description: Een veelgebruikte stekker waarmee je onder andere je harde schijf en optische drives mee aansluit. De naam Molex-stekker komt van de fabrikant ervan... Molex en is een synoniem van 4-pin Peripheral
     title: Molex
-  - description: Een veelgebruikte stekker waarmee je onder andere je harde schijf en optische drives mee aansluit. De naam Molex-stekker komt van de fabrikant ervan: Molex. Is een synoniem van Molex
+  - description: Een veelgebruikte stekker waarmee je onder andere je harde schijf en optische drives mee aansluit. De naam Molex-stekker komt van de fabrikant ervan... Molex. Is een synoniem van Molex
     title: 4-pin Peripheral
   - description: Geluid waarbij het geluid niet gescheiden is voor aparte luidsprekers, zoals bij stereo of surroundsound. Zie ook...Stereo, Surroundsound
     title: Mono
@@ -4257,7 +4257,7 @@ accordion:
     title: Multimedia
   - description: apparaat dat meerdere kanalen over 1 verbinding laat lopen. Zie ook...Kanaal
     title: Multiplexer
-  - description: Een instelling voor de kloksnelheid van een processor: de kloksnelheid van de systeembus vermenigvuldigd met de multiplier (die meestal een geheel getal is) is de kloksnelheid van de processor. Zie ook...Systeembus, Kloksnelheid, Processor
+  - description: Een instelling voor de kloksnelheid van een processor... de kloksnelheid van de systeembus vermenigvuldigd met de multiplier (die meestal een geheel getal is) is de kloksnelheid van de processor. Zie ook...Systeembus, Kloksnelheid, Processor
     title: Multiplier
   - description: een beeldscherm dat zich automatisch aan de frequentie van het signaal aanpast
     title: Multiscan
@@ -4363,7 +4363,7 @@ accordion:
     title: Nieuwsgroep
   - description: Nude In Front Of Computer, Afkorting voor 'naakt voor de computer', wordt vooral gebruikt bij het chatten. Zie ook...Chatten
     title: NIFOC
-  - description: Not In My Back Yard, Afkorting voor 'niet in mijn achtertuin' (ofwel: doe dat ergens anders), wordt vooral gebruikt bij het chatten. Zie ook...Chatten
+  - description: Not In My Back Yard, Afkorting voor 'niet in mijn achtertuin' (ofwel... doe dat ergens anders), wordt vooral gebruikt bij het chatten. Zie ook...Chatten
     title: NIMBY
   - description: Nikkel Metaal Hybride, Een techniek voor accu's die minder last van het geheugeneffect hebben dan NiCD. Wordt nooit in laptopaccu's gebruikt. Zie ook...Geheugeneffect, Accu
     title: NiMH
@@ -4407,7 +4407,7 @@ accordion:
     title: NRZI
   - description: No So Happy Grin, Afkorting voor 'een niet zo blije grijns', wordt vooral gebruikt bij het chatten. Zie ook...Chatten
     title: NSHG
-  - description: Native Signal Processing, microprocessor die gespecialiseerd is in het verwerken van bepaalde data, bijvoorbeeld audio en video. Deze processoren zijn vaak goedkoper en sneller dan all-round processoren, maar zijn niet zo flexibel: ze kunnen alleen waar ze voor gemaakt zijn
+  - description: Native Signal Processing, microprocessor die gespecialiseerd is in het verwerken van bepaalde data, bijvoorbeeld audio en video. Deze processoren zijn vaak goedkoper en sneller dan all-round processoren, maar zijn niet zo flexibel... ze kunnen alleen waar ze voor gemaakt zijn
     title: NSP
   - description: New Technology, merknaam van Microsoft voor de 32-bits versie van Windows, vanaf Windows 95 en Windows NT
     title: NT
@@ -4439,11 +4439,11 @@ accordion:
     title: nVidia
   - description: Non-Volatile RAM, aanduiding voor geheugen dat inhoud ook bewaart zonder spanning, zoals EPROM, EEPROM en Flash
     title: NVRam
-  - description: No eXecute, Een bit bij en stukje geheugen die aangeeft of de inhoud uitgevoerd mag (oftewel: als programma moet worden gezien of als data) worden of niet. Dit zou moeten beschermen tegen buffer overflow aanvallen en is een synoniem van xD-bit, eXecute Disable. Zie ook...Buffer Overflow
+  - description: No eXecute, Een bit bij en stukje geheugen die aangeeft of de inhoud uitgevoerd mag (oftewel... als programma moet worden gezien of als data) worden of niet. Dit zou moeten beschermen tegen buffer overflow aanvallen en is een synoniem van xD-bit, eXecute Disable. Zie ook...Buffer Overflow
     title: NX-bit
-  - description: No eXecute, Een bit bij en stukje geheugen die aangeeft of de inhoud uitgevoerd mag (oftewel: als programma moet worden gezien of als data) worden of niet. Dit zou moeten beschermen tegen buffer overflow aanvallen. Is een synoniem van NX-bit. Zie ook...Buffer Overflow
+  - description: No eXecute, Een bit bij en stukje geheugen die aangeeft of de inhoud uitgevoerd mag (oftewel... als programma moet worden gezien of als data) worden of niet. Dit zou moeten beschermen tegen buffer overflow aanvallen. Is een synoniem van NX-bit. Zie ook...Buffer Overflow
     title: xD-bit
-  - description: No eXecute, Een bit bij en stukje geheugen die aangeeft of de inhoud uitgevoerd mag (oftewel: als programma moet worden gezien of als data) worden of niet. Dit zou moeten beschermen tegen buffer overflow aanvallen. Is een synoniem van NX-bit. Zie ook...Buffer Overflow
+  - description: No eXecute, Een bit bij en stukje geheugen die aangeeft of de inhoud uitgevoerd mag (oftewel... als programma moet worden gezien of als data) worden of niet. Dit zou moeten beschermen tegen buffer overflow aanvallen. Is een synoniem van NX-bit. Zie ook...Buffer Overflow
     title: eXecute Disable
   - description: Een bestandsformaat (gebaseerd op XML) waarmee je een bestand kunt downloaden uit een nieuwsgroep. Het is een soort link naar een bestand uit een nieuwsgroep
     title: NZB
@@ -4595,7 +4595,7 @@ accordion:
     title: OSF/1
   - description: besturingssysteem, heet nu Tru64 Unix. Is een synoniem van OSF/1. Zie ook...Besturingssysteem
     title: Tru64
-  - description: Open Systems Interconnection, model voor een netwerken, waarbij de communicatie is verdeeld over 7 lagen: fysieke laag, datalinklaag, netwerklaag, transportlaag, sessielaag, presentatielaag en toepassingslaag. Hierin beschrijft bijvoorbeeld de fysieke laag de spanningen en gebruikte kabels (bijvoorbeeld Cat5), de datalinklaag de directe communicatie (bijv. Ethernet), de netwerklaag verzorgd routeren (bijv. IPv4), de transportlaag de pakketvorming (bijv. TCP of UDP) en de toepassingslaag is toepassingsspecifiek (HTTP, DNS, IMAP, POP3). De sessie- en presentatielaag worden niet altijd gebruikt. Zie ook...de tutorial hardware/wat_is_het_OSI_model, fysieke laag, datalinklaag, netwerklaag, transportlaag, sessielaag, presentatielaag, toepassingslaag, routeren
+  - description: Open Systems Interconnection, model voor een netwerken, waarbij de communicatie is verdeeld over 7 lagen... fysieke laag, datalinklaag, netwerklaag, transportlaag, sessielaag, presentatielaag en toepassingslaag. Hierin beschrijft bijvoorbeeld de fysieke laag de spanningen en gebruikte kabels (bijvoorbeeld Cat5), de datalinklaag de directe communicatie (bijv. Ethernet), de netwerklaag verzorgd routeren (bijv. IPv4), de transportlaag de pakketvorming (bijv. TCP of UDP) en de toepassingslaag is toepassingsspecifiek (HTTP, DNS, IMAP, POP3). De sessie- en presentatielaag worden niet altijd gebruikt. Zie ook...de tutorial hardware/wat_is_het_OSI_model, fysieke laag, datalinklaag, netwerklaag, transportlaag, sessielaag, presentatielaag, toepassingslaag, routeren
     title: OSI
   - description: Open Shortest Path First, open het kortste pad eerst, netwerkprotocol
     title: OSPF
@@ -4605,7 +4605,7 @@ accordion:
     title: OTF
   - description: On The Floor Laughing, Afkorting voor 'op de grond van het lachen', wordt vooral gebruikt bij het chatten. Zie ook...Chatten
     title: OTFL
-  - description: On The Go, Engels voor: constant bezig. Deze term wordt gebruikt in USB On-The-Go of USB OTG. Zie ook...USB OTG
+  - description: On The Go, Engels voor... constant bezig. Deze term wordt gebruikt in USB On-The-Go of USB OTG. Zie ook...USB OTG
     title: OTG
   - description: Out To Lunch, Afkorting voor 'aan het lunchen', wordt vooral gebruikt bij het chatten. Zie ook...Chatten
     title: OTL
@@ -4705,7 +4705,7 @@ accordion:
     title: Pariteitsbit
   - description: programma dat een bepaald formaat omzet in een ander
     title: Parser
-  - description: een 'abstract' deel van de harde schijf: de harde schijf kan worden opgedeelt in meerdere partities die van elkaar onafhankelijk zijn
+  - description: een 'abstract' deel van de harde schijf... de harde schijf kan worden opgedeelt in meerdere partities die van elkaar onafhankelijk zijn
     title: Partitie
   - description: Harde schijf in partities verdelen
     title: Partitioneren
@@ -4759,19 +4759,19 @@ accordion:
     title: PCMOS
   - description: Private Communication Technology, een verouderd beveiligingsprotocol voor internet
     title: PCT
-  - description: snelheid van het geheugen, waarbij de xxx een getal is in Mhz, bijvoorbeeld: PC133 is geheugen met een snelheid van 133 Mhz en is een synoniem van PC100, PC133, PC66, PC600, PC700, PC800
+  - description: snelheid van het geheugen, waarbij de xxx een getal is in Mhz, bijvoorbeeld... PC133 is geheugen met een snelheid van 133 Mhz en is een synoniem van PC100, PC133, PC66, PC600, PC700, PC800
     title: PCxxx
-  - description: snelheid van het geheugen, waarbij de xxx een getal is in Mhz, bijvoorbeeld: PC133 is geheugen met een snelheid van 133 Mhz. Is een synoniem van PCxxx
+  - description: snelheid van het geheugen, waarbij de xxx een getal is in Mhz, bijvoorbeeld... PC133 is geheugen met een snelheid van 133 Mhz. Is een synoniem van PCxxx
     title: PC100
-  - description: snelheid van het geheugen, waarbij de xxx een getal is in Mhz, bijvoorbeeld: PC133 is geheugen met een snelheid van 133 Mhz. Is een synoniem van PCxxx
+  - description: snelheid van het geheugen, waarbij de xxx een getal is in Mhz, bijvoorbeeld... PC133 is geheugen met een snelheid van 133 Mhz. Is een synoniem van PCxxx
     title: PC133
-  - description: snelheid van het geheugen, waarbij de xxx een getal is in Mhz, bijvoorbeeld: PC133 is geheugen met een snelheid van 133 Mhz. Is een synoniem van PCxxx
+  - description: snelheid van het geheugen, waarbij de xxx een getal is in Mhz, bijvoorbeeld... PC133 is geheugen met een snelheid van 133 Mhz. Is een synoniem van PCxxx
     title: PC66
-  - description: snelheid van het geheugen, waarbij de xxx een getal is in Mhz, bijvoorbeeld: PC133 is geheugen met een snelheid van 133 Mhz. Is een synoniem van PCxxx
+  - description: snelheid van het geheugen, waarbij de xxx een getal is in Mhz, bijvoorbeeld... PC133 is geheugen met een snelheid van 133 Mhz. Is een synoniem van PCxxx
     title: PC600
-  - description: snelheid van het geheugen, waarbij de xxx een getal is in Mhz, bijvoorbeeld: PC133 is geheugen met een snelheid van 133 Mhz. Is een synoniem van PCxxx
+  - description: snelheid van het geheugen, waarbij de xxx een getal is in Mhz, bijvoorbeeld... PC133 is geheugen met een snelheid van 133 Mhz. Is een synoniem van PCxxx
     title: PC700
-  - description: snelheid van het geheugen, waarbij de xxx een getal is in Mhz, bijvoorbeeld: PC133 is geheugen met een snelheid van 133 Mhz. Is een synoniem van PCxxx
+  - description: snelheid van het geheugen, waarbij de xxx een getal is in Mhz, bijvoorbeeld... PC133 is geheugen met een snelheid van 133 Mhz. Is een synoniem van PCxxx
     title: PC800
   - description: Pointing Device, Een apparaat waarmee iets kan worden aangewezen op een computer, zoals een muis
     title: PD
@@ -4829,7 +4829,7 @@ accordion:
     title: perpendicular magnetic recording
   - description: Program Evolution Review Technique, systeem dat statistische waarschijnlijkheden gebruikt om de duur van een project te berekenen
     title: PERT
-  - description: 1000 tera, dat is 1.000.000.000.000.000 keer iets, ofwel een biljard, bijvoorbeeld: een petabyte is 1.000.000.000.000.000 byte, een petahertz is 1.000.000.000.000.000 hertz
+  - description: 1000 tera, dat is 1.000.000.000.000.000 keer iets, ofwel een biljard, bijvoorbeeld... een petabyte is 1.000.000.000.000.000 byte, een petahertz is 1.000.000.000.000.000 hertz
     title: Peta
   - description: 1000 Terabytes, dus een biljard bytes. Vroeger was een petabyte 1024 terabyte, maar tegenwoordig heb je het dan over een pebibyte en is een synoniem van PB
     title: Petabyte
@@ -5053,7 +5053,7 @@ accordion:
     title: Prefetch
   - description: PowerPC Reference Platform, standaard om PowerPC-systemen met elkaar te koppelen
     title: PReP
-  - description: Hier: Presentatie via de computer. Een presentatie word vaak gebruikt om iemand die een verhaal aan het vertellen is bij te staan met woord, beeld, video en geluid. Nog steeds zeer populair
+  - description: Hier... Presentatie via de computer. Een presentatie word vaak gebruikt om iemand die een verhaal aan het vertellen is bij te staan met woord, beeld, video en geluid. Nog steeds zeer populair
     title: Presentatie
   - description: De 6e laag uit het OSI-model. Deze laag zorgt voor het converteren van data naar data die door de andere computer kan worden gelezen. Zo worden hier o.a. tekstbestanden met een andere tekenset opgezet en is een synoniem van Presentation layer. Zie ook...OSI, de tutorial hardware/wat_is_het_OSI_model, Tekenset
     title: Presentatielaag
@@ -5103,7 +5103,7 @@ accordion:
     title: Programmabibliotheek
   - description: een bestand waarin de functies uit een API staan. Als een programma gebruik maakt van een functie uit een API wordt deze uit de bibliotheek gehaald in plaats van dat het in het programma zelf wordt gestopt. Dit bespaart ruimte en is vaak flexibeler. Is een synoniem van Programmabibliotheek. Zie ook...Functie, API
     title: Library
-  - description: een 'taal' waarin code geschreven kan worden die later kan worden omgezet (gecompileerd) naar een programma. Dit vereenvoudigd het programmeren aanzienlijk. Hierbij maakt men onderscheid tussen hoge en lage programmeertalen: hoge programmeertalen lijken op menselijke taal, lage programmeertalen lijken meer op machinetaal, zijn vaak moeilijker te gebruiken en werken meestal sneller. Zie ook...Code, compileren, programma, programmeren, Taal, Machinetaal
+  - description: een 'taal' waarin code geschreven kan worden die later kan worden omgezet (gecompileerd) naar een programma. Dit vereenvoudigd het programmeren aanzienlijk. Hierbij maakt men onderscheid tussen hoge en lage programmeertalen... hoge programmeertalen lijken op menselijke taal, lage programmeertalen lijken meer op machinetaal, zijn vaak moeilijker te gebruiken en werken meestal sneller. Zie ook...Code, compileren, programma, programmeren, Taal, Machinetaal
     title: Programmeertaal
   - description: het maken van een programma. Zie ook...programma
     title: Programmeren
@@ -5161,7 +5161,7 @@ accordion:
     title: PtP
   - description: aanduiding voor programmatuur die vrij gebruikt mag worden
     title: Public Domain
-  - description: Persistent Uniform Resource Locator, een vaststaand webadres (bijvoorbeeld www.google.nl) Een PURL is eigenlijk gewoon een URI. In internettermen: een standaard HTTP verwijzing. Zie ook...URL, URI
+  - description: Persistent Uniform Resource Locator, een vaststaand webadres (bijvoorbeeld www.google.nl) Een PURL is eigenlijk gewoon een URI. In internettermen... een standaard HTTP verwijzing. Zie ook...URL, URI
     title: PURL
   - description: Een commando op Gnutella dat aan de aanbieder van een bestand wordt verzonden om het bestand te verzenden. Dit moet gebruikt worden als de aanbieder achter een firewall zit. Zie ook...Gnutella
     title: Push
@@ -5179,7 +5179,7 @@ accordion:
     title: QDOS
   - description: Quarter-Inch Cartridge, standaardbreedte voor magnetische back-up tapes
     title: QIC
-  - description: Quality of Service, de kwaliteit van een geleverde dienst. Zie ook...http://nl.wikipedia.org/wiki/Quality_of_Service
+  - description: Quality of Service, de kwaliteit van een geleverde dienst. Zie ook...http...//nl.wikipedia.org/wiki/Quality_of_Service
     title: QoS
   - description: Quarter Quarter Virtual Graphics Array, Een resolutie van 160x120
     title: QQVGA
@@ -5239,7 +5239,7 @@ accordion:
     title: RADIUS
   - description: Rate Adaptive DSL, een versie van DSL waarbij het modem de lijn bij opstarten test en de snelheid van de verbinding het maximale van wat de lijn aan kan maakt. Zie ook...DSL
     title: RADSL
-  - description: Redundant Array of Independent Disks, techniek om meerder harde schijven als 1 harde schijf te gebuiken. RAID-0 zorgt voor dubbele snelheid door 2 schijven als een te gebruiken (via striping), RAID-1 maakt van 2 schijven 1 schijf, op de 2e wordt een kopie bijgehouden van de 1e. Bij RAID-5 en RAID-6 word met speciale algoritmen van meer dan 2 schijven 1 schijf "afgesnoept" waarbij een schijf pariteitsinformatie draagt: als 1 schijf kapot gaat kan de informatie herstelt worden. Zie ook...Data Striping, Pariteit, de tutorial hardware/raid
+  - description: Redundant Array of Independent Disks, techniek om meerder harde schijven als 1 harde schijf te gebuiken. RAID-0 zorgt voor dubbele snelheid door 2 schijven als een te gebruiken (via striping), RAID-1 maakt van 2 schijven 1 schijf, op de 2e wordt een kopie bijgehouden van de 1e. Bij RAID-5 en RAID-6 word met speciale algoritmen van meer dan 2 schijven 1 schijf "afgesnoept" waarbij een schijf pariteitsinformatie draagt... als 1 schijf kapot gaat kan de informatie herstelt worden. Zie ook...Data Striping, Pariteit, de tutorial hardware/raid
     title: RAID
   - description: Een voedingsspanning die een voeding levert, elke rail is een andere spanning. Zie ook...Voeding
     title: Rail
@@ -5347,7 +5347,7 @@ accordion:
     title: Replicatie
   - description: database met gegevens over een andere database
     title: Repository
-  - description: Het terugzetten van de instelling naar de instellingen uit de fabriek of het opnieuw opstarten van een computer door 'de stekker eruit te trekken': de computer sluit niet normaal af
+  - description: Het terugzetten van de instelling naar de instellingen uit de fabriek of het opnieuw opstarten van een computer door 'de stekker eruit te trekken'... de computer sluit niet normaal af
     title: Reset
   - description: Programma dat in het RAM aanwezig is zodra de computer aangezet wordt
     title: Resident programma
@@ -5515,7 +5515,7 @@ accordion:
     title: RTS
   - description: Verstoring op een signaal, beeld of geluid
     title: Ruis
-  - description: Een run: het achter elkaar uitvoeren van een aantal handelingen of run als werkwoord: het uitvoeren van een commando of programma
+  - description: Een run... het achter elkaar uitvoeren van een aantal handelingen of run als werkwoord... het uitvoeren van een commando of programma
     title: Run
   - description: De modus waarin een Unix (en dus ook een Linux) systeem werkt. Runlevel 0 is uit, Runlevel 1 is een simpel tekst-systeem waar alleen root in kan werken, Runlevel 2 is Runlevel 1 met de mogelijkheid om als een niet-root gebruiker in te loggen, Runlevel 3 is een volledig functionerend tekst-systeem en runlevel 5 is runlevel 3 met een grafische schil. Runlevel 4 wordt momenteel niet gebruikt en runlevel 6 is herstarten
     title: Runlevel
@@ -5529,9 +5529,9 @@ accordion:
     title: S-Video
   - description: Signal to Noise Ratio, De ruimte tussen de signaalsterkte en de sterkte van de ruis op de achtergrond. Hoe hoger hoe beter, omdat de ruis bij een hoge waarde niet opvalt
     title: S/N
-  - description: Sony/Philips Digital Interconnect Format, aansluiting om geluidsinformatie digitaal te kunnen transporteren en is een synoniem van AES/EBU. Zie ook...http://nl.wikipedia.org/wiki/Sony/Philips_Digital_Interface
+  - description: Sony/Philips Digital Interconnect Format, aansluiting om geluidsinformatie digitaal te kunnen transporteren en is een synoniem van AES/EBU. Zie ook...http...//nl.wikipedia.org/wiki/Sony/Philips_Digital_Interface
     title: S/PDIF
-  - description: Sony/Philips Digital Interconnect Format, aansluiting om geluidsinformatie digitaal te kunnen transporteren. Is een synoniem van S/PDIF. Zie ook...http://nl.wikipedia.org/wiki/Sony/Philips_Digital_Interface
+  - description: Sony/Philips Digital Interconnect Format, aansluiting om geluidsinformatie digitaal te kunnen transporteren. Is een synoniem van S/PDIF. Zie ook...http...//nl.wikipedia.org/wiki/Sony/Philips_Digital_Interface
     title: AES/EBU
   - description: Software-as-a-service, Het aanbieden van software, opslagruimte en rekencapaciteit online. Hierbij worden de software en de gegevens op het internet opgeslagen en hoef je alleen maar een internetbrowser of een speciaal programma te hebben om deze software te kunnen gebruiken vanaf een willekeurige computer die verbonden is met het internet. Het gebruiken van Software-as-a-service over het internet waarbij de data ook online ('in de cloud') wordt opgeslagen wordt ook wel Cloud Computing genoemd. en is een synoniem van Cloud Computing
     title: SAAS
@@ -5571,15 +5571,15 @@ accordion:
     title: Schakeling
   - description: beschrijving van de opbouw van een database
     title: Schema
-  - description: Een soort foto van je scherm op een bepaald moment: alles wat je dat op je scherm ziet (de muis vaak uitgezonderd) wordt opgeslagen in een bestand en is een synoniem van Screendump, Screenprint, Print Screen, Prt Scr
+  - description: Een soort foto van je scherm op een bepaald moment... alles wat je dat op je scherm ziet (de muis vaak uitgezonderd) wordt opgeslagen in een bestand en is een synoniem van Screendump, Screenprint, Print Screen, Prt Scr
     title: Schermafdruk
-  - description: Een soort foto van je scherm op een bepaald moment: alles wat je dat op je scherm ziet (de muis vaak uitgezonderd) wordt opgeslagen in een bestand. Is een synoniem van Schermafdruk
+  - description: Een soort foto van je scherm op een bepaald moment... alles wat je dat op je scherm ziet (de muis vaak uitgezonderd) wordt opgeslagen in een bestand. Is een synoniem van Schermafdruk
     title: Screendump
-  - description: Een soort foto van je scherm op een bepaald moment: alles wat je dat op je scherm ziet (de muis vaak uitgezonderd) wordt opgeslagen in een bestand. Is een synoniem van Schermafdruk
+  - description: Een soort foto van je scherm op een bepaald moment... alles wat je dat op je scherm ziet (de muis vaak uitgezonderd) wordt opgeslagen in een bestand. Is een synoniem van Schermafdruk
     title: Screenprint
-  - description: Een soort foto van je scherm op een bepaald moment: alles wat je dat op je scherm ziet (de muis vaak uitgezonderd) wordt opgeslagen in een bestand. Is een synoniem van Schermafdruk
+  - description: Een soort foto van je scherm op een bepaald moment... alles wat je dat op je scherm ziet (de muis vaak uitgezonderd) wordt opgeslagen in een bestand. Is een synoniem van Schermafdruk
     title: Print Screen
-  - description: Een soort foto van je scherm op een bepaald moment: alles wat je dat op je scherm ziet (de muis vaak uitgezonderd) wordt opgeslagen in een bestand. Is een synoniem van Schermafdruk
+  - description: Een soort foto van je scherm op een bepaald moment... alles wat je dat op je scherm ziet (de muis vaak uitgezonderd) wordt opgeslagen in een bestand. Is een synoniem van Schermafdruk
     title: Prt Scr
   - description: Een soort lettertype waar pootjes uit de letter steken, in tegenstelling tot schreefloos en is een synoniem van Serif. Zie ook...Schreefloos
     title: Schreef
@@ -5669,11 +5669,11 @@ accordion:
     title: Servicepack
   - description: De tijd of gebeurtenissen tussen het in- en uitloggen op een systeem. Zie ook...Inloggen, Uitloggen
     title: Sessie
-  - description: Een brandsessie: Een hoeveelheid gegevens die je in 1x achter elkaar brandt. Zie ook...Monosession, Multisession
+  - description: Een brandsessie... Een hoeveelheid gegevens die je in 1x achter elkaar brandt. Zie ook...Monosession, Multisession
     title: Sessie
-  - description: De 5e laag uit het OSI-model. Deze laag opent, sluit en onderhoud zogenaamde sessies: langere periodes dat 2 computers met elkaar in verbinding staan. Dit maakt het makkelijker om grote hoeveelheden data te versturen, doordat niet telkens de verbinding opnieuw hoeft te worden geopent en is een synoniem van Session layer. Zie ook...OSI, de tutorial hardware/wat_is_het_OSI_model
+  - description: De 5e laag uit het OSI-model. Deze laag opent, sluit en onderhoud zogenaamde sessies... langere periodes dat 2 computers met elkaar in verbinding staan. Dit maakt het makkelijker om grote hoeveelheden data te versturen, doordat niet telkens de verbinding opnieuw hoeft te worden geopent en is een synoniem van Session layer. Zie ook...OSI, de tutorial hardware/wat_is_het_OSI_model
     title: Sessielaag
-  - description: De 5e laag uit het OSI-model. Deze laag opent, sluit en onderhoud zogenaamde sessies: langere periodes dat 2 computers met elkaar in verbinding staan. Dit maakt het makkelijker om grote hoeveelheden data te versturen, doordat niet telkens de verbinding opnieuw hoeft te worden geopent. Is een synoniem van Sessielaag. Zie ook...OSI, de tutorial hardware/wat_is_het_OSI_model
+  - description: De 5e laag uit het OSI-model. Deze laag opent, sluit en onderhoud zogenaamde sessies... langere periodes dat 2 computers met elkaar in verbinding staan. Dit maakt het makkelijker om grote hoeveelheden data te versturen, doordat niet telkens de verbinding opnieuw hoeft te worden geopent. Is een synoniem van Sessielaag. Zie ook...OSI, de tutorial hardware/wat_is_het_OSI_model
     title: Session layer
   - description: Secure Exchange Transaction, protocol voor veilige online transacties
     title: SET
@@ -5699,7 +5699,7 @@ accordion:
     title: SHA
   - description: De eerste variant van het SHA-algorithme. Zie ook...SHA
     title: SHA-1
-  - description: Een set softwareinstructies die worden gebruikt voor rendering. Deze berekent meestal de kleur van een bepaald object. Er zijn verschillende soorten shaders: vertex shaders, geometry shaders en pixel shaders. Als ze alledrie gebruikt worden, dan altijd in de net genoemde volgorde. Zie ook...Rendering, Pixel Shader, Vertex Shader, Geometry Shader
+  - description: Een set softwareinstructies die worden gebruikt voor rendering. Deze berekent meestal de kleur van een bepaald object. Er zijn verschillende soorten shaders... vertex shaders, geometry shaders en pixel shaders. Als ze alledrie gebruikt worden, dan altijd in de net genoemde volgorde. Zie ook...Rendering, Pixel Shader, Vertex Shader, Geometry Shader
     title: Shader
   - description: Techniek voor het berekenen van pixel shaders. Er zijn verschillende versies van uitgebracht en is een synoniem van Shader model 3.0, Shader model 1.1, Shader model 2.0, shader model 2.1, SM, SM30. Zie ook...Pixel Shader
     title: Shader model
@@ -5773,7 +5773,7 @@ accordion:
     title: skin
   - description: Een bekend programma voor het bellen via Internet (VoIP). Zie ook...VoIP
     title: Skype
-  - description: reclame op het internet zoals een banner, alleen dan verticaal en groter: 120 bij 600 pixels
+  - description: reclame op het internet zoals een banner, alleen dan verticaal en groter... 120 bij 600 pixels
     title: Skyscraper
   - description: Section Leader, Afkorting voor 'leider van een berichtensectie op een forum', wordt vooral gebruikt bij het chatten. Zie ook...Chatten
     title: SL
@@ -5889,7 +5889,7 @@ accordion:
     title: SpeedStep
   - description: Een systeem in een tekstverwerker dat probeert verkeerd gespelde woorden uit een tekst te halen om zo de gebruiker te helpen foutloos te spellen. Zie ook...Tekstverwerker
     title: Spellingscontrole
-  - description: Een apparaat dat ervoor zorgt dat je geen ADSL-signalen hoort als je aan het telefoneren bent: het splitst het inkomende signaal in een ADSL-signaal en een telefoonsignaal
+  - description: Een apparaat dat ervoor zorgt dat je geen ADSL-signalen hoort als je aan het telefoneren bent... het splitst het inkomende signaal in een ADSL-signaal en een telefoonsignaal
     title: Splitter
   - description: Synchronous Peripheral Operations OnLine, maakt het mogelijk dat computers (en gebruikers) verder gaan met hun werk terwijl een daemon de zorg op zich neemt voor de afdruktaak en het bestand op een tijdelijke plaats opslaat totdat de printer het kan afdrukken. en is een synoniem van SPOOLing, SPOOLen. Zie ook...Daemon
     title: SPOOL
@@ -5921,21 +5921,21 @@ accordion:
     title: SSA
   - description: Een vervanger voor de harde schijf die volledig uit flash-geheugen bestaat. Dit maakt ze erg snel maar ook erg duur. Zie ook...Flash
     title: SSD
-  - description: Streaming SIMD Extensions, extra processorinstructies van Intel voor integer- en drijvendekomma-berekeningen. Er zijn verschillende versies van uitgebracht: SSE, SSE2, SSE3, SSSE3, SSE4, SSE5. Deze versies vervangen elkaar niet, ze vullen elkaar aan: SSE2 bevat SSE, SSE3 bevat SSE2 etc. en is een synoniem van KNI, Katmai New Instructions, SSE2, SSE3, SSSE3, SSE4, SSE5. Zie ook...AVX
+  - description: Streaming SIMD Extensions, extra processorinstructies van Intel voor integer- en drijvendekomma-berekeningen. Er zijn verschillende versies van uitgebracht... SSE, SSE2, SSE3, SSSE3, SSE4, SSE5. Deze versies vervangen elkaar niet, ze vullen elkaar aan... SSE2 bevat SSE, SSE3 bevat SSE2 etc. en is een synoniem van KNI, Katmai New Instructions, SSE2, SSE3, SSSE3, SSE4, SSE5. Zie ook...AVX
     title: SSE
-  - description: Streaming SIMD Extensions, extra processorinstructies van Intel voor integer- en drijvendekomma-berekeningen. Er zijn verschillende versies van uitgebracht: SSE, SSE2, SSE3, SSSE3, SSE4, SSE5. Deze versies vervangen elkaar niet, ze vullen elkaar aan: SSE2 bevat SSE, SSE3 bevat SSE2 etc.. Is een synoniem van SSE. Zie ook...AVX
+  - description: Streaming SIMD Extensions, extra processorinstructies van Intel voor integer- en drijvendekomma-berekeningen. Er zijn verschillende versies van uitgebracht... SSE, SSE2, SSE3, SSSE3, SSE4, SSE5. Deze versies vervangen elkaar niet, ze vullen elkaar aan... SSE2 bevat SSE, SSE3 bevat SSE2 etc.. Is een synoniem van SSE. Zie ook...AVX
     title: KNI
-  - description: Streaming SIMD Extensions, extra processorinstructies van Intel voor integer- en drijvendekomma-berekeningen. Er zijn verschillende versies van uitgebracht: SSE, SSE2, SSE3, SSSE3, SSE4, SSE5. Deze versies vervangen elkaar niet, ze vullen elkaar aan: SSE2 bevat SSE, SSE3 bevat SSE2 etc.. Is een synoniem van SSE. Zie ook...AVX
+  - description: Streaming SIMD Extensions, extra processorinstructies van Intel voor integer- en drijvendekomma-berekeningen. Er zijn verschillende versies van uitgebracht... SSE, SSE2, SSE3, SSSE3, SSE4, SSE5. Deze versies vervangen elkaar niet, ze vullen elkaar aan... SSE2 bevat SSE, SSE3 bevat SSE2 etc.. Is een synoniem van SSE. Zie ook...AVX
     title: Katmai New Instructions
-  - description: Streaming SIMD Extensions, extra processorinstructies van Intel voor integer- en drijvendekomma-berekeningen. Er zijn verschillende versies van uitgebracht: SSE, SSE2, SSE3, SSSE3, SSE4, SSE5. Deze versies vervangen elkaar niet, ze vullen elkaar aan: SSE2 bevat SSE, SSE3 bevat SSE2 etc.. Is een synoniem van SSE. Zie ook...AVX
+  - description: Streaming SIMD Extensions, extra processorinstructies van Intel voor integer- en drijvendekomma-berekeningen. Er zijn verschillende versies van uitgebracht... SSE, SSE2, SSE3, SSSE3, SSE4, SSE5. Deze versies vervangen elkaar niet, ze vullen elkaar aan... SSE2 bevat SSE, SSE3 bevat SSE2 etc.. Is een synoniem van SSE. Zie ook...AVX
     title: SSE2
-  - description: Streaming SIMD Extensions, extra processorinstructies van Intel voor integer- en drijvendekomma-berekeningen. Er zijn verschillende versies van uitgebracht: SSE, SSE2, SSE3, SSSE3, SSE4, SSE5. Deze versies vervangen elkaar niet, ze vullen elkaar aan: SSE2 bevat SSE, SSE3 bevat SSE2 etc.. Is een synoniem van SSE. Zie ook...AVX
+  - description: Streaming SIMD Extensions, extra processorinstructies van Intel voor integer- en drijvendekomma-berekeningen. Er zijn verschillende versies van uitgebracht... SSE, SSE2, SSE3, SSSE3, SSE4, SSE5. Deze versies vervangen elkaar niet, ze vullen elkaar aan... SSE2 bevat SSE, SSE3 bevat SSE2 etc.. Is een synoniem van SSE. Zie ook...AVX
     title: SSE3
-  - description: Streaming SIMD Extensions, extra processorinstructies van Intel voor integer- en drijvendekomma-berekeningen. Er zijn verschillende versies van uitgebracht: SSE, SSE2, SSE3, SSSE3, SSE4, SSE5. Deze versies vervangen elkaar niet, ze vullen elkaar aan: SSE2 bevat SSE, SSE3 bevat SSE2 etc.. Is een synoniem van SSE. Zie ook...AVX
+  - description: Streaming SIMD Extensions, extra processorinstructies van Intel voor integer- en drijvendekomma-berekeningen. Er zijn verschillende versies van uitgebracht... SSE, SSE2, SSE3, SSSE3, SSE4, SSE5. Deze versies vervangen elkaar niet, ze vullen elkaar aan... SSE2 bevat SSE, SSE3 bevat SSE2 etc.. Is een synoniem van SSE. Zie ook...AVX
     title: SSSE3
-  - description: Streaming SIMD Extensions, extra processorinstructies van Intel voor integer- en drijvendekomma-berekeningen. Er zijn verschillende versies van uitgebracht: SSE, SSE2, SSE3, SSSE3, SSE4, SSE5. Deze versies vervangen elkaar niet, ze vullen elkaar aan: SSE2 bevat SSE, SSE3 bevat SSE2 etc.. Is een synoniem van SSE. Zie ook...AVX
+  - description: Streaming SIMD Extensions, extra processorinstructies van Intel voor integer- en drijvendekomma-berekeningen. Er zijn verschillende versies van uitgebracht... SSE, SSE2, SSE3, SSSE3, SSE4, SSE5. Deze versies vervangen elkaar niet, ze vullen elkaar aan... SSE2 bevat SSE, SSE3 bevat SSE2 etc.. Is een synoniem van SSE. Zie ook...AVX
     title: SSE4
-  - description: Streaming SIMD Extensions, extra processorinstructies van Intel voor integer- en drijvendekomma-berekeningen. Er zijn verschillende versies van uitgebracht: SSE, SSE2, SSE3, SSSE3, SSE4, SSE5. Deze versies vervangen elkaar niet, ze vullen elkaar aan: SSE2 bevat SSE, SSE3 bevat SSE2 etc.. Is een synoniem van SSE. Zie ook...AVX
+  - description: Streaming SIMD Extensions, extra processorinstructies van Intel voor integer- en drijvendekomma-berekeningen. Er zijn verschillende versies van uitgebracht... SSE, SSE2, SSE3, SSSE3, SSE4, SSE5. Deze versies vervangen elkaar niet, ze vullen elkaar aan... SSE2 bevat SSE, SSE3 bevat SSE2 etc.. Is een synoniem van SSE. Zie ook...AVX
     title: SSE5
   - description: Secure Shell, programma om veilig in te loggen op een andere computer. De communicatie is zwaar versleuteld, en daarmee zeer moeilijk af te luisteren
     title: SSH
@@ -5963,7 +5963,7 @@ accordion:
     title: Stealth mode
   - description: Geluid waarbij het geluid voor een linker- en een rechterluidspreker apart zijn opgeslagen
     title: Stereo
-  - description: Een netwerkstructuur in de vorm van een ster: de onderdelen zitten allemaal op 1 centraal punt aan gesloten. Je kunt ook meerdere van deze stertopologieen als stertopologie verbinden: je sluit de centrale punten van de sterren aan op hetzelfde centrale punt aan. Zie ook...topologie
+  - description: Een netwerkstructuur in de vorm van een ster... de onderdelen zitten allemaal op 1 centraal punt aan gesloten. Je kunt ook meerdere van deze stertopologieen als stertopologie verbinden... je sluit de centrale punten van de sterren aan op hetzelfde centrale punt aan. Zie ook...topologie
     title: Stertopologie
   - description: Shut The Fuck Up, Afkorting voor 'hou je kop', wordt vooral gebruikt bij het chatten. Zie ook...Chatten
     title: STFU
@@ -6167,13 +6167,13 @@ accordion:
     title: Template
   - description: Een document waar al tekst of opmaak in staat. Dit zorgt ervoor dat je de tekst niet steeds opnieuw hoeft te typen of de opmaak opnieuw te maken als je vaak hetzelfde soort brieven maakt. Is een synoniem van Template
     title: Sjabloon
-  - description: 1000 giga, dat is 1.000.000.000.000 keer iets, ofwel een biljoen, bijvoorbeeld: een terabyte is 1.000.000.000.000 byte, een terahertz is 1.000.000.000.000 hertz
+  - description: 1000 giga, dat is 1.000.000.000.000 keer iets, ofwel een biljoen, bijvoorbeeld... een terabyte is 1.000.000.000.000 byte, een terahertz is 1.000.000.000.000 hertz
     title: Tera
   - description: 1000 Gigabyte dus 1 biljoen bytes. Vroeger was een terabyte 1024 gigabyte, maar tegenwoordig heb je het dan over een tebibyte en is een synoniem van TB
     title: Terabyte
   - description: 1000 Gigabyte dus 1 biljoen bytes. Vroeger was een terabyte 1024 gigabyte, maar tegenwoordig heb je het dan over een tebibyte. Is een synoniem van Terabyte
     title: TB
-  - description: Een soort computer op afstand: kan zelf bijna niets, al het (reken)werk wordt op een andere computer gedaan
+  - description: Een soort computer op afstand... kan zelf bijna niets, al het (reken)werk wordt op een andere computer gedaan
     title: Terminal
   - description: Een plaatje dat op een oppervlak wordt geplaatst
     title: Texture
@@ -6207,7 +6207,7 @@ accordion:
     title: Throttling
   - description: Een functie van de processor om op verschillende snelheden te kunnen werken. Hiermee kan energie worden bespaard. Is een synoniem van Throttling
     title: Throttle
-  - description: Letterlijk: doorvoer. De hoeveelheid data die door een netwerk kan worden afgeleverd binnen een bepaalde tijd. Vrij vertaald de snelheid van een netwerk
+  - description: Letterlijk... doorvoer. De hoeveelheid data die door een netwerk kan worden afgeleverd binnen een bepaalde tijd. Vrij vertaald de snelheid van een netwerk
     title: Throughput
   - description: verkleinde versie van een afbeelding
     title: Thumbnail
@@ -6315,7 +6315,7 @@ accordion:
     title: Transport layer
   - description: Tears Running Down My Cheeks, Afkorting voor 'tranen lopen over mijn wangen', wordt vooral gebruikt bij het chatten. Zie ook...Chatten
     title: TRDMC
-  - description: een techniek om de beeldkwaliteit van een gecomprimeerd video bestand te verhogen: wordt gebruik bij XVID en x264
+  - description: een techniek om de beeldkwaliteit van een gecomprimeerd video bestand te verhogen... wordt gebruik bij XVID en x264
     title: Trellis quantization
   - description: Processor met 3 processorkernen. Zie ook...core
     title: TripleCore
@@ -6397,7 +6397,7 @@ accordion:
     title: UART
   - description: User Brain Damage, Afkorting voor 'hersenletsel bij computergebruiker', wordt vooral gebruikt bij het chatten. Zie ook...Chatten
     title: UBD
-  - description: Een Linux-distributie. Op het moment van schrijven (2008) de populairste. Van Ubuntu zijn enkele afgeleiden: Kubuntu, Xubuntu, Edubuntu en gobunutu. Ubuntu zelf werkt op GNOME, Kubuntu op KDE, Xubuntu op xfce, Edubuntu is speciaal voor scholen en gobunutu is helemaal gebaseerd op open-source software. Zie ook...Linux-distributie, Linux
+  - description: Een Linux-distributie. Op het moment van schrijven (2008) de populairste. Van Ubuntu zijn enkele afgeleiden... Kubuntu, Xubuntu, Edubuntu en gobunutu. Ubuntu zelf werkt op GNOME, Kubuntu op KDE, Xubuntu op xfce, Edubuntu is speciaal voor scholen en gobunutu is helemaal gebaseerd op open-source software. Zie ook...Linux-distributie, Linux
     title: Ubuntu
   - description: Unsolicited Commercial E-mail, spam. Zie ook...spam
     title: UCE
@@ -6411,9 +6411,9 @@ accordion:
     title: UDSL
   - description: Een aansluiting (poort) waar informatie een apparaat uit kan. Zie ook...Poort
     title: Uitgang
-  - description: Je afmelden op een systeem: zo zorg je ervoor dat niemand gebruik kan maken van jouw sessie en dat iemand anders kan inloggen en is een synoniem van Afmelden. Zie ook...Sessie, Inloggen
+  - description: Je afmelden op een systeem... zo zorg je ervoor dat niemand gebruik kan maken van jouw sessie en dat iemand anders kan inloggen en is een synoniem van Afmelden. Zie ook...Sessie, Inloggen
     title: Uitloggen
-  - description: Je afmelden op een systeem: zo zorg je ervoor dat niemand gebruik kan maken van jouw sessie en dat iemand anders kan inloggen. Is een synoniem van Uitloggen. Zie ook...Sessie, Inloggen
+  - description: Je afmelden op een systeem... zo zorg je ervoor dat niemand gebruik kan maken van jouw sessie en dat iemand anders kan inloggen. Is een synoniem van Uitloggen. Zie ook...Sessie, Inloggen
     title: Afmelden
   - description: Een gegevenspakket van headers ontdoen. Zie ook...header
     title: Uitpakken
@@ -6429,7 +6429,7 @@ accordion:
     title: SMA
   - description: Unified Memory Architecture, systeem waarbij de grafische kaart gebruik maakt van het hoofdgeheugen. Is een synoniem van UMA
     title: Shared Memory Architecture
-  - description: Unified Modeling Language, Een taal om modellen in op te kunnen slaan. Zie ook...http://nl.wikipedia.org/wiki/Unified_Modeling_Language
+  - description: Unified Modeling Language, Een taal om modellen in op te kunnen slaan. Zie ook...http...//nl.wikipedia.org/wiki/Unified_Modeling_Language
     title: uml
   - description: Universal Mobile Telecommunication System, standaard voor draadloos internet en is een synoniem van 3G
     title: UMTS
@@ -6443,7 +6443,7 @@ accordion:
     title: Unicode
   - description: een RAD die werkt met een database. Zie ook...RAD, Database
     title: Uniface
-  - description: Een multitasking besturingssysteem, wordt tegenwoordig nog weinig gebruikt. Unix was populair, maar is tenonder gegaan door versnippering: er kwamen veel verschillende versies van verschillende fabrikanten die niet goed met elkaar konden samenwerken. De Linux-kernel is gebaseerd op Unix, Linux is nu het meest gebruikte UNIX-gebaseerde systeem. Zie ook...Besturingssysteem, Linux
+  - description: Een multitasking besturingssysteem, wordt tegenwoordig nog weinig gebruikt. Unix was populair, maar is tenonder gegaan door versnippering... er kwamen veel verschillende versies van verschillende fabrikanten die niet goed met elkaar konden samenwerken. De Linux-kernel is gebaseerd op Unix, Linux is nu het meest gebruikte UNIX-gebaseerde systeem. Zie ook...Besturingssysteem, Linux
     title: UNIX
   - description: besturingssysteem van Novell en AT&T. Wordt nauwelijks nog gebruikt en wordt niet meer ontwikkeld. Zie ook...Besturingssysteem, NetWare, UNIX, Novell
     title: UnixWare
@@ -6451,7 +6451,7 @@ accordion:
     title: Update
   - description: Het vervangen van hardware of software door nieuwe versies of betere onderdelen
     title: Upgraden
-  - description: Het verzenden van een bestand via een communicatieverbinding, bijvoorbeeld via het internet of via een USB kabel. (voorbeeld: het verzenden van foto's naar het internet en naar een digitale fotocamera heet allebei uploaden) Het ontvangen van data (het tegenstelde van uploaden dus) heet downloaden. Zie ook...downloaden
+  - description: Het verzenden van een bestand via een communicatieverbinding, bijvoorbeeld via het internet of via een USB kabel. (voorbeeld... het verzenden van foto's naar het internet en naar een digitale fotocamera heet allebei uploaden) Het ontvangen van data (het tegenstelde van uploaden dus) heet downloaden. Zie ook...downloaden
     title: Uploaden
   - description: Universal Plug and Play, hulpmiddel voor het herkennen van hardware op netwerken zonder dat er iets opnieuw moet worden opgestart, net zoals bij PnP. Zie ook...pnp
     title: UPnP
@@ -6461,7 +6461,7 @@ accordion:
     title: URI
   - description: Universal Resource Locator, internetadres van een web-pagina
     title: URL
-  - description: Techniek bij Phising, maskeert een URL door het in hexidecimale notatie te zetten, bijvoorbeeld: %77%77%77%2e%6e%6c
+  - description: Techniek bij Phising, maskeert een URL door het in hexidecimale notatie te zetten, bijvoorbeeld... %77%77%77%2e%6e%6c
     title: URL Obfuscation
   - description: Uniform Resource Name, de naam van iets, in tegenstelling tot het adres, zoals bij een URL. Zie ook...URL
     title: URN
@@ -6551,9 +6551,9 @@ accordion:
     title: Veld
   - description: samenwerking Apple, AT&T, IBM en Siemens voor onderlinge compabiliteit van communicatie- en computerproducten
     title: Versit
-  - description: Enkelvoud van verticles: de hoekpunten van een object, meestal een veelhoek en is een synoniem van Verticles
+  - description: Enkelvoud van verticles... de hoekpunten van een object, meestal een veelhoek en is een synoniem van Verticles
     title: Vertex
-  - description: Enkelvoud van verticles: de hoekpunten van een object, meestal een veelhoek. Is een synoniem van Vertex
+  - description: Enkelvoud van verticles... de hoekpunten van een object, meestal een veelhoek. Is een synoniem van Vertex
     title: Verticles
   - description: Een shader die de kleur van een vertex berekend. Zie ook...Shader, Vertex
     title: Vertex Shader
@@ -6719,7 +6719,7 @@ accordion:
     title: Webmail
   - description: Een pagina op het internet. Zie ook...Internet
     title: Webpagina
-  - description: Een server die een webpagina 'aanbiedt': je moet met deze server contact maken om de webpagina die hij aanbiedt te kunnen bekijken. Zie ook...Server
+  - description: Een server die een webpagina 'aanbiedt'... je moet met deze server contact maken om de webpagina die hij aanbiedt te kunnen bekijken. Zie ook...Server
     title: Webserver
   - description: verzameling bij elkaar horende webpagina's en is een synoniem van Site, Internetsite. Zie ook...Webpagina
     title: Website
@@ -6859,9 +6859,9 @@ accordion:
     title: WOL
   - description: Een veelgebruikte tekstverwerker van Microsoft
     title: Word
-  - description: Een waarde met een bepaalde lengte, namelijk de standaardlengte van de waardes waarmee de computer werkt. Hebt u een 32-bit processor, dan is het woord 32 bit, of 4 byte lang. Bij 64-bit processoren is dit 64 bit of 8 byte. Let op: in veel teksten zal men met een woord 16 bit, of 2 byte, bedoelen! en is een synoniem van woord
+  - description: Een waarde met een bepaalde lengte, namelijk de standaardlengte van de waardes waarmee de computer werkt. Hebt u een 32-bit processor, dan is het woord 32 bit, of 4 byte lang. Bij 64-bit processoren is dit 64 bit of 8 byte. Let op... in veel teksten zal men met een woord 16 bit, of 2 byte, bedoelen! en is een synoniem van woord
     title: Word
-  - description: Een waarde met een bepaalde lengte, namelijk de standaardlengte van de waardes waarmee de computer werkt. Hebt u een 32-bit processor, dan is het woord 32 bit, of 4 byte lang. Bij 64-bit processoren is dit 64 bit of 8 byte. Let op: in veel teksten zal men met een woord 16 bit, of 2 byte, bedoelen!. Is een synoniem van Word
+  - description: Een waarde met een bepaalde lengte, namelijk de standaardlengte van de waardes waarmee de computer werkt. Hebt u een 32-bit processor, dan is het woord 32 bit, of 4 byte lang. Bij 64-bit processoren is dit 64 bit of 8 byte. Let op... in veel teksten zal men met een woord 16 bit, of 2 byte, bedoelen!. Is een synoniem van Word
     title: woord
   - description: Een term van Microsoft voor een bij elkaar horende groep computers. Een werkgroep is eigenlijk hetzelfde als een domein, alleen in de meeste Windows-systemen hebben domeinen meer mogelijkheden en zijn alleen in de duurdere versies beschikbaar en is een synoniem van Werkgroep
     title: Workgroup
@@ -7063,7 +7063,7 @@ accordion:
     title: YMBKJ
   - description: Your Mileage May Vary, Afkorting voor 'in het verleden behaalde resultaten bieden geen garantie voor de toekomst', wordt vooral gebruikt bij het chatten. Zie ook...Chatten
     title: YMMV
-  - description: 1000 zetta, dat is 1.000.000.000.000.000.000.000.000 keer iets, ofwel een quadtriljoen, bijvoorbeeld: een yottabyte is 1.000.000.000.000.000.000.000.000 byte, een yottahertz is 1.000.000.000.000.000.000.000.000 hertz
+  - description: 1000 zetta, dat is 1.000.000.000.000.000.000.000.000 keer iets, ofwel een quadtriljoen, bijvoorbeeld... een yottabyte is 1.000.000.000.000.000.000.000.000 byte, een yottahertz is 1.000.000.000.000.000.000.000.000 hertz
     title: Yotta
   - description: 1000 zettabyte, dus 1 quadriljoen byte
     title: Yottabyte
@@ -7075,9 +7075,9 @@ accordion:
     title: Zebibyte
   - description: Zeer Eenvoudig Binaire RekenAutomaat, Het was een van de eerste computers in Nederland
     title: Zebra
-  - description: 1000 exa, dat is 1.000.000.000.000.000.000.000 keer iets, ofwel een triljard, bijvoorbeeld: een zettabyte is 1.000.000.000.000.000.000.000 byte, een zettahertz is 1.000.000.000.000.000.000.000 hertz en is een synoniem van zeta
+  - description: 1000 exa, dat is 1.000.000.000.000.000.000.000 keer iets, ofwel een triljard, bijvoorbeeld... een zettabyte is 1.000.000.000.000.000.000.000 byte, een zettahertz is 1.000.000.000.000.000.000.000 hertz en is een synoniem van zeta
     title: Zetta
-  - description: 1000 exa, dat is 1.000.000.000.000.000.000.000 keer iets, ofwel een triljard, bijvoorbeeld: een zettabyte is 1.000.000.000.000.000.000.000 byte, een zettahertz is 1.000.000.000.000.000.000.000 hertz. Is een synoniem van Zetta
+  - description: 1000 exa, dat is 1.000.000.000.000.000.000.000 keer iets, ofwel een triljard, bijvoorbeeld... een zettabyte is 1.000.000.000.000.000.000.000 byte, een zettahertz is 1.000.000.000.000.000.000.000 hertz. Is een synoniem van Zetta
     title: zeta
   - description: 1000 Exabyte. Een triljard bytes. Vroeger was een zettabyte 1024 exabyte, maar tegenwoordig heb je het dan over een zebibyte en is een synoniem van ZB
     title: Zettabyte
