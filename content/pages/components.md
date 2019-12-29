@@ -6048,7 +6048,7 @@ accordion:
   - description: Super Extended Graphics Array, Een resolutie van 1280x1024
     title: SXGA
   - description: Super Extended Graphics Array&#43;, Een resolutie van 1400x1050
-    title: SXGA&#43;
+    title: SXGAplus
   - description: Symmetrie geeft verhoudingen aan. Als een lijn symmetrisch is, dan is de uploadsnelheid gelijk aan de download snelheid. Dit is bijvoorbeeld een thuisnetwerk. Een asymetrische is bijvoorbeeld een inbel-internetverbinding of een ADSL-verbinding. Daarbij is de downloadsnelheid hoger dan de uploadsnelheid
     title: Symmetrie
   - description: commando om de communicatie te synchroniseren. Zie ook...Synchroniseren
@@ -6918,9 +6918,9 @@ accordion:
   - description: Wide Super Extended Graphics Array, Een resolutie van (meestal) 1440x900, hoewel volgens de definitie elke resolutie breder dan SXGA in aanmerking komt, omdat deze resolutie de &#39;breedbeeldvariant&#39; van SXGA is
     title: WSXGA
   - description: Wide Super Extended Graphics Array Plus, Een resolutie van (meestal) 1680x1050, hoewel volgens de definitie elke resolutie breder dan SXGA&#43; in aanmerking komt, omdat deze resolutie de &#39;breedbeeldvariant&#39; van SXGA&#43; is en is een synoniem van SXGA&#43;    title: Wide Super Extended Graphics Array, Een resolutie van (meestal) 1440x900, hoewel volgens de definitie elke resolutie breder dan SXGA in aanmerking komt, omdat deze resolutie de &#39;breedbeeldvariant&#39; van SXGA is. Is een synoniem van WSXGA
-    title: WSXGA&#43;
+    title: WSXGAplus
   - description: Wide Super Extended Graphics Array Plus, Een resolutie van (meestal) 1680x1050, hoewel volgens de definitie elke resolutie breder dan SXGA&#43; in aanmerking komt, omdat deze resolutie de &#39;breedbeeldvariant&#39; van SXGA&#43; is. Is een synoniem van WSXGA&#43;
-    title: SXGA&#43;
+    title: SXGAplus
   - description: Want To Buy, Afkorting voor &#39;te koop gevraagd&#39;, wordt vooral gebruikt bij het chatten. Zie ook...Chatten
     title: WTB
   - description: What the F*ck, Term die gebruikt wordt om aan te geven dat de gebruiker verbaast is of iets niet snapt
