@@ -7117,7 +7117,6 @@ accordion:
     title: uops
   - description: deeltaken in een processor. Is een synoniem van µOps	
     title: microOps
- 	    
 gallery:
   - alt: yellow rope image
     image: 'https://ucarecdn.com/277cdf82-24aa-4d80-8169-bb46f4cd319d/'
