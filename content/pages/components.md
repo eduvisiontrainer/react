@@ -528,7 +528,7 @@ accordion:
   - description: Het teken @, ook wel at genoemd. Dit teken wordt gebruikt voor het engelse woord at bij computers, ofwel 'op' of 'bij', onder andere in e-mailadressen. meneer@gmail.com betekent hier dus dat er een mail wordt gestuurd naar een persoon die 'meneer' heet (of zich zo voordoet) die zijn mailbox bij gmail.com heeft. Wordt ook vaak gebruikt om een locatie aan te geven. Is een synoniem van Apenstaartje
     title: at
   - description: Het teken @, ook wel at genoemd. Dit teken wordt gebruikt voor het engelse woord at bij computers, ofwel 'op' of 'bij', onder andere in e-mailadressen. meneer@gmail.com betekent hier dus dat er een mail wordt gestuurd naar een persoon die 'meneer' heet (of zich zo voordoet) die zijn mailbox bij gmail.com heeft. Wordt ook vaak gebruikt om een locatie aan te geven. Is een synoniem van Apenstaartje
-    title: @
+    title: &#64;
   - description: Application Programming Interface, een set functies die het makkelijker maakt om bepaalde taken uit te voeren of zelfs de taak overneemt. Tijdens het compileren (en wel specifiek het linken) worden de gebruikte functies naar het programma gekopieerd. Vaak blijven grote delen van die functies achter in zogenaamde libraries waar de functies uit worden gehaald tijdens het uitvoeren van het programma. Zie ook...Programmabibliotheek, Functie
     title: API
   - description: Automatic Private IP Adressing, Een systeem Windows waarmee automatisch een IP-adres wordt toegewezen als de DHCP-client niet werkt
