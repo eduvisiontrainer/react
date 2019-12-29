@@ -29,7 +29,7 @@ videoTitle: 'Also background videos, with poster image & title overlay.'
 accordion:
   - description: Symbool dat een hartje voor moet stellen
     title: <3
-  - description: een API van Microsoft en is een synoniem van dotnet. Zie ook: API, Mono
+  - description: een API van Microsoft en is een synoniem van dotnet. Zie ook...API, Mono
     title: .NET
 gallery:
   - alt: yellow rope image
