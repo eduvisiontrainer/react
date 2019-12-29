@@ -189,7 +189,7 @@ accordion:
     title: A2DP
   - description: Beeldscherm waarop een A4-pagina in zijn geheel leesbaar kan worden weergegeven
     title: A4-monitor
-  - description: Authentication, Authorization, and Accounting, in het Nederlands: Authentificatie, autorisatie en verslag brengen
+  - description: Authentication, Authorization, and Accounting, in het Nederlands...Authentificatie, autorisatie en verslag brengen
     title: AAA
   - description: Een lossy bestandsformaat om geluidsbestanden mee op te slaan. Zie ook...lossy
     title: aac
@@ -6739,7 +6739,7 @@ accordion:
     title: WfW
   - description: Wicked Grin, Afkorting voor 'gemene grijns', wordt vooral gebruikt bij het chatten. Zie ook...Chatten
     title: WG
-  - description: Windows Genuine Advantage, in het Nederlands: Legale Windows versie voordeel. Dit is een programma van Microsoft om te controleren of je een legale Windows versie hebt, om je zo extra voordelen te kunnen bieden
+  - description: Windows Genuine Advantage, in het Nederlands...Legale Windows versie voordeel. Dit is een programma van Microsoft om te controleren of je een legale Windows versie hebt, om je zo extra voordelen te kunnen bieden
     title: WGA
   - description: Een hacker die alleen legaal of ethisch verantwoord hackt om zo gaten in de beveiliging te vinden en de beheerder ervan op de hoogte te stellen
     title: White Hat Hacker
