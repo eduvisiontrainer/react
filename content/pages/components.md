@@ -213,7 +213,7 @@ accordion:
     title: Aankoppelen
   - description: Een bepaalde harde schijf/partitie een plaats geven in de directory tree. Is een synoniem van Aankoppelen. Zie ook...Directory Tree
     title: Mount
-  - description: Een adres (URL) dat in gegevens is ingesloten en de locatie van gegevens ergens anders "aanwijst". Een hyperlink is hier een voorbeeld van
+  - description: Een adres (URL) dat in gegevens is ingesloten en de locatie van gegevens ergens anders &quot;aanwijst&quot;. Een hyperlink is hier een voorbeeld van
     title: Aanwijzer
   - description: Average Access Time, Gemiddelde toegangstijd tot informatie op een gegevensdrager
     title: AAT
@@ -895,7 +895,7 @@ accordion:
     title: BIST
   - description: binairy digit, een bit is een 1 of een 0. Zie ook...Binair
     title: Bit
-  - description: De "resolutie" van een geluidsbestand. Hoe hoger de bitdiepte, hoe preciezer het geluid per frame wordt vastgelegd
+  - description: De &quot;resolutie&quot; van een geluidsbestand. Hoe hoger de bitdiepte, hoe preciezer het geluid per frame wordt vastgelegd
     title: Bitdiepte
   - description: afbeelding, waarbij elke bit (of vaak elk woord) overeenkomt met een pixel op scherm/printer
     title: Bitmap
@@ -1001,9 +1001,9 @@ accordion:
     title: Bracket
   - description: voorspelling in een processor hoe een programma verder gaat. Kan veel processortijd besparen
     title: Branch prediction
-  - description: Gegevens op een optisch medium (bijvoorbeeld CD's, DVD's, Blue-Ray Disks enzovoort) zetten. Dit heet branden omdat er met een laser putjes in de schijf worden "gebrand" en is een synoniem van Authoring
+  - description: Gegevens op een optisch medium (bijvoorbeeld CD's, DVD's, Blue-Ray Disks enzovoort) zetten. Dit heet branden omdat er met een laser putjes in de schijf worden &quot;gebrand&quot; en is een synoniem van Authoring
     title: Branden
-  - description: Gegevens op een optisch medium (bijvoorbeeld CD's, DVD's, Blue-Ray Disks enzovoort) zetten. Dit heet branden omdat er met een laser putjes in de schijf worden "gebrand". Is een synoniem van Branden
+  - description: Gegevens op een optisch medium (bijvoorbeeld CD's, DVD's, Blue-Ray Disks enzovoort) zetten. Dit heet branden omdat er met een laser putjes in de schijf worden &quot;gebrand&quot;. Is een synoniem van Branden
     title: Authoring
   - description: Een apparaat waarmee je optische schijven kunt branden en is een synoniem van ODD. Zie ook...branden, optische schijf
     title: Brander
@@ -1025,7 +1025,7 @@ accordion:
     title: Breedband
   - description: Het verzenden van een bericht naar alle computer op een netwerk
     title: Broadcast
-  - description: Samenstelling van een "bridge" en een "router", apparatuur die zowel een bridge als een router functie hebben
+  - description: Samenstelling van een &quot;bridge&quot; en een &quot;router&quot;, apparatuur die zowel een bridge als een router functie hebben
     title: Brouter
   - description: programma om te surfen over het internet, bijvoorbeeld Internet Explorer of Firefox en is een synoniem van Webbrowser
     title: Browser
@@ -1221,7 +1221,7 @@ accordion:
     title: CCL
   - description: Composite Capability / Preference Profiles, beschrijving van de mogelijkheden van een apparaat en de gebruikers voorkeuren die kunnen worden gebruikt om gegevensomzetting te begeleiden
     title: CCPP
-  - description: Call Deflection, (telecom) inkomende oproepen kunnen bij "bezet", "geen antwoord" of "altijd" doorgeschakeld worden naar een extern telefoonnummer
+  - description: Call Deflection, (telecom) inkomende oproepen kunnen bij &quot;bezet&quot;, &quot;geen antwoord&quot; of &quot;altijd&quot; doorgeschakeld worden naar een extern telefoonnummer
     title: CD
   - description: Compact Disc, een schijf waarop muziek of computerbestanden kunnen staan
     title: CD
@@ -1489,9 +1489,9 @@ accordion:
     title: Component
   - description: document dat objecten (tekst, geluid, beeld enz) kan bevatten. Zie ook...SGML
     title: Compound Document
-  - description: Het kleiner maken van de dynamische ruimte van een stuk geluid. Hierbij worden de pieken in een geluid verlaagd, het geluid wordt "afgevlakt" en is een synoniem van Compression
+  - description: Het kleiner maken van de dynamische ruimte van een stuk geluid. Hierbij worden de pieken in een geluid verlaagd, het geluid wordt &quot;afgevlakt&quot; en is een synoniem van Compression
     title: Compressie
-  - description: Het kleiner maken van de dynamische ruimte van een stuk geluid. Hierbij worden de pieken in een geluid verlaagd, het geluid wordt "afgevlakt". Is een synoniem van Compressie
+  - description: Het kleiner maken van de dynamische ruimte van een stuk geluid. Hierbij worden de pieken in een geluid verlaagd, het geluid wordt &quot;afgevlakt&quot;. Is een synoniem van Compressie
     title: Compression
   - description: Het kleiner maken van een bestand, al dan niet met gegevensverlies en is een synoniem van Compressie, Compression. Zie ook...Decomprimeren
     title: Comprimeren
@@ -1827,7 +1827,7 @@ accordion:
     title: Dialoogvenster
   - description: Aantal kleuren dat kan worden weergegeven door een pixel (beeldpunt)
     title: Diepte
-  - description: Niet analoog, stuurt niet "gewoon" alle data door de lijn, maar maakt gebruik van verschillen in spanning, frequentie etc. om zo een stroom van 0-en en 1-en door te geven
+  - description: Niet analoog, stuurt niet &quot;gewoon&quot; alle data door de lijn, maar maakt gebruik van verschillen in spanning, frequentie etc. om zo een stroom van 0-en en 1-en door te geven
     title: Digitaal
   - description: systeem om vuiltjes en krasjes in foto's tijdens het scannen te verwijderen
     title: Digital ICE
@@ -1845,7 +1845,7 @@ accordion:
     title: DIP
   - description: Dual In Line Package, chip package met 2 rijen met aansluitingen, meestal aan de zijkanten van de behuizing. Is een synoniem van DIP. Zie ook...Chip Package
     title: DIL
-  - description: Document Image Processing, systeem met scanner, documentopslagsysteem en zoeksysteem. Ook bekend als "het papiervrije kantoor"
+  - description: Document Image Processing, systeem met scanner, documentopslagsysteem en zoeksysteem. Ook bekend als &quot;het papiervrije kantoor&quot;
     title: DIP
   - description: Een schakelaartje met dezelfde functie als een jumper. Dit zijn hele kleine knopjes. Zie ook...Jumper
     title: Dipswitch
@@ -2229,7 +2229,7 @@ accordion:
     title: Encryptie
   - description: Norm voor zuinige computers/beelschermen
     title: Energy Star
-  - description: Letterlijk vertaald... motor. Hier wordt vaak een systeem bedoelt die "het zware werk doet", waaronder een engine in een database (zoekt de data op) en een engine in een computerspel (deze bedenkt zetten van de tegenspelers en maakt het beeld)
+  - description: Letterlijk vertaald... motor. Hier wordt vaak een systeem bedoelt die &quot;het zware werk doet&quot;, waaronder een engine in een database (zoekt de data op) en een engine in een computerspel (deze bedenkt zetten van de tegenspelers en maakt het beeld)
     title: Engine
   - description: modus van een processor om te kunnen werken met 32-bits besturingssystemen
     title: Enhanced mode
@@ -2379,7 +2379,7 @@ accordion:
     title: FD
   - description: Frequenty Division Duplex, Techniek waarbij het heen- en terugsignaal over aparte frequenties gaan. Wordt onder andere gebruikt voor ADSL
     title: FDD
-  - description: Floppy Disk High Density, techniek van Apple voor 3,5" diskdrive die zowel 360k, 400k, 720k, 800k en 1,44 MB diskettes kan lezen en schrijven. Zie ook...Diskette
+  - description: Floppy Disk High Density, techniek van Apple voor 3,5&quot; diskdrive die zowel 360k, 400k, 720k, 800k en 1,44 MB diskettes kan lezen en schrijven. Zie ook...Diskette
     title: FDHD
   - description: Frequency Division Multiple Access, toegangsmechanisme waarbij een aantal digitale kanalen gebruik maken van 1 kanaal door scheiding van frequenties. Zie ook...CDMA, TDMA
     title: FDMA
@@ -2451,9 +2451,9 @@ accordion:
     title: Flic
   - description: een drijvende komma getal, een niet-geheel getal of een variabele die een niet-geheel getal kan bevatten. Zie ook...variabele
     title: Float
-  - description: Een "overstroming". Hiermee wordt vaak een aanval bedoeld om een systeem plat te leggen of om mensen te plagen. Een flood is een zeer grote hoeveelheid (nutteloze) tekens en is een synoniem van flooden
+  - description: Een &quot;overstroming&quot;. Hiermee wordt vaak een aanval bedoeld om een systeem plat te leggen of om mensen te plagen. Een flood is een zeer grote hoeveelheid (nutteloze) tekens en is een synoniem van flooden
     title: Flood
-  - description: Een "overstroming". Hiermee wordt vaak een aanval bedoeld om een systeem plat te leggen of om mensen te plagen. Een flood is een zeer grote hoeveelheid (nutteloze) tekens. Is een synoniem van Flood
+  - description: Een &quot;overstroming&quot;. Hiermee wordt vaak een aanval bedoeld om een systeem plat te leggen of om mensen te plagen. Een flood is een zeer grote hoeveelheid (nutteloze) tekens. Is een synoniem van Flood
     title: flooden
   - description: Floating Point operations per second, Aantal zwevende-komma berekenigen per seconde. Het aantal FLOPS weerspiegeld de echte snelheid van de computer. Vaak wordt voor de snelheid gebruik gemaakt van het aantal hertz van en een processor, maar dat is achterhaalt... sommige 1600 Mhz processoren zijn sneller dan andere 3000 Mhz processoren. Zie ook...hertz
     title: FLOPS
@@ -2557,7 +2557,7 @@ accordion:
     title: FTTCab
   - description: Fibre To The Home, netwerk techniek waarbij de glasvezel direct van de centrale naar de abonnee loopt
     title: FTTH
-  - description: Fiber To the Kerb, netwerk architectuur waarbij een glasvezel de telefoon centrale verbindt met een zogenaamde "stoeprandcentrale", waarbij het signaal wordt geconverteerd om, over een koper kabel, door te lopen naar de abonnee
+  - description: Fiber To the Kerb, netwerk architectuur waarbij een glasvezel de telefoon centrale verbindt met een zogenaamde &quot;stoeprandcentrale&quot;, waarbij het signaal wordt geconverteerd om, over een koper kabel, door te lopen naar de abonnee
     title: FTTK
   - description: From Time To Time, Afkorting voor 'van tijd tot tijd', wordt vooral gebruikt bij het chatten. Zie ook...Chatten
     title: FTTT
@@ -2899,9 +2899,9 @@ accordion:
     title: Hardware
   - description: Alle hardware van een computer, en de manier waarop het geordend is
     title: Hardwareconfiguratie
-  - description: een "vingerafdruk" van een bestand. Dit wordt gebruikt voor checksums en bij cryptografie en is een synoniem van Hash. Zie ook...Checksum
+  - description: een &quot;vingerafdruk&quot; van een bestand. Dit wordt gebruikt voor checksums en bij cryptografie en is een synoniem van Hash. Zie ook...Checksum
     title: Hash-key
-  - description: een "vingerafdruk" van een bestand. Dit wordt gebruikt voor checksums en bij cryptografie. Is een synoniem van Hash-key. Zie ook...Checksum
+  - description: een &quot;vingerafdruk&quot; van een bestand. Dit wordt gebruikt voor checksums en bij cryptografie. Is een synoniem van Hash-key. Zie ook...Checksum
     title: Hash
   - description: Hug Back, Afkorting voor 'een knuffel terug', wordt vooral gebruikt bij het chatten. Zie ook...Chatten
     title: HB
@@ -3215,7 +3215,7 @@ accordion:
     title: Icoon
   - description: Een kleine afbeelding waaraan je een bestand/programma kunt herkennen. Is een synoniem van Icoon
     title: Pictogram
-  - description: "I seek you", chatprogramma op internet
+  - description: &quot;I seek you&quot;, chatprogramma op internet
     title: ICQ
   - description: Internet Connection Sharing, programmatuur van Microsoft om internetaansluiting op meer PC's te delen. Zie ook...NAT
     title: ICS
@@ -3477,7 +3477,7 @@ accordion:
     title: IRQ
   - description: Interrupt ReQuest, signaal van een (rand)apparaat aan de processor waarmee om een kort moment rekenkracht wordt gevraagd. Meestal heeft dit betrekking op gegevens die binnenkomen op het apparaat. Is een synoniem van IRQ
     title: Interrupt
-  - description: Industry Standard Architecture, "Bus" gebruikt bij oude XT en AT PC's. Ondersteunt alleen 16-bits en bij 8MHz. Gebruikt voor oudere geluidskaarten, modems, netwerkkaarten enz
+  - description: Industry Standard Architecture, &quot;Bus&quot; gebruikt bij oude XT en AT PC's. Ondersteunt alleen 16-bits en bij 8MHz. Gebruikt voor oudere geluidskaarten, modems, netwerkkaarten enz
     title: ISA
   - description: Indexed Sequental Access Method, Een systeem voor het ophalen van informatie dat nog veel in databases wordt gebruikt
     title: ISAM
@@ -3907,7 +3907,7 @@ accordion:
     title: Luminantie
   - description: De helderheid een kleur. Een kleur met luminantie 100% is altijd wit, en 0% is helemaal zwart. Is een synoniem van Luminantie. Zie ook...Tint, Verzadiging
     title: Luminance
-  - description: Het lezen van chatkanalen, fora's, nieuwsgroepen, mailinglijsten etc. zonder zelf iets te "zeggen". Het is handig eerst even te "lurken" voordat je zelf iets doet, want dan kun je de regels te weten komen, en kijken of het kanaal interessant is
+  - description: Het lezen van chatkanalen, fora's, nieuwsgroepen, mailinglijsten etc. zonder zelf iets te &quot;zeggen&quot;. Het is handig eerst even te &quot;lurken&quot; voordat je zelf iets doet, want dan kun je de regels te weten komen, en kijken of het kanaal interessant is
     title: Lurking
   - description: Low Voltage, Processoren die op een laag voltage draaien en zo zuiniger zijn, maar wel een beetje van hun prestaties inleveren
     title: LV
@@ -4541,7 +4541,7 @@ accordion:
     title: OOPS
   - description: Out Of The Box, Afkorting voor 'uit de doos', functies die al aanwezig zijn in een programma/systeem zonder dat je er iets voor hoeft te doen, wordt vooral gebruikt bij het chatten. Zie ook...Chatten
     title: OOTB
-  - description: Obligatory On Topic Comment, Afkorting voor 'wat men in zo'n geval "verplicht" zegt', wordt vooral gebruikt bij het chatten. Zie ook...Chatten
+  - description: Obligatory On Topic Comment, Afkorting voor 'wat men in zo'n geval &quot;verplicht&quot; zegt', wordt vooral gebruikt bij het chatten. Zie ook...Chatten
     title: OOTC
   - description: standaard voor compound documenten van Apple. Zie ook...Compound Document
     title: OpenDoc
@@ -4623,11 +4623,11 @@ accordion:
     title: Out-of-order Execution
   - description: Verzamelnaam voor apparaten die een computer gegevens naar een gebruiker laten sturen zoals een beeldscherm, speakers of een printerof gegevens die een computer verlaten, zoals de gegevens op een beeldscherm, geluid via de speakers of netwerkdata
     title: Output
-  - description: Overhead is meestal de header informatie, de informatie die de "echte" informatie beschrijft en begeleid. Overhead zorgt er op die manier voor dat er minder "echte" informatie verzonden kan worden. Daarom moet de overhead zo laag mogelijk worden gehouden. Overhead kunnen ook controlepakketten zijn die nodig zijn om de echte pakketten te begeleiden
+  - description: Overhead is meestal de header informatie, de informatie die de &quot;echte&quot; informatie beschrijft en begeleid. Overhead zorgt er op die manier voor dat er minder &quot;echte&quot; informatie verzonden kan worden. Daarom moet de overhead zo laag mogelijk worden gehouden. Overhead kunnen ook controlepakketten zijn die nodig zijn om de echte pakketten te begeleiden
     title: Overhead
-  - description: Het "opvoeren" van een computer door meer opdrachten door de processor heen te sturen. Hierdoor kan het systeem echter beschadigt raken als dit verkeerd gedaan wordt, omdat de processor oververhit kan raken en is een synoniem van Overclocken
+  - description: Het &quot;opvoeren&quot; van een computer door meer opdrachten door de processor heen te sturen. Hierdoor kan het systeem echter beschadigt raken als dit verkeerd gedaan wordt, omdat de processor oververhit kan raken en is een synoniem van Overclocken
     title: Overklokken
-  - description: Het "opvoeren" van een computer door meer opdrachten door de processor heen te sturen. Hierdoor kan het systeem echter beschadigt raken als dit verkeerd gedaan wordt, omdat de processor oververhit kan raken. Is een synoniem van Overklokken
+  - description: Het &quot;opvoeren&quot; van een computer door meer opdrachten door de processor heen te sturen. Hierdoor kan het systeem echter beschadigt raken als dit verkeerd gedaan wordt, omdat de processor oververhit kan raken. Is een synoniem van Overklokken
     title: Overclocken
   - description: Een functie of een operator meerdere functies geven. Zo wordt afhankelijk van het gebruik een functie gekozen. Wordt in C(++) gebruikt
     title: Overladen
@@ -4649,13 +4649,13 @@ accordion:
     title: PABG
   - description: Priority Access Control Enabled, systeem waarbij bepaalde data op een netwerk voorrang krijgt
     title: PACE
-  - description: De behuizing van een chip, en de metalen pinnen die eruit steken om contact te maken met "de buitenwereld" en is een synoniem van Chip Package, Chip carrier, Chip container
+  - description: De behuizing van een chip, en de metalen pinnen die eruit steken om contact te maken met &quot;de buitenwereld&quot; en is een synoniem van Chip Package, Chip carrier, Chip container
     title: Package
-  - description: De behuizing van een chip, en de metalen pinnen die eruit steken om contact te maken met "de buitenwereld". Is een synoniem van Package
+  - description: De behuizing van een chip, en de metalen pinnen die eruit steken om contact te maken met &quot;de buitenwereld&quot;. Is een synoniem van Package
     title: Chip Package
-  - description: De behuizing van een chip, en de metalen pinnen die eruit steken om contact te maken met "de buitenwereld". Is een synoniem van Package
+  - description: De behuizing van een chip, en de metalen pinnen die eruit steken om contact te maken met &quot;de buitenwereld&quot;. Is een synoniem van Package
     title: Chip carrier
-  - description: De behuizing van een chip, en de metalen pinnen die eruit steken om contact te maken met "de buitenwereld". Is een synoniem van Package
+  - description: De behuizing van een chip, en de metalen pinnen die eruit steken om contact te maken met &quot;de buitenwereld&quot;. Is een synoniem van Package
     title: Chip container
   - description: Een programma dat alle langskomende pakketten binnenhaalt en analyseert. Op die manier kunnen analyses gemaakt worden van wat voor verkeer er langskomt en hoeveel. Sniffers worden niet alleen door systeembeheerders, maar ook door hackers en crackers gebruikt en is een synoniem van Packet analyser
     title: Packet sniffer
@@ -5141,7 +5141,7 @@ accordion:
     title: PSD
   - description: Beveiligingsprotocol. Zie ook...Protocol
     title: PSec
-  - description: vooraf een "schets" maken van hoe een programma gaat werken, om zo het programmeren te vergemakkelijken
+  - description: vooraf een &quot;schets&quot; maken van hoe een programma gaat werken, om zo het programmeren te vergemakkelijken
     title: Pseudocode
   - description: Peak Signal-to-Noise ratio, Getal dat (onder andere) de kwaliteit van een gecomprimeerde video aangeeft. Deze wordt meestal in decibel aangegeven. Hoe hoger hoe beter. Zie ook...Decibel
     title: PSNR
@@ -5239,7 +5239,7 @@ accordion:
     title: RADIUS
   - description: Rate Adaptive DSL, een versie van DSL waarbij het modem de lijn bij opstarten test en de snelheid van de verbinding het maximale van wat de lijn aan kan maakt. Zie ook...DSL
     title: RADSL
-  - description: Redundant Array of Independent Disks, techniek om meerder harde schijven als 1 harde schijf te gebuiken. RAID-0 zorgt voor dubbele snelheid door 2 schijven als een te gebruiken (via striping), RAID-1 maakt van 2 schijven 1 schijf, op de 2e wordt een kopie bijgehouden van de 1e. Bij RAID-5 en RAID-6 word met speciale algoritmen van meer dan 2 schijven 1 schijf "afgesnoept" waarbij een schijf pariteitsinformatie draagt... als 1 schijf kapot gaat kan de informatie herstelt worden. Zie ook...Data Striping, Pariteit, de tutorial hardware/raid
+  - description: Redundant Array of Independent Disks, techniek om meerder harde schijven als 1 harde schijf te gebuiken. RAID-0 zorgt voor dubbele snelheid door 2 schijven als een te gebruiken (via striping), RAID-1 maakt van 2 schijven 1 schijf, op de 2e wordt een kopie bijgehouden van de 1e. Bij RAID-5 en RAID-6 word met speciale algoritmen van meer dan 2 schijven 1 schijf &quot;afgesnoept&quot; waarbij een schijf pariteitsinformatie draagt... als 1 schijf kapot gaat kan de informatie herstelt worden. Zie ook...Data Striping, Pariteit, de tutorial hardware/raid
     title: RAID
   - description: Een voedingsspanning die een voeding levert, elke rail is een andere spanning. Zie ook...Voeding
     title: Rail
@@ -5679,9 +5679,9 @@ accordion:
     title: SET
   - description: SoundFont. Zie ook...sf2
     title: sf
-  - description: SoundFont 2, een bestandsformaat voor het opslaan van "lettertypes" met synthetische instrumenten en is een synoniem van Soundfont
+  - description: SoundFont 2, een bestandsformaat voor het opslaan van &quot;lettertypes&quot; met synthetische instrumenten en is een synoniem van Soundfont
     title: sf2
-  - description: SoundFont 2, een bestandsformaat voor het opslaan van "lettertypes" met synthetische instrumenten. Is een synoniem van sf2
+  - description: SoundFont 2, een bestandsformaat voor het opslaan van &quot;lettertypes&quot; met synthetische instrumenten. Is een synoniem van sf2
     title: Soundfont
   - description: System File Checker, een programma in Windows dat de belangrijke systeembestanden controleert
     title: SFC
@@ -6647,7 +6647,7 @@ accordion:
     title: VR
   - description: Virtual Reality, een omgeving die gesimuleerd is door een computer. Zie ook...simuleren
     title: VR
-  - description: Software die geen gebruik maakt van met patenten beschermde technieken en geen of weinig (juridische) beperkingen heeft. Dit wordt vaak aangeduid met "free as in beer" of "free as in freedom"
+  - description: Software die geen gebruik maakt van met patenten beschermde technieken en geen of weinig (juridische) beperkingen heeft. Dit wordt vaak aangeduid met &quot;free as in beer&quot; of &quot;free as in freedom&quot;
     title: Vrije Software
   - description: Virtual Reality Modeling Language, uitwisselingstaal voor het bekijken van 3D-omgevingen op het WWW
     title: VRML
@@ -6773,7 +6773,7 @@ accordion:
     title: WiFi
   - description: Een console-spelcomputer van Nintendo. Is vooral populair geworden doordat het een besturing met bewegingsdetectie had. Concureert met de Playstation 3 en de Xbox 360. Zie ook...console, Playstation 3, Xbox 360
     title: Wii
-  - description: Een verzameling pagina's die door (bijna) iedereen kan worden aangepast. Het systeem is vaak erg compleet maar helaas "vandalismegevoelig"
+  - description: Een verzameling pagina's die door (bijna) iedereen kan worden aangepast. Het systeem is vaak erg compleet maar helaas &quot;vandalismegevoelig&quot;
     title: Wiki
   - description: een symbool in een zoekopdracht waarmee je aangeeft dat je niet precies weet wat daar moet staan. Als je bijvoorbeeld wilt zoeken naar het woord wildcard in dit woordenboek, en je weet niet precies hoe je dat schrijft kun je naar wil*ard zoeken. Het sterretje (*) is de meest gebruikte wildcard, meestal staat deze voor 0 of meer onbekende tekens. Daarnaast wordt vaak het vraagteken gebruikt, deze staat voor 1 onbekend teken en is een synoniem van Jokerteken
     title: Wildcard
