@@ -375,7 +375,7 @@ accordion:
     title: unmount
   - description: Alternate Frame Rendering, techniek om twee grafische kaarten tegelijk te gebruiken, geeft flikkerend beeld. Zie ook...SLI, PGC, Crossfire
     title: AFR
-  - description: De computer uitzetten of een multisessieschijf afronden: zo kunnen er geen nieuwe sessies meer bij en kan de schijf gelezen worden doordat er bij het afsluiten een inhoudsopgave wordt gemaakt
+  - description: De computer uitzetten of een multisessieschijf afronden, zo kunnen er geen nieuwe sessies meer bij en kan de schijf gelezen worden doordat er bij het afsluiten een inhoudsopgave wordt gemaakt
     title: Afsluiten
   - description: programma dat gegevens zoekt/verzamelt op een netwerk
     title: Agent
