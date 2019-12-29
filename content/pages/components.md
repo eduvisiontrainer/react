@@ -6917,7 +6917,9 @@ accordion:
     title: SVGA
   - description: Wide Super Extended Graphics Array, Een resolutie van (meestal) 1440x900, hoewel volgens de definitie elke resolutie breder dan SXGA in aanmerking komt, omdat deze resolutie de &#39;breedbeeldvariant&#39; van SXGA is
     title: WSXGA
-  - description: Wide Super Extended Graphics Array Plus, Een resolutie van (meestal) 1680x1050, hoewel volgens de definitie elke resolutie breder dan SXGA&#43; in aanmerking komt, omdat deze resolutie de &#39;breedbeeldvariant&#39; van SXGA&#43; is en is een synoniem van SXGA&#43;    title: Wide Super Extended Graphics Array, Een resolutie van (meestal) 1440x900, hoewel volgens de definitie elke resolutie breder dan SXGA in aanmerking komt, omdat deze resolutie de &#39;breedbeeldvariant&#39; van SXGA is. Is een synoniem van WSXGA
+  - description: Wide Super Extended Graphics Array, Een resolutie van (meestal) 1440x900, hoewel volgens de definitie elke resolutie breder dan SXGA in aanmerking komt, omdat deze resolutie de &#39;breedbeeldvariant&#39; van SXGA is.
+    title: WSXGA
+  - description: Wide Super Extended Graphics Array Plus, Een resolutie van (meestal) 1680x1050, hoewel volgens de definitie elke resolutie breder dan SXGA&#43; in aanmerking komt, omdat deze resolutie de &#39;breedbeeldvariant&#39; van SXGA&#43; is en is een synoniem van SXGAplus
     title: WSXGAplus
   - description: Wide Super Extended Graphics Array Plus, Een resolutie van (meestal) 1680x1050, hoewel volgens de definitie elke resolutie breder dan SXGA&#43; in aanmerking komt, omdat deze resolutie de &#39;breedbeeldvariant&#39; van SXGA&#43; is. Is een synoniem van WSXGA&#43;
     title: SXGAplus
