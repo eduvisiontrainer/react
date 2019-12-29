@@ -33,13 +33,13 @@ accordion:
     title: .NET
   - description: een API van Microsoft en synoniem van .NET. Zie ook...API, Mono
     title: dotnet
-  - description: Map in een unixsysteem waarin de programma's staan die nodig zijn bij het opstarten van het systeem. Zie ook...UNIX
+  - description: Map in een unixsysteem waarin de programma&#39;s staan die nodig zijn bij het opstarten van het systeem. Zie ook...UNIX
     title: /bin
   - description: Map in een unixsysteem waarin alle bestanden staan die nodig zijn in het allereerste stadium van het opstarten van het systeem (waaronder de bootloader en de kernel). Zie ook...UNIX, bootloader, kernel
     title: /boot
   - description: Map in een unixsysteem waarin verwijzingen naar alle apparaten op de computer staan. Zie ook...UNIX
     title: /dev
-  - description: Map in een unixsysteem voor configuratiebestanden van programma's met eigenschappen speciaal voor die computer. Zie ook...UNIX, Configuratie
+  - description: Map in een unixsysteem voor configuratiebestanden van programma&#39;s met eigenschappen speciaal voor die computer. Zie ook...UNIX, Configuratie
     title: /etc
   - description: Map in een unixsysteem waarin gebruikers hun documenten kunnen opslaan. Zie ook...UNIX
     title: /home
@@ -53,11 +53,11 @@ accordion:
     title: /proc
   - description: Map in een unixsysteem voor de documenten van de root-gebruiker. Zie ook...UNIX
     title: /root
-  - description: Map in een unixsysteem waarin de belangrijkste programma's van de systeembeheerder staan. Zie ook...UNIX
+  - description: Map in een unixsysteem waarin de belangrijkste programma&#39;s van de systeembeheerder staan. Zie ook...UNIX
     title: /sbin
   - description: Map in een unixsysteem voor tijdelijke bestanden. Zie ook...UNIX
     title: /tmp
-  - description: Map in een unixsysteem waarin de programma's van de gebruikers staan geinstalleerd. Zie ook...UNIX
+  - description: Map in een unixsysteem waarin de programma&#39;s van de gebruikers staan geinstalleerd. Zie ook...UNIX
     title: /usr
   - description: Map in een unixsysteem voor log-bestanden en indexen. Zie ook...UNIX
     title: /var
@@ -135,11 +135,11 @@ accordion:
     title: 4040
   - description: Systeem dat 64-bit lange gegevens kan verwerken. Opvolger van 32-bit. 64-bit systemen kunnen berekeningen met getallen groter dan 32-bit sneller uitvoeren. Zie ook...32-bit
     title: 64-bit
-  - description: Familie van processors van Motorola die in de jaren '80 en begin jaren '90 werden gebruikt in PC's en is een synoniem van 680x0, m68k. Zie ook...Processor
+  - description: Familie van processors van Motorola die in de jaren &#39;80 en begin jaren &#39;90 werden gebruikt in PC&#39;s en is een synoniem van 680x0, m68k. Zie ook...Processor
     title: 68k
-  - description: Familie van processors van Motorola die in de jaren '80 en begin jaren '90 werden gebruikt in PC's. Is een synoniem van 68k. Zie ook...Processor
+  - description: Familie van processors van Motorola die in de jaren &#39;80 en begin jaren &#39;90 werden gebruikt in PC&#39;s. Is een synoniem van 68k. Zie ook...Processor
     title: 680x0
-  - description: Familie van processors van Motorola die in de jaren '80 en begin jaren '90 werden gebruikt in PC's. Is een synoniem van 68k. Zie ook...Processor
+  - description: Familie van processors van Motorola die in de jaren &#39;80 en begin jaren &#39;90 werden gebruikt in PC&#39;s. Is een synoniem van 68k. Zie ook...Processor
     title: m68k
   - description: Een opstelling van luidsprekers waarbij er 7 (kleine) tweeters en 1 (grote) subwoofer gebruikt worden. Dit is surroundgeluid. Het geluid hiervan zou nog ruimtelijker dan 5.1 moeten klinken. Zie ook...Tweeter, Subwoofer, Surroundsound, 5.1
     title: 7.1
@@ -219,7 +219,7 @@ accordion:
     title: AAT
   - description: Software (meestal spelletjes) die verouderd is en door de fabrikant niet meer wordt verkocht of ondersteund. Deze zijn vaak gratis te verkrijgen
     title: Abandonware
-  - description: application binary interface, een API die al gecompileerd is. Wordt vaak gebruikt om het besturingssysteem te laten communiceren met programma's. Zie ook...API, Besturingssysteem
+  - description: application binary interface, een API die al gecompileerd is. Wordt vaak gebruikt om het besturingssysteem te laten communiceren met programma&#39;s. Zie ook...API, Besturingssysteem
     title: ABI
   - description: Advanced BIOS, term van IBM voor BIOS voor OS/2, gebruikt in PS/2. Zie ook...BIOS
     title: ABIOS
@@ -229,14 +229,14 @@ accordion:
     title: ABR
   - description: Area Border Router, router die een LAN met een backbone verbind
     title: ABR
-  - description: Het opsplitsen van programma's in eenheden, zoals objecten en functie, om het geheel begrijpelijker te maken
+  - description: Het opsplitsen van programma&#39;s in eenheden, zoals objecten en functie, om het geheel begrijpelijker te maken
     title: Abstractie
   - description: About, Afkorting die Over / Info betekend, wordt vooral gebruikt bij het chatten. Zie ook...Chatten
     title: ABT
   - description: Alternating Current, Wisselstroom
     title: AC
   - description: Audio Codec 1997, een architectuur voor geluidskaarten ontwikkeld door Intel. Wordt vooral veel gebruikt in geluidskaarten op het moederbord
-    title: AC'97
+    title: AC&#39;97
   - description: Adresbus tussen de processor en het geheugen. Zie ook...adresbus, Processor
     title: Accessbus
   - description: Apparaat om draadloos toegang tot een netwerk te verschaffen en is een synoniem van AP
@@ -259,17 +259,17 @@ accordion:
     title: ACGI
   - description: Taak die uitgevoerd wordt zonder dat de gebruiker er iets van merkt
     title: Achtergrondtaak
-  - description: Automatic Channel Installation, Een systeem voor televisies om automatisch kanalen te installeren in de volgorde van het zogenaamde mozaïkscherm van het bedrijf waarbij de kijker zit aangesloten. Zo'n mozaïkscherm is een kanaal waar alle kanalen bij elkaar in het klein staan, zodat ze tegelijk op het scherm passen
+  - description: Automatic Channel Installation, Een systeem voor televisies om automatisch kanalen te installeren in de volgorde van het zogenaamde mozaïkscherm van het bedrijf waarbij de kijker zit aangesloten. Zo&#39;n mozaïkscherm is een kanaal waar alle kanalen bij elkaar in het klein staan, zodat ze tegelijk op het scherm passen
     title: ACI
   - description: Access Control List, Een lijst die bij een object hoort en aangeeft welke gebruikers wat wel en wat niet mogen doen met dat object, vaak een bestand of een map
     title: ACL
-  - description: Advanced Configuration and Power Integration, Een geheel van chips, programma's en sensoren die stroomgebruik en acculading bijhoudt. Dit zorgt ervoor dat je vanuit je besturingssysteem kan kijken hoe vol je accu is. Zie ook...Besturingssysteem
+  - description: Advanced Configuration and Power Integration, Een geheel van chips, programma&#39;s en sensoren die stroomgebruik en acculading bijhoudt. Dit zorgt ervoor dat je vanuit je besturingssysteem kan kijken hoe vol je accu is. Zie ook...Besturingssysteem
     title: ACPI
   - description: Allowed Cell Rate, maximale hoeveelheid cellen per seconde op een ATM netwerk. Zie ook...ATM
     title: ACR
   - description: systeem voor platform-onafhankelijke bestandsuitwisseling, werkt met PDF
     title: Acrobat
-  - description: Association Control Service Element, OSI conventie die gebruikt wordt om een verbinding tussen 2 programma's te starten, te onderhouden en af te breken. Zie ook...osi
+  - description: Association Control Service Element, OSI conventie die gebruikt wordt om een verbinding tussen 2 programma&#39;s te starten, te onderhouden en af te breken. Zie ook...osi
     title: ACSE
   - description: LCD-scherm met een erg scherp beeld
     title: Actieve Matrix
@@ -325,7 +325,7 @@ accordion:
     title: Adres
   - description: Bus die (geheugen)adressen verzend. Zie ook...adres
     title: Adresbus
-  - description: het aanroepen van een object of een element via een 'adres', een systematische naam of een getal
+  - description: het aanroepen van een object of een element via een &#39;adres&#39;, een systematische naam of een getal
     title: Adresseren
   - description: Alternate Data Stream, De mogelijkheid in NTFS om data bij een bestand te plakken die moeilijk terug te vinden is. Hier wordt weinig gebruik van gemaakt, maar zou door malware kunnen worden gebruikt kunnen worden om er dingen in te verbergen
     title: ADS
@@ -341,9 +341,9 @@ accordion:
     title: ADT
   - description: een spel waarbij je een personage bestuurd en dat door een wereld moet leiden naar een bepaald doel. Hierbij moet je voorwerpen verzamelen, plaatsen verkennen, voorwerpen gebruiken en puzzels/vragen oplossen
     title: Adventure
-  - description: Advertisment software, programma's waarin advertenties getoont worden, zodat de maker er geld mee kan verdienen
+  - description: Advertisment software, programma&#39;s waarin advertenties getoont worden, zodat de maker er geld mee kan verdienen
     title: Adware
-  - description: AppleEvent, Een systeem waarmee programma's op een Mac-computer met elkaar kunnen communiceren
+  - description: AppleEvent, Een systeem waarmee programma&#39;s op een Mac-computer met elkaar kunnen communiceren
     title: AE
   - description: Architectural, Engineering, and Construction CAD, Met de computer tekeningen maken en doorrekenen. Zie ook...CAD
     title: AECCAD
@@ -353,15 +353,15 @@ accordion:
     title: AES
   - description: Advanced Encryption Standard, een standaard voor zeer goede encryptie. Is een synoniem van AES. Zie ook...encryptie
     title: Rijndael
-  - description: As Far As I'm Concerned, Afkorting voor 'wat mij betreft'
+  - description: As Far As I&#39;m Concerned, Afkorting voor &#39;wat mij betreft&#39;
     title: AFAIC
   - description: As Far As I Can See, Afkorting die Zover ik het kan overzien betekend, wordt vooral gebruikt bij het chatten. Zie ook...Chatten
     title: AFAICS
   - description: As Far As I Can Tell, Afkorting die Voor zover ik het begrijp betekend, wordt vooral gebruikt bij het chatten. Zie ook...Chatten
     title: AFAICT
-  - description: As Far As I Know, Afkorting voor 'voor zover ik weet'
+  - description: As Far As I Know, Afkorting voor &#39;voor zover ik weet&#39;
     title: AFAIK
-  - description: As Far As I Remember, Afkorting voor 'voor zover ik mij herinner'
+  - description: As Far As I Remember, Afkorting voor &#39;voor zover ik mij herinner&#39;
     title: AFAIR
   - description: As Far As You’re Concerned, Afkorting die Wat jou betreft betekend, wordt vooral gebruikt bij het chatten. Zie ook...Chatten
     title: AFAYC
@@ -395,7 +395,7 @@ accordion:
     title: AH
   - description: Accelerated Hub Architecture, techniek voor Front Side Bus van Intel, 133 MHz. Zie ook...MCH, ICH, FWH, FSB
     title: AHA
-  - description: Zeer bekend programma om CD's, DVD's en dergelijke mee te branden, hoewel de laatste versies van het programma een uitgebreid aanbod aan allerlei multimediafuncties hebben
+  - description: Zeer bekend programma om CD&#39;s, DVD&#39;s en dergelijke mee te branden, hoewel de laatste versies van het programma een uitgebreid aanbod aan allerlei multimediafuncties hebben
     title: Ahead Nero
   - description: Artificial Intelligence, technologie die te maken heeft met kunstmatige intelligentie, computers en systemen die intelligent zijn
     title: AI
@@ -417,13 +417,13 @@ accordion:
     title: AIUI
   - description: besturingssysteem van IBM. Zie ook...Besturingssysteem
     title: AIX
-  - description: Asynchronous Javascript And XML, Techniek voor websites waarbij niet de gehele pagina maar slechts specifieke data wordt gedownload. O.a. on-line routeplanners en kaartenprogramma's maken gebruik van deze technieken
+  - description: Asynchronous Javascript And XML, Techniek voor websites waarbij niet de gehele pagina maar slechts specifieke data wordt gedownload. O.a. on-line routeplanners en kaartenprogramma&#39;s maken gebruik van deze technieken
     title: AJAX
   - description: also know as, Afkorting voor beter bekend als. Wordt vooral gebruikt bij het chatten
     title: aka
   - description: Apple Lossless, een lossless codec van Apple voor muziek
     title: ALE
-  - description: Alle letters (hoofdletters en kleine letters) en cijfers, en dus geen komma's, punten, apenstaartjes en dergelijke
+  - description: Alle letters (hoofdletters en kleine letters) en cijfers, en dus geen komma&#39;s, punten, apenstaartjes en dergelijke
     title: Alfanumeriek
   - description: Een gegevensdrager die voor iedereen toegankelijk is
     title: Algemene gegevensdrager
@@ -437,7 +437,7 @@ accordion:
     title: snelkoppeling
   - description: vervorming van beeld of geluid bij veel detail, scherpe randen in beelden of hoge frequenties in geluid. Zie ook...Anti-Aliasing
     title: Aliasing
-  - description: Homecomputer, ook voor educatief gebruik. Ontwikkeld eind jaren '80
+  - description: Homecomputer, ook voor educatief gebruik. Ontwikkeld eind jaren &#39;80
     title: Alice
   - description: Het reserveren van geheugen en is een synoniem van Alloceren
     title: Allocatie
@@ -445,7 +445,7 @@ accordion:
     title: Alloceren
   - description: Techniek om gekromde oppervlakken te reproduceren onder andere belichting
     title: Alpha blending
-  - description: het kanaal waarin de 'doorzichtigheid' van een kleur wordt opgeslagen
+  - description: het kanaal waarin de &#39;doorzichtigheid&#39; van een kleur wordt opgeslagen
     title: Alpha channel
   - description: de alpha-versie van een programma is nog niet af en bevat vaak nog niet alle onderdelen. Zodra een programma goed te gebruiken is komt er een beta-versie van uit. Zie ook...Beta-versie
     title: Alpha-versie
@@ -513,21 +513,21 @@ accordion:
     title: AA
   - description: techniek om aliasing tegen te gaan. Is een synoniem van Anti-aliasing. Zie ook...aliasing
     title: FSAA
-  - description: Programma's dat virussen opspoort en verwijderd en is een synoniem van AV. Zie ook...virus
+  - description: Programma&#39;s dat virussen opspoort en verwijderd en is een synoniem van AV. Zie ook...virus
     title: Anti-Virus
-  - description: Programma's dat virussen opspoort en verwijderd. Is een synoniem van Anti-Virus. Zie ook...virus
+  - description: Programma&#39;s dat virussen opspoort en verwijderd. Is een synoniem van Anti-Virus. Zie ook...virus
     title: AV
   - description: Het verzenden van een bericht over een netwerk naar een willekeurige computer
     title: Anycast
-  - description: Een OpenSource HTTP Webserver, wordt vaak gebruikt om website's op te hosten in een Linux omgeving. Zie ook...Linux, Webserver
+  - description: Een OpenSource HTTP Webserver, wordt vaak gebruikt om website&#39;s op te hosten in een Linux omgeving. Zie ook...Linux, Webserver
     title: Apache
-  - description: een lossless codec voor geluid van Monkey's Audio
+  - description: een lossless codec voor geluid van Monkey&#39;s Audio
     title: APE
-  - description: Het teken @, ook wel at genoemd. Dit teken wordt gebruikt voor het engelse woord at bij computers, ofwel 'op' of 'bij', onder andere in e-mailadressen. meneer@gmail.com betekent hier dus dat er een mail wordt gestuurd naar een persoon die 'meneer' heet (of zich zo voordoet) die zijn mailbox bij gmail.com heeft. Wordt ook vaak gebruikt om een locatie aan te geven en is een synoniem van at, @
+  - description: Het teken @, ook wel at genoemd. Dit teken wordt gebruikt voor het engelse woord at bij computers, ofwel &#39;op&#39; of &#39;bij&#39;, onder andere in e-mailadressen. meneer@gmail.com betekent hier dus dat er een mail wordt gestuurd naar een persoon die &#39;meneer&#39; heet (of zich zo voordoet) die zijn mailbox bij gmail.com heeft. Wordt ook vaak gebruikt om een locatie aan te geven en is een synoniem van at, @
     title: Apenstaartje
-  - description: Het teken @, ook wel at genoemd. Dit teken wordt gebruikt voor het engelse woord at bij computers, ofwel 'op' of 'bij', onder andere in e-mailadressen. meneer@gmail.com betekent hier dus dat er een mail wordt gestuurd naar een persoon die 'meneer' heet (of zich zo voordoet) die zijn mailbox bij gmail.com heeft. Wordt ook vaak gebruikt om een locatie aan te geven. Is een synoniem van Apenstaartje
+  - description: Het teken @, ook wel at genoemd. Dit teken wordt gebruikt voor het engelse woord at bij computers, ofwel &#39;op&#39; of &#39;bij&#39;, onder andere in e-mailadressen. meneer@gmail.com betekent hier dus dat er een mail wordt gestuurd naar een persoon die &#39;meneer&#39; heet (of zich zo voordoet) die zijn mailbox bij gmail.com heeft. Wordt ook vaak gebruikt om een locatie aan te geven. Is een synoniem van Apenstaartje
     title: at
-  - description: Het teken @, ook wel at genoemd. Dit teken wordt gebruikt voor het engelse woord at bij computers, ofwel 'op' of 'bij', onder andere in e-mailadressen. meneer@gmail.com betekent hier dus dat er een mail wordt gestuurd naar een persoon die 'meneer' heet (of zich zo voordoet) die zijn mailbox bij gmail.com heeft. Wordt ook vaak gebruikt om een locatie aan te geven. Is een synoniem van Apenstaartje
+  - description: Het teken @, ook wel at genoemd. Dit teken wordt gebruikt voor het engelse woord at bij computers, ofwel &#39;op&#39; of &#39;bij&#39;, onder andere in e-mailadressen. meneer@gmail.com betekent hier dus dat er een mail wordt gestuurd naar een persoon die &#39;meneer&#39; heet (of zich zo voordoet) die zijn mailbox bij gmail.com heeft. Wordt ook vaak gebruikt om een locatie aan te geven. Is een synoniem van Apenstaartje
     title: &#64;
   - description: Application Programming Interface, een set functies die het makkelijker maakt om bepaalde taken uit te voeren of zelfs de taak overneemt. Tijdens het compileren (en wel specifiek het linken) worden de gebruikte functies naar het programma gekopieerd. Vaak blijven grote delen van die functies achter in zogenaamde libraries waar de functies uit worden gehaald tijdens het uitvoeren van het programma. Zie ook...Programmabibliotheek, Functie
     title: API
@@ -539,7 +539,7 @@ accordion:
     title: APON
   - description: Adjusted Peak Performance, Een systeem om de prestaties van 64-bit systemen te kunnen meten
     title: APP
-  - description: Applicatie, Een term die meestal verwijst naar programma's voor mobiele apparaten, zoals smartphones of tablets
+  - description: Applicatie, Een term die meestal verwijst naar programma&#39;s voor mobiele apparaten, zoals smartphones of tablets
     title: App
   - description: Amerikaanse computerfabrikant
     title: Apple
@@ -587,7 +587,7 @@ accordion:
     title: Array
   - description: ATM Subscriber Access Multiplexer, hetzelfde als DSLAM. Zie ook...DSLAM
     title: ASAM
-  - description: As soon as possible, Een afkorting voor 'zo snel mogelijk', wordt veel gebruikt bij het chatten of op forums
+  - description: As soon as possible, Een afkorting voor &#39;zo snel mogelijk&#39;, wordt veel gebruikt bij het chatten of op forums
     title: ASAP
   - description: Autonomous System Boundary Router, ABR die geplaatst is tussen een autonoom OSPF systeem en een niet-OSPF netwerk. Zie ook...ABR
     title: ASBR
@@ -607,9 +607,9 @@ accordion:
     title: ASN1
   - description: Assistant System OPerator, Afkorting die Assistent systeembeheerder betekend, wordt vooral gebruikt bij het chatten. Zie ook...Chatten
     title: ASOP
-  - description: Application Service Provider, bedrijf dat programma's via het internet aanbied aan klanten zodat ze altijd de nieuwste versie hebben
+  - description: Application Service Provider, bedrijf dat programma&#39;s via het internet aanbied aan klanten zodat ze altijd de nieuwste versie hebben
     title: ASP
-  - description: Active Server Pages, programmeertaal van Microsoft voor internetpagina's, vervangen door ASP+
+  - description: Active Server Pages, programmeertaal van Microsoft voor internetpagina&#39;s, vervangen door ASP+
     title: ASP
   - description: Active Server Pages Plus, snellere versie van ASP doordat scripts worden gecompileerd naar MSIL. Zie ook...ASP, MSIL
     title: ASP+
@@ -617,9 +617,9 @@ accordion:
     title: Aspectratio
   - description: Advanced SCSI Programming Interface, een API voor het aansturen van SCSI en ATAPI apparaten. Zie ook...API
     title: ASPI
-  - description: De extensie voor ASP pagina's met .net uitbreidingen en is een synoniem van ASP.net. Zie ook...ASP, .net
+  - description: De extensie voor ASP pagina&#39;s met .net uitbreidingen en is een synoniem van ASP.net. Zie ook...ASP, .net
     title: ASPX
-  - description: De extensie voor ASP pagina's met .net uitbreidingen. Is een synoniem van ASPX. Zie ook...ASP, .net
+  - description: De extensie voor ASP pagina&#39;s met .net uitbreidingen. Is een synoniem van ASPX. Zie ook...ASP, .net
     title: ASP.net
   - description: Automated System Recovery, voorziening van Windows XP Profesional Edition om automatisch het systeem te herstellen bij een chrash
     title: ASR
@@ -643,7 +643,7 @@ accordion:
     title: ATA
   - description: Advanced Technology Attachment (ook bekend als IDE); standaard voor de verbinding tussen het moederbord en harddisk. Door de komst van SATA heet het vroegere ATA nu PATA. Is een synoniem van ATA. Zie ook...ATAPI, SATA
     title: PATA
-  - description: Authoring Tool Accessibility Guidelines, specificatie voor webpagina-editors die aangeeft wat een editor moet kunnen om webpagina's zo toegankelijk mogelijk te maken
+  - description: Authoring Tool Accessibility Guidelines, specificatie voor webpagina-editors die aangeeft wat een editor moet kunnen om webpagina&#39;s zo toegankelijk mogelijk te maken
     title: ATAG
   - description: Advanced Technology Attachment Packet Interface, standaard om een verwisselbare drive (bijvoorbeeld cd-rom) op een E-IDE-poort aan te sluiten. Zie ook...ATA
     title: ATAPI
@@ -655,9 +655,9 @@ accordion:
     title: ATI
   - description: Automated Tape Library, Een tapedrive met een robotarm die helemaal zelfstandig tapes in en uit kan voeren. Op die manier kan het apparaat helemaal zelfstandig backups maken
     title: ATL
-  - description: Microsoft's versie van AJAX. Zie ook...AJAX
+  - description: Microsoft&#39;s versie van AJAX. Zie ook...AJAX
     title: Atlas
-  - description: At the moment, Afkorting voor 'momenteel'
+  - description: At the moment, Afkorting voor &#39;momenteel&#39;
     title: ATM
   - description: Adobe Type Manager, systeem van Adobe om afwijkende lettergroottes toch scherp op beeldscherm te kunnen tonen
     title: ATM
@@ -675,9 +675,9 @@ accordion:
     title: ATU-R
   - description: ADSL Transmission Unit for Resident, het apparaat dat tussen het eind van een ADSL lijn en het eerste apparaat (telefoon switch) in een wijkcentrale staat. Is een synoniem van ATU-R
     title: ATU-C
-  - description: Een 2e connector die het moederbord voedt. Deze zit vooral op nieuwere moederborden en heeft 4 pinnen. Deze is bedoelt om hongerige CPU's extra stroom te leveren en is een synoniem van P4
+  - description: Een 2e connector die het moederbord voedt. Deze zit vooral op nieuwere moederborden en heeft 4 pinnen. Deze is bedoelt om hongerige CPU&#39;s extra stroom te leveren en is een synoniem van P4
     title: ATX12V
-  - description: Een 2e connector die het moederbord voedt. Deze zit vooral op nieuwere moederborden en heeft 4 pinnen. Deze is bedoelt om hongerige CPU's extra stroom te leveren. Is een synoniem van ATX12V
+  - description: Een 2e connector die het moederbord voedt. Deze zit vooral op nieuwere moederborden en heeft 4 pinnen. Deze is bedoelt om hongerige CPU&#39;s extra stroom te leveren. Is een synoniem van ATX12V
     title: P4
   - description: Geluid
     title: Audio
@@ -757,7 +757,7 @@ accordion:
     title: Bank
   - description: Het slot waarin de geheugenmodules zitten. Wordt ook wel geheugenbank genoemd. Is een synoniem van Bank. Zie ook...slot
     title: geheugenbank
-  - description: reclame op het internet die meestal horizontaal 'ligt'. De standaardgrootte is 468 bij 60 pixels. De naam banner wordt vaak ook als verzamelnaam voor reclame via afbeeldingen op het internet gebruikt
+  - description: reclame op het internet die meestal horizontaal &#39;ligt&#39;. De standaardgrootte is 468 bij 60 pixels. De naam banner wordt vaak ook als verzamelnaam voor reclame via afbeeldingen op het internet gebruikt
     title: Banner
   - description: Best Access Point, Techniek voor WiFi om het sterkste accesspoint te vinden. Zie ook...WiFi, Accesspoint
     title: BAP
@@ -769,7 +769,7 @@ accordion:
     title: Baseline
   - description: Bourne-again shell, interactieve UNIX commandolijn-scripttaal gebaseerd op de traditionele Bourne omgeving, maar met veel meer functionaliteit. Zie ook...UNIX
     title: Bash
-  - description: Beginner's All-purpose Symbolic Instruction Code, programmeertaal voor beginners. Uitgebracht in 1965
+  - description: Beginner&#39;s All-purpose Symbolic Instruction Code, programmeertaal voor beginners. Uitgebracht in 1965
     title: BASIC
   - description: het werken met meerdere bestanden tegelijkertijd en een scripttaal voor Windows. Zie ook...Scripttaal.
     title: Batch
@@ -785,11 +785,11 @@ accordion:
     title: BBLBNTSBO...
   - description: Burnt Beyond Repair, Afkorting die onherstelbaar verbrand betekend, wordt vooral gebruikt bij het chatten. Zie ook...Chatten
     title: BBR
-  - description: Bulletin Board System, systeem voor het downloaden van software en uitwisselen van berichten uit de jaren '80. Tegenwoordig is BBS een synoniem voor forum en is een synoniem van BB, Prikbord
+  - description: Bulletin Board System, systeem voor het downloaden van software en uitwisselen van berichten uit de jaren &#39;80. Tegenwoordig is BBS een synoniem voor forum en is een synoniem van BB, Prikbord
     title: BBS
-  - description: Bulletin Board System, systeem voor het downloaden van software en uitwisselen van berichten uit de jaren '80. Tegenwoordig is BBS een synoniem voor forum. Is een synoniem van BBS
+  - description: Bulletin Board System, systeem voor het downloaden van software en uitwisselen van berichten uit de jaren &#39;80. Tegenwoordig is BBS een synoniem voor forum. Is een synoniem van BBS
     title: BB
-  - description: Bulletin Board System, systeem voor het downloaden van software en uitwisselen van berichten uit de jaren '80. Tegenwoordig is BBS een synoniem voor forum. Is een synoniem van BBS
+  - description: Bulletin Board System, systeem voor het downloaden van software en uitwisselen van berichten uit de jaren &#39;80. Tegenwoordig is BBS een synoniem voor forum. Is een synoniem van BBS
     title: Prikbord
   - description: Blind Carbon Copy, Een kopie van een e-mailbericht (zoals een CC) waarbij niemand die een kopie heeft gekregen kan zien dat de e-mail ook aan de persoon bij de BCC is gezonden
     title: BCC
@@ -871,7 +871,7 @@ accordion:
     title: BGP4
   - description: Browser Helper Objects, Plug-in voor Internet Explorer
     title: BHO
-  - description: Burned In MAC address, een adres dat in bepaalde hardware 'gebrand' zit, het kan niet veranderd worden
+  - description: Burned In MAC address, een adres dat in bepaalde hardware &#39;gebrand&#39; zit, het kan niet veranderd worden
     title: BIA
   - description: Maakt de textures glad om blokkige effecten te reduceren; tri-lineair filtering werkt beter maar gebruikt meer processorkracht
     title: Bilinear filtering
@@ -889,7 +889,7 @@ accordion:
     title: BIOS
   - description: Bit Interleaved Parity, De pariteitsbit bij ATM. Zie ook...Pariteit
     title: BIP
-  - description: Back in a second, Afkorting voor 'ik ben zo terug', wordt vooral gebruikt bij het chatten. Zie ook...Chatten
+  - description: Back in a second, Afkorting voor &#39;ik ben zo terug&#39;, wordt vooral gebruikt bij het chatten. Zie ook...Chatten
     title: BIS
   - description: Built-In Self-Test, functie in hardware of software om zichzelf te testen op juiste werking
     title: BIST
@@ -901,7 +901,7 @@ accordion:
     title: Bitmap
   - description: But In The MeanTime, Afkorting die maar ondertussen betekend, wordt vooral gebruikt bij het chatten. Zie ook...Chatten
     title: BITMT
-  - description: Because It's Time Network, chat-netwerk, sinds 1980
+  - description: Because It&#39;s Time Network, chat-netwerk, sinds 1980
     title: Bitnet
   - description: snelheid van een verbinding of de grootte van een multimediabestand in aantal bits per seconde en is een synoniem van bps
     title: Bitrate
@@ -917,7 +917,7 @@ accordion:
     title: biw
   - description: back, Terug. Een afkorting die aangeeft dat de gebruiker weer terug is, in tegenstelling tot brb. In Nederlandstalige chats wordt vaak biw gebruikt in plaats van bk. Wordt vooral bij het chatten gebruikt. Zie ook...biw, brb
     title: bk
-  - description: Better Known As, Afkorting die 'beter bekend als' betekend, wordt vooral gebruikt bij het chatten. Zie ook...Chatten
+  - description: Better Known As, Afkorting die &#39;beter bekend als&#39; betekend, wordt vooral gebruikt bij het chatten. Zie ook...Chatten
     title: BKA
   - description: Een hacker die alleen illegaal hackt om er geld mee te verdienen door bijvoorbeeld een netwerk te kapen of spamsoftware te installeren
     title: Black Hat Hacker
@@ -1001,9 +1001,9 @@ accordion:
     title: Bracket
   - description: voorspelling in een processor hoe een programma verder gaat. Kan veel processortijd besparen
     title: Branch prediction
-  - description: Gegevens op een optisch medium (bijvoorbeeld CD's, DVD's, Blue-Ray Disks enzovoort) zetten. Dit heet branden omdat er met een laser putjes in de schijf worden &quot;gebrand&quot; en is een synoniem van Authoring
+  - description: Gegevens op een optisch medium (bijvoorbeeld CD&#39;s, DVD&#39;s, Blue-Ray Disks enzovoort) zetten. Dit heet branden omdat er met een laser putjes in de schijf worden &quot;gebrand&quot; en is een synoniem van Authoring
     title: Branden
-  - description: Gegevens op een optisch medium (bijvoorbeeld CD's, DVD's, Blue-Ray Disks enzovoort) zetten. Dit heet branden omdat er met een laser putjes in de schijf worden &quot;gebrand&quot;. Is een synoniem van Branden
+  - description: Gegevens op een optisch medium (bijvoorbeeld CD&#39;s, DVD&#39;s, Blue-Ray Disks enzovoort) zetten. Dit heet branden omdat er met een laser putjes in de schijf worden &quot;gebrand&quot;. Is een synoniem van Branden
     title: Authoring
   - description: Een apparaat waarmee je optische schijven kunt branden en is een synoniem van ODD. Zie ook...branden, optische schijf
     title: Brander
@@ -1033,7 +1033,7 @@ accordion:
     title: Webbrowser
   - description: Big Red Switch, Afkorting die ik grote rode schakelaar betekend betekend (wordt vaak een aan/uitschakelaar mee bedoelt), wordt vooral gebruikt bij het chatten. Zie ook...Chatten
     title: BRS
-  - description: Be Right There, Afkorting voor 'ben er zo', wordt vooral gebruikt bij het chatten. Zie ook...Chatten
+  - description: Be Right There, Afkorting voor &#39;ben er zo&#39;, wordt vooral gebruikt bij het chatten. Zie ook...Chatten
     title: BRT
   - description: Brute kracht aanval, een manier om beveiligingen te kraken waarbij domweg alle mogelijke sleutels worden uitgeprobeerd totdat de juiste is gevonden. Het kraken van een codering duurt op deze manier erg lang, en er is veel rekenkracht voor nodig
     title: Brute Force Attack
@@ -1041,27 +1041,27 @@ accordion:
     title: BS
   - description: Berkeley Software Distribution, Een besturingssysteem dat afstamt van UNIX. Zie ook...FreeBSD, Besturingssysteem
     title: BSD
-  - description: But Seriously Folks, Afkorting die 'maar even serieus..' betekend, wordt vooral gebruikt bij het chatten. Zie ook...Chatten
+  - description: But Seriously Folks, Afkorting die &#39;maar even serieus..&#39; betekend, wordt vooral gebruikt bij het chatten. Zie ook...Chatten
     title: BSF
   - description: Blue Screen of Death, een blauw scherm in Windows met de foutmelding. Is berucht onder Windows-gebruikers
     title: BSOD
-  - description: But Seriously Though, Afkorting die 'maar even serieus...' betekend, wordt vooral gebruikt bij het chatten. Zie ook...Chatten
+  - description: But Seriously Though, Afkorting die &#39;maar even serieus...&#39; betekend, wordt vooral gebruikt bij het chatten. Zie ook...Chatten
     title: BST
-  - description: But Then Again, Afkorting die 'aan de andere kant' betekend, wordt vooral gebruikt bij het chatten. Zie ook...Chatten
+  - description: But Then Again, Afkorting die &#39;aan de andere kant&#39; betekend, wordt vooral gebruikt bij het chatten. Zie ook...Chatten
     title: BTA
-  - description: Be That As It May, Afkorting die 'afgezien daarvan' betekend, wordt vooral gebruikt bij het chatten. Zie ook...Chatten
+  - description: Be That As It May, Afkorting die &#39;afgezien daarvan&#39; betekend, wordt vooral gebruikt bij het chatten. Zie ook...Chatten
     title: BTAIM
   - description: Branche Target Buffer, een chip die de Branch Prediction regelt. Zie ook...Branch Prediction
     title: BTB
-  - description: Been There, Done That, Afkorting die 'ik kwam daar, maar was niet onder de indruk' betekend, wordt vooral gebruikt bij het chatten. Zie ook...Chatten
+  - description: Been There, Done That, Afkorting die &#39;ik kwam daar, maar was niet onder de indruk&#39; betekend, wordt vooral gebruikt bij het chatten. Zie ook...Chatten
     title: BTDT
-  - description: Be There Or Be Dead, Afkorting die 'zorg dat je er bent of je bent dood!' betekend, wordt vooral gebruikt bij het chatten. Zie ook...Chatten
+  - description: Be There Or Be Dead, Afkorting die &#39;zorg dat je er bent of je bent dood!&#39; betekend, wordt vooral gebruikt bij het chatten. Zie ook...Chatten
     title: BTOBD
-  - description: Be There Or Be Square, Afkorting die 'zorg dat je er bent of je bent vierkant' betekend, wordt vooral gebruikt bij het chatten. Zie ook...Chatten, BTOBD
+  - description: Be There Or Be Square, Afkorting die &#39;zorg dat je er bent of je bent vierkant&#39; betekend, wordt vooral gebruikt bij het chatten. Zie ook...Chatten, BTOBD
     title: BTOBS
   - description: Opslagformaat voor records waarbij de records gesorteerd worden opgeslagen in een boomstructuur
     title: Btrieve
-  - description: Beats The S..t Out Of Me, Afkorting die 'ik kan er met mijn pet niet bij' betekend, wordt vooral gebruikt bij het chatten. Zie ook...Chatten
+  - description: Beats The S..t Out Of Me, Afkorting die &#39;ik kan er met mijn pet niet bij&#39; betekend, wordt vooral gebruikt bij het chatten. Zie ook...Chatten
     title: BTSOOM
   - description: By The Way, Afkorting voor trouwens. Wordt vaak gebruikt bij het chatten
     title: BTW
@@ -1069,7 +1069,7 @@ accordion:
     title: Budgetmodel
   - description: Deel van het geheugen waarin gegevens worden opgeslagen als de ontvanger nog niet klaar is voor ontvangst
     title: Buffer
-  - description: Dat wat er gebeurt als een programma probeert gegevens in een volle buffer te schrijven... er worden gegevens die achter de buffer liggen overschreven. Hierdoor kunnen programma's chrashen of de veiligheid van het systeem kan in gevaar komen, doordat aanvallers zo code kunnen plaatsen in geheugen waarin normaal gesproken programma's staan
+  - description: Dat wat er gebeurt als een programma probeert gegevens in een volle buffer te schrijven... er worden gegevens die achter de buffer liggen overschreven. Hierdoor kunnen programma&#39;s chrashen of de veiligheid van het systeem kan in gevaar komen, doordat aanvallers zo code kunnen plaatsen in geheugen waarin normaal gesproken programma&#39;s staan
     title: Buffer overflow
   - description: Het leegraken van de buffer (meestal tijdens het branden) waardoor niet kan worden verdergegaan met het wegschrijven van data
     title: Buffer underrun
@@ -1081,11 +1081,11 @@ accordion:
     title: Buis
   - description: Methode om oppervlakten een natuurlijk ogende structuur te geven
     title: Bump mapping
-  - description: Een concept binnen de computerwereld waarmee het 'basisscherm', zonder enige open vensters, wordt aangeduidt. Dit in vergelijking met een leeg bureau, waar je ook het bureaublad ziet als er geen documenten open liggen en is een synoniem van Desktop
+  - description: Een concept binnen de computerwereld waarmee het &#39;basisscherm&#39;, zonder enige open vensters, wordt aangeduidt. Dit in vergelijking met een leeg bureau, waar je ook het bureaublad ziet als er geen documenten open liggen en is een synoniem van Desktop
     title: Bureaublad
-  - description: Een concept binnen de computerwereld waarmee het 'basisscherm', zonder enige open vensters, wordt aangeduidt. Dit in vergelijking met een leeg bureau, waar je ook het bureaublad ziet als er geen documenten open liggen. Is een synoniem van Bureaublad
+  - description: Een concept binnen de computerwereld waarmee het &#39;basisscherm&#39;, zonder enige open vensters, wordt aangeduidt. Dit in vergelijking met een leeg bureau, waar je ook het bureaublad ziet als er geen documenten open liggen. Is een synoniem van Bureaublad
     title: Desktop
-  - description: Het van afstand gebruiken van een computer door de muis en toetsenbord commando's door te sturen en de beelden te ontvangen en weer te geven
+  - description: Het van afstand gebruiken van een computer door de muis en toetsenbord commando&#39;s door te sturen en de beelden te ontvangen en weer te geven
     title: Bureaublad op afstand
   - description: Buffer UnderRuN-proof, technologie bij het branden van een optische schijf die de drive automatisch even pauzeert als de buffer leeg is
     title: BURN-proof
@@ -1107,7 +1107,7 @@ accordion:
     title: Button
   - description: Buzz Word Quotient, Afkorting die het aantal stopwoorden van iemand die spreekt aangeeft, wordt vooral gebruikt bij het chatten. Zie ook...Chatten
     title: BWQ
-  - description: Bat You Onna Head, Afkorting die 'klap voor je kop' betekend, wordt vooral gebruikt bij het chatten. Zie ook...Chatten
+  - description: Bat You Onna Head, Afkorting die &#39;klap voor je kop&#39; betekend, wordt vooral gebruikt bij het chatten. Zie ook...Chatten
     title: BYOH
   - description: 8 bits. Computergegevens wordt meestal in bytes verwerkt. Een byte kan (volgens het decimale stelsel) 256 waarden hebben, van 0 tot 255
     title: Byte
@@ -1115,7 +1115,7 @@ accordion:
     title: Byte Order Mark
   - description: geeft aan of 16-bits data de volgorde high byte-low byte of low byte-high byte heeft. Is een synoniem van Byte Order Mark. Zie ook...hblb
     title: BOM
-  - description: een codesoort die tussen broncode en machinecode inzit. Deze is platformonafhankelijk en moet voor het uitvoeren vertaald worden. Is sneller dan script, maar (theoretisch) langzamer dan machinecode. Onder andere Java-programma's werken met bytecode
+  - description: een codesoort die tussen broncode en machinecode inzit. Deze is platformonafhankelijk en moet voor het uitvoeren vertaald worden. Is sneller dan script, maar (theoretisch) langzamer dan machinecode. Onder andere Java-programma&#39;s werken met bytecode
     title: Bytecode
   - description: Een bestandsformaat voor compressie, speciaal voor binaire bestanden. Zie ook...compressie
     title: bz2
@@ -1135,7 +1135,7 @@ accordion:
     title: cab
   - description: Connection Admission Control, protocol voor een ATM Switch gedurende het opzetten van een verbinding om vast te stellen of een gevraagde QoS (Quality of Service) overeenkomt met de waarschijnlijke QoS garantie voor opgezette connecties, word ook gebruikt voor het routen van een connectie door het netwerk
     title: CAC
-  - description: Geheugen tussen RAM en processor, voor het versnellen van veel voorkomende taken, bijvoorbeeld L1 en L2 Cache of Geheugen waarin data wordt opgeslagen voordat het de harde schijf op geschreven wordt of net nadat het gelezen is of geheugen voor het opslaan van de laatst gebruikte bestanden en programma's. 
+  - description: Geheugen tussen RAM en processor, voor het versnellen van veel voorkomende taken, bijvoorbeeld L1 en L2 Cache of Geheugen waarin data wordt opgeslagen voordat het de harde schijf op geschreven wordt of net nadat het gelezen is of geheugen voor het opslaan van de laatst gebruikte bestanden en programma&#39;s. 
     title: Cache
   - description: Het tijdelijk bewaren van gegevens in een cache. Zie ook...Cache
     title: Caching
@@ -1177,7 +1177,7 @@ accordion:
     title: CAS Latency
   - description: Common Access Strobe latency, Een maat voor de snelheid van geheugen. Dit zijn vaak hele getallen (niet-gehele getallen moeten altijd naar boven worden afgerond) Het getal staat voor het aantal kloktikken dat het geheugen nodig heeft om gegevens op te slaan of in te lezen. Is een synoniem van CAS Latency
     title: CL
-  - description: Computer Aided Software Engineering, Computers gebruiken om programma's te maken en te controleren
+  - description: Computer Aided Software Engineering, Computers gebruiken om programma&#39;s te maken en te controleren
     title: CASE
   - description: Een ombouwen van de kast/behuizing van een computer zodat hij er mooier uitziet
     title: Casemodden
@@ -1205,7 +1205,7 @@ accordion:
     title: CBL
   - description: Constant BitRate. QoS klasse die gebruikt wordt voor verbindingen die heel precies hun informatie uitwisseling timen of een datastroom die een vaste grootte per tijdseenheid heeft, dus per seconde altijd evenveel bits heeft
     title: CBR
-  - description: Carbon Copy, Een kopie van een e-mailbericht verzenden. Er is tegenwoordig geen verschil meer tussen een gewone geadresseerde en een CC-geadresseerde, maar veel mailprogramma's laten de functie nog steeds aanwezig. De naam Carbon Copy (koolkopie) komt van het kopieren van gewone post doormiddel van een velletje carbonpapier... dit drukte door en liet dezelfde tekst op een vel eronder achter.
+  - description: Carbon Copy, Een kopie van een e-mailbericht verzenden. Er is tegenwoordig geen verschil meer tussen een gewone geadresseerde en een CC-geadresseerde, maar veel mailprogramma&#39;s laten de functie nog steeds aanwezig. De naam Carbon Copy (koolkopie) komt van het kopieren van gewone post doormiddel van een velletje carbonpapier... dit drukte door en liet dezelfde tekst op een vel eronder achter.
     title: CC
   - description: Call Control Block, het aanroepen van een controleblok
     title: CCB
@@ -1217,7 +1217,7 @@ accordion:
     title: CCITT
   - description: Consultative Committee for International Telegraph and Telephone, internationale organisatie die verantwoordelijk is voor standaarden voor communicatie, heet nu ITU-T. Is een synoniem van CCITT
     title: ITU-T
-  - description: Curl Content Language, programmeertaal voor webpagina's
+  - description: Curl Content Language, programmeertaal voor webpagina&#39;s
     title: CCL
   - description: Composite Capability / Preference Profiles, beschrijving van de mogelijkheden van een apparaat en de gebruikers voorkeuren die kunnen worden gebruikt om gegevensomzetting te begeleiden
     title: CCPP
@@ -1229,17 +1229,17 @@ accordion:
     title: cd
   - description: Een audioCD geschikt voor karaoke
     title: CD+G
-  - description: CD interactive, Norm ontwikkeld door Philips voor interactieve CD's. Is nooit echt populair geworden en is een synoniem van Green Book
+  - description: CD interactive, Norm ontwikkeld door Philips voor interactieve CD&#39;s. Is nooit echt populair geworden en is een synoniem van Green Book
     title: CD-I
-  - description: CD interactive, Norm ontwikkeld door Philips voor interactieve CD's. Is nooit echt populair geworden. Is een synoniem van CD-I
+  - description: CD interactive, Norm ontwikkeld door Philips voor interactieve CD&#39;s. Is nooit echt populair geworden. Is een synoniem van CD-I
     title: Green Book
-  - description: Een vaak gebruikte verwijzing naar de kwaliteit van geluid op AudioCD's. Dit geluid is ongecomprimeerd 16-bit op 44100Hz
+  - description: Een vaak gebruikte verwijzing naar de kwaliteit van geluid op AudioCD&#39;s. Dit geluid is ongecomprimeerd 16-bit op 44100Hz
     title: CD-kwaliteit
   - description: Eenmalig beschrijfbare CD en is een synoniem van Orange Book
     title: CD-R
   - description: Eenmalig beschrijfbare CD. Is een synoniem van CD-R
     title: Orange Book
-  - description: Een CD-brander waarmee CD-R's en CD-RW's kunnen worden beschreven
+  - description: Een CD-brander waarmee CD-R&#39;s en CD-RW&#39;s kunnen worden beschreven
     title: CD-recorder
   - description: Compact Disc Read Only Memory, compact disc met computerbestanden en is een synoniem van Yellow Book
     title: CD-ROM
@@ -1255,11 +1255,11 @@ accordion:
     title: CDMA
   - description: een verzamelnaam voor IS-95 gebaseerde CDMA specificaties die zijn bedacht door de CDMA Development group (CDG)
     title: cdmaOne
-  - description: Collaboration Data Objects, Een API van Microsoft waarmee programma's onderling kunnen communiceren. Zie ook...API
+  - description: Collaboration Data Objects, Een API van Microsoft waarmee programma&#39;s onderling kunnen communiceren. Zie ook...API
     title: CDO
   - description: SVG bestandstype van CorelDraw. Zie ook...SVG
     title: CDR
-  - description: Besturingssysteem dat is afgeleid van UNIX dat gebruikt wordt voor CD-I's. Zie ook...UNIX, Besturingssysteem
+  - description: Besturingssysteem dat is afgeleid van UNIX dat gebruikt wordt voor CD-I&#39;s. Zie ook...UNIX, Besturingssysteem
     title: CDRTOS
   - description: Compact Disc Rewritable, compact disc (CD) die naast te beschrijven ook te wissen en opnieuw te beschrijven is en is een synoniem van CD Rewritable
     title: CDRW
@@ -1287,23 +1287,23 @@ accordion:
     title: Certificeren
   - description: CompactFlash, Een formaat flashkaart. Zie ook...Flashkaart
     title: CF
-  - description: Call For Votes, Afkorting die 'oproep tot stemmen' betekend, wordt vooral gebruikt bij het chatten. Zie ook...Chatten
+  - description: Call For Votes, Afkorting die &#39;oproep tot stemmen&#39; betekend, wordt vooral gebruikt bij het chatten. Zie ook...Chatten
     title: CFV
-  - description: Common Gateway Interface, interface om externe programma's (gateways) te draaien op servers. Zie ook...interface
+  - description: Common Gateway Interface, interface om externe programma&#39;s (gateways) te draaien op servers. Zie ook...interface
     title: CGI
   - description: Computer Graphics Metafile, SVG bestandstype van Microsoft. Zie ook...svg
     title: CGM
   - description: Challenge Handshake Authentication Protocol, toegangsbeveiliging, beter dan PAP. Zie ook...PAP
     title: CHAP
-  - description: Een groep mensen die met elkaar chat. Bij de meeste chatboxen kan iedereen meedoen, anoniem. De chatbox wordt steeds minder gebruikt en is steeds meer verdrongen door IM. In (online) games worden 'chatboxen' nog wel toegepast, waarbij normaal gesproken met de teamgenoten of tegenspeler gepraat kan worden. Zie ook...IM, Chatten
+  - description: Een groep mensen die met elkaar chat. Bij de meeste chatboxen kan iedereen meedoen, anoniem. De chatbox wordt steeds minder gebruikt en is steeds meer verdrongen door IM. In (online) games worden &#39;chatboxen&#39; nog wel toegepast, waarbij normaal gesproken met de teamgenoten of tegenspeler gepraat kan worden. Zie ook...IM, Chatten
     title: Chatbox
   - description: Engels voor kletsen. Vaak wordt hiermee berichten heen en weer typen over het internet bedoeldt. In tegenstelling tot e-mail kan de verzender zien of de ontvanger aanwezig is, en meestal antwoord de ontvanger meteen. Een chatbericht komt meestal binnen 1 seconde aan, waar een e-mail soms nog enkele minuten nodig heeft. In tegenstelling tot IM is chatten vaak anoniem (met een bijnaam) hoewel IM ook vaak chatten wordt genoemd. Chatten gebeurt via zogenaamde chatboxen of via in-game chat (een soort chatbox met de mensen waarmee/tegen je speelt in een online spel) en is een synoniem van chat. Zie ook...Chatbox, IM
     title: Chatten
   - description: Engels voor kletsen. Vaak wordt hiermee berichten heen en weer typen over het internet bedoeldt. In tegenstelling tot e-mail kan de verzender zien of de ontvanger aanwezig is, en meestal antwoord de ontvanger meteen. Een chatbericht komt meestal binnen 1 seconde aan, waar een e-mail soms nog enkele minuten nodig heeft. In tegenstelling tot IM is chatten vaak anoniem (met een bijnaam) hoewel IM ook vaak chatten wordt genoemd. Chatten gebeurt via zogenaamde chatboxen of via in-game chat (een soort chatbox met de mensen waarmee/tegen je speelt in een online spel). Is een synoniem van Chatten. Zie ook...Chatbox, IM
     title: chat
-  - description: commando's op het toetsenbord om vals te spelen in games, bijvoorbeeld onsterfelijk te worden, verborgen elementen zichtbaar te maken, etc. Deze codes zijn altijd door de maker ingebouwd en is een synoniem van Cheat
+  - description: commando&#39;s op het toetsenbord om vals te spelen in games, bijvoorbeeld onsterfelijk te worden, verborgen elementen zichtbaar te maken, etc. Deze codes zijn altijd door de maker ingebouwd en is een synoniem van Cheat
     title: Cheatcodes
-  - description: commando's op het toetsenbord om vals te spelen in games, bijvoorbeeld onsterfelijk te worden, verborgen elementen zichtbaar te maken, etc. Deze codes zijn altijd door de maker ingebouwd. Is een synoniem van Cheatcodes
+  - description: commando&#39;s op het toetsenbord om vals te spelen in games, bijvoorbeeld onsterfelijk te worden, verborgen elementen zichtbaar te maken, etc. Deze codes zijn altijd door de maker ingebouwd. Is een synoniem van Cheatcodes
     title: Cheat
   - description: Methode om te kijken of er geen fouten in een transmissie zijn geslopen. Dit wordt gedaan met een speciale wiskundige methode
     title: Checksum
@@ -1325,7 +1325,7 @@ accordion:
     title: CHTML
   - description: Customer Information Control System, systeem van IBM voor transactieverwerking
     title: CICS
-  - description: Classless Interdomain Routing, Een systeem bij BGP4 waarbij IP's bij elkaar worden geplaatst (als bij subnetmaskers) zodat de routingtabel klein blijft. Zie ook...BGP4
+  - description: Classless Interdomain Routing, Een systeem bij BGP4 waarbij IP&#39;s bij elkaar worden geplaatst (als bij subnetmaskers) zodat de routingtabel klein blijft. Zie ook...BGP4
     title: CIDR
   - description: Common Internet File System, een uitbreiding van SMB. Zie ook...smb
     title: CIFS
@@ -1341,11 +1341,11 @@ accordion:
     title: CISC
   - description: Cableless LAN, een aanduiding draadloos netwerk. Wordt weinig gebruikt, vaker zegt men WLAN
     title: CLAN
-  - description: een set programma's van Claris
+  - description: een set programma&#39;s van Claris
     title: Clarisworks
   - description: zoeksysteem dat uitgaat van frequentie van zelfstandige naamwoorden. Zie ook...SMART, Markof
     title: CLARIT
-  - description: een bestandsformaat voor java programma's
+  - description: een bestandsformaat voor java programma&#39;s
     title: class
   - description: Opslag op het formaat van een creditcard op basis van FMD. Is alleen-lezen. Zie ook...FMD
     title: ClearCard
@@ -1387,11 +1387,11 @@ accordion:
     title: CLUT
   - description: Constant Linear Velocity, Techniek bij het branden waarbij de schijf sneller gaat draaien bij het branden van de binnenste ringen, in tegenstelling tot CAV. Zie ook...CAV
     title: CLV
-  - description: Catch Me At The Web, Afkorting die 'ontmoet me op het web' betekend, wordt vooral gebruikt bij het chatten. Zie ook...Chatten
+  - description: Catch Me At The Web, Afkorting die &#39;ontmoet me op het web&#39; betekend, wordt vooral gebruikt bij het chatten. Zie ook...Chatten
     title: CM@TW
-  - description: command, Afkorting voor commando. Het commando 'cmd' start in Windows een commandoregel. Zie ook...Commando, Commandoregel
+  - description: command, Afkorting voor commando. Het commando &#39;cmd&#39; start in Windows een commandoregel. Zie ook...Commando, Commandoregel
     title: cmd
-  - description: Complementary Metal-Oxide Semiconductor, soort chips. De naam CMOS wordt veel gebruikt om een bepaald soort lichtsensor uit digitale camera's aan te duiden
+  - description: Complementary Metal-Oxide Semiconductor, soort chips. De naam CMOS wordt veel gebruikt om een bepaald soort lichtsensor uit digitale camera&#39;s aan te duiden
     title: CMOS
   - description: Content Management System, een systeem waarmee je heel eenvoudig een website kunt onderhouden doordat je geen kennis van HTML hoeft te hebben, en je zonder software op je computer en overal waar je op internet kunt je website aan kunt passen
     title: CMS
@@ -1409,19 +1409,19 @@ accordion:
     title: Coaxiaal
   - description: Een bepaald type kabel dat vroeger gebruikt werd voor internet, maar tegenwoordig alleen nog als verbinding tussen een antenne en een apparaat. De naam komt van het feit dat er 2 aders coaxiaal zijn. Het grote voordeel van coaxiale kabels is dat ze relatief ongevoelig zijn voor storing. Zie ook...Coaxiaal
     title: Coaxkabel
-  - description: Common Business-Oriented Language, programmeertaal, een van de oudste die nog in gebruik is. Is speciaal voor het schrijven van programma's in bedrijven
+  - description: Common Business-Oriented Language, programmeertaal, een van de oudste die nog in gebruik is. Is speciaal voor het schrijven van programma&#39;s in bedrijven
     title: COBOL
   - description: API voor MacOS X, speciaal voor object-georienteerd programmeren
     title: Cocoa
-  - description: Programma's worden eerst in een andere taal gemaakt, waarna ze worden vertaald naar een voor de processor begrijpelijke taal. Het 'programma' in de eerste, voor de maker begrijpelijke taal, heet de code en is een synoniem van programmacode, broncode, source, sourcecode
+  - description: Programma&#39;s worden eerst in een andere taal gemaakt, waarna ze worden vertaald naar een voor de processor begrijpelijke taal. Het &#39;programma&#39; in de eerste, voor de maker begrijpelijke taal, heet de code en is een synoniem van programmacode, broncode, source, sourcecode
     title: Code
-  - description: Programma's worden eerst in een andere taal gemaakt, waarna ze worden vertaald naar een voor de processor begrijpelijke taal. Het 'programma' in de eerste, voor de maker begrijpelijke taal, heet de code. Is een synoniem van Code
+  - description: Programma&#39;s worden eerst in een andere taal gemaakt, waarna ze worden vertaald naar een voor de processor begrijpelijke taal. Het &#39;programma&#39; in de eerste, voor de maker begrijpelijke taal, heet de code. Is een synoniem van Code
     title: programmacode
-  - description: Programma's worden eerst in een andere taal gemaakt, waarna ze worden vertaald naar een voor de processor begrijpelijke taal. Het 'programma' in de eerste, voor de maker begrijpelijke taal, heet de code. Is een synoniem van Code
+  - description: Programma&#39;s worden eerst in een andere taal gemaakt, waarna ze worden vertaald naar een voor de processor begrijpelijke taal. Het &#39;programma&#39; in de eerste, voor de maker begrijpelijke taal, heet de code. Is een synoniem van Code
     title: broncode
-  - description: Programma's worden eerst in een andere taal gemaakt, waarna ze worden vertaald naar een voor de processor begrijpelijke taal. Het 'programma' in de eerste, voor de maker begrijpelijke taal, heet de code. Is een synoniem van Code
+  - description: Programma&#39;s worden eerst in een andere taal gemaakt, waarna ze worden vertaald naar een voor de processor begrijpelijke taal. Het &#39;programma&#39; in de eerste, voor de maker begrijpelijke taal, heet de code. Is een synoniem van Code
     title: source
-  - description: Programma's worden eerst in een andere taal gemaakt, waarna ze worden vertaald naar een voor de processor begrijpelijke taal. Het 'programma' in de eerste, voor de maker begrijpelijke taal, heet de code. Is een synoniem van Code
+  - description: Programma&#39;s worden eerst in een andere taal gemaakt, waarna ze worden vertaald naar een voor de processor begrijpelijke taal. Het &#39;programma&#39; in de eerste, voor de maker begrijpelijke taal, heet de code. Is een synoniem van Code
     title: sourcecode
   - description: COmpresion/DECompression, geheel van algoritmen om video/audio bestanden te verkleinen. Er zijn zowel codecs met kwaliteitsverlies als zonder kwaliteitsverlies, respectievelijk lossy en lossless en is een synoniem van codecs. Zie ook...algoritme, lossy, lossless
     title: Codec
@@ -1503,13 +1503,13 @@ accordion:
     title: Computer
   - description: Geheel van technieken op het gebied van grafische kunsten van een computer
     title: Computer Graphics
-  - description: Het geheel van de computer en de programma's die erop staan
+  - description: Het geheel van de computer en de programma&#39;s die erop staan
     title: Computerconfiguratie
   - description: Populaire term voor het uitdrukken van algemeen gebruik van de computer
     title: Computeren
   - description: multi-user besturingssysteem van Digital Research, vervangen door Real32. Zie ook...Besturingssysteem
     title: Concurrent Dos
-  - description: Intel's verbetering op PCI
+  - description: Intel&#39;s verbetering op PCI
     title: Concurrent PCI
   - description: Een geheel van instellingen/onderdelen
     title: Configuratie
@@ -1540,7 +1540,7 @@ accordion:
   - description: data die vanaf een website (tijdelijk) op de computer van de gebruiker wordt geplaatst om zo instellingen te bewaren
     title: Cookie
   - description: Een systeem van AMD om energie te besparen door de processor met behulp van throttling. Deze techniek werd vooral gebruikt in desktopprocessoren. Zie ook...Throttling
-    title: Cool'n'Quiet
+    title: Cool&#39;n&#39;Quiet
   - description: techniek van Adobe de leesbaarheid van tekst op een beeldscherm te verbeteren
     title: CoolType
   - description: Een extra processor die is gemaakt om bepaalde taken extra snel uit te voeren.
@@ -1603,15 +1603,15 @@ accordion:
     title: Creative
   - description: Techniek van ATI om 2 grafische kaarten tegelijk aan een beeld te laten werken. Hiervoor is een master en een gewone kaart voor nodig. Zie ook...SLI, AFR, PGC
     title: Crossfire
-  - description: Het plaatsen van exact hetzelfde bericht of discussie in meerdere nieuwsgroepen of fora's
+  - description: Het plaatsen van exact hetzelfde bericht of discussie in meerdere nieuwsgroepen of fora&#39;s
     title: crossposting
   - description: Common Runtime Services, API die zorgt voor de onderlinge afstemming van componenten tussen C# en VisualBasic.Net. Zie ook...API
     title: CRS
-  - description: Can’t Remember Sh.t, Afkorting die 'ik kan me helemaal niks meer herinneren' betekend, wordt vooral gebruikt bij het chatten. Zie ook...Chatten
+  - description: Can’t Remember Sh.t, Afkorting die &#39;ik kan me helemaal niks meer herinneren&#39; betekend, wordt vooral gebruikt bij het chatten. Zie ook...Chatten
     title: CRS
   - description: Cathode Ray Tube, soortnaam voor monitoren die met een beeldbuis werken
     title: CRT
-  - description: Create, Read, Update, Delete, De 4 meestgebruikte commando's aan een database... aanmaken, lezen, veranderen en verwijderen
+  - description: Create, Read, Update, Delete, De 4 meestgebruikte commando&#39;s aan een database... aanmaken, lezen, veranderen en verwijderen
     title: CRUD
   - description: processor van Transmeta, voor mobiele computers, energiezuinig
     title: Crusoe
@@ -1621,9 +1621,9 @@ accordion:
     title: CSMA/CA
   - description: Carrier Sense Multiple Access/Collision Detect, netwerk waarbij meer stations tegelijk toegang tot het netwerk hebben en botsingen kunnen detecteren, bijvoorbeeld Ethernet
     title: CSMA/CD
-  - description: Content Scrambling System, kopierbeveiliging voor DVD's
+  - description: Content Scrambling System, kopierbeveiliging voor DVD&#39;s
     title: CSS
-  - description: Cascading Style Sheets, opmaaktaal voor opmaken van webpagina's. Zie ook...opmaaktaal
+  - description: Cascading Style Sheets, opmaaktaal voor opmaken van webpagina&#39;s. Zie ook...opmaaktaal
     title: CSS
   - description: Computer Security System, wachtwoordbeveiliging van een PC via de BIOS
     title: CSS
@@ -1631,15 +1631,15 @@ accordion:
     title: CSSDOM
   - description: Compaq Survey Utility, op afstand bedienen van een server via internet met RCGI. Zie ook...RCGI
     title: CSU
-  - description: Comma-Seperated Values, Een formaat voor data (meestal uit tabellen) waarbij de kolommen gescheiden worden door komma's en de rijen door nieuwe regels
+  - description: Comma-Seperated Values, Een formaat voor data (meestal uit tabellen) waarbij de kolommen gescheiden worden door komma&#39;s en de rijen door nieuwe regels
     title: CSV
-  - description: See you, Afkorting die 'ik zie je later' betekend, wordt vooral gebruikt bij het chatten. Zie ook...Chatten
+  - description: See you, Afkorting die &#39;ik zie je later&#39; betekend, wordt vooral gebruikt bij het chatten. Zie ook...Chatten
     title: CU
-  - description: See You Too, Afkorting die 'ik zie jou ook later' betekend, wordt vooral gebruikt bij het chatten. Zie ook...Chatten
+  - description: See You Too, Afkorting die &#39;ik zie jou ook later&#39; betekend, wordt vooral gebruikt bij het chatten. Zie ook...Chatten
     title: CU2
-  - description: See you Later, Afkorting die 'ik zie je later' betekend, wordt vooral gebruikt bij het chatten en is een synoniem van CUL8R. Zie ook...Chatten
+  - description: See you Later, Afkorting die &#39;ik zie je later&#39; betekend, wordt vooral gebruikt bij het chatten en is een synoniem van CUL8R. Zie ook...Chatten
     title: CUL
-  - description: See you Later, Afkorting die 'ik zie je later' betekend, wordt vooral gebruikt bij het chatten. Is een synoniem van CUL. Zie ook...Chatten
+  - description: See you Later, Afkorting die &#39;ik zie je later&#39; betekend, wordt vooral gebruikt bij het chatten. Is een synoniem van CUL. Zie ook...Chatten
     title: CUL8R
   - description: Common UNIX Printing System, Een veelgebruikt printsysteem voor UNIX-computer, waaronder Linux valt. Zie ook...UNIX, Linux
     title: CUPS
@@ -1653,11 +1653,11 @@ accordion:
     title: CVS
   - description: Complete Waste Of Time, Afkorting die tijdverspilling betekend, wordt vooral gebruikt bij het chatten. Zie ook...Chatten
     title: CWOT
-  - description: Chat With You Later, Afkorting die 'spreek je later via de chat' betekend, wordt vooral gebruikt bij het chatten. Zie ook...Chatten
+  - description: Chat With You Later, Afkorting die &#39;spreek je later via de chat&#39; betekend, wordt vooral gebruikt bij het chatten. Zie ook...Chatten
     title: CWYL
   - description: See You, Afkorting voor tot ziens. Wordt veel gebruikt bij het chatten
     title: cya
-  - description: Deze term komt uit de roman 'Neuromancer' van William Gibson. In deze roman werd gesproken over een directe verbinding tussen hersenen en computers. Cyberspace betekent nu zoiets als alle communicatie via computers (lees... Internet)
+  - description: Deze term komt uit de roman &#39;Neuromancer&#39; van William Gibson. In deze roman werd gesproken over een directe verbinding tussen hersenen en computers. Cyberspace betekent nu zoiets als alle communicatie via computers (lees... Internet)
     title: Cyberspace
   - description: Programeertaal ontwikkelt door Digital Mars
     title: D
@@ -1669,7 +1669,7 @@ accordion:
     title: VGA-connector
   - description: Direct3D, onderdeel van DirectX voor de ondersteuning van 3D-kaarten
     title: D3D
-  - description: Date, Afkorting voor 'afspraak', wordt vooral gebruikt bij het chatten. Zie ook...Chatten
+  - description: Date, Afkorting voor &#39;afspraak&#39;, wordt vooral gebruikt bij het chatten. Zie ook...Chatten
     title: d8
   - description: Digital Audio Broadcasting, Digitale radio via de ether. Dit zou een vervanging voor de huidige (analoge) radio moeten gaan worden
     title: DAB
@@ -1731,7 +1731,7 @@ accordion:
     title: DCache
   - description: Direct Client to Client, een protocol dat wordt gebruikt om via IRC direct met elkaar te chatten in plaats van via een speciale server, zo blijft de conversatie prive
     title: DCC
-  - description: Een systeem waarmee programma's die met KDE werken met elkaar kunnen communiceren. Zie ook...KDE
+  - description: Een systeem waarmee programma&#39;s die met KDE werken met elkaar kunnen communiceren. Zie ook...KDE
     title: DCOP
   - description: Dynamic Component Resource, bestand met componenten (bitmaps, icons) voor een Delphi programma
     title: DCR
@@ -1743,7 +1743,7 @@ accordion:
     title: DD
   - description: Data Display Channel, Norm die het mogelijk maakt instellingen uit te wisselen tussen grafische kaart en monitor
     title: DDC
-  - description: Dynamic Data Exchange, systeem in Windows voor communicatie tussen programma's, bestaat uit DDE Client's de DDE Server's
+  - description: Dynamic Data Exchange, systeem in Windows voor communicatie tussen programma&#39;s, bestaat uit DDE Client&#39;s de DDE Server&#39;s
     title: DDE
   - description: Data Description Language, Een computertaal voor het beschrijven van datastructuren
     title: DDL
@@ -1793,11 +1793,11 @@ accordion:
     title: defragmenteren
   - description: programmeeromgeving van Borland, gebaseerd op de programmeertaal Pascal
     title: Delphi
-  - description: Het verschil tussen 2 dingen, vaak programma's of bestanden. Het bekendst zijn delta-installatie programma's, vaak patches of upgrades genoemd.
+  - description: Het verschil tussen 2 dingen, vaak programma&#39;s of bestanden. Het bekendst zijn delta-installatie programma&#39;s, vaak patches of upgrades genoemd.
     title: Delta
   - description: Data Encryption Standard, beveiligingsalgoritme
     title: DES
-  - description: scantechniek die interferentiepatronen weghaalt bij het scannen van afbeeldingen die bestaan uit puntjes, zoals krantenfoto's
+  - description: scantechniek die interferentiepatronen weghaalt bij het scannen van afbeeldingen die bestaan uit puntjes, zoals krantenfoto&#39;s
     title: Descreen
   - description: Een virtueel werkblad met documenten en gereedschappen of een vaste computer in een horizontaal staande kast, in tegenstelling tot het verticale tower-model.
     title: Desktop
@@ -1829,13 +1829,13 @@ accordion:
     title: Diepte
   - description: Niet analoog, stuurt niet &quot;gewoon&quot; alle data door de lijn, maar maakt gebruik van verschillen in spanning, frequentie etc. om zo een stroom van 0-en en 1-en door te geven
     title: Digitaal
-  - description: systeem om vuiltjes en krasjes in foto's tijdens het scannen te verwijderen
+  - description: systeem om vuiltjes en krasjes in foto&#39;s tijdens het scannen te verwijderen
     title: Digital ICE
-  - description: Restoration Of Color, systeem waarmee verkleurde dia's tijdens het scannen gerestaureerd worden
+  - description: Restoration Of Color, systeem waarmee verkleurde dia&#39;s tijdens het scannen gerestaureerd worden
     title: Digital ROC
   - description: Het omzetten van willekeurige gegevens (beeld, geluid, tekst etc) naar digitale gegevens
     title: Digitalistatie
-  - description: Darn If I Know, Afkorting die 'al sla je me dood, ik zou het niet weten' betekend, wordt vooral gebruikt bij het chatten. Zie ook...Chatten
+  - description: Darn If I Know, Afkorting die &#39;al sla je me dood, ik zou het niet weten&#39; betekend, wordt vooral gebruikt bij het chatten. Zie ook...Chatten
     title: DIIK
   - description: Dual In-Line Memory Module, een geheugenbank met zowel voor als achter contacten. Zie ook...geheugenbank, RAM, SIMM, SO-DIMM
     title: DIMM
@@ -1859,11 +1859,11 @@ accordion:
     title: Directory tree
   - description: technologie voor beeld en geluid van Microsoft met zo weinig mogelijk vertraging tussen software en hardware met als doel snelheidswinst
     title: DirectX
-  - description: Engelse woord voor 'maak onmogelijk'
+  - description: Engelse woord voor &#39;maak onmogelijk&#39;
     title: Disable
-  - description: Verouderd opslagemedium, waarop afhankelijk van het type 360 kb, 720 kb, 1.44 mb of 2.88 mb kan worden opgeslagen. Wordt ook wel floppy genoemd. Floppys worden nog steeds gebruikt, maar zijn grotendeels verdrongen door USB-sticks. Soms zijn floppy's nog handig om op te starten bij een chrash en is een synoniem van floppy
+  - description: Verouderd opslagemedium, waarop afhankelijk van het type 360 kb, 720 kb, 1.44 mb of 2.88 mb kan worden opgeslagen. Wordt ook wel floppy genoemd. Floppys worden nog steeds gebruikt, maar zijn grotendeels verdrongen door USB-sticks. Soms zijn floppy&#39;s nog handig om op te starten bij een chrash en is een synoniem van floppy
     title: Diskette
-  - description: Verouderd opslagemedium, waarop afhankelijk van het type 360 kb, 720 kb, 1.44 mb of 2.88 mb kan worden opgeslagen. Wordt ook wel floppy genoemd. Floppys worden nog steeds gebruikt, maar zijn grotendeels verdrongen door USB-sticks. Soms zijn floppy's nog handig om op te starten bij een chrash. Is een synoniem van Diskette
+  - description: Verouderd opslagemedium, waarop afhankelijk van het type 360 kb, 720 kb, 1.44 mb of 2.88 mb kan worden opgeslagen. Wordt ook wel floppy genoemd. Floppys worden nog steeds gebruikt, maar zijn grotendeels verdrongen door USB-sticks. Soms zijn floppy&#39;s nog handig om op te starten bij een chrash. Is een synoniem van Diskette
     title: floppy
   - description: Randapparaat om diskettes mee te lezen/beschrijven. Zie ook...Randapparaat
     title: Diskettestation
@@ -1941,7 +1941,7 @@ accordion:
     title: Down
   - description: Het tegensgestelde van upgraden, het vervangen van software of firmware door eerdere versies. Vaak wordt dit gedaan om beveiligingen te omzeilen. Zie ook...Upgraden
     title: Downgraden
-  - description: Het ophalen van een bestand via een communicatieerverbinding, bijvoorbeeld via het internet of via een USB kabel. (voorbeeld... het ophalen van foto's van het internet en van een digitale fotocamera heet allebei downloaden) Het verzenden van data (het tegenstelde van downloaden dus) heet uploaden. Zie ook...uploaden
+  - description: Het ophalen van een bestand via een communicatieerverbinding, bijvoorbeeld via het internet of via een USB kabel. (voorbeeld... het ophalen van foto&#39;s van het internet en van een digitale fotocamera heet allebei downloaden) Het verzenden van data (het tegenstelde van downloaden dus) heet uploaden. Zie ook...uploaden
     title: Downloaden
   - description: Distributed Processing, een verwerkingsproces verdelen over enkele eenheden, zoals bij Distributed Computing (DC). Zie ook...DC
     title: DP
@@ -1953,7 +1953,7 @@ accordion:
     title: DPMS
   - description: Weergave van computerafbeeldingen waarbij alleen de ribben van een object worden weergegeven
     title: Draadmodel
-  - description: Golf die signalen 'vervoert'
+  - description: Golf die signalen &#39;vervoert&#39;
     title: Draaggolf
   - description: Een signaal draagt een bepaalde afstand (de dracht), dat wil zeggen dat het over een bepaalde afstand verzonden wordt en daarna nog leesbaar is. Deze signalen kunnen bijvoorbeeld elektrische stroomstootjes over een koperdraad, radiosignalen door de lucht, of laserlicht door een glasvezel zijn en is een synoniem van Dracht, Reikwijdte. Zie ook...glasvezel
     title: Dragen
@@ -1971,7 +1971,7 @@ accordion:
     title: DRAW
   - description: Tekenset die kan worden gewijzigd
     title: DRCS
-  - description: Distributed Relational Data Architecture, structuur waarmee het mogelijk is relationele dbms'en van verschillende leveranciers met elkaar te koppelen
+  - description: Distributed Relational Data Architecture, structuur waarmee het mogelijk is relationele dbms&#39;en van verschillende leveranciers met elkaar te koppelen
     title: DRDA
   - description: DOS van Digital Research. Zie ook...DOS
     title: DRDOS
@@ -2007,7 +2007,7 @@ accordion:
     title: DTP
   - description: Data Transfer Rate,. Zie ook...Bitrate
     title: DTR
-  - description: Do The Right Thing, Afkorting die 'doe het juiste' betekend, wordt vooral gebruikt bij het chatten. Zie ook...Chatten
+  - description: Do The Right Thing, Afkorting die &#39;doe het juiste&#39; betekend, wordt vooral gebruikt bij het chatten. Zie ook...Chatten
     title: DTRT
   - description: Digital Theatre Sound, systeem voor surround geluid, vergelijkbaar met Dolby Digital. Zie ook...Surroundsound
     title: DTS
@@ -2023,17 +2023,17 @@ accordion:
     title: DualCore
   - description: Een optische schijf met aan de ene kant een DVD en aan de andere kant een CD
     title: DualDisc
-  - description: Did You See That?, Afkorting die 'zag je dat?' betekend, wordt vooral gebruikt bij het chatten. Zie ook...Chatten
+  - description: Did You See That?, Afkorting die &#39;zag je dat?&#39; betekend, wordt vooral gebruikt bij het chatten. Zie ook...Chatten
     title: DUCT
   - description: Dial-Up Networking, systeem voor internet-toegang via een modem en (meestal) een telefoonlijn
     title: DUN
-  - description: Afkorting voor don't know, ik weet het niet
+  - description: Afkorting voor don&#39;t know, ik weet het niet
     title: dunno
   - description: Mogelijkheid om gegevens te verzenden en ontvangen, in tegenstelling tot simplex. Zie ook...simplex
     title: Duplex
   - description: processor van AMD, minder goed dan de Athlon
     title: Duron
-  - description: Dial-Up Scripting, programma's van Microsoft om te kunnen inbellen met een modem (DUN). Zie ook...DUN
+  - description: Dial-Up Scripting, programma&#39;s van Microsoft om te kunnen inbellen met een modem (DUN). Zie ook...DUN
     title: DUS
   - description: Digital Video, een video formaat dat stamt uit 1996, het snelste formaat als je je films wilt bewerken omdat het grotendeels ongecomprimeerd is, het zijn daardoor doorgaans grote bestanden
     title: DV
@@ -2097,11 +2097,11 @@ accordion:
     title: DVR
   - description: drawing web format, formaat waarmee efficient CAD-bestanden over het internet kunnen worden verzonden. Zie ook...CAD
     title: DWF
-  - description: Do What I Mean, Afkorting die 'doe wat ik wil' betekend, wordt vooral gebruikt bij het chatten. Zie ook...Chatten
+  - description: Do What I Mean, Afkorting die &#39;doe wat ik wil&#39; betekend, wordt vooral gebruikt bij het chatten. Zie ook...Chatten
     title: DWIM
-  - description: Do What I Mean, Correctly, Afkorting die 'doe wat ik wil en goed' betekend, wordt vooral gebruikt bij het chatten. Zie ook...Chatten
+  - description: Do What I Mean, Correctly, Afkorting die &#39;doe wat ik wil en goed&#39; betekend, wordt vooral gebruikt bij het chatten. Zie ook...Chatten
     title: DWIMC
-  - description: Do What I Say, Not What I Do, Afkorting die 'doe wat ik zeg en niet wat ik doe' betekend, wordt vooral gebruikt bij het chatten. Zie ook...Chatten
+  - description: Do What I Say, Not What I Do, Afkorting die &#39;doe wat ik zeg en niet wat ik doe&#39; betekend, wordt vooral gebruikt bij het chatten. Zie ook...Chatten
     title: DWISNWID
   - description: dwoord, Een benaming voor een waarde met een bepaalde lengte. 2 maal de waarde van een word (woord) en dus de helft van een qword (qwoord) en is een synoniem van dwoord. Zie ook...word
     title: DWORD
@@ -2111,13 +2111,13 @@ accordion:
     title: DXF
   - description: DirectX Texture Compression, compressietechniek van Microsoft voor textures, onderdeel van DirectX6. Zie ook...Texture
     title: DXTC
-  - description: Don't You Just Hate It When..., Afkorting die 'heb jij er ook geen hekel aan als...' betekend, wordt vooral gebruikt bij het chatten. Zie ook...Chatten
+  - description: Don&#39;t You Just Hate It When..., Afkorting die &#39;heb jij er ook geen hekel aan als...&#39; betekend, wordt vooral gebruikt bij het chatten. Zie ook...Chatten
     title: DYJHIW
-  - description: Do You Know, Afkorting die 'weet jij...' betekend, wordt vooral gebruikt bij het chatten. Zie ook...Chatten
+  - description: Do You Know, Afkorting die &#39;weet jij...&#39; betekend, wordt vooral gebruikt bij het chatten. Zie ook...Chatten
     title: DYK
   - description: De hoeveelheid decibels tussen het hardst en het zachtst mogelijke geluid op een opname
     title: Dynamische ruimte
-  - description: hey, Afkorting voor 'hallo, wordt vooral gebruikt bij het chatten. Zie ook...Chatten
+  - description: hey, Afkorting voor &#39;hallo, wordt vooral gebruikt bij het chatten. Zie ook...Chatten
     title: e
   - description: electronic commerce, elektronische handel, verkoop via internet
     title: E-commerce
@@ -2185,7 +2185,7 @@ accordion:
     title: EGA
   - description: Exterior Gate Protocol, Systeem dat verkeer op het internet regelde, is vervangen door BGP. Zie ook...BGP
     title: EGP
-  - description: objectgeoriënteerde programmeertaal, ontwikkeld om modules optimaal te kunnen hergebruiken in andere programma's
+  - description: objectgeoriënteerde programmeertaal, ontwikkeld om modules optimaal te kunnen hergebruiken in andere programma&#39;s
     title: Eiffel
   - description: Enhanced Industry-Standard Architecture, systeembus, 32-bits versie van ISA
     title: EISA
@@ -2197,7 +2197,7 @@ accordion:
     title: Ingebed systeem
   - description: Een gebruiksapparaat waarin vaste hardware en software zitten, zoals routers, DVD-spelers en magnetrons. Is een synoniem van Embedded system
     title: Embedded device
-  - description: Excuse Me For Jumping In, Afkorting voor 'sorry dat ik ertussen kom', wordt vooral gebruikt bij het chatten. Zie ook...Chatten
+  - description: Excuse Me For Jumping In, Afkorting voor &#39;sorry dat ik ertussen kom&#39;, wordt vooral gebruikt bij het chatten. Zie ook...Chatten
     title: EMFJI
   - description: Expanded Memory Management, geheugenbeheersysteem voor DOS. Zie ook...DOS
     title: EMM
@@ -2215,9 +2215,9 @@ accordion:
     title: Emuleren
   - description: Een programma dat hardware of software nabootst (emuleert). Is een synoniem van Emulator
     title: Emulatie
-  - description: Engelse woord voor 'maak mogelijk'
+  - description: Engelse woord voor &#39;maak mogelijk&#39;
     title: Enable
-  - description: Letterlijk inpakken. Wordt vaak bij netwerktermen gebruikt, bijvoorbeeld IPv6-in-IPv4 encapsulation, waarbij een IPv6 pakket wordt 'verpakt' in een IPv4 pakket. Dit verpakken is nodig om een pakket te kunnen zenden over een netwerk dat het pakket niet herkent of niet kan afhandelen. Zie ook...Bridge
+  - description: Letterlijk inpakken. Wordt vaak bij netwerktermen gebruikt, bijvoorbeeld IPv6-in-IPv4 encapsulation, waarbij een IPv6 pakket wordt &#39;verpakt&#39; in een IPv4 pakket. Dit verpakken is nodig om een pakket te kunnen zenden over een netwerk dat het pakket niet herkent of niet kan afhandelen. Zie ook...Bridge
     title: Encapsulation
   - description: Het beveiligen van een bestand met een wachtwoord en is een synoniem van Versleutelen, Coderen, Encryptie
     title: Encrypteren
@@ -2233,19 +2233,19 @@ accordion:
     title: Engine
   - description: modus van een processor om te kunnen werken met 32-bits besturingssystemen
     title: Enhanced mode
-  - description: standaard om telefoonnummers om te zetten naar URL's
+  - description: standaard om telefoonnummers om te zetten naar URL&#39;s
     title: ENUM
-  - description: End Of Discussion, Afkorting voor 'einde van de discussie', wordt vooral gebruikt bij het chatten. Zie ook...Chatten
+  - description: End Of Discussion, Afkorting voor &#39;einde van de discussie&#39;, wordt vooral gebruikt bij het chatten. Zie ook...Chatten
     title: EOD
   - description: End of File, een signaal dat je aan het einde van het bestand bent of een signaal dat je kunt geven om aan te geven dat het bestand hier moet eindigen, vooral in UNIX-achtige systemen nog in gebruik. Zie ook...BOF, UNIX
     title: EOF
-  - description: End Of Thread, Afkorting voor 'einde van het gesprek', wordt vooral gebruikt bij het chatten. Zie ook...Chatten.
+  - description: End Of Thread, Afkorting voor &#39;einde van het gesprek&#39;, wordt vooral gebruikt bij het chatten. Zie ook...Chatten.
     title: EOT
   - description: Electronic Program Guide, Een TV-programmagids die op de TV zelf kan worden bekeken
     title: EPG
   - description: Explicit Parallel Instruction Computing, systeem voor parallele verwerking van computerinstructies
     title: EPIC
-  - description: besturingssysteem van Psion voor PDA's. Zie ook...PDA, Besturingssysteem
+  - description: besturingssysteem van Psion voor PDA&#39;s. Zie ook...PDA, Besturingssysteem
     title: EPOC
   - description: Enhanced Parallel Port, snelle printerpoort, tot 20x sneller dan de ECP printerpoort. Zie ook...ECP
     title: EPP
@@ -2265,7 +2265,7 @@ accordion:
     title: Error diffusion
   - description: techniek die ervoor zorgt dat fouten die bij de bestandsoverdracht zijn ontstaan grotendeels worden opgevangen, gebruikt in Jpeg2000
     title: Error resilience
-  - description: De toets op een toetsenbord waarmee je ergens uit kunt 'ontsnappen' of een teken in een tekenset waarmee je uit de normale tekenset springt. Je geeft hiermee aan dat er een speciaal teken aankomt, zoals een tab of een regelafbraak.
+  - description: De toets op een toetsenbord waarmee je ergens uit kunt &#39;ontsnappen&#39; of een teken in een tekenset waarmee je uit de normale tekenset springt. Je geeft hiermee aan dat er een speciaal teken aankomt, zoals een tab of een regelafbraak.
     title: Escape
   - description: ElectroStatic Discharge, Een ontlading van statische elektriciteit. Dit is gevaarlijk als je een computer openmaakt omdat veel elektronica binnenin hier gevoelig voor is. Er bestaan daarom speciale ESD-polsbandjes die ervoor zorgen dat de statische elektriciteit wordt afgevoerd.
     title: ESD
@@ -2359,15 +2359,15 @@ accordion:
     title: FAT32
   - description: Een klein icoontje voor een website dat vaak te zien is in de adres- of titelbalk
     title: Favicon
-  - description: For Anyone Who Cares, Afkorting voor 'voor iedereen die het zich aantrekt', wordt vooral gebruikt bij het chatten. Zie ook...Chatten
+  - description: For Anyone Who Cares, Afkorting voor &#39;voor iedereen die het zich aantrekt&#39;, wordt vooral gebruikt bij het chatten. Zie ook...Chatten
     title: FAWC
   - description: Facsimile Transmissions, Systeem voor verzenden van afbeeldingen over telefoonlijnen
     title: Fax
   - description: Modem waarover faxberichten kunnen worden gezonden en ontvangen
     title: Faxmodem
-  - description: For Better Or Worse, Afkorting voor 'in goede en slechte tijden', wordt vooral gebruikt bij het chatten. Zie ook...Chatten
+  - description: For Better Or Worse, Afkorting voor &#39;in goede en slechte tijden&#39;, wordt vooral gebruikt bij het chatten. Zie ook...Chatten
     title: FBOW
-  - description: First Come, First Served, Afkorting voor 'wie het eerst komt, wie het eerst maalt', wordt vooral gebruikt bij het chatten. Zie ook...Chatten
+  - description: First Come, First Served, Afkorting voor &#39;wie het eerst komt, wie het eerst maalt&#39;, wordt vooral gebruikt bij het chatten. Zie ook...Chatten
     title: FCFS
   - description: Fuzzy Cognitive Map, diagram van statussen, acties en uitslagen, samen met hun onderlinge relaties
     title: FCM
@@ -2383,9 +2383,9 @@ accordion:
     title: FDHD
   - description: Frequency Division Multiple Access, toegangsmechanisme waarbij een aantal digitale kanalen gebruik maken van 1 kanaal door scheiding van frequenties. Zie ook...CDMA, TDMA
     title: FDMA
-  - description: Even, Afkorting voor 'even (wachten)', wordt vooral gebruikt bij het chatten. Zie ook...Chatten
+  - description: Even, Afkorting voor &#39;even (wachten)&#39;, wordt vooral gebruikt bij het chatten. Zie ook...Chatten
     title: ff
-  - description: For Fucks Sake, Afkorting voor 'alsjeblieft zeg!', wordt vooral gebruikt bij het chatten. Zie ook...Chatten
+  - description: For Fucks Sake, Afkorting voor &#39;alsjeblieft zeg!&#39;, wordt vooral gebruikt bij het chatten. Zie ook...Chatten
     title: FFS
   - description: Frequency Hopping Spread Spectrum, techniek voor draadloze netwerken
     title: FHSS
@@ -2417,7 +2417,7 @@ accordion:
     title: Firmware
   - description: door de fabriek geinstalleerde software in een apparaat/chip. Is een synoniem van Firmware
     title: Microcode
-  - description: First In, Still Here, Afkorting voor 'eerste erin, nog steeds hier', wordt vooral gebruikt bij het chatten. Zie ook...Chatten
+  - description: First In, Still Here, Afkorting voor &#39;eerste erin, nog steeds hier&#39;, wordt vooral gebruikt bij het chatten. Zie ook...Chatten
     title: FISH
   - description: Free Lossless Audio Codec, lossless codec voor geluid. Is gratis, patentvrij en de meest gebruikte en best ondersteunde lossless audiocodec. Zie ook...Lossless, codec
     title: FLAC
@@ -2427,17 +2427,17 @@ accordion:
     title: Flame
   - description: Een on-line discussie (op een forum, via de mail, of via het chatten) waarin het er niet al te beschaafd aan toe gaat, vergelijkbaar met een scheldbrievenoorlog
     title: Flame War
-  - description: Techniek van Adobe voor interactive webpagina's (of onderdelen daarvan), je hebt er een flash player voor nodig. Het filmpje en/of de interactie wordt op de computer van de gebruiker samengesteld, zodat je voor sommige flash-applicaties een flinke computer nodig hebt
+  - description: Techniek van Adobe voor interactive webpagina&#39;s (of onderdelen daarvan), je hebt er een flash player voor nodig. Het filmpje en/of de interactie wordt op de computer van de gebruiker samengesteld, zodat je voor sommige flash-applicaties een flinke computer nodig hebt
     title: Flash
   - description: techniek voor gegevensopslag. Het werkt met bepaalde chemicaliën die met een elektrische stroom van status kunnen worden veranderd. Dit geheugen is ongeveer 100.000x te herschrijven, daarna is het kapot en is een synoniem van Flashgeheugen
     title: Flash
   - description: techniek voor gegevensopslag. Het werkt met bepaalde chemicaliën die met een elektrische stroom van status kunnen worden veranderd. Dit geheugen is ongeveer 100.000x te herschrijven, daarna is het kapot. Is een synoniem van Flash
     title: Flashgeheugen
-  - description: kaartje (meestal een paar centimeter breed en lang, enkele millimeters dik) met Flash geheugen. Doordat ze zo klein zijn worden ze veel gebruikt in mobiele telefoons en digitale camera's en is een synoniem van Flashkaart, geheugenkaart. Zie ook...Flash
+  - description: kaartje (meestal een paar centimeter breed en lang, enkele millimeters dik) met Flash geheugen. Doordat ze zo klein zijn worden ze veel gebruikt in mobiele telefoons en digitale camera&#39;s en is een synoniem van Flashkaart, geheugenkaart. Zie ook...Flash
     title: FlashCard
-  - description: kaartje (meestal een paar centimeter breed en lang, enkele millimeters dik) met Flash geheugen. Doordat ze zo klein zijn worden ze veel gebruikt in mobiele telefoons en digitale camera's. Is een synoniem van FlashCard. Zie ook...Flash
+  - description: kaartje (meestal een paar centimeter breed en lang, enkele millimeters dik) met Flash geheugen. Doordat ze zo klein zijn worden ze veel gebruikt in mobiele telefoons en digitale camera&#39;s. Is een synoniem van FlashCard. Zie ook...Flash
     title: Flashkaart
-  - description: kaartje (meestal een paar centimeter breed en lang, enkele millimeters dik) met Flash geheugen. Doordat ze zo klein zijn worden ze veel gebruikt in mobiele telefoons en digitale camera's. Is een synoniem van FlashCard. Zie ook...Flash
+  - description: kaartje (meestal een paar centimeter breed en lang, enkele millimeters dik) met Flash geheugen. Doordat ze zo klein zijn worden ze veel gebruikt in mobiele telefoons en digitale camera&#39;s. Is een synoniem van FlashCard. Zie ook...Flash
     title: geheugenkaart
   - description: onbeperkt toegang tot een bepaalde dienst (internet, bellen etc) tegen een vaste prijs per maand, onafhankelijk van hoeveel of hoelang er gebruik van wordt gemaakt
     title: Flat fee
@@ -2463,11 +2463,11 @@ accordion:
     title: FMDROM
   - description: Flexible Media Stack, stapelbare hub
     title: FMS
-  - description: F..k Off And Die, Afkorting voor 'rot op en val dood', wordt vooral gebruikt bij het chatten. Zie ook...Chatten
+  - description: F..k Off And Die, Afkorting voor &#39;rot op en val dood&#39;, wordt vooral gebruikt bij het chatten. Zie ook...Chatten
     title: FOAD
-  - description: Friend Of A Friend, Afkorting voor 'kennis van een kennis', wordt vooral gebruikt bij het chatten. Zie ook...Chatten
+  - description: Friend Of A Friend, Afkorting voor &#39;kennis van een kennis&#39;, wordt vooral gebruikt bij het chatten. Zie ook...Chatten
     title: FOAF
-  - description: Free Of Charge, Afkorting voor 'zonder kosten', wordt vooral gebruikt bij het chatten. Zie ook...Chatten
+  - description: Free Of Charge, Afkorting voor &#39;zonder kosten&#39;, wordt vooral gebruikt bij het chatten. Zie ook...Chatten
     title: FOC
   - description: Engels voor map. Zie ook...directory
     title: Folder
@@ -2475,7 +2475,7 @@ accordion:
     title: Form Factor
   - description: Het aanbrengen van een bestandssysteem op een medium of een partitie. Zie ook...Bestandssysteem, Medium, Partitie
     title: Formatteren
-  - description: Formula Translating System, Programmeertaal voor programma's die zeer efficient werken, werd veel op supercomputers gebruikt. Zie ook...Programmeertaal, supercomputer
+  - description: Formula Translating System, Programmeertaal voor programma&#39;s die zeer efficient werken, werd veel op supercomputers gebruikt. Zie ook...Programmeertaal, supercomputer
     title: Fortran
   - description: Ook wel Bulletinboard (prikbord) genoemd. Dit is een structuur waarin gebruikers vragen kunnen stellen waarop iedereen kan antwoorden. Zie ook ons forum en is een synoniem van computerforum, bulletinboard
     title: Forum
@@ -2487,9 +2487,9 @@ accordion:
     title: Forward
   - description: Het doorsturen van e-mail naar een ander adres. Is een synoniem van Forward
     title: Doorsturen
-  - description: Freedom Of Speech, Afkorting voor 'vrijheid van meningsuiting', wordt vooral gebruikt bij het chatten. Zie ook...Chatten
+  - description: Freedom Of Speech, Afkorting voor &#39;vrijheid van meningsuiting&#39;, wordt vooral gebruikt bij het chatten. Zie ook...Chatten
     title: FOS
-  - description: Falling Of The Chair Laughing, Afkorting voor 'val van mijn stoel van het lachen', wordt vooral gebruikt bij het chatten. Zie ook...Chatten
+  - description: Falling Of The Chair Laughing, Afkorting voor &#39;val van mijn stoel van het lachen&#39;, wordt vooral gebruikt bij het chatten. Zie ook...Chatten
     title: FOTCL
   - description: systeem dat wordt gebruikt voor compressie
     title: Fourier transform
@@ -2513,19 +2513,19 @@ accordion:
     title: Fragmentatie
   - description: Het aantal doden dat een schutter in een schietspel heeft gemaakt
     title: Frags
-  - description: beeld in een video of een 'opname' in een geluidsbestand. Bij een CD zitten er 44100 frames in een seconde. Die snelheid ook wel de samplerate genoemd of een onderdeel van een webpagina die bestaat uit meerdere pagina's, frames
+  - description: beeld in een video of een &#39;opname&#39; in een geluidsbestand. Bij een CD zitten er 44100 frames in een seconde. Die snelheid ook wel de samplerate genoemd of een onderdeel van een webpagina die bestaat uit meerdere pagina&#39;s, frames
     title: Frame
-  - description: Friggin' Ridiculous Electronic Device, Afkorting voor 'stom electronisch apparaat', wordt vooral gebruikt bij het chatten. Zie ook...Chatten
+  - description: Friggin&#39; Ridiculous Electronic Device, Afkorting voor &#39;stom electronisch apparaat&#39;, wordt vooral gebruikt bij het chatten. Zie ook...Chatten
     title: FRED
   - description: Een opensource UNIX-achtig besturingssysteem dat vanwege zijn stabiliteit vooral veel op servers wordt gebruikt. Is gebaseerd op BSD. Zie ook...Opensource, BSD, UNIX, Besturingssysteem, Server
     title: FreeBSD
   - description: software die gratis gebruikt mag worden
     title: Freeware
-  - description: Een aantal keer per seconde dat er 'iets' gedaan wordt. Zie ook...hertz
+  - description: Een aantal keer per seconde dat er &#39;iets&#39; gedaan wordt. Zie ook...hertz
     title: Frequentie
-  - description: De client bij het client-server model, en bij programma's is de front end de GUI (de interface) en is een synoniem van frontend. Zie ook...Client-server model, backend, interface, GUI
+  - description: De client bij het client-server model, en bij programma&#39;s is de front end de GUI (de interface) en is een synoniem van frontend. Zie ook...Client-server model, backend, interface, GUI
     title: Front end
-  - description: De client bij het client-server model, en bij programma's is de front end de GUI (de interface). Is een synoniem van Front end. Zie ook...Client-server model, backend, interface, GUI
+  - description: De client bij het client-server model, en bij programma&#39;s is de front end de GUI (de interface). Is een synoniem van Front end. Zie ook...Client-server model, backend, interface, GUI
     title: frontend
   - description: Full Scene Hardware Anti-Aliasing, techniek van 3Dfx voor anti-aliasing
     title: FSAA
@@ -2539,9 +2539,9 @@ accordion:
     title: FST
   - description: Free to Air, Aanduiding voor signaal (TV/radio) die gratis te ontvangen is
     title: FTA
-  - description: Face to Face, Afkorting voor 'recht tegenover elkaar', wordt vooral gebruikt bij het chatten en is een synoniem van F2F. Zie ook...Chatten
+  - description: Face to Face, Afkorting voor &#39;recht tegenover elkaar&#39;, wordt vooral gebruikt bij het chatten en is een synoniem van F2F. Zie ook...Chatten
     title: FTF
-  - description: Face to Face, Afkorting voor 'recht tegenover elkaar', wordt vooral gebruikt bij het chatten. Is een synoniem van FTF. Zie ook...Chatten
+  - description: Face to Face, Afkorting voor &#39;recht tegenover elkaar&#39;, wordt vooral gebruikt bij het chatten. Is een synoniem van FTF. Zie ook...Chatten
     title: F2F
   - description: For The Lose, Word vaak gebruikt in games, geeft het verliezen van de gebruiker aan
     title: FTL
@@ -2559,17 +2559,17 @@ accordion:
     title: FTTH
   - description: Fiber To the Kerb, netwerk architectuur waarbij een glasvezel de telefoon centrale verbindt met een zogenaamde &quot;stoeprandcentrale&quot;, waarbij het signaal wordt geconverteerd om, over een koper kabel, door te lopen naar de abonnee
     title: FTTK
-  - description: From Time To Time, Afkorting voor 'van tijd tot tijd', wordt vooral gebruikt bij het chatten. Zie ook...Chatten
+  - description: From Time To Time, Afkorting voor &#39;van tijd tot tijd&#39;, wordt vooral gebruikt bij het chatten. Zie ook...Chatten
     title: FTTT
   - description: For The Win, Afkorting die aangeeft dat is super(goed/leuk) is, wordt vooral bij het chatten gebruikt. Zie ook...Chatten
     title: FTW
   - description: Fuck You, Afkorting die aangeeft dat iemand niet blij is met iemand anders, wordt vooral gebruikt bij het chatten. Zie ook...Chatten
     title: FU
-  - description: Fucked Up, Afkorting voor 'kapot', wordt vooral gebruikt bij het chatten. Zie ook...Chatten
+  - description: Fucked Up, Afkorting voor &#39;kapot&#39;, wordt vooral gebruikt bij het chatten. Zie ook...Chatten
     title: FU
-  - description: F.cked Up Beyond All Recognition, Afkorting voor 'helemaal kapot', wordt vooral gebruikt bij het chatten. Zie ook...Chatten
+  - description: F.cked Up Beyond All Recognition, Afkorting voor &#39;helemaal kapot&#39;, wordt vooral gebruikt bij het chatten. Zie ook...Chatten
     title: FUBAR
-  - description: Fear, Uncertainty and Doubt, Afkorting voor 'angst, onzekerheid en twijfel', wordt vooral gebruikt bij het chatten. Zie ook...Chatten
+  - description: Fear, Uncertainty and Doubt, Afkorting voor &#39;angst, onzekerheid en twijfel&#39;, wordt vooral gebruikt bij het chatten. Zie ook...Chatten
     title: FUD
   - description: Het gebruik van een communicatieverbinding in 2 richtingen tegelijkertijd, in tegenstelling tot Half Duplex en is een synoniem van FDX. Zie ook...de tutorial hardware/terminologie
     title: Full Duplex
@@ -2577,33 +2577,33 @@ accordion:
     title: FDX
   - description: Fuck You N00B, Afkorting die aangeeft dat iemand niet blij is met iemand anders, die naar zijn mening zich als een noob gedraagd, wordt vooral gebruikt bij het chatten. Zie ook...Chatten, Noob
     title: FUN
-  - description: Een onderdeel van een programma dat losstaat van de rest van het programma. Een functie kan worden opgeroepen vanuit het programma. Functies vervullen meestal een specifieke taak. Je kunt ze zien als hele kleine programma's of scripts. Zie ook...programma, script
+  - description: Een onderdeel van een programma dat losstaat van de rest van het programma. Een functie kan worden opgeroepen vanuit het programma. Functies vervullen meestal een specifieke taak. Je kunt ze zien als hele kleine programma&#39;s of scripts. Zie ook...programma, script
     title: Functie
-  - description: Fair Use Policy, Een regeling waarbij de ISP aangeeft dat je 'normaal' met je internetverbinding om moet gaan. Als je andere mensen gaat hinderen kun je soms een boete, beperking of waarschuwing krijgen. Zie ook...ISP
+  - description: Fair Use Policy, Een regeling waarbij de ISP aangeeft dat je &#39;normaal&#39; met je internetverbinding om moet gaan. Als je andere mensen gaat hinderen kun je soms een boete, beperking of waarschuwing krijgen. Zie ook...ISP
     title: FUP
-  - description: Full Up Ready To Burst, Afkorting voor 'zo vol, staat op het punt om uit z'n voegen te barsten' (slaat vaak op harde schijven of andere opslagmedia), wordt vooral gebruikt bij het chatten. Zie ook...Chatten
+  - description: Full Up Ready To Burst, Afkorting voor &#39;zo vol, staat op het punt om uit z&#39;n voegen te barsten&#39; (slaat vaak op harde schijven of andere opslagmedia), wordt vooral gebruikt bij het chatten. Zie ook...Chatten
     title: FURTB
-  - description: Een processor-reeks van AMD waarin zowel 'gewone' CPU's als GPU's zitten... zo heb je geen grafische kaart meer nodig
+  - description: Een processor-reeks van AMD waarin zowel &#39;gewone&#39; CPU&#39;s als GPU&#39;s zitten... zo heb je geen grafische kaart meer nodig
     title: Fusion
   - description: logica die uitgaat begrippen met elk hun eigen waarde. Dit werkt onder andere met waarschijnlijkheid. Zie ook...Bayasian logic
     title: Fuzzy logic
   - description: Full Volume Encryption, Het volledig (vaak hardwarematig) encrypteren van een harde schijf. Zie ook...encrypteren
     title: FVE
-  - description: FreeWare, Afkorting voor 'freeware', wordt vooral gebruikt bij het chatten. Zie ook...Chatten
+  - description: FreeWare, Afkorting voor &#39;freeware&#39;, wordt vooral gebruikt bij het chatten. Zie ook...Chatten
     title: FW
   - description: Firmware Hub, Hub voor AHA. Zie ook...AHA
     title: FWH
-  - description: For What It's Worth, Afkorting voor 'voor wat het waard is', wordt vooral gebruikt bij het chatten. Zie ook...Chatten
+  - description: For What It&#39;s Worth, Afkorting voor &#39;voor wat het waard is&#39;, wordt vooral gebruikt bij het chatten. Zie ook...Chatten
     title: FWIW
   - description: techniek van 3Dfx voor compressie van textures. Zie ook...Texture
     title: FXT1
-  - description: For Your Amusement, Afkorting voor 'voor jouw plezier', wordt vooral gebruikt bij het chatten. Zie ook...Chatten
+  - description: For Your Amusement, Afkorting voor &#39;voor jouw plezier&#39;, wordt vooral gebruikt bij het chatten. Zie ook...Chatten
     title: FYA
-  - description: For Your Entertainment, Afkorting voor 'voor jouw plezier', wordt vooral gebruikt bij het chatten. Zie ook...Chatten
+  - description: For Your Entertainment, Afkorting voor &#39;voor jouw plezier&#39;, wordt vooral gebruikt bij het chatten. Zie ook...Chatten
     title: FYE
-  - description: For Your Eyes Only, Afkorting voor 'vertrouwelijk', wordt vooral gebruikt bij het chatten. Zie ook...Chatten
+  - description: For Your Eyes Only, Afkorting voor &#39;vertrouwelijk&#39;, wordt vooral gebruikt bij het chatten. Zie ook...Chatten
     title: FYEO
-  - description: For Your Information, Afkorting voor 'ter informatie', wordt vooral gebruikt bij het chatten. Zie ook...Chatten
+  - description: For Your Information, Afkorting voor &#39;ter informatie&#39;, wordt vooral gebruikt bij het chatten. Zie ook...Chatten
     title: FYI
   - description: Iets wat ergens aanwezig is, in tegenstelling tot virtueel. Zie ook...virtueel
     title: Fysiek
@@ -2611,21 +2611,21 @@ accordion:
     title: Fysieke laag
   - description: PHY, De 1e laag uit het OSI-model. Deze laag beschrijft de hardware... de manier waarop signalen worden verzonden (voltages, kabels, aansluitingen en dergeljke). Is een synoniem van Fysieke laag. Zie ook...OSI, de tutorial hardware/wat_is_het_OSI_model
     title: Physical layer
-  - description: Grin, Afkorting voor 'grijns', wordt vooral gebruikt bij het chatten. Zie ook...Chatten
+  - description: Grin, Afkorting voor &#39;grijns&#39;, wordt vooral gebruikt bij het chatten. Zie ook...Chatten
     title: G
   - description: Risc-processor van Motorola, 3e generatie PowerPC
     title: G3
   - description: Risc-processor van Motorola, 4e generatie PowerPC
     title: G4
-  - description: Go Ahead, Afkorting voor 'ga verder', wordt vooral gebruikt bij het chatten. Zie ook...Chatten
+  - description: Go Ahead, Afkorting voor &#39;ga verder&#39;, wordt vooral gebruikt bij het chatten. Zie ook...Chatten
     title: GA
   - description: Een mooi of erg handig klein apparaat, in het Nederlands is het het beste te vertalen met hebbedingetje of een klein programmaatje dat speciaal voor 1 taak is ontwikkeld
     title: Gadget
-  - description: Get Away From It All, Afkorting voor 'ga er eens even helemaal tussenuit', wordt vooral gebruikt bij het chatten. Zie ook...Chatten
+  - description: Get Away From It All, Afkorting voor &#39;ga er eens even helemaal tussenuit&#39;, wordt vooral gebruikt bij het chatten. Zie ook...Chatten
     title: GAFIA
   - description: Een aanduiding voor hoeveel een signaal versterkt wordt of kan worden. Wordt vaak in decibel uitgedrukt
     title: Gain
-  - description: Get A Life, Afkorting voor 'krijg een leven', wordt vaak gezegd tegen freaks waarvan wordt gedacht dat ze niets anders doen dan dat waar ze gek op zijn, wordt vooral gebruikt bij het chatten. Zie ook...Chatten
+  - description: Get A Life, Afkorting voor &#39;krijg een leven&#39;, wordt vaak gezegd tegen freaks waarvan wordt gedacht dat ze niets anders doen dan dat waar ze gek op zijn, wordt vooral gebruikt bij het chatten. Zie ook...Chatten
     title: GAL
   - description: Engels voor spel
     title: Game
@@ -2639,13 +2639,13 @@ accordion:
     title: Gate A20
   - description: apparaat dat twee netwerken met elkaar koppeltof een programma dat de uitwisseling van gegevens tussen twee netwerken/codeblokken regelt
     title: Gateway
-  - description: Great Big Hug, Afkorting voor 'grote omhelzing', wordt vooral gebruikt bij het chatten. Zie ook...Chatten
+  - description: Great Big Hug, Afkorting voor &#39;grote omhelzing&#39;, wordt vooral gebruikt bij het chatten. Zie ook...Chatten
     title: GBH
-  - description: Great Big Hug and Kisses, Afkorting voor 'grote omhelzing en kusjes', wordt vooral gebruikt bij het chatten en is een synoniem van GBH&K. Zie ook...Chatten
+  - description: Great Big Hug and Kisses, Afkorting voor &#39;grote omhelzing en kusjes&#39;, wordt vooral gebruikt bij het chatten en is een synoniem van GBH&K. Zie ook...Chatten
     title: GBHK
-  - description: Great Big Hug and Kisses, Afkorting voor 'grote omhelzing en kusjes', wordt vooral gebruikt bij het chatten. Is een synoniem van GBHK. Zie ook...Chatten
+  - description: Great Big Hug and Kisses, Afkorting voor &#39;grote omhelzing en kusjes&#39;, wordt vooral gebruikt bij het chatten. Is een synoniem van GBHK. Zie ook...Chatten
     title: GBH&K
-  - description: Garbled Beyond Recovery, Afkorting voor 'onherstelbaar vernield', wordt vooral gebruikt bij het chatten. Zie ook...Chatten
+  - description: Garbled Beyond Recovery, Afkorting voor &#39;onherstelbaar vernield&#39;, wordt vooral gebruikt bij het chatten. Zie ook...Chatten
     title: GBR
   - description: Global Catalog, database die voor alle gebruikers geldt bij Active Directory
     title: GC
@@ -2661,41 +2661,41 @@ accordion:
     title: Gddr4
   - description: Geheugen voor grafische kaarten, beter dan gddr4
     title: Gddr5
-  - description: Grinning, Ducking and Hiding, Afkorting voor 'grijzen, wegduiken en verstoppen', wordt vooral gebruikt bij het chatten en is een synoniem van GD&H. Zie ook...Chatten
+  - description: Grinning, Ducking and Hiding, Afkorting voor &#39;grijzen, wegduiken en verstoppen&#39;, wordt vooral gebruikt bij het chatten en is een synoniem van GD&H. Zie ook...Chatten
     title: GDH
-  - description: Grinning, Ducking and Hiding, Afkorting voor 'grijzen, wegduiken en verstoppen', wordt vooral gebruikt bij het chatten. Is een synoniem van GDH. Zie ook...Chatten
+  - description: Grinning, Ducking and Hiding, Afkorting voor &#39;grijzen, wegduiken en verstoppen&#39;, wordt vooral gebruikt bij het chatten. Is een synoniem van GDH. Zie ook...Chatten
     title: GD&H
   - description: Graphics Device Interface, module in Windows die het tekenen op beeldscherm of printer verwerkt
     title: GDI
-  - description: Grinning, Ducking and Running, Afkorting voor 'grijnzen, wegduiken en wegrennen', wordt vooral gebruikt bij het chatten en is een synoniem van GD&R. Zie ook...Chatten
+  - description: Grinning, Ducking and Running, Afkorting voor &#39;grijnzen, wegduiken en wegrennen&#39;, wordt vooral gebruikt bij het chatten en is een synoniem van GD&R. Zie ook...Chatten
     title: GDR
-  - description: Grinning, Ducking and Running, Afkorting voor 'grijnzen, wegduiken en wegrennen', wordt vooral gebruikt bij het chatten. Is een synoniem van GDR. Zie ook...Chatten
+  - description: Grinning, Ducking and Running, Afkorting voor &#39;grijnzen, wegduiken en wegrennen&#39;, wordt vooral gebruikt bij het chatten. Is een synoniem van GDR. Zie ook...Chatten
     title: GD&R
-  - description: Grinning, Ducking and Running As Fast As Possible, Afkorting voor 'grijnzen, wegduiken en zo snel mogelijk rennen', wordt vooral gebruikt bij het chatten en is een synoniem van GD&RAFAP. Zie ook...Chatten
+  - description: Grinning, Ducking and Running As Fast As Possible, Afkorting voor &#39;grijnzen, wegduiken en zo snel mogelijk rennen&#39;, wordt vooral gebruikt bij het chatten en is een synoniem van GD&RAFAP. Zie ook...Chatten
     title: GDRAFAP
-  - description: Grinning, Ducking and Running As Fast As Possible, Afkorting voor 'grijnzen, wegduiken en zo snel mogelijk rennen', wordt vooral gebruikt bij het chatten. Is een synoniem van GDRAFAP. Zie ook...Chatten
+  - description: Grinning, Ducking and Running As Fast As Possible, Afkorting voor &#39;grijnzen, wegduiken en zo snel mogelijk rennen&#39;, wordt vooral gebruikt bij het chatten. Is een synoniem van GDRAFAP. Zie ook...Chatten
     title: GD&RAFAP
-  - description: Grinning, Ducking and Running Even Further and Faster, Afkorting voor 'grijnzen, wegduiken en nog veel verder en sneller rennen', wordt vooral gebruikt bij het chatten en is een synoniem van GD&REF&F. Zie ook...Chatten
+  - description: Grinning, Ducking and Running Even Further and Faster, Afkorting voor &#39;grijnzen, wegduiken en nog veel verder en sneller rennen&#39;, wordt vooral gebruikt bij het chatten en is een synoniem van GD&REF&F. Zie ook...Chatten
     title: GDREFF
-  - description: Grinning, Ducking and Running Even Further and Faster, Afkorting voor 'grijnzen, wegduiken en nog veel verder en sneller rennen', wordt vooral gebruikt bij het chatten. Is een synoniem van GDREFF. Zie ook...Chatten
+  - description: Grinning, Ducking and Running Even Further and Faster, Afkorting voor &#39;grijnzen, wegduiken en nog veel verder en sneller rennen&#39;, wordt vooral gebruikt bij het chatten. Is een synoniem van GDREFF. Zie ook...Chatten
     title: GD&REF&F
-  - description: Grinning, Ducking and Running Fast, Afkorting voor 'grijnzen, wegduiken en hard rennen', wordt vooral gebruikt bij het chatten en is een synoniem van GD&RF. Zie ook...Chatten
+  - description: Grinning, Ducking and Running Fast, Afkorting voor &#39;grijnzen, wegduiken en hard rennen&#39;, wordt vooral gebruikt bij het chatten en is een synoniem van GD&RF. Zie ook...Chatten
     title: GDRF
-  - description: Grinning, Ducking and Running Fast, Afkorting voor 'grijnzen, wegduiken en hard rennen', wordt vooral gebruikt bij het chatten. Is een synoniem van GDRF. Zie ook...Chatten
+  - description: Grinning, Ducking and Running Fast, Afkorting voor &#39;grijnzen, wegduiken en hard rennen&#39;, wordt vooral gebruikt bij het chatten. Is een synoniem van GDRF. Zie ook...Chatten
     title: GD&RF
-  - description: Grinning, Ducking and Running Very Fast, Afkorting voor 'grijnzen, wegduiken en erg hard rennen', wordt vooral gebruikt bij het chatten en is een synoniem van GD&RVF. Zie ook...Chatten
+  - description: Grinning, Ducking and Running Very Fast, Afkorting voor &#39;grijnzen, wegduiken en erg hard rennen&#39;, wordt vooral gebruikt bij het chatten en is een synoniem van GD&RVF. Zie ook...Chatten
     title: GDRVF
-  - description: Grinning, Ducking and Running Very Fast, Afkorting voor 'grijnzen, wegduiken en erg hard rennen', wordt vooral gebruikt bij het chatten. Is een synoniem van GDRVF. Zie ook...Chatten
+  - description: Grinning, Ducking and Running Very Fast, Afkorting voor &#39;grijnzen, wegduiken en erg hard rennen&#39;, wordt vooral gebruikt bij het chatten. Is een synoniem van GDRVF. Zie ook...Chatten
     title: GD&RVF
-  - description: Grin, Duck and Wave, Afkorting voor 'grijnzen, wegduiken en zwaaien', wordt vooral gebruikt bij het chatten en is een synoniem van GD&W. Zie ook...Chatten
+  - description: Grin, Duck and Wave, Afkorting voor &#39;grijnzen, wegduiken en zwaaien&#39;, wordt vooral gebruikt bij het chatten en is een synoniem van GD&W. Zie ook...Chatten
     title: GDW
-  - description: Grin, Duck and Wave, Afkorting voor 'grijnzen, wegduiken en zwaaien', wordt vooral gebruikt bij het chatten. Is een synoniem van GDW. Zie ook...Chatten
+  - description: Grin, Duck and Wave, Afkorting voor &#39;grijnzen, wegduiken en zwaaien&#39;, wordt vooral gebruikt bij het chatten. Is een synoniem van GDW. Zie ook...Chatten
     title: GD&W
   - description: Geheel van middelen waarmee de gebruiker de computer bestuurt (scherm, toetsenbord, muis). Zie ook...interface
     title: Gebruikersinterface
   - description: Een maat voor hoe eenvoudig een computer(programma) te gebruiken is
     title: Gebruiksvriendelijkheid
-  - description: Een 'computergek', afhankelijk van de context negatief of positief bedoeld. Geeks hebben vaak heel veel rare spullen die met computers te maken hebben of praten in het dagelijkse leven veel over computers
+  - description: Een &#39;computergek&#39;, afhankelijk van de context negatief of positief bedoeld. Geeks hebben vaak heel veel rare spullen die met computers te maken hebben of praten in het dagelijkse leven veel over computers
     title: Geek
   - description: Merknaam voor videokaarten van nVidia. Zie ook...nVidia, Videokaart
     title: GeForce
@@ -2711,7 +2711,7 @@ accordion:
     title: Geheugenbank
   - description: Het opslaan van een momentopname van het geheugen... alle gegevens die zich op dat moment in het geheugen bevinden wegschrijven naar een bestand
     title: Geheugendump
-  - description: Probleem bij accu's dat ze minder energie op kunnen slaan als ze voor het opladen niet helemaal leeg zijn. Zie ook...Accu
+  - description: Probleem bij accu&#39;s dat ze minder energie op kunnen slaan als ze voor het opladen niet helemaal leeg zijn. Zie ook...Accu
     title: Geheugeneffect
   - description: Printplaat waarop geheugenplaatjes zijn geplaatst, in het geheugen worden voor kortere tijd waardes opgeslagen waarmee de processor kan rekenen. Als je de computer uit zet zijn deze gegevens gewist en is een synoniem van Geheugenreepje
     title: Geheugenmodule
@@ -2731,11 +2731,11 @@ accordion:
     title: Getypeerde taal
   - description: Girlfriend, Afkorting voor vriendin (wordt vaak de partner mee bedoelt), wordt vooral gebruikt bij het chatten. Zie ook...Chatten
     title: GF
-  - description: Grinning From Ear To Ear, Afkorting voor 'grijzen van oor tot oor', wordt vooral gebruikt bij het chatten. Zie ook...Chatten
+  - description: Grinning From Ear To Ear, Afkorting voor &#39;grijzen van oor tot oor&#39;, wordt vooral gebruikt bij het chatten. Zie ook...Chatten
     title: GFETE
-  - description: Grim File Reaper, Afkorting voor 'meedogenloze data vernietiger', wordt vooral gebruikt bij het chatten. Zie ook...Chatten
+  - description: Grim File Reaper, Afkorting voor &#39;meedogenloze data vernietiger&#39;, wordt vooral gebruikt bij het chatten. Zie ook...Chatten
     title: GFR
-  - description: Go F.ck Yourself, Afkorting voor 'sodemieter op', wordt vooral gebruikt bij het chatten. Zie ook...Chatten
+  - description: Go F.ck Yourself, Afkorting voor &#39;sodemieter op&#39;, wordt vooral gebruikt bij het chatten. Zie ook...Chatten
     title: GFY
   - description: 1024 Mebibyte, dus 1.073.741.824 byte. Afgekort als GiB en is een synoniem van GiB
     title: Gibibyte
@@ -2755,35 +2755,35 @@ accordion:
     title: GB
   - description: Gigabit Capacity Point of Presence, knooppunt tussen Internet en Internet2 netwerken
     title: Gigapop
-  - description: Garbage In Garbage Out, Afkorting voor 'rommel erin, rommel eruit', wordt vooral gebruikt bij het chatten. Zie ook...Chatten
+  - description: Garbage In Garbage Out, Afkorting voor &#39;rommel erin, rommel eruit&#39;, wordt vooral gebruikt bij het chatten. Zie ook...Chatten
     title: GIGO
   - description: Geographical Information System, database met geografische gegevens
     title: GIS
-  - description: Gee I Wish I'd Said That, Afkorting voor 'goh, ik wou dat ik dat had gezegd', wordt vooral gebruikt bij het chatten. Zie ook...Chatten
+  - description: Gee I Wish I&#39;d Said That, Afkorting voor &#39;goh, ik wou dat ik dat had gezegd&#39;, wordt vooral gebruikt bij het chatten. Zie ook...Chatten
     title: GIWIST
   - description: een kabel gemaakt van glasvezels. Deze is te gebruiken voor het verzenden en ontvangen van gegevens. Doordat deze met licht in plaats van elektriciteit is deze over zeer lange afstanden (er zijn honderden kilometers zonder versterking gehaald) te gebruiken en is supersnel. (tientallen Gbit/s)
     title: Glasvezel
-  - description: Good Luck and Good Hunting, Afkorting voor 'veel geluk en succes', wordt vooral gebruikt bij het chatten en is een synoniem van GL&GH. Zie ook...Chatten
+  - description: Good Luck and Good Hunting, Afkorting voor &#39;veel geluk en succes&#39;, wordt vooral gebruikt bij het chatten en is een synoniem van GL&GH. Zie ook...Chatten
     title: GLGH
-  - description: Good Luck and Good Hunting, Afkorting voor 'veel geluk en succes', wordt vooral gebruikt bij het chatten. Is een synoniem van GLGH. Zie ook...Chatten
+  - description: Good Luck and Good Hunting, Afkorting voor &#39;veel geluk en succes&#39;, wordt vooral gebruikt bij het chatten. Is een synoniem van GLGH. Zie ook...Chatten
     title: GL&GH
   - description: General Logic Unit, programmeerbare universele schakeling
     title: GLU
   - description: Graphics & Memory Controller Hub, verbinding tussen het geheugen en de systeembus. Zie ook...systeembus
     title: GMCH
-  - description: Great Minds Think Alike, Afkorting voor 'slimme mensen denken hetzelfde', wordt vooral gebruikt bij het chatten. Zie ook...Chatten
+  - description: Great Minds Think Alike, Afkorting voor &#39;slimme mensen denken hetzelfde&#39;, wordt vooral gebruikt bij het chatten. Zie ook...Chatten
     title: GMTA
   - description: Ground, aanduiding voor een verbinding met de aarde
     title: GND
   - description: GUI (gebruikersomgeving) voor Linux. Zie ook...GUI, Linux
     title: Gnome
-  - description: GNU's Not Unix, project voor ontwikkeling en verspreiding van gratis software. GNU moest een eigen besturingssysteem worden, maar is het uiteindelijk samen gegaan met Linux tot GNU Linux, hoewel dat nog steeds gewoon Linux wordt genoemd. Zie ook...Linux, UNIX, Besturingssysteem
+  - description: GNU&#39;s Not Unix, project voor ontwikkeling en verspreiding van gratis software. GNU moest een eigen besturingssysteem worden, maar is het uiteindelijk samen gegaan met Linux tot GNU Linux, hoewel dat nog steeds gewoon Linux wordt genoemd. Zie ook...Linux, UNIX, Besturingssysteem
     title: GNU
   - description: Het bekendste P2P-netwerk voor bestanden kleiner dan 100 MB. Gnutella bekend is beter bekend als Limewire, de meest gebruikte client voor dit netwerk. Zie ook...P2P-Netwerk
     title: Gnutella
   - description: spel waarbij gamer als een god over de wereld heerst
     title: Godgame
-  - description: God Only Knows, Afkorting voor 'god mag het weten', wordt vooral gebruikt bij het chatten. Zie ook...Chatten
+  - description: God Only Knows, Afkorting voor &#39;god mag het weten&#39;, wordt vooral gebruikt bij het chatten. Zie ook...Chatten
     title: GOK
   - description: Begon als een populaire zoekemachine op het internet, maar levert naast zoeken nu diensten die met allerlei aspecten van het internet te maken hebben. Zie ook...Zoekmachine
     title: Google
@@ -2797,9 +2797,9 @@ accordion:
     title: Goto
   - description: techniek die werd gebruik om realistischere schaduwen te maken
     title: Gourad shading
-  - description: Get On With It, Afkorting voor 'schiet eens op', wordt vooral gebruikt bij het chatten. Zie ook...Chatten
+  - description: Get On With It, Afkorting voor &#39;schiet eens op&#39;, wordt vooral gebruikt bij het chatten. Zie ook...Chatten
     title: GOWI
-  - description: Go Pike, Fast, Afkorting voor 'ga toch weg', wordt vooral gebruikt bij het chatten. Zie ook...Chatten
+  - description: Go Pike, Fast, Afkorting voor &#39;ga toch weg&#39;, wordt vooral gebruikt bij het chatten. Zie ook...Chatten
     title: GP,F
   - description: Graphics Performance Accelerator, module voor een AGP-slot waarmee je extra geheugen toevoegd aan de videokaart in dat slot
     title: GPA
@@ -2817,7 +2817,7 @@ accordion:
     title: IEEE 488
   - description: General Purpose Interface Bus, heet nu IEEE 488, een bus die meer dan 30 jaar voor allerlei korte-afstands datatransport in de computerwereld heeft gediend. Deze wordt niet meer gebruikt. Is een synoniem van GPIB
     title: HP-IB
-  - description: GNU Public License, licentie waaronder de meeste open source-programma's vallen (o.a. Linux)
+  - description: GNU Public License, licentie waaronder de meeste open source-programma&#39;s vallen (o.a. Linux)
     title: GPL
   - description: General Packet Radio Services, pakket-geschakelde verbinding voor mobiel internet, max 128 kb/s en is een synoniem van 2.5G. Zie ook...UMTS, pakketschakelen
     title: GPRS
@@ -2835,9 +2835,9 @@ accordion:
     title: Grafische kaart
   - description: Uitbreidingskaart voor een computer die het beeld verzorgd, is soms vervangen door een GPU op het moederbord. Is een synoniem van Grafische kaart
     title: Graka
-  - description: Grinning, Running and Ducking, Afkorting voor 'grijnzen, rennen en wegduiken', wordt vooral gebruikt bij het chatten en is een synoniem van GD&R. Zie ook...Chatten
+  - description: Grinning, Running and Ducking, Afkorting voor &#39;grijnzen, rennen en wegduiken&#39;, wordt vooral gebruikt bij het chatten en is een synoniem van GD&R. Zie ook...Chatten
     title: GRD
-  - description: Grinning, Running and Ducking, Afkorting voor 'grijnzen, rennen en wegduiken', wordt vooral gebruikt bij het chatten. Is een synoniem van GRD. Zie ook...Chatten
+  - description: Grinning, Running and Ducking, Afkorting voor &#39;grijnzen, rennen en wegduiken&#39;, wordt vooral gebruikt bij het chatten. Is een synoniem van GRD. Zie ook...Chatten
     title: GD&R
   - description: Een hacker die soms een black hat en soms een white hat hacker is. Zie ook...black hat hacker, white hat hacker
     title: Grey Hat Hacker
@@ -2847,9 +2847,9 @@ accordion:
     title: GSM
   - description: Global System for Mobile Communications, de meest gebruikte standaard voor mobiele telefonie. Is een synoniem van GSM
     title: 2G
-  - description: Get The F*ck Outtaa Here, Afkorting voor 'sodemieter op', wordt vooral gebruikt bij het chatten. Zie ook...Chatten
+  - description: Get The F*ck Outtaa Here, Afkorting voor &#39;sodemieter op&#39;, wordt vooral gebruikt bij het chatten. Zie ook...Chatten
     title: GTFOH
-  - description: GIMP Toolkit, een API om vensters (windows) mee te 'maken'. Was oorspronkelijk bedoeld voor The GIMP, maar wordt nu door veel Linux programma's gebruikt. Zie ook...Linux, API
+  - description: GIMP Toolkit, een API om vensters (windows) mee te &#39;maken&#39;. Was oorspronkelijk bedoeld voor The GIMP, maar wordt nu door veel Linux programma&#39;s gebruikt. Zie ook...Linux, API
     title: GTK
   - description: Graphical User Interface, Alles wat zorgt voor het de structuur van het uiterlijk van een grafisch systeem. en is een synoniem van Gebruikersomgeving, Grafische interface. Zie ook...thema, interface
     title: GUI
@@ -2861,17 +2861,17 @@ accordion:
     title: GUID
   - description: Een bestandsformaat voor compressie, speciaal voor tekstbestanden. Zie ook...compressie
     title: gz
-  - description: Hug, Afkorting voor 'knuffel', wordt vooral gebruikt bij het chatten. Zie ook...Chatten
+  - description: Hug, Afkorting voor &#39;knuffel&#39;, wordt vooral gebruikt bij het chatten. Zie ook...Chatten
     title: H
   - description: protocol voor VoIP-gesprekken
     title: H.323
   - description: Een manier om een beveiliging te omzeilen
     title: Hack
-  - description: Het openbreken van computersystemen of netwerken door beveiligingen te omzeilen of te 'kraken'. Zie ook...Hacker
+  - description: Het openbreken van computersystemen of netwerken door beveiligingen te omzeilen of te &#39;kraken&#39;. Zie ook...Hacker
     title: Hacken
   - description: Persoon die computersystemen openbreekt door beveiligingen te omzeilen. Er zijn verschillende klassificaties in gebruik... een white hat hacker spoort beveiligingsproblemen op en rapporteert deze, black hat hacker (ook wel cracker) misbruikt de lekken en een grey hat hacker zit daar tussenin. Zie ook...White hat hacker, Grey hat hacker, Black hat hacker
     title: Hacker
-  - description: Hugs And Kisses, Afkorting voor 'knuffels en kussen...', wordt vooral gebruikt bij het chatten. Zie ook...Chatten
+  - description: Hugs And Kisses, Afkorting voor &#39;knuffels en kussen...&#39;, wordt vooral gebruikt bij het chatten. Zie ook...Chatten
     title: HAK
   - description: Hardware Abstraction Layer, interface tussen programmacode en het apparaat. Zie ook...interface
     title: HAL
@@ -2903,7 +2903,7 @@ accordion:
     title: Hash-key
   - description: een &quot;vingerafdruk&quot; van een bestand. Dit wordt gebruikt voor checksums en bij cryptografie. Is een synoniem van Hash-key. Zie ook...Checksum
     title: Hash
-  - description: Hug Back, Afkorting voor 'een knuffel terug', wordt vooral gebruikt bij het chatten. Zie ook...Chatten
+  - description: Hug Back, Afkorting voor &#39;een knuffel terug&#39;, wordt vooral gebruikt bij het chatten. Zie ook...Chatten
     title: HB
   - description: High byte/Low byte, Deze termen worden gebruikt bij de aansturing van apparaten, en geven extremen aan. De High-byte het maximum, en de Low-Byte het minimum en is een synoniem van Low byte/High byte. Zie ook...BOM
     title: HBLB
@@ -2955,21 +2955,21 @@ accordion:
     title: Heatsink
   - description: Een stuk metaal met een groot oppervlak (vaak doordat het veel plaatjes naast elkaar zijn) dat ervoor zorgt dat warmte makkelijk aan de lucht kan worden overgedragen, waardoor er beter gekoeld kan worden. Vaak zit er een koeler op een heatsink gemonteerd. Is een synoniem van Heatsink. Zie ook...Koeler
     title: Koelvin
-  - description: Engels voor 'Hallo Wereld'. Deze uitdrukking wordt vaak gebruikt bij het ontwerpen van een programma, om te kijken of alles naar behoren werkt
+  - description: Engels voor &#39;Hallo Wereld&#39;. Deze uitdrukking wordt vaak gebruikt bij het ontwerpen van een programma, om te kijken of alles naar behoren werkt
     title: Hello World
   - description: Norm voor grafische weergave. Verouderd
     title: Hercules
-  - description: Het aantal hertz is een maat voor het aantal keer per seconde dat er iets gebeurd, een maat voor de frequentie. In de computerwereld wordt dit vaak gebuikt bij processoren om hun verweringssnelheid aan te geven. Hoe hoger het aantal hertz, hoe vaker er een berekening in gaat. 1 hertz betekent dan dat er 1 processorcyclus per seconde is. Het aantal berekeningen per cyclus heeft echter ook nog invloed op de snelheid, dus met hertz is niet meteen sneller. Voor de 'echte' snelheid van een processor moet naar het aantal FLOPS worden gekeken. hertz wordt afgekort tot hz, en dan kunnen er ook nog voorvoegsels bijkomen... KHz, Kilohertz; MHz, Megahertz en GHz, Gigahertz en is een synoniem van Hz, Khz, Mhz, Ghz, Thz. Zie ook...processor, flops
+  - description: Het aantal hertz is een maat voor het aantal keer per seconde dat er iets gebeurd, een maat voor de frequentie. In de computerwereld wordt dit vaak gebuikt bij processoren om hun verweringssnelheid aan te geven. Hoe hoger het aantal hertz, hoe vaker er een berekening in gaat. 1 hertz betekent dan dat er 1 processorcyclus per seconde is. Het aantal berekeningen per cyclus heeft echter ook nog invloed op de snelheid, dus met hertz is niet meteen sneller. Voor de &#39;echte&#39; snelheid van een processor moet naar het aantal FLOPS worden gekeken. hertz wordt afgekort tot hz, en dan kunnen er ook nog voorvoegsels bijkomen... KHz, Kilohertz; MHz, Megahertz en GHz, Gigahertz en is een synoniem van Hz, Khz, Mhz, Ghz, Thz. Zie ook...processor, flops
     title: hertz
-  - description: Het aantal hertz is een maat voor het aantal keer per seconde dat er iets gebeurd, een maat voor de frequentie. In de computerwereld wordt dit vaak gebuikt bij processoren om hun verweringssnelheid aan te geven. Hoe hoger het aantal hertz, hoe vaker er een berekening in gaat. 1 hertz betekent dan dat er 1 processorcyclus per seconde is. Het aantal berekeningen per cyclus heeft echter ook nog invloed op de snelheid, dus met hertz is niet meteen sneller. Voor de 'echte' snelheid van een processor moet naar het aantal FLOPS worden gekeken. hertz wordt afgekort tot hz, en dan kunnen er ook nog voorvoegsels bijkomen... KHz, Kilohertz; MHz, Megahertz en GHz, Gigahertz. Is een synoniem van hertz. Zie ook...processor, flops
+  - description: Het aantal hertz is een maat voor het aantal keer per seconde dat er iets gebeurd, een maat voor de frequentie. In de computerwereld wordt dit vaak gebuikt bij processoren om hun verweringssnelheid aan te geven. Hoe hoger het aantal hertz, hoe vaker er een berekening in gaat. 1 hertz betekent dan dat er 1 processorcyclus per seconde is. Het aantal berekeningen per cyclus heeft echter ook nog invloed op de snelheid, dus met hertz is niet meteen sneller. Voor de &#39;echte&#39; snelheid van een processor moet naar het aantal FLOPS worden gekeken. hertz wordt afgekort tot hz, en dan kunnen er ook nog voorvoegsels bijkomen... KHz, Kilohertz; MHz, Megahertz en GHz, Gigahertz. Is een synoniem van hertz. Zie ook...processor, flops
     title: Hz
-  - description: Het aantal hertz is een maat voor het aantal keer per seconde dat er iets gebeurd, een maat voor de frequentie. In de computerwereld wordt dit vaak gebuikt bij processoren om hun verweringssnelheid aan te geven. Hoe hoger het aantal hertz, hoe vaker er een berekening in gaat. 1 hertz betekent dan dat er 1 processorcyclus per seconde is. Het aantal berekeningen per cyclus heeft echter ook nog invloed op de snelheid, dus met hertz is niet meteen sneller. Voor de 'echte' snelheid van een processor moet naar het aantal FLOPS worden gekeken. hertz wordt afgekort tot hz, en dan kunnen er ook nog voorvoegsels bijkomen... KHz, Kilohertz; MHz, Megahertz en GHz, Gigahertz. Is een synoniem van hertz. Zie ook...processor, flops
+  - description: Het aantal hertz is een maat voor het aantal keer per seconde dat er iets gebeurd, een maat voor de frequentie. In de computerwereld wordt dit vaak gebuikt bij processoren om hun verweringssnelheid aan te geven. Hoe hoger het aantal hertz, hoe vaker er een berekening in gaat. 1 hertz betekent dan dat er 1 processorcyclus per seconde is. Het aantal berekeningen per cyclus heeft echter ook nog invloed op de snelheid, dus met hertz is niet meteen sneller. Voor de &#39;echte&#39; snelheid van een processor moet naar het aantal FLOPS worden gekeken. hertz wordt afgekort tot hz, en dan kunnen er ook nog voorvoegsels bijkomen... KHz, Kilohertz; MHz, Megahertz en GHz, Gigahertz. Is een synoniem van hertz. Zie ook...processor, flops
     title: Khz
-  - description: Het aantal hertz is een maat voor het aantal keer per seconde dat er iets gebeurd, een maat voor de frequentie. In de computerwereld wordt dit vaak gebuikt bij processoren om hun verweringssnelheid aan te geven. Hoe hoger het aantal hertz, hoe vaker er een berekening in gaat. 1 hertz betekent dan dat er 1 processorcyclus per seconde is. Het aantal berekeningen per cyclus heeft echter ook nog invloed op de snelheid, dus met hertz is niet meteen sneller. Voor de 'echte' snelheid van een processor moet naar het aantal FLOPS worden gekeken. hertz wordt afgekort tot hz, en dan kunnen er ook nog voorvoegsels bijkomen... KHz, Kilohertz; MHz, Megahertz en GHz, Gigahertz. Is een synoniem van hertz. Zie ook...processor, flops
+  - description: Het aantal hertz is een maat voor het aantal keer per seconde dat er iets gebeurd, een maat voor de frequentie. In de computerwereld wordt dit vaak gebuikt bij processoren om hun verweringssnelheid aan te geven. Hoe hoger het aantal hertz, hoe vaker er een berekening in gaat. 1 hertz betekent dan dat er 1 processorcyclus per seconde is. Het aantal berekeningen per cyclus heeft echter ook nog invloed op de snelheid, dus met hertz is niet meteen sneller. Voor de &#39;echte&#39; snelheid van een processor moet naar het aantal FLOPS worden gekeken. hertz wordt afgekort tot hz, en dan kunnen er ook nog voorvoegsels bijkomen... KHz, Kilohertz; MHz, Megahertz en GHz, Gigahertz. Is een synoniem van hertz. Zie ook...processor, flops
     title: Mhz
-  - description: Het aantal hertz is een maat voor het aantal keer per seconde dat er iets gebeurd, een maat voor de frequentie. In de computerwereld wordt dit vaak gebuikt bij processoren om hun verweringssnelheid aan te geven. Hoe hoger het aantal hertz, hoe vaker er een berekening in gaat. 1 hertz betekent dan dat er 1 processorcyclus per seconde is. Het aantal berekeningen per cyclus heeft echter ook nog invloed op de snelheid, dus met hertz is niet meteen sneller. Voor de 'echte' snelheid van een processor moet naar het aantal FLOPS worden gekeken. hertz wordt afgekort tot hz, en dan kunnen er ook nog voorvoegsels bijkomen... KHz, Kilohertz; MHz, Megahertz en GHz, Gigahertz. Is een synoniem van hertz. Zie ook...processor, flops
+  - description: Het aantal hertz is een maat voor het aantal keer per seconde dat er iets gebeurd, een maat voor de frequentie. In de computerwereld wordt dit vaak gebuikt bij processoren om hun verweringssnelheid aan te geven. Hoe hoger het aantal hertz, hoe vaker er een berekening in gaat. 1 hertz betekent dan dat er 1 processorcyclus per seconde is. Het aantal berekeningen per cyclus heeft echter ook nog invloed op de snelheid, dus met hertz is niet meteen sneller. Voor de &#39;echte&#39; snelheid van een processor moet naar het aantal FLOPS worden gekeken. hertz wordt afgekort tot hz, en dan kunnen er ook nog voorvoegsels bijkomen... KHz, Kilohertz; MHz, Megahertz en GHz, Gigahertz. Is een synoniem van hertz. Zie ook...processor, flops
     title: Ghz
-  - description: Het aantal hertz is een maat voor het aantal keer per seconde dat er iets gebeurd, een maat voor de frequentie. In de computerwereld wordt dit vaak gebuikt bij processoren om hun verweringssnelheid aan te geven. Hoe hoger het aantal hertz, hoe vaker er een berekening in gaat. 1 hertz betekent dan dat er 1 processorcyclus per seconde is. Het aantal berekeningen per cyclus heeft echter ook nog invloed op de snelheid, dus met hertz is niet meteen sneller. Voor de 'echte' snelheid van een processor moet naar het aantal FLOPS worden gekeken. hertz wordt afgekort tot hz, en dan kunnen er ook nog voorvoegsels bijkomen... KHz, Kilohertz; MHz, Megahertz en GHz, Gigahertz. Is een synoniem van hertz. Zie ook...processor, flops
+  - description: Het aantal hertz is een maat voor het aantal keer per seconde dat er iets gebeurd, een maat voor de frequentie. In de computerwereld wordt dit vaak gebuikt bij processoren om hun verweringssnelheid aan te geven. Hoe hoger het aantal hertz, hoe vaker er een berekening in gaat. 1 hertz betekent dan dat er 1 processorcyclus per seconde is. Het aantal berekeningen per cyclus heeft echter ook nog invloed op de snelheid, dus met hertz is niet meteen sneller. Voor de &#39;echte&#39; snelheid van een processor moet naar het aantal FLOPS worden gekeken. hertz wordt afgekort tot hz, en dan kunnen er ook nog voorvoegsels bijkomen... KHz, Kilohertz; MHz, Megahertz en GHz, Gigahertz. Is een synoniem van hertz. Zie ook...processor, flops
     title: Thz
   - description: volgens het 16-tallig stelsel, cijfers van 0 t/m F, bijvoorbeeld 1F komt overeen met 31 in het tientallig stelsel, 20 komt overeen met 32, etc
     title: Hexadecimaal
@@ -2977,41 +2977,41 @@ accordion:
     title: HFC
   - description: Hierarchical File System, bestandssysteem van Apple
     title: HFS
-  - description: Holding Hands, Afkorting voor 'met de handen ineen', wordt vooral gebruikt bij het chatten. Zie ook...Chatten
+  - description: Holding Hands, Afkorting voor &#39;met de handen ineen&#39;, wordt vooral gebruikt bij het chatten. Zie ook...Chatten
     title: HH
-  - description: Ha Ha, Just Kidding, Afkorting voor 'ha ha, ik maak maar een grapje', wordt vooral gebruikt bij het chatten. Zie ook...Chatten
+  - description: Ha Ha, Just Kidding, Afkorting voor &#39;ha ha, ik maak maar een grapje&#39;, wordt vooral gebruikt bij het chatten. Zie ook...Chatten
     title: HHJK
-  - description: Ha Ha, Only Joking, Afkorting voor 'ha ha, ik maak maar een grapje', wordt vooral gebruikt bij het chatten. Zie ook...Chatten
+  - description: Ha Ha, Only Joking, Afkorting voor &#39;ha ha, ik maak maar een grapje&#39;, wordt vooral gebruikt bij het chatten. Zie ook...Chatten
     title: HHOJ
-  - description: Ha Ha, Only Kidding, Afkorting voor 'ha ha, ik maak maar een grapje', wordt vooral gebruikt bij het chatten. Zie ook...Chatten
+  - description: Ha Ha, Only Kidding, Afkorting voor &#39;ha ha, ik maak maar een grapje&#39;, wordt vooral gebruikt bij het chatten. Zie ook...Chatten
     title: HHOK
-  - description: Ha Ha, Only Seriously, Afkorting voor 'ha ha, ik meen het serieus', wordt vooral gebruikt bij het chatten. Zie ook...Chatten
+  - description: Ha Ha, Only Seriously, Afkorting voor &#39;ha ha, ik meen het serieus&#39;, wordt vooral gebruikt bij het chatten. Zie ook...Chatten
     title: HHOS
   - description: Human Input Device, apparaat waarmee een mens iets door kan geven aan een computer, bijvoorbeeld een toetsenbord en muis
     title: HID
-  - description: Hope It Helps, Afkorting voor 'hoop dat het helpt', wordt vooral gebruikt bij het chatten. Zie ook...Chatten
+  - description: Hope It Helps, Afkorting voor &#39;hoop dat het helpt&#39;, wordt vooral gebruikt bij het chatten. Zie ook...Chatten
     title: HIH
-  - description: Help I Lapsed Into A Coma And Can't Log Off, Afkorting voor 'help, ik raakte in coma en kan niet uitloggen', wordt vooral gebruikt bij het chatten. Zie ook...Chatten
+  - description: Help I Lapsed Into A Coma And Can&#39;t Log Off, Afkorting voor &#39;help, ik raakte in coma en kan niet uitloggen&#39;, wordt vooral gebruikt bij het chatten. Zie ook...Chatten
     title: HILIACACLO
   - description: gevonden item in een zoekmachine, maar niet noodzakelijk het gezochte
     title: Hit
   - description: Onderdelen van het Windows register, Er zijn er ongeveer 8, hierin bevinden zich alle gegevens van het register
     title: Hive
-  - description: Hate It When That Happens, Afkorting voor 'haat het wanneer dat gebeurt', wordt vooral gebruikt bij het chatten. Zie ook...Chatten
+  - description: Hate It When That Happens, Afkorting voor &#39;haat het wanneer dat gebeurt&#39;, wordt vooral gebruikt bij het chatten. Zie ook...Chatten
     title: HIWTH
   - description: High Memory Area, geheugengebied op 80x86-processors tussen 640 kB en 1MB
     title: HMA
   - description: Hochsprung Memory Management Unit, schakeling van Apple voor conversie van 24-bits adressering naar 32-bits voor het geheugen. Zie ook...Thunking
     title: HMMU
-  - description: Home Made Smiley, Afkorting voor 'zelfgemaakte smiley', wordt vooral gebruikt bij het chatten. Zie ook...Chatten
+  - description: Home Made Smiley, Afkorting voor &#39;zelfgemaakte smiley&#39;, wordt vooral gebruikt bij het chatten. Zie ook...Chatten
     title: HMS
-  - description: Here's My Try, Afkorting voor 'hier is mijn poging', wordt vooral gebruikt bij het chatten. Zie ook...Chatten
+  - description: Here&#39;s My Try, Afkorting voor &#39;hier is mijn poging&#39;, wordt vooral gebruikt bij het chatten. Zie ook...Chatten
     title: HMT
   - description: E-mails die vragen om doorgestuurd te worden. Hierin wordt meestal meerdere keren gevraagd de mail door te sturen, waarbij soms wordt gedreigt met iets als het niet vaak genoeg gebeurt. De mail gaat meestal over een nieuwe virusuitbraak of over een liefdadigheidsactie waarbij een goed doel geld krijgt voor elke doorgestuurde mail en is een synoniem van Doorstuurmail
     title: Hoax
   - description: E-mails die vragen om doorgestuurd te worden. Hierin wordt meestal meerdere keren gevraagd de mail door te sturen, waarbij soms wordt gedreigt met iets als het niet vaak genoeg gebeurt. De mail gaat meestal over een nieuwe virusuitbraak of over een liefdadigheidsactie waarbij een goed doel geld krijgt voor elke doorgestuurde mail. Is een synoniem van Hoax
     title: Doorstuurmail
-  - description: Een programmeertaal waarin de commando's meer op de menselijke spraak lijken. Hierdoor is de taal makkelijker te gebruiken, maar zijn de programma's meestal langzamer. Zie ook...Lage Programmeertaal, Programmeertaal
+  - description: Een programmeertaal waarin de commando&#39;s meer op de menselijke spraak lijken. Hierdoor is de taal makkelijker te gebruiken, maar zijn de programma&#39;s meestal langzamer. Zie ook...Lage Programmeertaal, Programmeertaal
     title: Hoge programmeertaal
   - description: Ook wel Root genoemd. Hierin bevinden zich alle mappen, bestanden etc, dus is het bovenste onderdeel van de mappenboom. In Windows is dit Deze Computer (je kunt het Bureaublad ook zien als home) en op Unix systemen is dit /, de root en is een synoniem van Root
     title: Home
@@ -3037,15 +3037,15 @@ accordion:
     title: Host
   - description: Een netwerk waarin er een (soms meer) sterke computer aanwezig is, de host, en meerdere simpele computers, de terminals. Hierbij doet de host al het werk en geeft de terminal alle gegevens door aan de gebruiker. Zie ook...Mainframe, Terminal
     title: Host/terminal netwerk
-  - description: Het uitbesteden van het 'hosten' een website. Dit betekent dat dat bedrijf er zorgt voor draag dat de website van de aanbesteder beschikbaar is en is een synoniem van webhosten, webhosting, Hosten, Hoster
+  - description: Het uitbesteden van het &#39;hosten&#39; een website. Dit betekent dat dat bedrijf er zorgt voor draag dat de website van de aanbesteder beschikbaar is en is een synoniem van webhosten, webhosting, Hosten, Hoster
     title: Hosting
-  - description: Het uitbesteden van het 'hosten' een website. Dit betekent dat dat bedrijf er zorgt voor draag dat de website van de aanbesteder beschikbaar is. Is een synoniem van Hosting
+  - description: Het uitbesteden van het &#39;hosten&#39; een website. Dit betekent dat dat bedrijf er zorgt voor draag dat de website van de aanbesteder beschikbaar is. Is een synoniem van Hosting
     title: webhosten
-  - description: Het uitbesteden van het 'hosten' een website. Dit betekent dat dat bedrijf er zorgt voor draag dat de website van de aanbesteder beschikbaar is. Is een synoniem van Hosting
+  - description: Het uitbesteden van het &#39;hosten&#39; een website. Dit betekent dat dat bedrijf er zorgt voor draag dat de website van de aanbesteder beschikbaar is. Is een synoniem van Hosting
     title: webhosting
-  - description: Het uitbesteden van het 'hosten' een website. Dit betekent dat dat bedrijf er zorgt voor draag dat de website van de aanbesteder beschikbaar is. Is een synoniem van Hosting
+  - description: Het uitbesteden van het &#39;hosten&#39; een website. Dit betekent dat dat bedrijf er zorgt voor draag dat de website van de aanbesteder beschikbaar is. Is een synoniem van Hosting
     title: Hosten
-  - description: Het uitbesteden van het 'hosten' een website. Dit betekent dat dat bedrijf er zorgt voor draag dat de website van de aanbesteder beschikbaar is. Is een synoniem van Hosting
+  - description: Het uitbesteden van het &#39;hosten&#39; een website. Dit betekent dat dat bedrijf er zorgt voor draag dat de website van de aanbesteder beschikbaar is. Is een synoniem van Hosting
     title: Hoster
   - description: Een unieke naam voor een computer aan een netwerk
     title: Hostnaam
@@ -3071,7 +3071,7 @@ accordion:
     title: HSDPA
   - description: High-Speed Downlink Packet Access, standaard voor draadloos internet, opvolger van UMTS. Is een synoniem van HSDPA. Zie ook...UMTS
     title: 3.5G
-  - description: How Should I Know, Afkorting voor 'hoe moet ik dat weten', wordt vooral gebruikt bij het chatten. Zie ook...Chatten
+  - description: How Should I Know, Afkorting voor &#39;hoe moet ik dat weten&#39;, wordt vooral gebruikt bij het chatten. Zie ook...Chatten
     title: HSIK
   - description: Hue, Saturation, and Luminance, een geprojeceerde kleur kan worden beschreven aan de hand van de drie componenten hue, saturation, and luminance, ofwel tint, verzadiging en luminantie. Zie ook...Tint, Verzadiging, Luminantie
     title: HSL
@@ -3087,9 +3087,9 @@ accordion:
     title: HTC
   - description: Hyper Text Caching Protocol, het protocol voor het bewaren van een kopie van een webpagina en de verversingsfrequentie van die kopie
     title: HTCP
-  - description: Hope This Helps, Afkorting voor 'hoop dat dit helpt', wordt vooral gebruikt bij het chatten. Zie ook...Chatten
+  - description: Hope This Helps, Afkorting voor &#39;hoop dat dit helpt&#39;, wordt vooral gebruikt bij het chatten. Zie ook...Chatten
     title: HTH
-  - description: Hope This Has Been Enlightening, Afkorting voor 'hoop dat dit verhelderend was', wordt vooral gebruikt bij het chatten. Zie ook...Chatten
+  - description: Hope This Has Been Enlightening, Afkorting voor &#39;hoop dat dit verhelderend was&#39;, wordt vooral gebruikt bij het chatten. Zie ook...Chatten
     title: HTHBE
   - description: Hypertext Markup Language, uitwisselingstaal waarin websites zijn geschreven. Zie ook...HTTP
     title: HTML
@@ -3147,9 +3147,9 @@ accordion:
     title: i-frame
   - description: Input/Output, de verzamelnaam voor alle aansluitingen in een computer, bijvoorbeeld USB, PCI, AGP, SATA, IDE, processor socket etc
     title: I/O
-  - description: Internationalisation, Het vertalen van computerprogramma's naar verschillende talen en is een synoniem van Internationalisatie. Zie ook...l10n
+  - description: Internationalisation, Het vertalen van computerprogramma&#39;s naar verschillende talen en is een synoniem van Internationalisatie. Zie ook...l10n
     title: I18n
-  - description: Internationalisation, Het vertalen van computerprogramma's naar verschillende talen. Is een synoniem van I18n. Zie ook...l10n
+  - description: Internationalisation, Het vertalen van computerprogramma&#39;s naar verschillende talen. Is een synoniem van I18n. Zie ook...l10n
     title: Internationalisatie
   - description: Internet2, De opvolger van het internet, een netwerk tussen universiteiten en wetenschappelijke centra. Dit netwerk maakt gebruik van nieuwe technieken en is supersnel
     title: I2
@@ -3163,21 +3163,21 @@ accordion:
     title: IA-32
   - description: Intel Architecture 64 bits, de instructieset van pure 64-bitprocessoren (niet te verwarren met AMD64). Zie ook...IA-32, AMD64
     title: IA-64
-  - description: I Am An Accountant, Afkorting voor 'ik ben een boekhouder', wordt vooral gebruikt bij het chatten. Zie ook...Chatten
+  - description: I Am An Accountant, Afkorting voor &#39;ik ben een boekhouder&#39;, wordt vooral gebruikt bij het chatten. Zie ook...Chatten
     title: IAAA
-  - description: I Am A Lawyer, Afkorting voor 'ik ben een advocaat', wordt vooral gebruikt bij het chatten. Zie ook...Chatten
+  - description: I Am A Lawyer, Afkorting voor &#39;ik ben een advocaat&#39;, wordt vooral gebruikt bij het chatten. Zie ook...Chatten
     title: IAAL
-  - description: In Any Case, Afkorting voor 'in ieder geval', wordt vooral gebruikt bij het chatten. Zie ook...Chatten
+  - description: In Any Case, Afkorting voor &#39;in ieder geval&#39;, wordt vooral gebruikt bij het chatten. Zie ook...Chatten
     title: IAC
-  - description: Interapplications Communications Architecture, systeem van Apple voor uitwisseling van gegevens tussen programma's
+  - description: Interapplications Communications Architecture, systeem van Apple voor uitwisseling van gegevens tussen programma&#39;s
     title: IAC
-  - description: In Any Event, Afkorting voor 'hoe dan ook', wordt vooral gebruikt bij het chatten. Zie ook...Chatten
+  - description: In Any Event, Afkorting voor &#39;hoe dan ook&#39;, wordt vooral gebruikt bij het chatten. Zie ook...Chatten
     title: IAE
   - description: Inhibit Arabic Form Shaping, een stuurteken van Unicode. Zie ook...unicode, Stuurteken
     title: IAFS
-  - description: I Am Not An Accountant, Afkorting voor 'ik ben geen accountant', wordt vooral gebruikt bij het chatten. Zie ook...Chatten
+  - description: I Am Not An Accountant, Afkorting voor &#39;ik ben geen accountant&#39;, wordt vooral gebruikt bij het chatten. Zie ook...Chatten
     title: IANAA
-  - description: I Am Not A Lawyer, Afkorting voor 'ik ben geen advocaat', wordt vooral gebruikt bij het chatten. Zie ook...Chatten
+  - description: I Am Not A Lawyer, Afkorting voor &#39;ik ben geen advocaat&#39;, wordt vooral gebruikt bij het chatten. Zie ook...Chatten
     title: IANAL
   - description: Information Appliance on a Chip, een computer die bestaat uit één chip
     title: IAOAC
@@ -3189,7 +3189,7 @@ accordion:
     title: IAX
   - description: Zeer belangrijk bedrijf binnen de geschiedenis (en het heden!) van de computerindustrie
     title: IBM
-  - description: I'm Bucked Naked, Afkorting voor 'ik ben spiernaakt', wordt vooral gebruikt bij het chatten. Zie ook...Chatten
+  - description: I&#39;m Bucked Naked, Afkorting voor &#39;ik ben spiernaakt&#39;, wordt vooral gebruikt bij het chatten. Zie ook...Chatten
     title: IBN
   - description: techniek voor draadloze communicatie, tot 1 Mb/s
     title: iBURST
@@ -3197,7 +3197,7 @@ accordion:
     title: IC
   - description: Integrated Circuit, elektronische schakeling in een behuizing. Is een synoniem van IC
     title: Microchip
-  - description: Internet Corporation for Assigned Names and Numbers, De autoriteit die namen en nummers (waaronder IP's en domeinnamen) kan toewijzen aan een eigenaar. Zij regelen alles omtrent nieuwe standaarden die betrekking hebben op TLD's en DNS-systemen. Zie ook...TLD, DNS, IP, Domeinnaam
+  - description: Internet Corporation for Assigned Names and Numbers, De autoriteit die namen en nummers (waaronder IP&#39;s en domeinnamen) kan toewijzen aan een eigenaar. Zij regelen alles omtrent nieuwe standaarden die betrekking hebben op TLD&#39;s en DNS-systemen. Zie ook...TLD, DNS, IP, Domeinnaam
     title: ICANN
   - description: Internet Citizens Band, een chatsysteem uit de 1989
     title: ICB
@@ -3207,7 +3207,7 @@ accordion:
     title: ICH2
   - description: Internet Control Message Protocol,
     title: ICMP
-  - description: I Could Of Course Be Wrong, Afkorting voor 'ik zou het natuurlijk verkeerd kunnen hebben', wordt vooral gebruikt bij het chatten. Zie ook...Chatten
+  - description: I Could Of Course Be Wrong, Afkorting voor &#39;ik zou het natuurlijk verkeerd kunnen hebben&#39;, wordt vooral gebruikt bij het chatten. Zie ook...Chatten
     title: ICOCBW
   - description: Intel COmparative Microprocessor Performance, benchmark van Intel voor de snelheid van een processor
     title: iCOMP
@@ -3217,7 +3217,7 @@ accordion:
     title: Pictogram
   - description: &quot;I seek you&quot;, chatprogramma op internet
     title: ICQ
-  - description: Internet Connection Sharing, programmatuur van Microsoft om internetaansluiting op meer PC's te delen. Zie ook...NAT
+  - description: Internet Connection Sharing, programmatuur van Microsoft om internetaansluiting op meer PC&#39;s te delen. Zie ook...NAT
     title: ICS
   - description: Informatie- en Communicatietechnologie
     title: ICT
@@ -3231,7 +3231,7 @@ accordion:
     title: IDA
   - description: Integrated Database Application Programming Interface, concurrent van ODBC; ondersteunt naast SQL ook recordgeorienteerde benaderingswijze (record vooruit, terug en dergelijke). Zie ook...ODBC
     title: IDAPI
-  - description: Internet Database Connector, programmeertaal van Microsoft voor koppeling database aan internetpagina's, vervangen door ASP
+  - description: Internet Database Connector, programmeertaal van Microsoft voor koppeling database aan internetpagina&#39;s, vervangen door ASP
     title: IDC
   - description: Inderdaad,
     title: idd
@@ -3243,13 +3243,13 @@ accordion:
     title: IDF
   - description: Interface Definition Language, programmeertaal om de interface van een object te specificeren. Zie ook...interface
     title: IDL
-  - description: I'll Drink To that, Afkorting voor 'daar drink ik op', wordt vooral gebruikt bij het chatten. Zie ook...Chatten
+  - description: I&#39;ll Drink To that, Afkorting voor &#39;daar drink ik op&#39;, wordt vooral gebruikt bij het chatten. Zie ook...Chatten
     title: IDTT
   - description: Interactive DVD, systeem van Panasonic voor interactieve cursussen, gebaseerd op de menu-mogelijkheden van het dvd-protocol
     title: idvd
   - description: Internet Explorer, de browser van Microsoft
     title: IE
-  - description: Internet Explorer Administrator's Kit, programma voor het maken van een aangepaste versie van Internet Explorer, voor ISP's. Zie ook...IE, ISP
+  - description: Internet Explorer Administrator&#39;s Kit, programma voor het maken van een aangepaste versie van Internet Explorer, voor ISP&#39;s. Zie ook...IE, ISP
     title: IEAK
   - description: Institute of Electrical and Electronics Engineers, Een wereldwijde vereniging van ingenieurs en wetenschappers op het gebied van elektriciteit en elektronica. In de computerwereld is hun 802-set standaarden erg bekend, die een hoop zaken die komen kijken bij computernetwerken standaardizeerd. 802.11 bijvoorbeeld, is bekend als een set standaarden die Wi-Fi mogelijk maken.. Zie ook...IEEE 802.11
     title: IEEE
@@ -3285,29 +3285,29 @@ accordion:
     title: IFS
   - description: Internet Group Membership Protocol, Een protocol om informatie uit te wisselen over het wel of niet meedoen aan een multicast groep. Zie ook...Multicast
     title: IGMP
-  - description: I Get The Point, Afkorting voor 'ik begijp het', wordt vooral gebruikt bij het chatten. Zie ook...Chatten
+  - description: I Get The Point, Afkorting voor &#39;ik begijp het&#39;, wordt vooral gebruikt bij het chatten. Zie ook...Chatten
     title: IGTP
-  - description: I'm Impressed, Afkorting voor 'ik ben onder de indruk', wordt vooral gebruikt bij het chatten. Zie ook...Chatten
+  - description: I&#39;m Impressed, Afkorting voor &#39;ik ben onder de indruk&#39;, wordt vooral gebruikt bij het chatten. Zie ook...Chatten
     title: II
   - description: In ieder geval, een afkorting die veel bij het chatten wordt gebruikt. Zie ook...Chatten
     title: iig
-  - description: If I Recall, Afkorting voor 'als ik het onthouden heb', wordt vooral gebruikt bij het chatten. Zie ook...Chatten
+  - description: If I Recall, Afkorting voor &#39;als ik het onthouden heb&#39;, wordt vooral gebruikt bij het chatten. Zie ook...Chatten
     title: IIR
-  - description: If I Recall CorRecty, Afkorting voor 'als ik het goed heb onthouden', wordt vooral gebruikt bij het chatten. Zie ook...Chatten
+  - description: If I Recall CorRecty, Afkorting voor &#39;als ik het goed heb onthouden&#39;, wordt vooral gebruikt bij het chatten. Zie ook...Chatten
     title: IIRC
   - description: Internet Information Server, een webserver van Microsoft. Zie ook...Webserver
     title: IIS
-  - description: I'm Impressed Too, Afkorting voor 'ik ben ook onder de indruk', wordt vooral gebruikt bij het chatten. Zie ook...Chatten
+  - description: I&#39;m Impressed Too, Afkorting voor &#39;ik ben ook onder de indruk&#39;, wordt vooral gebruikt bij het chatten. Zie ook...Chatten
     title: IIT
-  - description: If I Tell You What It Means I Will Have To Kill You, Afkorting voor 'als ik je vertel wat dat betekent moet ik je doden', wordt vooral gebruikt bij het chatten. Zie ook...Chatten
+  - description: If I Tell You What It Means I Will Have To Kill You, Afkorting voor &#39;als ik je vertel wat dat betekent moet ik je doden&#39;, wordt vooral gebruikt bij het chatten. Zie ook...Chatten
     title: IITYWIMIWHTKY
-  - description: If I Tell You What This Means Will You Buy Me A Drink?, Afkorting voor 'als ik je vertel wat dit betekent trakteer jij me dan op een drankje?', wordt vooral gebruikt bij het chatten. Zie ook...Chatten
+  - description: If I Tell You What This Means Will You Buy Me A Drink?, Afkorting voor &#39;als ik je vertel wat dit betekent trakteer jij me dan op een drankje?&#39;, wordt vooral gebruikt bij het chatten. Zie ook...Chatten
     title: IITYWTMWYBMAD?
-  - description: If I Tell You What This Means Would You Kiss Me?, Afkorting voor 'als ik je vertel wat dit betekent krijg ik dan een zoen?', wordt vooral gebruikt bij het chatten. Zie ook...Chatten
+  - description: If I Tell You What This Means Would You Kiss Me?, Afkorting voor &#39;als ik je vertel wat dit betekent krijg ik dan een zoen?&#39;, wordt vooral gebruikt bij het chatten. Zie ook...Chatten
     title: IITYWTMWYKM?
-  - description: I Just Want To Know, Afkorting voor 'ik wil alleen maar weten...', wordt vooral gebruikt bij het chatten. Zie ook...Chatten
+  - description: I Just Want To Know, Afkorting voor &#39;ik wil alleen maar weten...&#39;, wordt vooral gebruikt bij het chatten. Zie ook...Chatten
     title: IJWTK
-  - description: I Just Want To Say, Afkorting voor 'ik wil alleen maar zeggen...', wordt vooral gebruikt bij het chatten. Zie ook...Chatten
+  - description: I Just Want To Say, Afkorting voor &#39;ik wil alleen maar zeggen...&#39;, wordt vooral gebruikt bij het chatten. Zie ook...Chatten
     title: IJWTS
   - description: Het meest bekende (en waarschijnlijk ook meest destructieve) virus tot nu toe. In 2000 brak dit virus uit en besmette 10% van alle computers die aan het internet verbonden was en is een synoniem van Loveletter, Love Bug Worm
     title: ILOVEYOU
@@ -3317,7 +3317,7 @@ accordion:
     title: Love Bug Worm
   - description: Instruction Level Parallelism, techniek voor parallel verwerken van instructies door een processor, gebruikt in o.a. de Intel Itanium. Zie ook...EPIC
     title: ILP
-  - description: I Love You, Afkorting voor 'ik hou van jou', wordt vooral gebruikt bij het chatten. Zie ook...Chatten
+  - description: I Love You, Afkorting voor &#39;ik hou van jou&#39;, wordt vooral gebruikt bij het chatten. Zie ook...Chatten
     title: ILY
   - description: Instant Messaging, systeem waarbij iemand de contactpersonen die op hetzelfde moment on-line zijn elektronische berichten kan sturen. Het heeft veel weg van e-mail, alleen doordat je zeker weet dat iemand er daadwerkelijk is heb je veel sneller antwoord en is een synoniem van Messenger
     title: IM
@@ -3325,15 +3325,15 @@ accordion:
     title: Messenger
   - description: Engels voor afbeelding/plaatjeof Een exacte kopie (in dezelfde volgorde als het orgineel) van iets, meestal een CD/DVD of harde schijf. Met behulp van een image kun je het orginele medium kopiëren of herstellen. Dat de gegevens dezelfde volgorde als het orgineel hebben is vooral belangrijk als de computer ervan moet opstarten... bij het opstarten wordt de eerste sector op de schijf gebruikt
     title: Image
-  - description: In My Arrogant Opinion, Afkorting voor 'naar mijn arrogante mening, ...', wordt vooral gebruikt bij het chatten. Zie ook...Chatten
+  - description: In My Arrogant Opinion, Afkorting voor &#39;naar mijn arrogante mening, ...&#39;, wordt vooral gebruikt bij het chatten. Zie ook...Chatten
     title: IMAO
   - description: Internet Message Access Protocol, protocol voor e-mail waarbij de berichten worden gesynchroniseerd tussen de computer en de internetprovider, zo heb je op elke computer dezelfde berichten staan. Het POP protocol is de tegenhanger van IMAP, want bij POP heeft elke computer en de mailserver elk een eigen verzameling mails. Zie ook...POP
     title: IMAP
-  - description: In My Bloody Opinion, Afkorting voor 'naar mijn mening, die je toch niet wilt weten...', wordt vooral gebruikt bij het chatten. Zie ook...Chatten
+  - description: In My Bloody Opinion, Afkorting voor &#39;naar mijn mening, die je toch niet wilt weten...&#39;, wordt vooral gebruikt bij het chatten. Zie ook...Chatten
     title: IMBO
-  - description: In My Considered Opinion, Afkorting voor 'naar mijn weloverwogen mening, ...', wordt vooral gebruikt bij het chatten. Zie ook...Chatten
+  - description: In My Considered Opinion, Afkorting voor &#39;naar mijn weloverwogen mening, ...&#39;, wordt vooral gebruikt bij het chatten. Zie ook...Chatten
     title: IMCO
-  - description: In My Experience, Afkorting voor 'mijn ervaring is...', wordt vooral gebruikt bij het chatten. Zie ook...Chatten
+  - description: In My Experience, Afkorting voor &#39;mijn ervaring is...&#39;, wordt vooral gebruikt bij het chatten. Zie ook...Chatten
     title: IME
   - description: In my humble opinion, afkorting waarna meestal een (bescheiden) mening van de gebruiker volgt, of eraan vooraf gaat. Wordt vaak gebruikt in chats of op forums en is een synoniem van IMO, In my opinion
     title: IMHO
@@ -3341,13 +3341,13 @@ accordion:
     title: IMO
   - description: In my humble opinion, afkorting waarna meestal een (bescheiden) mening van de gebruiker volgt, of eraan vooraf gaat. Wordt vaak gebruikt in chats of op forums. Is een synoniem van IMHO
     title: In my opinion
-  - description: In My Not So Humble Opinion, Afkorting voor 'naar mijn niet zo bescheiden mening, ...', wordt vooral gebruikt bij het chatten. Zie ook...Chatten
+  - description: In My Not So Humble Opinion, Afkorting voor &#39;naar mijn niet zo bescheiden mening, ...&#39;, wordt vooral gebruikt bij het chatten. Zie ook...Chatten
     title: IMNSHO
-  - description: In My Own Biased Opinion, Afkorting voor 'naar mijn eigen bevooroordeelde mening,...', wordt vooral gebruikt bij het chatten. Zie ook...Chatten
+  - description: In My Own Biased Opinion, Afkorting voor &#39;naar mijn eigen bevooroordeelde mening,...&#39;, wordt vooral gebruikt bij het chatten. Zie ook...Chatten
     title: IMOBO
-  - description: In My Point Of View, Afkorting voor 'vanuit mijn standpunt', wordt vooral gebruikt bij het chatten. Zie ook...Chatten
+  - description: In My Point Of View, Afkorting voor &#39;vanuit mijn standpunt&#39;, wordt vooral gebruikt bij het chatten. Zie ook...Chatten
     title: IMPOV
-  - description: I'm Not A Lawyer, Afkorting voor 'ik ben geen advocaat', wordt vooral gebruikt bij het chatten. Zie ook...Chatten
+  - description: I&#39;m Not A Lawyer, Afkorting voor &#39;ik ben geen advocaat&#39;, wordt vooral gebruikt bij het chatten. Zie ook...Chatten
     title: INAL
   - description: Een verbinding met internet starten via de telefoonlijn met een modem, goedkoop bij weinig gebruik, erg langzaam. Hoogst mogelijke snelheid is 56Kb/s, ofwel 7KB/s. Zie ook...Modem
     title: Inbellen
@@ -3383,7 +3383,7 @@ accordion:
     title: Aanmelden
   - description: Een gegevenspakket van headers voorzien. Zie ook...header
     title: Inpakken
-  - description: In No Particular Order, Afkorting voor 'zonder bepaalde volgorde', wordt vooral gebruikt bij het chatten. Zie ook...Chatten
+  - description: In No Particular Order, Afkorting voor &#39;zonder bepaalde volgorde&#39;, wordt vooral gebruikt bij het chatten. Zie ook...Chatten
     title: INPO
   - description: Verzamelnaam voor apparaten die een gebruiker gegevens aan een computer laten invoeren, zoals een toetsenbord, muis, scanner, vingerafdruklezer of microfoon of gegevens die een computer binnenkomen, zoals toetsenbordaanslagen, netwerkgegevens of een aansluiting voor een invoerapparaat
     title: Input
@@ -3403,7 +3403,7 @@ accordion:
     title: Intel
   - description: Architectuur van Intel voor Core Duo en Core Solo processoren, opgevolgd door Core 2
     title: Intel Core
-  - description: Iets waarmee je kunt communiceren met iets anders, bijvoorbeeld de menu's en de knoppen in een programma, een muis/toetsenbord/beeldscherm of een programma om op afstand iets te besturen of een set functies bij het programmeren om een object aan te spreken
+  - description: Iets waarmee je kunt communiceren met iets anders, bijvoorbeeld de menu&#39;s en de knoppen in een programma, een muis/toetsenbord/beeldscherm of een programma om op afstand iets te besturen of een set functies bij het programmeren om een object aan te spreken
     title: Interface
   - description: Als 2 signalen elkaar in de weg zitten onstaat er interferentie, waarbij de orginele signalen worden vervormd en nieuwe signalen ontstaan. Hierdoor zijn de signalen vaak niet meer te herkennen en gaat de informatie verloren en is een synoniem van Interfereren
     title: Interferentie
@@ -3415,7 +3415,7 @@ accordion:
     title: Intern
   - description: wereldwijd netwerk van computers
     title: Internet
-  - description: organisatie die de registratie van TLD's beheerder tot 1998, daarna nam de ICANN het over. Zie ook...ICANN
+  - description: organisatie die de registratie van TLD&#39;s beheerder tot 1998, daarna nam de ICANN het over. Zie ook...ICANN
     title: InterNIC
   - description: Een programma dat van broncode een programma maakt, maar dat regel voor regel doet en niet opslaat, in tegenstelling tot een compiler. Dit is vooral handig bij het programmeren. Zie ook...compiler, programmeren
     title: Interpreter
@@ -3425,7 +3425,7 @@ accordion:
     title: IOR
   - description: Besturingssysteem van Apple voor smartphones. Zie ook...Besturingssysteem, Smartphone, Apple
     title: iOS
-  - description: In Other Words, Afkorting voor 'met andere woorden', wordt vooral gebruikt bij het chatten. Zie ook...Chatten
+  - description: In Other Words, Afkorting voor &#39;met andere woorden&#39;, wordt vooral gebruikt bij het chatten. Zie ook...Chatten
     title: IOW
   - description: Image Processing, beeldbewerking
     title: IP
@@ -3439,7 +3439,7 @@ accordion:
     title: IP
   - description: Een bekende serie tablets van Apple. Zie ook...Apple, Tablet
     title: iPad
-  - description: InterProcess Communication, verzamelnaam voor communicatie tussen threads van programma's
+  - description: InterProcess Communication, verzamelnaam voor communicatie tussen threads van programma&#39;s
     title: IPC
   - description: Internal Pointing Device, Een apparaat waarmee iets kan worden aangewezen (een Pointing Device) die in de computer zit, zoals een touchpad of trackbal. Zie ook...Pointing Device
     title: IPD
@@ -3469,15 +3469,15 @@ accordion:
     title: IRC Client
   - description: InfraRed Data Association, standaard voor infrarood datatransmissie, kent 3 snelheden (115 k, 1,2 M en 4 Mbit per seconde). Zie ook...Infrarood
     title: IrDa
-  - description: In Real Life, Afkorting voor 'in het echte leven', wordt vooral gebruikt bij het chatten. Zie ook...Chatten
+  - description: In Real Life, Afkorting voor &#39;in het echte leven&#39;, wordt vooral gebruikt bij het chatten. Zie ook...Chatten
     title: IRL
-  - description: I Reply Merely For Information, Afkorting voor 'ik antwoord alleen maar voor informatie', wordt vooral gebruikt bij het chatten. Zie ook...Chatten
+  - description: I Reply Merely For Information, Afkorting voor &#39;ik antwoord alleen maar voor informatie&#39;, wordt vooral gebruikt bij het chatten. Zie ook...Chatten
     title: IRMFI
   - description: Interrupt ReQuest, signaal van een (rand)apparaat aan de processor waarmee om een kort moment rekenkracht wordt gevraagd. Meestal heeft dit betrekking op gegevens die binnenkomen op het apparaat en is een synoniem van Interrupt
     title: IRQ
   - description: Interrupt ReQuest, signaal van een (rand)apparaat aan de processor waarmee om een kort moment rekenkracht wordt gevraagd. Meestal heeft dit betrekking op gegevens die binnenkomen op het apparaat. Is een synoniem van IRQ
     title: Interrupt
-  - description: Industry Standard Architecture, &quot;Bus&quot; gebruikt bij oude XT en AT PC's. Ondersteunt alleen 16-bits en bij 8MHz. Gebruikt voor oudere geluidskaarten, modems, netwerkkaarten enz
+  - description: Industry Standard Architecture, &quot;Bus&quot; gebruikt bij oude XT en AT PC&#39;s. Ondersteunt alleen 16-bits en bij 8MHz. Gebruikt voor oudere geluidskaarten, modems, netwerkkaarten enz
     title: ISA
   - description: Indexed Sequental Access Method, Een systeem voor het ophalen van informatie dat nog veel in databases wordt gebruikt
     title: ISAM
@@ -3489,13 +3489,13 @@ accordion:
     title: ISO
   - description: een netwerk model van het iso dat bestaat uit 7 verschillende levels, of lagen... Fysiek, Data Link, Netwerk, Transport, Sessie, Presentatie en Applicatie
     title: ISO Network Model
-  - description: Een bestand dat alle bestanden van een CD bevat in de volgorde zoals ze op de CD staan. Dit kun je in 1x op een CD branden. Dit formaat wordt veel gebruikt voor het emuleren van CD's bij games en bij het branden van opstartbare CD's, omdat daar de volgorde van de bestanden belangrijk iss
+  - description: Een bestand dat alle bestanden van een CD bevat in de volgorde zoals ze op de CD staan. Dit kun je in 1x op een CD branden. Dit formaat wordt veel gebruikt voor het emuleren van CD&#39;s bij games en bij het branden van opstartbare CD&#39;s, omdat daar de volgorde van de bestanden belangrijk iss
     title: iso-bestand
   - description: Een getal dat aangeeft hoe lichtgevoelig een sensor is en is een synoniem van ASA
     title: ISO-waarde
   - description: Een getal dat aangeeft hoe lichtgevoelig een sensor is. Is een synoniem van ISO-waarde
     title: ASA
-  - description: De standaard die het bestandssysteem voor CD-ROM's definieert. Zie ook...Bestandssysteem
+  - description: De standaard die het bestandssysteem voor CD-ROM&#39;s definieert. Zie ook...Bestandssysteem
     title: iso9660
   - description: Een datastroom die zowel synchroon als CBR is. Zie ook...Datastroom, Synchroon, CBR
     title: Isochroon
@@ -3509,13 +3509,13 @@ accordion:
     title: ISRC
   - description: Inhibit Symmetric Swapping, een stuurteken van Unicode. Zie ook...unicode, Stuurteken
     title: ISS
-  - description: It Seems To Me, Afkorting voor 'het lijkt mij', wordt vooral gebruikt bij het chatten. Zie ook...Chatten
+  - description: It Seems To Me, Afkorting voor &#39;het lijkt mij&#39;, wordt vooral gebruikt bij het chatten. Zie ook...Chatten
     title: ISTM
-  - description: I Seem To Recall, Afkorting voor 'wat ik me herinner', wordt vooral gebruikt bij het chatten. Zie ook...Chatten
+  - description: I Seem To Recall, Afkorting voor &#39;wat ik me herinner&#39;, wordt vooral gebruikt bij het chatten. Zie ook...Chatten
     title: ISTR
   - description: Independant Software Vendor, Een organisatie of bedrijf die software levert voor computers, zonder dat het afhankelijk is van een andere organisatie/besturingssysteem. Zie ook...Besturingssysteem
     title: ISV
-  - description: I See What You Mean, Afkorting voor 'ik zie wat je bedoelt', wordt vooral gebruikt bij het chatten. Zie ook...Chatten
+  - description: I See What You Mean, Afkorting voor &#39;ik zie wat je bedoelt&#39;, wordt vooral gebruikt bij het chatten. Zie ook...Chatten
     title: ISWYM
   - description: Information Technology, alle methodes en technieken die te maken hebben met het beheren en verwerken van informatie
     title: IT
@@ -3523,31 +3523,31 @@ accordion:
     title: Itanium
   - description: Ander woord voor herhaling. Meestal wordt dit woord gebruikt bij een iteratief proces, wat wil zeggen dat iets berekend wordt door dezelfde berekening wordt uitgevoerd met de uitkomst van de vorige berekening, en dit zo een aantal keer te herhalen. Zie ook...http...//nl.wikipedia.org/wiki/Iteratie
     title: Iteratie
-  - description: In The Final Analysis, Afkorting voor 'in de uiteindelijke analyse', wordt vooral gebruikt bij het chatten. Zie ook...Chatten
+  - description: In The Final Analysis, Afkorting voor &#39;in de uiteindelijke analyse&#39;, wordt vooral gebruikt bij het chatten. Zie ook...Chatten
     title: ITFA
   - description: Information Technology Infrastructure Library, Een set richtlijnen voor het inrichten van de beheerprocessen binnen een ICT-organisatie
     title: ITIL
   - description: Instruction Translation Lookaside Buffer, onderdeel van de Pentium 4, vertaalt virtuele adressen in reele adressen binnen de processor
     title: ITLB
-  - description: In The Reality Of, Afkorting voor 'in de werkelijkheid van...', wordt vooral gebruikt bij het chatten. Zie ook...Chatten
+  - description: In The Reality Of, Afkorting voor &#39;in de werkelijkheid van...&#39;, wordt vooral gebruikt bij het chatten. Zie ook...Chatten
     title: ITRO
-  - description: In The Real World, Afkorting voor 'in de echte wereld', wordt vooral gebruikt bij het chatten. Zie ook...Chatten
+  - description: In The Real World, Afkorting voor &#39;in de echte wereld&#39;, wordt vooral gebruikt bij het chatten. Zie ook...Chatten
     title: ITRW
-  - description: If The Shoe Fits, Wear It, Afkorting voor 'wie de schoen past trekke hem aan', wordt vooral gebruikt bij het chatten. Zie ook...Chatten
+  - description: If The Shoe Fits, Wear It, Afkorting voor &#39;wie de schoen past trekke hem aan&#39;, wordt vooral gebruikt bij het chatten. Zie ook...Chatten
     title: ITSFWI
   - description: Internet Telephony Service Provider, een provider van telefoongesprekken via internet naar gewone telefoonnummers
     title: ITSP
   - description: International Telecommunication Union, Organisatie die standaarden ontwikkeld
     title: ITU
-  - description: In Virtual Live, Afkorting voor 'in het virtuele leven', wordt vooral gebruikt bij het chatten. Zie ook...Chatten
+  - description: In Virtual Live, Afkorting voor &#39;in het virtuele leven&#39;, wordt vooral gebruikt bij het chatten. Zie ook...Chatten
     title: IVL
-  - description: It Would Be Nice If If You Know What I Mean, Afkorting voor 'het zou leuk zijn als je begrijpt wat ik bedoel', wordt vooral gebruikt bij het chatten. Zie ook...Chatten
+  - description: It Would Be Nice If If You Know What I Mean, Afkorting voor &#39;het zou leuk zijn als je begrijpt wat ik bedoel&#39;, wordt vooral gebruikt bij het chatten. Zie ook...Chatten
     title: IWBNI
   - description: Integrated Woz Machine, schakeling van Apple voor het aansturen van een floppy drive
     title: IWM
-  - description: If You Know What I Mean And I Think You Do, Afkorting voor 'als je begrijpt wat ik bedoel en dat doe je volgens mij', wordt vooral gebruikt bij het chatten. Zie ook...Chatten
+  - description: If You Know What I Mean And I Think You Do, Afkorting voor &#39;als je begrijpt wat ik bedoel en dat doe je volgens mij&#39;, wordt vooral gebruikt bij het chatten. Zie ook...Chatten
     title: IYKWIM
-  - description: If You See What I Mean, Afkorting voor 'als je ziet wat ik bedoel', wordt vooral gebruikt bij het chatten. Zie ook...Chatten
+  - description: If You See What I Mean, Afkorting voor &#39;als je ziet wat ik bedoel&#39;, wordt vooral gebruikt bij het chatten. Zie ook...Chatten
     title: IYKWIMAITYD
   - description: Een opensource en op XML gebaseerde techniek die wordt gebruikt voor IM. Zie ook...IM, XML
     title: Jabber
@@ -3561,17 +3561,17 @@ accordion:
     title: TRS Connector
   - description: JavaBeans Activation Framework, een API die de juiste JavaBean bij bepaalde data zoekt. Zie ook...Javabean
     title: JAF
-  - description: Just A Minute, Afkorting voor 'ogenblik', wordt vooral gebruikt bij het chatten. Zie ook...Chatten
+  - description: Just A Minute, Afkorting voor &#39;ogenblik&#39;, wordt vooral gebruikt bij het chatten. Zie ook...Chatten
     title: JAM
   - description: Het vastlopen van papier in een printer en is een synoniem van Jammen
     title: Jam
   - description: Het vastlopen van papier in een printer. Is een synoniem van Jam
     title: Jammen
-  - description: Een bestandsformaat voor Java programma's
+  - description: Een bestandsformaat voor Java programma&#39;s
     title: jar
-  - description: Just A Second, Afkorting voor 'ogenblik', wordt vooral gebruikt bij het chatten. Zie ook...Chatten
+  - description: Just A Second, Afkorting voor &#39;ogenblik&#39;, wordt vooral gebruikt bij het chatten. Zie ook...Chatten
     title: JAS
-  - description: Just Another System Error, Afkorting voor 'gewoon weer een systeemfout', wordt vooral gebruikt bij het chatten. Zie ook...Chatten
+  - description: Just Another System Error, Afkorting voor &#39;gewoon weer een systeemfout&#39;, wordt vooral gebruikt bij het chatten. Zie ook...Chatten
     title: JASE
   - description: Objectgeorienteerde programmeertaal. Het speciale aan deze taal is dat deze niet gecompileerd hoeft te worden, maar wordt vertaald naar bytecode. Zie ook...Bytecode
     title: Java
@@ -3579,13 +3579,13 @@ accordion:
     title: java
   - description: Een klein, op java gebaseerd programma dat in een webpagina kan worden gestopt om bepaalde effecten te bereiken, net als bij flash, maar Java apllets zijn meestal krachtiger. Ook om Java Applets af te spelen heb je een speciale speler nodig. Zie ook...Flash
     title: Java Applet
-  - description: Een mogelijkheid om zelf API's voor de Java programmeertaal te maken en is een synoniem van Beans
+  - description: Een mogelijkheid om zelf API&#39;s voor de Java programmeertaal te maken en is een synoniem van Beans
     title: JavaBean
-  - description: Een mogelijkheid om zelf API's voor de Java programmeertaal te maken. Is een synoniem van JavaBean
+  - description: Een mogelijkheid om zelf API&#39;s voor de Java programmeertaal te maken. Is een synoniem van JavaBean
     title: Beans
-  - description: Een programmeertaal ontwikkeld door netscape om kleine programma's voor webpagina's te schrijven
+  - description: Een programmeertaal ontwikkeld door netscape om kleine programma&#39;s voor webpagina&#39;s te schrijven
     title: javascript
-  - description: Just Another Windows Shell, Afkorting voor 'alweer een windows shell', wordt vooral gebruikt bij het chatten. Zie ook...Chatten
+  - description: Just Another Windows Shell, Afkorting voor &#39;alweer een windows shell&#39;, wordt vooral gebruikt bij het chatten. Zie ook...Chatten
     title: JAWS
   - description: Verwisselbare schijf (1 GB) van Iomega
     title: Jaz
@@ -3595,43 +3595,43 @@ accordion:
     title: JCL
   - description: Java DataBase Connectivity, Java interface voor databases. Zie ook...interface
     title: JDBC
-  - description: Just In Case, Afkorting voor 'voor het geval dat', wordt vooral gebruikt bij het chatten. Zie ook...Chatten
+  - description: Just In Case, Afkorting voor &#39;voor het geval dat&#39;, wordt vooral gebruikt bij het chatten. Zie ook...Chatten
     title: JIC
   - description: Just-In-Time compiler, een systeem waarbij (byte)code wordt vertaald op het moment dat het wordt uigevoerd, net zoals JVM. Is sneller dan een interpreter. Zie ook...JVM
     title: JIT
-  - description: Just Kidding, Afkorting voor 'ik maak maar een grapje', wordt vooral gebruikt bij het chatten. Zie ook...Chatten
+  - description: Just Kidding, Afkorting voor &#39;ik maak maar een grapje&#39;, wordt vooral gebruikt bij het chatten. Zie ook...Chatten
     title: JK
-  - description: Java Message Service, API voor het versturen van berichten tussen Java-programma's
+  - description: Java Message Service, API voor het versturen van berichten tussen Java-programma&#39;s
     title: JMS
   - description: Apparaat om spellen mee te spelen
     title: Joystick
-  - description: Een bestandsformaat voor JPEG2000 foto's
+  - description: Een bestandsformaat voor JPEG2000 foto&#39;s
     title: jp2
   - description: Joint Photographic Expert Group, standaard voor het verkleinen van digitale kleurenafbeeldingen, voornamelijk fotos
     title: JPEG
   - description: compressieformaat voor afbeeldingen dat lijkt op JPEG, alleen dan met meer instellingen voor de kleuren (mogelijkheid tot een palet) en foutcorrectie
     title: Jpeg2000
-  - description: Een bestandsformaat voor JPEG foto's. Soms wordt .jpeg gebruikt en is een synoniem van jpeg
+  - description: Een bestandsformaat voor JPEG foto&#39;s. Soms wordt .jpeg gebruikt en is een synoniem van jpeg
     title: jpg
-  - description: Een bestandsformaat voor JPEG foto's. Soms wordt .jpeg gebruikt. Is een synoniem van jpg
+  - description: Een bestandsformaat voor JPEG foto&#39;s. Soms wordt .jpeg gebruikt. Is een synoniem van jpg
     title: jpeg
-  - description: Java Runtime Environment, een programma om Java programma's mee te kunnen uitvoeren
+  - description: Java Runtime Environment, een programma om Java programma&#39;s mee te kunnen uitvoeren
     title: JRE
-  - description: Microsoft's variant van Javascript
+  - description: Microsoft&#39;s variant van Javascript
     title: JScript
   - description: Jackson Structured Programming, manier van programmeren
     title: JSP
-  - description: Java Server Pages, scripttaal voor internetpagina's, net zoals ASP en PHP
+  - description: Java Server Pages, scripttaal voor internetpagina&#39;s, net zoals ASP en PHP
     title: JSP
   - description: Joint Test Action Group, organisatie die standaarden en technieken voor het testen van hard- en software ontwikkelt
     title: JTAG
   - description: verbindingsbrugje tussen twee contacten. Hiermee kunnen bepaalde functie in of uitgeschakeld worden. Wordt veel gebruikt op moederborden en drives
     title: Jumper
-  - description: Java Virtual Machine, interpreter voor Java programma's
+  - description: Java Virtual Machine, interpreter voor Java programma&#39;s
     title: JVM
   - description: ontwikkelomgeving voor P2P-communicatie van Sun Microsystems. Zie ook...P2P
     title: JXTA
-  - description: Kiss, Afkorting voor 'kus', wordt vooral gebruikt bij het chatten. Zie ook...Chatten
+  - description: Kiss, Afkorting voor &#39;kus&#39;, wordt vooral gebruikt bij het chatten. Zie ook...Chatten
     title: K
   - description: AMD-microprocessor, lijkt veel op Intel Pentium
     title: K5
@@ -3647,7 +3647,7 @@ accordion:
     title: Kabel
   - description: Communicatieverbinding tussen 2 computers. Hoeft niet over een aparte kabel, maar kan over een gewoon netwerk lopen
     title: Kanaal
-  - description: Kiss Back, Afkorting voor 'kus terug', wordt vooral gebruikt bij het chatten. Zie ook...Chatten
+  - description: Kiss Back, Afkorting voor &#39;kus terug&#39;, wordt vooral gebruikt bij het chatten. Zie ook...Chatten
     title: KB
   - description: Keyboard, Afkorting voor toetsenbord
     title: KBD
@@ -3675,7 +3675,7 @@ accordion:
     title: Keylogger
   - description: Het rechthoekige blok met cijfers aan de rechterkant van de meeste toetsenborden. Zie ook...Toetsenbord
     title: Keypad
-  - description: Know How You Feel, Afkorting voor 'ik weet hoe je je voelt', wordt vooral gebruikt bij het chatten. Zie ook...Chatten
+  - description: Know How You Feel, Afkorting voor &#39;ik weet hoe je je voelt&#39;, wordt vooral gebruikt bij het chatten. Zie ook...Chatten
     title: KHYF
   - description: 1024 byte, afgeleid van kilo binary byte, meestal afgekort als KiB en is een synoniem van KiB
     title: kibibyte
@@ -3685,7 +3685,7 @@ accordion:
     title: Kijkhoek
   - description: De maximale hoek waaronder je een beeldscherm goed kunt bekijken, dus zonder dat de kleuren anders lijken of het beeld vervormt. Hoe groter de kijkhoek, hoe beter. Is een synoniem van Kijkhoek
     title: Gezichtshoek
-  - description: Het commando in Linux om een proces direct af te breken. Wordt vooral gebruikt als er programma's niet meer reageren en bij het afsluiten van het systeem
+  - description: Het commando in Linux om een proces direct af te breken. Wordt vooral gebruikt als er programma&#39;s niet meer reageren en bij het afsluiten van het systeem
     title: Kill
   - description: 1000 keer iets, bijvoorbeeld... een kilobyte is 1000 byte, kilohertz is 1000 hertz
     title: kilo
@@ -3693,13 +3693,13 @@ accordion:
     title: kilobyte
   - description: 1 KiloByte, afgekort kB, is precies 1000 bytes. Vroeger werd 1024 byte voor een kilobyte gebruikt (dat was makkelijker), maar volgens een nieuwe standaard is een kilobyte 1000 bytes, en 1024 byte wordt een kibibyte genoemd (afgekort KiB). Deze standaard wordt echter nog maar slecht opgevolgd, dus pas op met deze getallen. Is een synoniem van kilobyte
     title: KB
-  - description: Keep It Simple, Afkorting voor 'hou je het simpel', wordt vooral gebruikt bij het chatten. Zie ook...Chatten
+  - description: Keep It Simple, Afkorting voor &#39;hou je het simpel&#39;, wordt vooral gebruikt bij het chatten. Zie ook...Chatten
     title: KIS
-  - description: Keep It Simple, Stupid, Afkorting voor 'hou je het simpel, sukkel', wordt vooral gebruikt bij het chatten. Zie ook...Chatten
+  - description: Keep It Simple, Stupid, Afkorting voor &#39;hou je het simpel, sukkel&#39;, wordt vooral gebruikt bij het chatten. Zie ook...Chatten
     title: KISS
-  - description: Een virtueel onderdeel in een programma. Het wordt vaak gebruikt in grote programma's om het programmeren sneller, makkelijker en overzichtelijker te maken. Een 'exemplaar' van een klasse heet een object en is een synoniem van class
+  - description: Een virtueel onderdeel in een programma. Het wordt vaak gebruikt in grote programma&#39;s om het programmeren sneller, makkelijker en overzichtelijker te maken. Een &#39;exemplaar&#39; van een klasse heet een object en is een synoniem van class
     title: Klasse
-  - description: Een virtueel onderdeel in een programma. Het wordt vaak gebruikt in grote programma's om het programmeren sneller, makkelijker en overzichtelijker te maken. Een 'exemplaar' van een klasse heet een object. Is een synoniem van Klasse
+  - description: Een virtueel onderdeel in een programma. Het wordt vaak gebruikt in grote programma&#39;s om het programmeren sneller, makkelijker en overzichtelijker te maken. Een &#39;exemplaar&#39; van een klasse heet een object. Is een synoniem van Klasse
     title: class
   - description: Apparaat (werkend op kwarts) dat ervoor zorgt dat de verwerkingsfrequentie van een processor gehandhaafd blijft. Zou een processor te snel werken, dan wordt hij te heet, dus het is belangrijk dat de klok goed werkt
     title: Klok
@@ -3715,17 +3715,17 @@ accordion:
     title: Koeling
   - description: Opensource browser/bestandbeheerder, vaak gebruikt in Linux, en standaard in KDE. Zie ook...Linux
     title: Konqueror
-  - description: Kiss On The Cheek, Afkorting voor 'kus op de wang', wordt vooral gebruikt bij het chatten. Zie ook...Chatten
+  - description: Kiss On The Cheek, Afkorting voor &#39;kus op de wang&#39;, wordt vooral gebruikt bij het chatten. Zie ook...Chatten
     title: KOTC
-  - description: Keep Up The Good Work, Afkorting voor 'ga zo door', wordt vooral gebruikt bij het chatten. Zie ook...Chatten
+  - description: Keep Up The Good Work, Afkorting voor &#39;ga zo door&#39;, wordt vooral gebruikt bij het chatten. Zie ook...Chatten
     title: KUTGW
-  - description: Laugh, Afkorting voor 'lach', wordt vooral gebruikt bij het chatten. Zie ook...Chatten
+  - description: Laugh, Afkorting voor &#39;lach&#39;, wordt vooral gebruikt bij het chatten. Zie ook...Chatten
     title: L
   - description: Level 1 cache, Het snelste processor-cache, dit is meestal slechts enkele tientallen kilobytes groot. Zie ook...L2-cache
     title: L1-cache
-  - description: Localisation, Het aanpassen van computerprogramma's naar lokale omstandigheden, zoals muntsoort en maten en is een synoniem van Lokalisatie. Zie ook...I18n
+  - description: Localisation, Het aanpassen van computerprogramma&#39;s naar lokale omstandigheden, zoals muntsoort en maten en is een synoniem van Lokalisatie. Zie ook...I18n
     title: l10n
-  - description: Localisation, Het aanpassen van computerprogramma's naar lokale omstandigheden, zoals muntsoort en maten. Is een synoniem van l10n. Zie ook...I18n
+  - description: Localisation, Het aanpassen van computerprogramma&#39;s naar lokale omstandigheden, zoals muntsoort en maten. Is een synoniem van l10n. Zie ook...I18n
     title: Lokalisatie
   - description: Level 2 cache, Processor-cache, is iets langzamer dan L1-cache maar is wel veel groter. (meestal enkele megabytes) Het kan door slechts een processorkern worden aangesproken, in tegenstelling tot L3-cache. Zie ook...L1-cache, L3-cache, processorkern
     title: L2-cache
@@ -3733,15 +3733,15 @@ accordion:
     title: L2TP
   - description: Level 3 cache, Processor-cache, nog iets langzamer dan L2-cache, heeft het voordeel dat het door alle processorkernen kan worden gebruikt en gedeelt. Op die manier kan nog beter gebruik worden gemaakt van multicore processoren. Zie ook...L2-cache
     title: L3-cache
-  - description: Later, Afkorting voor 'tot later', wordt vooral gebruikt bij het chatten. Zie ook...Chatten
+  - description: Later, Afkorting voor &#39;tot later&#39;, wordt vooral gebruikt bij het chatten. Zie ook...Chatten
     title: L8R
-  - description: Life's A Bitch & Then You Die, Afkorting voor 'het leven is hard en dan ga je dood', wordt vooral gebruikt bij het chatten en is een synoniem van LAB&TYD. Zie ook...Chatten
+  - description: Life&#39;s A Bitch & Then You Die, Afkorting voor &#39;het leven is hard en dan ga je dood&#39;, wordt vooral gebruikt bij het chatten en is een synoniem van LAB&TYD. Zie ook...Chatten
     title: LABTYD
-  - description: Life's A Bitch & Then You Die, Afkorting voor 'het leven is hard en dan ga je dood', wordt vooral gebruikt bij het chatten. Is een synoniem van LABTYD. Zie ook...Chatten
+  - description: Life&#39;s A Bitch & Then You Die, Afkorting voor &#39;het leven is hard en dan ga je dood&#39;, wordt vooral gebruikt bij het chatten. Is een synoniem van LABTYD. Zie ook...Chatten
     title: LAB&TYD
   - description: Storende vertraging bij het gamen. Dat kan zowel vertraging van het beeld (stotterend beeld) als van het netwerk (vreemde bewegingen medespelers) zijn
     title: Lag
-  - description: Een programmeertaal waarin de commando's dichter bij de werkelijke computercommando's liggen. Hierdoor is de taal moeilijker te gebruiken, maar de programma's zijn meestal sneller. Zie ook...Hoge programmeertaal, Programmeertaal
+  - description: Een programmeertaal waarin de commando&#39;s dichter bij de werkelijke computercommando&#39;s liggen. Hierdoor is de taal moeilijker te gebruiken, maar de programma&#39;s zijn meestal sneller. Zie ook...Hoge programmeertaal, Programmeertaal
     title: Lage programmeertaal
   - description: Local Area network, een lokaal netwerk, computernetwerk van een gezin/organisatie/bedrijf. Zie ook...WAN
     title: LAN
@@ -3767,7 +3767,7 @@ accordion:
     title: LBA
   - description: Liquid Cristal Display, beeldschermtechnologie op basis van vloeibare kristallen
     title: LCD
-  - description: Long Distance, Afkorting voor 'lange afstand (interlokaal/internationaal)', wordt vooral gebruikt bij het chatten. Zie ook...Chatten
+  - description: Long Distance, Afkorting voor &#39;lange afstand (interlokaal/internationaal)&#39;, wordt vooral gebruikt bij het chatten. Zie ook...Chatten
     title: LD
   - description: Lightweight Directory Access Protocol, systeem simpele database-achtige gegevens te delen over een netwerk, zoals een telefoonboek
     title: LDAP
@@ -3801,11 +3801,11 @@ accordion:
     title: Font
   - description: Line Feed, het 10e teken in de ASCII-tabel. Zie ook...ASCII
     title: LF
-  - description: Lithium Ion, Een techniek voor accu's die lang meegaan, veel energie kunnen opslaan en geen last hebben van het geheugeneffect. Zie ook...Geheugeneffect, Accu
+  - description: Lithium Ion, Een techniek voor accu&#39;s die lang meegaan, veel energie kunnen opslaan en geen last hebben van het geheugeneffect. Zie ook...Geheugeneffect, Accu
     title: Li-Ion
-  - description: Lithium Ion Polymer, Een techniek voor flexibele accu's gebaseerd op Li-Ion technologie
+  - description: Lithium Ion Polymer, Een techniek voor flexibele accu&#39;s gebaseerd op Li-Ion technologie
     title: Li-Poly
-  - description: objectgeoriënteerde programmeertaal, speciaal gemaakt voor het maken van programma's voor Windows
+  - description: objectgeoriënteerde programmeertaal, speciaal gemaakt voor het maken van programma&#39;s voor Windows
     title: Liana
   - description: Last in First out, Systeem waarbij laatst binnengekomen gegevens het eerst worden verwerkt. Tegengestelde van FIFO. Zie ook...FIFO
     title: LIFO
@@ -3821,19 +3821,19 @@ accordion:
     title: Linux
   - description: Bestandssyteem voor de Linux Swap partitie. Zie ook...Linux
     title: Linux Swap
-  - description: Een besturingssysteem dat met de Linux werkt. Er zijn veel verschillende distributies, onder andere Ubuntu en zijn afgeleiden, (open)SuSE, Red Hat, Fedora, Knoppix, Debian, Gentoo, Slackware, Linspire en FreeSpire. Omdat de Linux-kernel alleen geen volwaardig besturingssysteem voor gewone consumenten is, bestaat een distributie vaak uit een installatie-systeem, de Linux-kernel, een grafisch systeem zoals KDE, GNOME of xfce en heel veel programma's. Zie ook...Linux, Besturingssysteem, Ubuntu
+  - description: Een besturingssysteem dat met de Linux werkt. Er zijn veel verschillende distributies, onder andere Ubuntu en zijn afgeleiden, (open)SuSE, Red Hat, Fedora, Knoppix, Debian, Gentoo, Slackware, Linspire en FreeSpire. Omdat de Linux-kernel alleen geen volwaardig besturingssysteem voor gewone consumenten is, bestaat een distributie vaak uit een installatie-systeem, de Linux-kernel, een grafisch systeem zoals KDE, GNOME of xfce en heel veel programma&#39;s. Zie ook...Linux, Besturingssysteem, Ubuntu
     title: Linux-distributie
   - description: List Processor, programmeertaal voor kunstmatige intelligentie, is gemaakt om met lijsten te werken
     title: LISP
-  - description: Standaard van AMD voor communicatie tussen verschillende multimediale apparaten. Tegenhanger van Intel's ViiV
+  - description: Standaard van AMD voor communicatie tussen verschillende multimediale apparaten. Tegenhanger van Intel&#39;s ViiV
     title: Live!
   - description: Logical Link Control, een sublaag van de datalinklaag van het osi-model. Deze zorgt onder andere voor controle op collisions. Zie ook...datalinklaag, Collision, osi, de tutorial hardware/wat_is_het_OSI_model
     title: LLC
-  - description: Live Long & Prosper, Afkorting voor 'leef lang & voorspoedig', wordt vooral gebruikt bij het chatten en is een synoniem van LL&P. Zie ook...Chatten
+  - description: Live Long & Prosper, Afkorting voor &#39;leef lang & voorspoedig&#39;, wordt vooral gebruikt bij het chatten en is een synoniem van LL&P. Zie ook...Chatten
     title: LLP
-  - description: Live Long & Prosper, Afkorting voor 'leef lang & voorspoedig', wordt vooral gebruikt bij het chatten. Is een synoniem van LLP. Zie ook...Chatten
+  - description: Live Long & Prosper, Afkorting voor &#39;leef lang & voorspoedig&#39;, wordt vooral gebruikt bij het chatten. Is een synoniem van LLP. Zie ook...Chatten
     title: LL&P
-  - description: Lots and Lots of Thunderous Applause, Afkorting voor 'heel veel daverend applaus', wordt vooral gebruikt bij het chatten. Zie ook...Chatten
+  - description: Lots and Lots of Thunderous Applause, Afkorting voor &#39;heel veel daverend applaus&#39;, wordt vooral gebruikt bij het chatten. Zie ook...Chatten
     title: LLTA
   - description: lumen, Een maat voor de totale hoeveelheid licht die een lichtbron geeft
     title: lm
@@ -3861,15 +3861,15 @@ accordion:
     title: Logitech
   - description: laughing out loud, afkorting om te zeggen dat je iemand uitlacht of dat iets heel grappig is, wordt veel gebruikt bij het chatten
     title: lol
-  - description: Laughing Out Loud Again, Afkorting voor 'lacht alweer hard', wordt vooral gebruikt bij het chatten. Zie ook...Chatten
+  - description: Laughing Out Loud Again, Afkorting voor &#39;lacht alweer hard&#39;, wordt vooral gebruikt bij het chatten. Zie ook...Chatten
     title: LOLA
   - description: modus van een processor voor compatibiliteit met 64-bits besturingssystemen
     title: Long mode
-  - description: Laughing Out Outrageously Loud, Afkorting voor 'lacht onbeschoft hard', wordt vooral gebruikt bij het chatten. Zie ook...Chatten
+  - description: Laughing Out Outrageously Loud, Afkorting voor &#39;lacht onbeschoft hard&#39;, wordt vooral gebruikt bij het chatten. Zie ook...Chatten
     title: LOOL
-  - description: Een constructie in het programmeren waarbij bepaalde commando's een onbepaald aantal keer kunnen worden herhaald of een verbinding van een apparaat met zichzelf. Wordt vaak gebruikt om kabels/apparaatuur te testen en is een synoniem van Lus
+  - description: Een constructie in het programmeren waarbij bepaalde commando&#39;s een onbepaald aantal keer kunnen worden herhaald of een verbinding van een apparaat met zichzelf. Wordt vaak gebruikt om kabels/apparaatuur te testen en is een synoniem van Lus
     title: Loop
-  - description: Een constructie in het programmeren waarbij bepaalde commando's een onbepaald aantal keer kunnen worden herhaald of Een verbinding van een apparaat met zichzelf. Wordt vaak gebruikt om kabels/apparaatuur te testen. Is een synoniem van Loop
+  - description: Een constructie in het programmeren waarbij bepaalde commando&#39;s een onbepaald aantal keer kunnen worden herhaald of Een verbinding van een apparaat met zichzelf. Wordt vaak gebruikt om kabels/apparaatuur te testen. Is een synoniem van Loop
     title: Lus
   - description: Een mogelijkheid in UNIX om een bestand aan te koppelen in de directory-tree. Op die manier kunnen bijvoorbeeld ISO-bestanden als een map worden aangesproken. Zie ook...UNIX, Aankoppelen
     title: Loop device
@@ -3907,7 +3907,7 @@ accordion:
     title: Luminantie
   - description: De helderheid een kleur. Een kleur met luminantie 100% is altijd wit, en 0% is helemaal zwart. Is een synoniem van Luminantie. Zie ook...Tint, Verzadiging
     title: Luminance
-  - description: Het lezen van chatkanalen, fora's, nieuwsgroepen, mailinglijsten etc. zonder zelf iets te &quot;zeggen&quot;. Het is handig eerst even te &quot;lurken&quot; voordat je zelf iets doet, want dan kun je de regels te weten komen, en kijken of het kanaal interessant is
+  - description: Het lezen van chatkanalen, fora&#39;s, nieuwsgroepen, mailinglijsten etc. zonder zelf iets te &quot;zeggen&quot;. Het is handig eerst even te &quot;lurken&quot; voordat je zelf iets doet, want dan kun je de regels te weten komen, en kijken of het kanaal interessant is
     title: Lurking
   - description: Low Voltage, Processoren die op een laag voltage draaien en zo zuiniger zijn, maar wel een beetje van hun prestaties inleveren
     title: LV
@@ -3925,7 +3925,7 @@ accordion:
     title: LZW
   - description: Machine 2 Machine, aanduiding voor communicatie tussen twee machines
     title: M2M
-  - description: Media Access Control, Het systeem in het osi-model dat de data een 'jasje' (frame) meegeeft zodat het kan worden verzonden
+  - description: Media Access Control, Het systeem in het osi-model dat de data een &#39;jasje&#39; (frame) meegeeft zodat het kan worden verzonden
     title: MAC
   - description: Message Authentication Code, systeem voor het beveiligen van gegevens tegen fouten in de verzending en het authentificeren van de afzender
     title: MAC
@@ -3935,9 +3935,9 @@ accordion:
     title: Hardwareadres
   - description: besturingssysteem, gemaakt voor parallelle en gedistribueerde systemen. Ontwikkeling is gestopt in 1994. Zie ook...Besturingssysteem
     title: Mach
-  - description: de taal van de computer. Alle directe programma's (geen scripts of Java-programma's op een niet-Java processor) zijn in machinetaal geschreven en is een synoniem van Machinetaal. Zie ook...linker
+  - description: de taal van de computer. Alle directe programma&#39;s (geen scripts of Java-programma&#39;s op een niet-Java processor) zijn in machinetaal geschreven en is een synoniem van Machinetaal. Zie ook...linker
     title: Machinecode
-  - description: de taal van de computer. Alle directe programma's (geen scripts of Java-programma's op een niet-Java processor) zijn in machinetaal geschreven. Is een synoniem van Machinecode. Zie ook...linker
+  - description: de taal van de computer. Alle directe programma&#39;s (geen scripts of Java-programma&#39;s op een niet-Java processor) zijn in machinetaal geschreven. Is een synoniem van Machinecode. Zie ook...linker
     title: Machinetaal
   - description: reeks computers van Apple
     title: Macintosh
@@ -3947,17 +3947,17 @@ accordion:
     title: Mac
   - description: een kort script, vaak gebruikt om dingen eenvoudiger te maken of automatisch af te handelen. Zie ook...Script
     title: Macro
-  - description: systeem voor PDA's, zag eruit als een digitaal kantoor. Zie ook...PDA
+  - description: systeem voor PDA&#39;s, zag eruit als een digitaal kantoor. Zie ook...PDA
     title: Magic Cap
   - description: Een server die mail ontvangt, bewaart en verstuurt voor een gebruiker en is een synoniem van Mailserver
     title: Mail Server
   - description: Een server die mail ontvangt, bewaart en verstuurt voor een gebruiker. Is een synoniem van Mail Server
     title: Mailserver
-  - description: Majordomo en Listserv zijn beide mailinglistprogramma's. Als je je abonneert op een mailinglist krijg je berichten van andere gebruikers toegestuurt. Als je zelf naar de mailinglistserver een bericht stuurt, dan komt dit bij alle andere gebruikers terecht. Het is mogelijk dat de berichten eerst goedgekeurd moeten worden en is een synoniem van Listserv, Majordomo
+  - description: Majordomo en Listserv zijn beide mailinglistprogramma&#39;s. Als je je abonneert op een mailinglist krijg je berichten van andere gebruikers toegestuurt. Als je zelf naar de mailinglistserver een bericht stuurt, dan komt dit bij alle andere gebruikers terecht. Het is mogelijk dat de berichten eerst goedgekeurd moeten worden en is een synoniem van Listserv, Majordomo
     title: Mailinglist
-  - description: Majordomo en Listserv zijn beide mailinglistprogramma's. Als je je abonneert op een mailinglist krijg je berichten van andere gebruikers toegestuurt. Als je zelf naar de mailinglistserver een bericht stuurt, dan komt dit bij alle andere gebruikers terecht. Het is mogelijk dat de berichten eerst goedgekeurd moeten worden. Is een synoniem van Mailinglist
+  - description: Majordomo en Listserv zijn beide mailinglistprogramma&#39;s. Als je je abonneert op een mailinglist krijg je berichten van andere gebruikers toegestuurt. Als je zelf naar de mailinglistserver een bericht stuurt, dan komt dit bij alle andere gebruikers terecht. Het is mogelijk dat de berichten eerst goedgekeurd moeten worden. Is een synoniem van Mailinglist
     title: Listserv
-  - description: Majordomo en Listserv zijn beide mailinglistprogramma's. Als je je abonneert op een mailinglist krijg je berichten van andere gebruikers toegestuurt. Als je zelf naar de mailinglistserver een bericht stuurt, dan komt dit bij alle andere gebruikers terecht. Het is mogelijk dat de berichten eerst goedgekeurd moeten worden. Is een synoniem van Mailinglist
+  - description: Majordomo en Listserv zijn beide mailinglistprogramma&#39;s. Als je je abonneert op een mailinglist krijg je berichten van andere gebruikers toegestuurt. Als je zelf naar de mailinglistserver een bericht stuurt, dan komt dit bij alle andere gebruikers terecht. Het is mogelijk dat de berichten eerst goedgekeurd moeten worden. Is een synoniem van Mailinglist
     title: Majordomo
   - description: de centrale computer (host) waaraan terminals zijn gekoppeld in een host/terminal netwerk, het mainframe deed dan al het werk of een snelle server of supercomputer. Zie ook...supercomputer, Host/terminal netwerk
     title: Mainframe
@@ -3971,9 +3971,9 @@ accordion:
     title: MAPS
   - description: zoeksysteem waarbij woorden in delen van 3 letters worden gesplitst. Zie ook...CLARIT, SMART
     title: Markof
-  - description: een 'taal' om de opmaak en lay-out van een document mee te beschrijven en is een synoniem van Opmaaktaal. Zie ook...Taal
+  - description: een &#39;taal&#39; om de opmaak en lay-out van een document mee te beschrijven en is een synoniem van Opmaaktaal. Zie ook...Taal
     title: Markup Language
-  - description: een 'taal' om de opmaak en lay-out van een document mee te beschrijven. Is een synoniem van Markup Language. Zie ook...Taal
+  - description: een &#39;taal&#39; om de opmaak en lay-out van een document mee te beschrijven. Is een synoniem van Markup Language. Zie ook...Taal
     title: Opmaaktaal
   - description: Als 2 apparaten in Master/Slave verbinding staan heeft het eerste apparaat controle over het tweede, maar niet andersom
     title: Master/Slave
@@ -3987,13 +3987,13 @@ accordion:
     title: MultiStation Access Unit
   - description: Het tegenovergestelde van minimaliseren. Zie ook...Minimaliseren
     title: Maximaliseren
-  - description: Married But Available, Afkorting voor 'getrouwd, maar beschikbaar', wordt vooral gebruikt bij het chatten. Zie ook...Chatten
+  - description: Married But Available, Afkorting voor &#39;getrouwd, maar beschikbaar&#39;, wordt vooral gebruikt bij het chatten. Zie ook...Chatten
     title: MBA
   - description: Multi Byte Character Set, tekenset die meer tekens bevat dan ASCII, net zoals Unicode. Zie ook...unicode
     title: MBCS
   - description: Master Boot Record, Eerste gegevens van een harde schijf. In het MBR is opgeslagen welk besturingssysteem start, of er een bootmanager wordt gestart en hoe partities zijn ingedeeld. Zie ook...Besturingssysteem, Bootmanager, Partitie
     title: MBR
-  - description: Microsoft Baseline Security Analyser, tool van Microsoft om beveilingslekken en risico's op te sporen
+  - description: Microsoft Baseline Security Analyser, tool van Microsoft om beveilingslekken en risico&#39;s op te sporen
     title: MBSA
   - description: Micro-Channel Architecture, systeembus van IBM voor de PS/2. Verouderd
     title: MCA
@@ -4031,9 +4031,9 @@ accordion:
     title: Metadata
   - description: Een functie die bij een klasse hoort waarmee een object aangepast of gebruikt kan worden. Zie ook...functie, klasse, object
     title: Methode
-  - description: Microsoft Foundation Classes, API voor het gebruiken van basisfunctionaliteit van Windows in C++ programma's. Zie ook...API
+  - description: Microsoft Foundation Classes, API voor het gebruiken van basisfunctionaliteit van Windows in C++ programma&#39;s. Zie ook...API
     title: MFC
-  - description: My Favourite Toy Language, Afkorting voor 'mijn favoriete speelgoedtaal', wordt vooral gebruikt bij het chatten. Zie ook...Chatten
+  - description: My Favourite Toy Language, Afkorting voor &#39;mijn favoriete speelgoedtaal&#39;, wordt vooral gebruikt bij het chatten. Zie ook...Chatten
     title: MFTL
   - description: Message Handling Service, oud systeem van Novell voor het versturen van e-mail
     title: MHS
@@ -4069,7 +4069,7 @@ accordion:
     title: Mini-connector
   - description: Een kleine voedingsstekker om kleine apparaten mee aan te sluiten, zoals de diskettedrive. Is een synoniem van Mini-connector
     title: 4-pin Berg
-  - description: een uitgestorven type flashkaart uit begin jaren '90. Zie ook...Flashkaart
+  - description: een uitgestorven type flashkaart uit begin jaren &#39;90. Zie ook...Flashkaart
     title: Miniature Card
   - description: oude benaming voor een kleine server
     title: Minicomputer
@@ -4095,9 +4095,9 @@ accordion:
     title: MJPEG
   - description: Een opslagcontainer voor video en audio, heeft meer mogelijkheden dan avi, maar wordt weinig gebruikt
     title: mkv
-  - description: Multiple Letter Acronym, Afkorting voor 'meer-letter acroniem', wordt vooral gebruikt bij het chatten. Zie ook...Chatten
+  - description: Multiple Letter Acronym, Afkorting voor &#39;meer-letter acroniem&#39;, wordt vooral gebruikt bij het chatten. Zie ook...Chatten
     title: MLA
-  - description: My Lips Are Sealed, Afkorting voor 'ik zeg niets', wordt vooral gebruikt bij het chatten. Zie ook...Chatten
+  - description: My Lips Are Sealed, Afkorting voor &#39;ik zeg niets&#39;, wordt vooral gebruikt bij het chatten. Zie ook...Chatten
     title: MLAS
   - description: MultiMediaCard, Een formaat flashkaart. Zie ook...Flashkaart
     title: MMC
@@ -4115,7 +4115,7 @@ accordion:
     title: MMU
   - description: Memory Management Unit, Een apparaat dat ervoor zorgt dat de processor virtueel geheugen kan aanspreken. Is een synoniem van MMU. Zie ook...Virtueel geheugen
     title: PMMU
-  - description: Multi Media eXtentions, Een aantal commando's dat de CPU gebruikt voor een aantal multimedia taken (tegelijk) door één enkele instructie. Beter dan een hele lijst met instructies. Versneld de programma's die gebruik maken van deze MMX commando's
+  - description: Multi Media eXtentions, Een aantal commando&#39;s dat de CPU gebruikt voor een aantal multimedia taken (tegelijk) door één enkele instructie. Beter dan een hele lijst met instructies. Versneld de programma&#39;s die gebruik maken van deze MMX commando&#39;s
     title: MMX
   - description: Één instuctie in assembler. Zie ook...Assembler
     title: Mnemonic
@@ -4149,7 +4149,7 @@ accordion:
     title: MicroATX
   - description: Een standaard die aangeeft welke onderdelen van een moederbord waar komen, en hoe groot het moederbord is. Bekende formaten zijn ATX, Mini-ATX, Micro-ATX en BTX. Is een synoniem van Moederbordformaat
     title: BTX
-  - description: Matter Of Fact, Afkorting voor 'om precies te zijn', wordt vooral gebruikt bij het chatten. Zie ook...Chatten
+  - description: Matter Of Fact, Afkorting voor &#39;om precies te zijn&#39;, wordt vooral gebruikt bij het chatten. Zie ook...Chatten
     title: MOF
   - description: Een veelgebruikte stekker waarmee je onder andere je harde schijf en optische drives mee aansluit. De naam Molex-stekker komt van de fabrikant ervan... Molex en is een synoniem van 4-pin Peripheral
     title: Molex
@@ -4166,20 +4166,20 @@ accordion:
   - description: Een soort lettertype waarbij alle letters even breed zijn. Zie ook...Lettertype
     title: Monospace
   - description: Een voorspelling die werd gedaan in 1965, die zei dat ongeveer elke 2 jaar het aantal transistors in een processor verdubbelt. Tot nu toe klopt de voorspelling nog steeds, en varianten op de wet blijken ook te gelden voor o.a. de opslagcapaciteit van harde schijven en is een synoniem van De wet van Moore
-    title: Moore's law
-  - description: Een voorspelling die werd gedaan in 1965, die zei dat ongeveer elke 2 jaar het aantal transistors in een processor verdubbelt. Tot nu toe klopt de voorspelling nog steeds, en varianten op de wet blijken ook te gelden voor o.a. de opslagcapaciteit van harde schijven. Is een synoniem van Moore's law
+    title: Moore&#39;s law
+  - description: Een voorspelling die werd gedaan in 1965, die zei dat ongeveer elke 2 jaar het aantal transistors in een processor verdubbelt. Tot nu toe klopt de voorspelling nog steeds, en varianten op de wet blijken ook te gelden voor o.a. de opslagcapaciteit van harde schijven. Is een synoniem van Moore&#39;s law
     title: De wet van Moore
-  - description: Male OR Female, Afkorting voor 'man of vrouw', wordt vooral gebruikt bij het chatten. Zie ook...Chatten
+  - description: Male OR Female, Afkorting voor &#39;man of vrouw&#39;, wordt vooral gebruikt bij het chatten. Zie ook...Chatten
     title: MORF
-  - description: Member Of The Appropriate Sex, Afkorting voor 'iemand van het juiste geslacht', wordt vooral gebruikt bij het chatten. Zie ook...Chatten
+  - description: Member Of The Appropriate Sex, Afkorting voor &#39;iemand van het juiste geslacht&#39;, wordt vooral gebruikt bij het chatten. Zie ook...Chatten
     title: MOTAS
   - description: effect waarbij voorwerpen die sneller bewegen er vager uitzien
     title: Motion Blur
-  - description: Member Of The Month, Afkorting voor 'lid van de maand', wordt vooral gebruikt bij het chatten. Zie ook...Chatten
+  - description: Member Of The Month, Afkorting voor &#39;lid van de maand&#39;, wordt vooral gebruikt bij het chatten. Zie ook...Chatten
     title: MOTM
-  - description: Member Of The Opposite Sex, Afkorting voor 'iemand van het andere geslacht', wordt vooral gebruikt bij het chatten. Zie ook...Chatten
+  - description: Member Of The Opposite Sex, Afkorting voor &#39;iemand van het andere geslacht&#39;, wordt vooral gebruikt bij het chatten. Zie ook...Chatten
     title: MOTOS
-  - description: Member Of The Same Sex, Afkorting voor 'iemand van hetzelfde geslacht', wordt vooral gebruikt bij het chatten. Zie ook...Chatten
+  - description: Member Of The Same Sex, Afkorting voor &#39;iemand van hetzelfde geslacht&#39;, wordt vooral gebruikt bij het chatten. Zie ook...Chatten
     title: MOTSS
   - description: Videoformaat van Quicktime. Zie ook...Quicktime
     title: MOV
@@ -4199,7 +4199,7 @@ accordion:
     title: MPEG
   - description: formaat voor opslag van bewegende beelden en geluid van de MPEG. Kwaliteit vergelijkbaar met VHS. Zie ook...MPEG
     title: MPEG-1
-  - description: Standaard voor videocompressie die wordt gebruikt bij digitale televisie en DVD's. Zie ook...MPEG
+  - description: Standaard voor videocompressie die wordt gebruikt bij digitale televisie en DVD&#39;s. Zie ook...MPEG
     title: MPEG-2
   - description: Standaard voor videocompressie van MPEG. Zie ook...DivX, XviD
     title: MPEG-4
@@ -4217,7 +4217,7 @@ accordion:
     title: MSI
   - description: Microsoft intermediate language, een bytecode formaat van Microsoft. Zie ook...Bytecode
     title: MSIL
-  - description: Microsoft Merge Package, installatiesysteem van Microsoft voor gedeelde programma's/bestanden. Zie ook...MSI
+  - description: Microsoft Merge Package, installatiesysteem van Microsoft voor gedeelde programma&#39;s/bestanden. Zie ook...MSI
     title: MSM
   - description: Microsoft Network, Een aantal services van Microsoft, waaronder het bekende MSN Messenger en Hotmail. De naam MSN is grotendeels vervangen door Live en is een synoniem van Live
     title: MSN
@@ -4273,11 +4273,11 @@ accordion:
     title: MVM
   - description: Mail eXchanger Record, een vermelding in een DNS-vermelding die aangeeft naar welke server een mail aan een bepaald domeinnaam moet. Zie ook...DNS
     title: MX Record
-  - description: Mind Your Own Business, Afkorting voor 'bemoei je met je eigen zaken', wordt vooral gebruikt bij het chatten. Zie ook...Chatten
+  - description: Mind Your Own Business, Afkorting voor &#39;bemoei je met je eigen zaken&#39;, wordt vooral gebruikt bij het chatten. Zie ook...Chatten
     title: MYOB
   - description: Een opensource database die vooral vaak op het web wordt gebuikt, vaak in combinatie met PHP. Zie ook...Database
     title: MySQL
-  - description: Not A Lot Of People Know That, Afkorting voor 'niet veel mensen weten dat', wordt vooral gebruikt bij het chatten. Zie ook...Chatten
+  - description: Not A Lot Of People Know That, Afkorting voor &#39;niet veel mensen weten dat&#39;, wordt vooral gebruikt bij het chatten. Zie ook...Chatten
     title: NALOPKT
   - description: Het zoeken van het IP-adres bij een computernaam (meestal via DNS) en is een synoniem van Naamresolutie. Zie ook...DNS
     title: Name Resolution
@@ -4295,7 +4295,7 @@ accordion:
     title: NAS
   - description: Network Address Translation, voorziening om meer computers op 1 IP-adres te gebruiken, waarbij het inkomende verkeer automatisch naar de juiste computer wordt geleid
     title: NAT
-  - description: No Big Deal, Afkorting voor 'geen probleem', wordt vooral gebruikt bij het chatten. Zie ook...Chatten
+  - description: No Big Deal, Afkorting voor &#39;geen probleem&#39;, wordt vooral gebruikt bij het chatten. Zie ook...Chatten
     title: NBD
   - description: Netwerkbesturingssysteem, Besturingssysteem dat speciaal voor het werken met een netwerk gemaakt is en is een synoniem van NOS, Network Operating System. Zie ook...Besturingssysteem
     title: NBS
@@ -4309,7 +4309,7 @@ accordion:
     title: NC
   - description: Technieken om het opzoeken van gegevens op harde schijven te versnellen doordat de zoekopdrachten in de optimale volgorde worden gezet
     title: NCQ
-  - description: Network Drive Interface Specification, een API voor het aanspreken van NIC's door computerprogramma's. Zie ook...API, NIC
+  - description: Network Drive Interface Specification, een API voor het aanspreken van NIC&#39;s door computerprogramma&#39;s. Zie ook...API, NIC
     title: NDIS
   - description: NetBios Extended User Interface, netwerkprotocol van IBM
     title: NetBEUI
@@ -4341,7 +4341,7 @@ accordion:
     title: NextStep
   - description: Network File System, een systeem om bestanden en apparatuur over een netwerk te delen, o.a. SMB. Zie ook...SMB
     title: NFS
-  - description: No F..king Way Man, Afkorting voor 'dat ga ik absoluut niet doen', wordt vooral gebruikt bij het chatten. Zie ook...Chatten
+  - description: No F..king Way Man, Afkorting voor &#39;dat ga ik absoluut niet doen&#39;, wordt vooral gebruikt bij het chatten. Zie ook...Chatten
     title: NFWM
   - description: Next Generation I/O, Verbinding met enorm hoge snelheden en is een synoniem van Infiniband
     title: NGIO
@@ -4355,25 +4355,25 @@ accordion:
     title: NIC
   - description: Network Interface Card, Dochterkaart met netwerkaansluiting. Is een synoniem van NIC. Zie ook...Dochterkaart
     title: NIK
-  - description: Nikkel Cadmium, Een techniek voor accu's die veel vermogen kunnen leveren (hun energie snel af kunnen staan) maar veel last hebben van het geheugeneffect. Dit soort wordt nooit gebruik in laptopaccu's. Zie ook...Geheugeneffect
+  - description: Nikkel Cadmium, Een techniek voor accu&#39;s die veel vermogen kunnen leveren (hun energie snel af kunnen staan) maar veel last hebben van het geheugeneffect. Dit soort wordt nooit gebruik in laptopaccu&#39;s. Zie ook...Geheugeneffect
     title: NiCD
   - description: Bijnaam
     title: Nickname
   - description: discussiegroep op internet waarlangs ook bestanden kunnen worden uitgewisseld. Zie ook...NNTP, Usenet
     title: Nieuwsgroep
-  - description: Nude In Front Of Computer, Afkorting voor 'naakt voor de computer', wordt vooral gebruikt bij het chatten. Zie ook...Chatten
+  - description: Nude In Front Of Computer, Afkorting voor &#39;naakt voor de computer&#39;, wordt vooral gebruikt bij het chatten. Zie ook...Chatten
     title: NIFOC
-  - description: Not In My Back Yard, Afkorting voor 'niet in mijn achtertuin' (ofwel... doe dat ergens anders), wordt vooral gebruikt bij het chatten. Zie ook...Chatten
+  - description: Not In My Back Yard, Afkorting voor &#39;niet in mijn achtertuin&#39; (ofwel... doe dat ergens anders), wordt vooral gebruikt bij het chatten. Zie ook...Chatten
     title: NIMBY
-  - description: Nikkel Metaal Hybride, Een techniek voor accu's die minder last van het geheugeneffect hebben dan NiCD. Wordt nooit in laptopaccu's gebruikt. Zie ook...Geheugeneffect, Accu
+  - description: Nikkel Metaal Hybride, Een techniek voor accu&#39;s die minder last van het geheugeneffect hebben dan NiCD. Wordt nooit in laptopaccu&#39;s gebruikt. Zie ook...Geheugeneffect, Accu
     title: NiMH
-  - description: Nothing In, Nothing Out, Afkorting voor 'niets gaat erin en niets komt eruit', wordt vooral gebruikt bij het chatten. Zie ook...Chatten
+  - description: Nothing In, Nothing Out, Afkorting voor &#39;niets gaat erin en niets komt eruit&#39;, wordt vooral gebruikt bij het chatten. Zie ook...Chatten
     title: NINO
   - description: Natural Language Processing, Wetenschap/techniek die zich bezighoud met verwerking van mensentaal door computers
     title: NLP
-  - description: Never Mind, Afkorting voor 'laat maar', wordt vooral gebruikt bij het chatten. Zie ook...Chatten
+  - description: Never Mind, Afkorting voor &#39;laat maar&#39;, wordt vooral gebruikt bij het chatten. Zie ook...Chatten
     title: NM
-  - description: Never Mind, Afkorting voor 'laat maar', wordt vooral gebruikt bij het chatten. Zie ook...Chatten
+  - description: Never Mind, Afkorting voor &#39;laat maar&#39;, wordt vooral gebruikt bij het chatten. Zie ook...Chatten
     title: NM
   - description: Network News Transfer Protocol, op Usenet gebruikt protocol voor het volgen van en deelnemen aan discussiegroepen
     title: NNTP
@@ -4395,17 +4395,17 @@ accordion:
     title: Laptop
   - description: Een Amerikaanse softwarefabrikant, bekend van NetWare, UnixWare en SuSE
     title: Novell
-  - description: None Of Your Business, Afkorting voor 'dat gaat je niks aan', wordt vooral gebruikt bij het chatten. Zie ook...Chatten
+  - description: None Of Your Business, Afkorting voor &#39;dat gaat je niks aan&#39;, wordt vooral gebruikt bij het chatten. Zie ook...Chatten
     title: NOYB
   - description: Non Playing Character, figurant in een computerspel
     title: NPC
-  - description: No Questions Asked, Afkorting voor 'zonder vragen', wordt vooral gebruikt bij het chatten. Zie ook...Chatten
+  - description: No Questions Asked, Afkorting voor &#39;zonder vragen&#39;, wordt vooral gebruikt bij het chatten. Zie ook...Chatten
     title: NQA
-  - description: No Reply Necessary, Afkorting voor 'geen antwoord nodig', wordt vooral gebruikt bij het chatten. Zie ook...Chatten
+  - description: No Reply Necessary, Afkorting voor &#39;geen antwoord nodig&#39;, wordt vooral gebruikt bij het chatten. Zie ook...Chatten
     title: NRN
   - description: Non Return to Zero Inverted, methode voor het coderen van data waarbij alleen de overgangen tussen 0 en 1 worden gebruikt. Hierbij komen geen 2 nullen achter elkaar voor. Op die manier geven 2 nullen een speciaal teken (escape-character) aan. Zie ook...Escape
     title: NRZI
-  - description: No So Happy Grin, Afkorting voor 'een niet zo blije grijns', wordt vooral gebruikt bij het chatten. Zie ook...Chatten
+  - description: No So Happy Grin, Afkorting voor &#39;een niet zo blije grijns&#39;, wordt vooral gebruikt bij het chatten. Zie ook...Chatten
     title: NSHG
   - description: Native Signal Processing, microprocessor die gespecialiseerd is in het verwerken van bepaalde data, bijvoorbeeld audio en video. Deze processoren zijn vaak goedkoper en sneller dan all-round processoren, maar zijn niet zo flexibel... ze kunnen alleen waar ze voor gemaakt zijn
     title: NSP
@@ -4415,25 +4415,25 @@ accordion:
     title: NTE
   - description: New Technology File System, indelingssysteem voor harddisks gebruikt vanaf Windows XP
     title: NTFS
-  - description: Not That It Matters, Afkorting voor 'niet dat het wat uitmaakt', wordt vooral gebruikt bij het chatten. Zie ook...Chatten
+  - description: Not That It Matters, Afkorting voor &#39;niet dat het wat uitmaakt&#39;, wordt vooral gebruikt bij het chatten. Zie ook...Chatten
     title: NTIM
-  - description: Not That It Matters Much, Afkorting voor 'niet dat het veel uitmaakt', wordt vooral gebruikt bij het chatten. Zie ook...Chatten
+  - description: Not That It Matters Much, Afkorting voor &#39;niet dat het veel uitmaakt&#39;, wordt vooral gebruikt bij het chatten. Zie ook...Chatten
     title: NTIMM
-  - description: Nice To Know, Afkorting voor 'mooi om te weten', wordt vooral gebruikt bij het chatten. Zie ook...Chatten
+  - description: Nice To Know, Afkorting voor &#39;mooi om te weten&#39;, wordt vooral gebruikt bij het chatten. Zie ook...Chatten
     title: NTK
-  - description: Nice To Know, Afkorting voor 'mooi om te weten', wordt vooral gebruikt bij het chatten. Zie ook...Chatten
+  - description: Nice To Know, Afkorting voor &#39;mooi om te weten&#39;, wordt vooral gebruikt bij het chatten. Zie ook...Chatten
     title: NTK
   - description: New Tech LoaDeR, het bestand dat ervoor zorgt dat Windows opstart, het wordt aangeroepen vanuit de BIOS of bootloader. Zie ook...Bootloader
     title: NTLDR
   - description: National Television System Committee, Het systeem van analoge beeldoverdracht over composiet/SCART-kabels dat vooral in de Verenigde Staten veel gebruikt is. Wordt steeds verder verdrongen door digitale overdracht, zoals HDMI. NTSC is interlaced, 29.97 fps en heeft een resolutie van 720x480
     title: NTSC
-  - description: Not That There's Anything Wrong With That, Afkorting voor 'niet dat daar iets verkeerd aan is', wordt vooral gebruikt bij het chatten. Zie ook...Chatten
+  - description: Not That There&#39;s Anything Wrong With That, Afkorting voor &#39;niet dat daar iets verkeerd aan is&#39;, wordt vooral gebruikt bij het chatten. Zie ook...Chatten
     title: NTTAWWT
-  - description: Now That You Mention It, Afkorting voor 'nu je het zegt', wordt vooral gebruikt bij het chatten. Zie ook...Chatten
+  - description: Now That You Mention It, Afkorting voor &#39;nu je het zegt&#39;, wordt vooral gebruikt bij het chatten. Zie ook...Chatten
     title: NTYMI
   - description: Network User Identification, gebruikersidentificatie op een netwerk
     title: NUI
-  - description: Non-Uniform Rational B-Splines, een wiskundige 'notatie' voor curves (gekromde lijnen)
+  - description: Non-Uniform Rational B-Splines, een wiskundige &#39;notatie&#39; voor curves (gekromde lijnen)
     title: Nurbs
   - description: Een fabrikant van grafische processoren en chipsets
     title: nVidia
@@ -4447,17 +4447,17 @@ accordion:
     title: eXecute Disable
   - description: Een bestandsformaat (gebaseerd op XML) waarmee je een bestand kunt downloaden uit een nieuwsgroep. Het is een soort link naar een bestand uit een nieuwsgroep
     title: NZB
-  - description: Over And Out, Afkorting voor 'over en uit', wordt vooral gebruikt bij het chatten. Zie ook...Chatten
+  - description: Over And Out, Afkorting voor &#39;over en uit&#39;, wordt vooral gebruikt bij het chatten. Zie ook...Chatten
     title: OAO
-  - description: Een 'exemplaar' van een klasse. Zie ook...klasse
+  - description: Een &#39;exemplaar&#39; van een klasse. Zie ook...klasse
     title: Object
   - description: Code die al bijna uitvoerbaar is door de processor, maar die nog door een linker moet worden veranderd om er iets werkends van te maken. Gedeelde programmacode, zoals DLL-bestanden, zijn vaak objectcode. Objectcode is machinetaal waarvan de geheugenadressen nog moeten berekent en waaraan nog programmabibiotheken moeten worden gekoppeld. Zie ook...programmabibliotheek
     title: Objectcode
-  - description: Een objectgeorienteerde programmeertaal werkt met klassen en objecten als programmeerconstructies om het programmeren van programma's sneller en eenvoudiger te maken en is een synoniem van objectgeorienteerd
+  - description: Een objectgeorienteerde programmeertaal werkt met klassen en objecten als programmeerconstructies om het programmeren van programma&#39;s sneller en eenvoudiger te maken en is een synoniem van objectgeorienteerd
     title: Objectgeoriënteerd
-  - description: Een objectgeorienteerde programmeertaal werkt met klassen en objecten als programmeerconstructies om het programmeren van programma's sneller en eenvoudiger te maken. Is een synoniem van Objectgeoriënteerd
+  - description: Een objectgeorienteerde programmeertaal werkt met klassen en objecten als programmeerconstructies om het programmeren van programma&#39;s sneller en eenvoudiger te maken. Is een synoniem van Objectgeoriënteerd
     title: objectgeorienteerd
-  - description: Oh, By The Way, Afkorting voor 'oh, trouwens', wordt vooral gebruikt bij het chatten. Zie ook...Chatten, BTW
+  - description: Oh, By The Way, Afkorting voor &#39;oh, trouwens&#39;, wordt vooral gebruikt bij het chatten. Zie ook...Chatten, BTW
     title: OBTW
   - description: Optical Character Recognition, programma dat tekst uit plaatjes kan halen, o.a. gebruikt bij scanners
     title: OCR
@@ -4489,7 +4489,7 @@ accordion:
     title: OEM
   - description: Original Equipment Manufacturer, een persoon/bedrijf die computers in elkaar zet. Is een synoniem van OEM
     title: systeembouwer
-  - description: Original Equipment Manufactorer licentie, een licentie die aan een bepaalde computer gebonden is. Het betreffende product kan alleen op die computer gebruikt worden, en is daardoor meestal goedkoper. Deze versie mag alleen worden verkocht aan OEM's. Zie ook...OEM
+  - description: Original Equipment Manufactorer licentie, een licentie die aan een bepaalde computer gebonden is. Het betreffende product kan alleen op die computer gebruikt worden, en is daardoor meestal goedkoper. Deze versie mag alleen worden verkocht aan OEM&#39;s. Zie ook...OEM
     title: OEM-licentie
   - description: Orthogonal Frequency Division Multiplexing, Hierbij worden een signaal opgesplitst in meerdere smalle kanalen. Wordt gebuikt door de draadloze technieken 802.11b en 802.11a
     title: OFDM
@@ -4503,7 +4503,7 @@ accordion:
     title: oga
   - description: Een containerformaat voor video en geluid. Omdat in deze container vornamelijk Vorbis-audio werd opgeslagen wordt met OGG vaak Vorbis bedoelt. Zie ook...Vorbis
     title: OGG
-  - description: Oh, I See, Afkorting voor 'oh, ik snap het', wordt vooral gebruikt bij het chatten. Zie ook...Chatten
+  - description: Oh, I See, Afkorting voor &#39;oh, ik snap het&#39;, wordt vooral gebruikt bij het chatten. Zie ook...Chatten
     title: OIC
   - description: On Line Analytical Processing, een methode om snel antwoord te geven op complexe vragen die een veelheid van gegevens in een database verwerken. OLAP wordt gebruikt in rapportages voor verkoop, marketing, management, data mining, en dergelijke
     title: OLAP
@@ -4521,15 +4521,15 @@ accordion:
     title: Online
   - description: spelen via het internet
     title: Online gaming
-  - description: Oh No, Not Again, Afkorting voor 'oh nee, niet weer', wordt vooral gebruikt bij het chatten. Zie ook...Chatten
+  - description: Oh No, Not Again, Afkorting voor &#39;oh nee, niet weer&#39;, wordt vooral gebruikt bij het chatten. Zie ook...Chatten
     title: ONNA
-  - description: Oh No, Not This Again, Afkorting voor 'oh nee, niet dit weer', wordt vooral gebruikt bij het chatten. Zie ook...Chatten
+  - description: Oh No, Not This Again, Afkorting voor &#39;oh nee, niet dit weer&#39;, wordt vooral gebruikt bij het chatten. Zie ook...Chatten
     title: ONNTA
   - description: Optical Network Unit, Een apparaat dat optische signalen (die via glasvezels lopen) omzet naar elektrische signalen
     title: ONU
-  - description: Out Of Character, Afkorting voor 'maximum aantal gebruikers bereikt, wordt vooral gebruikt bij het chatten. Zie ook...Chatten
+  - description: Out Of Character, Afkorting voor &#39;maximum aantal gebruikers bereikt, wordt vooral gebruikt bij het chatten. Zie ook...Chatten
     title: OOC
-  - description: Out Of Interest, Afkorting voor 'uit interesse', wordt vooral gebruikt bij het chatten. Zie ook...Chatten
+  - description: Out Of Interest, Afkorting voor &#39;uit interesse&#39;, wordt vooral gebruikt bij het chatten. Zie ook...Chatten
     title: OOI
   - description: Out of Memory, Engels voor het geheugen is op
     title: OOM
@@ -4539,9 +4539,9 @@ accordion:
     title: OOPL
   - description: Object Oriented Programming System, een programmeersysteem waarmee je objectgeoriënteerd kunt programmeren. Zie ook...OOP, Objectgeoriënteerd
     title: OOPS
-  - description: Out Of The Box, Afkorting voor 'uit de doos', functies die al aanwezig zijn in een programma/systeem zonder dat je er iets voor hoeft te doen, wordt vooral gebruikt bij het chatten. Zie ook...Chatten
+  - description: Out Of The Box, Afkorting voor &#39;uit de doos&#39;, functies die al aanwezig zijn in een programma/systeem zonder dat je er iets voor hoeft te doen, wordt vooral gebruikt bij het chatten. Zie ook...Chatten
     title: OOTB
-  - description: Obligatory On Topic Comment, Afkorting voor 'wat men in zo'n geval &quot;verplicht&quot; zegt', wordt vooral gebruikt bij het chatten. Zie ook...Chatten
+  - description: Obligatory On Topic Comment, Afkorting voor &#39;wat men in zo&#39;n geval &quot;verplicht&quot; zegt&#39;, wordt vooral gebruikt bij het chatten. Zie ook...Chatten
     title: OOTC
   - description: standaard voor compound documenten van Apple. Zie ook...Compound Document
     title: OpenDoc
@@ -4577,9 +4577,9 @@ accordion:
     title: Optische muis
   - description: Een opslagmiddel dat met licht werkt, zoals een CD, DVD, BD, HD-DVD etc
     title: Optische schijf
-  - description: Object Request Brooker, programma dat beschikbare objecten verdeelt over programma's die de objecten willen gebruiken over een netwerk
+  - description: Object Request Brooker, programma dat beschikbare objecten verdeelt over programma&#39;s die de objecten willen gebruiken over een netwerk
     title: ORB
-  - description: Een type mobiele pc's die qua grootte en specificaties zich bevindt tussen een notebook en een PDA. Heeft een touchscreen en gebruikt Windows XP Tablet Edition
+  - description: Een type mobiele pc&#39;s die qua grootte en specificaties zich bevindt tussen een notebook en een PDA. Heeft een touchscreen en gebruikt Windows XP Tablet Edition
     title: Origami
   - description: Object Role Modelling, techniek waarbij een applicatie wordt gezien als een verzameling samenwerkende objecten
     title: ORM
@@ -4601,23 +4601,23 @@ accordion:
     title: OSPF
   - description: Optical Storage Technology Association, organisatie die toeziet op CD- en DVD-standaarden
     title: OSTA
-  - description: On The Floor, Afkorting voor 'op de vloer', wordt vooral gebruikt bij het chatten. Zie ook...Chatten
+  - description: On The Floor, Afkorting voor &#39;op de vloer&#39;, wordt vooral gebruikt bij het chatten. Zie ook...Chatten
     title: OTF
-  - description: On The Floor Laughing, Afkorting voor 'op de grond van het lachen', wordt vooral gebruikt bij het chatten. Zie ook...Chatten
+  - description: On The Floor Laughing, Afkorting voor &#39;op de grond van het lachen&#39;, wordt vooral gebruikt bij het chatten. Zie ook...Chatten
     title: OTFL
   - description: On The Go, Engels voor... constant bezig. Deze term wordt gebruikt in USB On-The-Go of USB OTG. Zie ook...USB OTG
     title: OTG
-  - description: Out To Lunch, Afkorting voor 'aan het lunchen', wordt vooral gebruikt bij het chatten. Zie ook...Chatten
+  - description: Out To Lunch, Afkorting voor &#39;aan het lunchen&#39;, wordt vooral gebruikt bij het chatten. Zie ook...Chatten
     title: OTL
-  - description: On The Other Hand, Afkorting voor 'van de andere kant', wordt vooral gebruikt bij het chatten. Zie ook...Chatten
+  - description: On The Other Hand, Afkorting voor &#39;van de andere kant&#39;, wordt vooral gebruikt bij het chatten. Zie ook...Chatten
     title: OTOH
-  - description: On The Phone, Afkorting voor 'aan de telefoon', wordt vooral gebruikt bij het chatten. Zie ook...Chatten
+  - description: On The Phone, Afkorting voor &#39;aan de telefoon&#39;, wordt vooral gebruikt bij het chatten. Zie ook...Chatten
     title: OTP
-  - description: Over The Top, Afkorting voor 'overdreven', wordt vooral gebruikt bij het chatten. Zie ook...Chatten
+  - description: Over The Top, Afkorting voor &#39;overdreven&#39;, wordt vooral gebruikt bij het chatten. Zie ook...Chatten
     title: OTT
-  - description: On The Third Hand, Afkorting voor 'maar weer aan de andere kant', wordt vooral gebruikt bij het chatten. Zie ook...Chatten
+  - description: On The Third Hand, Afkorting voor &#39;maar weer aan de andere kant&#39;, wordt vooral gebruikt bij het chatten. Zie ook...Chatten
     title: OTTH
-  - description: Off The Top Of My Head, Afkorting voor 'uit mijn hoofd', wordt vooral gebruikt bij het chatten. Zie ook...Chatten
+  - description: Off The Top Of My Head, Afkorting voor &#39;uit mijn hoofd&#39;, wordt vooral gebruikt bij het chatten. Zie ook...Chatten
     title: OTTOMH
   - description: systeem waarbij de instructies voor de processor eerst optimaal worden geordend in plaats van in de gewone volgorde worden uitgevoerd
     title: Out-of-order Execution
@@ -4645,7 +4645,7 @@ accordion:
     title: P3P
   - description: Personal Address Book, Persoonlijk Adresboek
     title: PAB
-  - description: Pack A Big Gun, Afkorting voor 'een groot geweer hebben', wordt vooral gebruikt bij het chatten. Zie ook...Chatten
+  - description: Pack A Big Gun, Afkorting voor &#39;een groot geweer hebben&#39;, wordt vooral gebruikt bij het chatten. Zie ook...Chatten
     title: PABG
   - description: Priority Access Control Enabled, systeem waarbij bepaalde data op een netwerk voorrang krijgt
     title: PACE
@@ -4685,7 +4685,7 @@ accordion:
     title: Pakketschakelen
   - description: Phase Alternating Line, Het systeem van analoge beeldoverdracht over composiet/SCART-kabels dat vooral in west-europa veel gebruikt is. Wordt steeds verder verdrongen door digitale overdracht, zoals HDMI. PAL is interlaced, 25 fps en heeft een resolutie van 768x576
     title: PAL
-  - description: besturingssysteem voor PDA's. Zie ook...PDA, Besturingssysteem
+  - description: besturingssysteem voor PDA&#39;s. Zie ook...PDA, Besturingssysteem
     title: Palm
   - description: Personal Area Network, draadloos netwerkje voor het met elkaar verbinden van apparaten in een kamer, Bluetooth is hier een vorm van
     title: PAN
@@ -4705,7 +4705,7 @@ accordion:
     title: Pariteitsbit
   - description: programma dat een bepaald formaat omzet in een ander
     title: Parser
-  - description: een 'abstract' deel van de harde schijf... de harde schijf kan worden opgedeelt in meerdere partities die van elkaar onafhankelijk zijn
+  - description: een &#39;abstract&#39; deel van de harde schijf... de harde schijf kan worden opgedeelt in meerdere partities die van elkaar onafhankelijk zijn
     title: Partitie
   - description: Harde schijf in partities verdelen
     title: Partitioneren
@@ -4745,7 +4745,7 @@ accordion:
     title: PCI64
   - description: PCI op 8x de normale snelheid. Zie ook...PCI
     title: PCIX
-  - description: Printer Command Language, 'taal' om printers mee aan te sturen
+  - description: Printer Command Language, &#39;taal&#39; om printers mee aan te sturen
     title: PCL
   - description: Pulse Code Modulation, Een manier om een signaal te beschrijven met behulp van een aantal discrete waardes. Dit in tegenstelling tot Pulse Width Modulation, waarbij er slechts 2 waardes beschikbaar zijn, gebruikt Pulse Code Modulation er vaak 256 (zgn. 8-bit), 65.536 (16-bit) of 16.777.216 (24-bit) Dit is de gebruike representatie in WAV-bestanden. Zie ook...WAV
     title: PCM
@@ -4777,7 +4777,7 @@ accordion:
     title: PD
   - description: Public Domain, publiek domein, alles wat door iedereen te bekijken/gebruiken is. Zie ook...Chatten
     title: PD
-  - description: Phase-change Dual Drive, Systeem van Panasonic voor CD's van 650MB die tot 500.000x te herschrijven zijn
+  - description: Phase-change Dual Drive, Systeem van Panasonic voor CD&#39;s van 650MB die tot 500.000x te herschrijven zijn
     title: PD Drive
   - description: Personal Digital Assistant, klein computertje dat vaak als klein digitaal kantoor wordt gebruikt, met e-mail, maar ook vaak met spelletjes, muziek en films. Zie ook...Handheld, Smartphone
     title: PDA
@@ -4789,7 +4789,7 @@ accordion:
     title: PDF
   - description: Portable Distributed Objects, systeem zoals CORBA, maar dan sneller en lichter. Zie ook...CORBA
     title: PDO
-  - description: Pretty Damn Quick, Afkorting voor 'behoorlijk snel', wordt vooral gebruikt bij het chatten. Zie ook...Chatten
+  - description: Pretty Damn Quick, Afkorting voor &#39;behoorlijk snel&#39;, wordt vooral gebruikt bij het chatten. Zie ook...Chatten
     title: PDQ
   - description: Protocol Data Unit, een pakket waarin gegevens worden aangevraagd over het netwerk waarin een computer zich bevind. Zie ook...BPDU
     title: PDU
@@ -4799,17 +4799,17 @@ accordion:
     title: PiB
   - description: Een persoon die via Bittorrent download terwijl jij datzelfde bestand aan het downloaden bent of de computers in een p2p netwerk. Zie ook...P2P
     title: Peer
-  - description: P2P, model dat bestaat uit een aantal computers die allemaal diensten kunnen leveren, en ook allemaal kunnen aanvragen en ontvangen, de tegenhanger van het client-server model. Peer to Peer staat bekend als 'illegaal', maar dat is het zeker niet. Vaak zijn de spullen die via zogenaamde P2P-netwerken aangeboden worden wel illegaal, maar lang niet altijd. en is een synoniem van P2p, Peer-to-peer. Zie ook...de tutorial hardware/terminologie, client-server model, P2P-netwerk
+  - description: P2P, model dat bestaat uit een aantal computers die allemaal diensten kunnen leveren, en ook allemaal kunnen aanvragen en ontvangen, de tegenhanger van het client-server model. Peer to Peer staat bekend als &#39;illegaal&#39;, maar dat is het zeker niet. Vaak zijn de spullen die via zogenaamde P2P-netwerken aangeboden worden wel illegaal, maar lang niet altijd. en is een synoniem van P2p, Peer-to-peer. Zie ook...de tutorial hardware/terminologie, client-server model, P2P-netwerk
     title: Peer to peer
-  - description: P2P, model dat bestaat uit een aantal computers die allemaal diensten kunnen leveren, en ook allemaal kunnen aanvragen en ontvangen, de tegenhanger van het client-server model. Peer to Peer staat bekend als 'illegaal', maar dat is het zeker niet. Vaak zijn de spullen die via zogenaamde P2P-netwerken aangeboden worden wel illegaal, maar lang niet altijd.. Is een synoniem van Peer to peer. Zie ook...de tutorial hardware/terminologie, client-server model, P2P-netwerk
+  - description: P2P, model dat bestaat uit een aantal computers die allemaal diensten kunnen leveren, en ook allemaal kunnen aanvragen en ontvangen, de tegenhanger van het client-server model. Peer to Peer staat bekend als &#39;illegaal&#39;, maar dat is het zeker niet. Vaak zijn de spullen die via zogenaamde P2P-netwerken aangeboden worden wel illegaal, maar lang niet altijd.. Is een synoniem van Peer to peer. Zie ook...de tutorial hardware/terminologie, client-server model, P2P-netwerk
     title: P2p
-  - description: P2P, model dat bestaat uit een aantal computers die allemaal diensten kunnen leveren, en ook allemaal kunnen aanvragen en ontvangen, de tegenhanger van het client-server model. Peer to Peer staat bekend als 'illegaal', maar dat is het zeker niet. Vaak zijn de spullen die via zogenaamde P2P-netwerken aangeboden worden wel illegaal, maar lang niet altijd.. Is een synoniem van Peer to peer. Zie ook...de tutorial hardware/terminologie, client-server model, P2P-netwerk
+  - description: P2P, model dat bestaat uit een aantal computers die allemaal diensten kunnen leveren, en ook allemaal kunnen aanvragen en ontvangen, de tegenhanger van het client-server model. Peer to Peer staat bekend als &#39;illegaal&#39;, maar dat is het zeker niet. Vaak zijn de spullen die via zogenaamde P2P-netwerken aangeboden worden wel illegaal, maar lang niet altijd.. Is een synoniem van Peer to peer. Zie ook...de tutorial hardware/terminologie, client-server model, P2P-netwerk
     title: Peer-to-peer
-  - description: Een netwerk van computers die zowel kunnen downloaden als uploaden. Vaak worden over deze netwerker muziek, films en software uitgewisselt. Veel van deze zijn 'illegaal'. Bittorrent en Gnutella (beter bekend als Limewire) zijn de bekendste en is een synoniem van P2P-netwerk. Zie ook...de tutorial hardware/terminologie, client-server model
+  - description: Een netwerk van computers die zowel kunnen downloaden als uploaden. Vaak worden over deze netwerker muziek, films en software uitgewisselt. Veel van deze zijn &#39;illegaal&#39;. Bittorrent en Gnutella (beter bekend als Limewire) zijn de bekendste en is een synoniem van P2P-netwerk. Zie ook...de tutorial hardware/terminologie, client-server model
     title: Peer to peer-netwerk
-  - description: Een netwerk van computers die zowel kunnen downloaden als uploaden. Vaak worden over deze netwerker muziek, films en software uitgewisselt. Veel van deze zijn 'illegaal'. Bittorrent en Gnutella (beter bekend als Limewire) zijn de bekendste. Is een synoniem van Peer to peer-netwerk. Zie ook...de tutorial hardware/terminologie, client-server model
+  - description: Een netwerk van computers die zowel kunnen downloaden als uploaden. Vaak worden over deze netwerker muziek, films en software uitgewisselt. Veel van deze zijn &#39;illegaal&#39;. Bittorrent en Gnutella (beter bekend als Limewire) zijn de bekendste. Is een synoniem van Peer to peer-netwerk. Zie ook...de tutorial hardware/terminologie, client-server model
     title: P2P-netwerk
-  - description: Preferred Executable Format, Een formaat voor programma's op de PowerPC
+  - description: Preferred Executable Format, Een formaat voor programma&#39;s op de PowerPC
     title: PEF
   - description: Model processor van Intel voor desktops
     title: Pentium
@@ -4853,7 +4853,7 @@ accordion:
     title: PHP
   - description: PHP Bulletin Board, forum systeem gemaakt door de PHPBB Group. Zie ook...forum
     title: PHPBB
-  - description: Please Have Sex With Me, Afkorting voor 'vrij alsjeblieft met mij', wordt vooral gebruikt bij het chatten. Zie ook...Chatten
+  - description: Please Have Sex With Me, Afkorting voor &#39;vrij alsjeblieft met mij&#39;, wordt vooral gebruikt bij het chatten. Zie ook...Chatten
     title: PHSWM
   - description: Een techniek voor het versnellen van bewegingen bij games, die natuurkundig kunnen worden berekend. Bijvoorbeeld, explosies, golvend water, rondvliegend puin, etc. Dit moet zowel door de grafische kaart als het spel ondersteund worden
     title: PhysX
@@ -4887,11 +4887,11 @@ accordion:
     title: Pixel
   - description: Een shader die de kleur van een enkele pixel berekend. Zie ook...Shader, Pixel
     title: Pixel Shader
-  - description: Printer Job Language, een 'taal' om de printer mee in te stellen
+  - description: Printer Job Language, een &#39;taal&#39; om de printer mee in te stellen
     title: PJL
   - description: Jpeg met interlace mogelijkheid. Zie ook...JPEG
     title: PJPEG
-  - description: Previously Known As, Afkorting voor 'voorheen bekend als', wordt vooral gebruikt bij het chatten. Zie ook...Chatten
+  - description: Previously Known As, Afkorting voor &#39;voorheen bekend als&#39;, wordt vooral gebruikt bij het chatten. Zie ook...Chatten
     title: PKA
   - description: Public Key Cryptography, het versleutelen van data met een private key en een public key, zoals RSA en LUC. Hierbij moet je de data versleutelen met een public key, maar ontsleutelen met een private key. Op die manier kan alleen de maker van de keys de boodschap ontcijferen, maar iedereen met de public key kan een boodschap maken
     title: PKC
@@ -4899,7 +4899,7 @@ accordion:
     title: PLA
   - description: Een soort beeldscherm waarbij elke pixel een soort hokje is waarin een gas zit dat licht kan geven als er elektriciteit over wordt gezet. Wordt vooral veel gebruikt bij grote beelschermen
     title: Plasmascherm
-  - description: Software of hardware die ervoor zorgt dat er programma's kunnen worden gebruikt, bijvoorbeeld het besturingssysteem en de gebruikte instructieset. Zie ook...Besturingssysteem, instructieset, Architectuur
+  - description: Software of hardware die ervoor zorgt dat er programma&#39;s kunnen worden gebruikt, bijvoorbeeld het besturingssysteem en de gebruikte instructieset. Zie ook...Besturingssysteem, instructieset, Architectuur
     title: Platform
   - description: een systeem of programma dat op elk platform te gebruiken is en is een synoniem van Crossplatform. Zie ook...platform
     title: Platformonafhankelijk
@@ -4915,7 +4915,7 @@ accordion:
     title: PLC
   - description: Programmable Logic Controller, een kleine, programmeerbare computer die als computer in een robot gebruikt kan worden
     title: PLC
-  - description: Press Lots Of Keys To Abort, Afkorting voor 'druk op zoveel mogelijk toetsen om te stoppen', wordt vooral gebruikt bij het chatten. Zie ook...Chatten
+  - description: Press Lots Of Keys To Abort, Afkorting voor &#39;druk op zoveel mogelijk toetsen om te stoppen&#39;, wordt vooral gebruikt bij het chatten. Zie ook...Chatten
     title: PLOKTA
   - description: Printer die in lijnen op het papier tekent, voor bijvoorbeeld lijntekeningen, grafieken, snijsjablonen
     title: Plotter
@@ -4941,15 +4941,15 @@ accordion:
     title: Persoonlijke bericht
   - description: Private Message, Privébericht, een soort e-mail systeem dat veel op forums wordt gebruikt. Is een synoniem van PM
     title: PB
-  - description: Pardon My Butting In, Afkorting voor 'sorry dat ik me er mee bemoei', wordt vooral gebruikt bij het chatten en is een synoniem van PMFBI. Zie ook...Chatten
+  - description: Pardon My Butting In, Afkorting voor &#39;sorry dat ik me er mee bemoei&#39;, wordt vooral gebruikt bij het chatten en is een synoniem van PMFBI. Zie ook...Chatten
     title: PMBI
-  - description: Pardon My Butting In, Afkorting voor 'sorry dat ik me er mee bemoei', wordt vooral gebruikt bij het chatten. Is een synoniem van PMBI. Zie ook...Chatten
+  - description: Pardon My Butting In, Afkorting voor &#39;sorry dat ik me er mee bemoei&#39;, wordt vooral gebruikt bij het chatten. Is een synoniem van PMBI. Zie ook...Chatten
     title: PMFBI
-  - description: Pardon Me For Jumping In, Afkorting voor 'sorry dat ik er zomaar tussenkom', wordt vooral gebruikt bij het chatten. Zie ook...Chatten
+  - description: Pardon Me For Jumping In, Afkorting voor &#39;sorry dat ik er zomaar tussenkom&#39;, wordt vooral gebruikt bij het chatten. Zie ook...Chatten
     title: PMFJI
-  - description: Put Mind In Gear Before Opening Mouth, Afkorting voor 'denk na voordat je wat zegt', wordt vooral gebruikt bij het chatten. Zie ook...Chatten
+  - description: Put Mind In Gear Before Opening Mouth, Afkorting voor &#39;denk na voordat je wat zegt&#39;, wordt vooral gebruikt bij het chatten. Zie ook...Chatten
     title: PMIGBOM
-  - description: Peeing My Pants, Afkorting voor 'in je broek plassen van het lachen', wordt vooral gebruikt bij het chatten. Zie ook...Chatten
+  - description: Peeing My Pants, Afkorting voor &#39;in je broek plassen van het lachen&#39;, wordt vooral gebruikt bij het chatten. Zie ook...Chatten
     title: PMP
   - description: Portable Network Graphics, standaard voor plaatjes op het internet, levert kleinere plaatjes dan GIF maar geeft beter beeld
     title: PNG
@@ -4957,9 +4957,9 @@ accordion:
     title: PnP
   - description: Plug and Play, techniek waarbij een computer zelf de aangesloten hardware herkent zonder dat de computer opnieuw moet worden opgestart. Is een synoniem van PnP
     title: Hot Swapable
-  - description: besturingsysteem van Microsoft voor PDA's. Zie ook...PDA
+  - description: besturingsysteem van Microsoft voor PDA&#39;s. Zie ook...PDA
     title: Pocket PC
-  - description: Piece Of Data, Afkorting voor 'een stukje data'. Zie ook...Chatten
+  - description: Piece Of Data, Afkorting voor &#39;een stukje data&#39;. Zie ook...Chatten
     title: POD
   - description: Printing on Demand, gepersonaliseerde brieven (dus met de naam van de ontvanger bovenaan en eventueel middenin de brief) afdrukken op het moment dat dat nodig is
     title: PoD
@@ -4991,21 +4991,21 @@ accordion:
     title: Popup
   - description: (bij databases) blik op de gegevens van een andere database of (op het internet) een website met een verzameling van links
     title: Portal
-  - description: een standaard voor machinetaal commando's. Programma's die met een POSIX systeem werken, werken op alle POSIX-systemen. Helaas is er geen standaard voor programmabibliotheken, dus programma's moeten alsnog opnieuw gecompileerd worden
+  - description: een standaard voor machinetaal commando&#39;s. Programma&#39;s die met een POSIX systeem werken, werken op alle POSIX-systemen. Helaas is er geen standaard voor programmabibliotheken, dus programma&#39;s moeten alsnog opnieuw gecompileerd worden
     title: Posix
-  - description: Person of Opposite Sex Sharing Living Quarters, Afkorting voor 'in een huis wonend met iemand van het andere geslacht', wordt vooral gebruikt bij het chatten. Zie ook...Chatten
+  - description: Person of Opposite Sex Sharing Living Quarters, Afkorting voor &#39;in een huis wonend met iemand van het andere geslacht&#39;, wordt vooral gebruikt bij het chatten. Zie ook...Chatten
     title: POSSLQ
   - description: Power On Self Test, Controleert alle belangrijke onderdelen bij het aanzetten van de computer. Deze test draait in de BIOS. POST is een BIST. Zie ook...BIST
     title: POST
   - description: Een opensource database. Zie ook...Database
     title: PostgreSQL
-  - description: 'printertaal' van Adobe
+  - description: &#39;printertaal&#39; van Adobe
     title: PostScript
-  - description: Peck On The Cheek, Afkorting voor 'zoentje op je wang', wordt vooral gebruikt bij het chatten. Zie ook...Chatten
+  - description: Peck On The Cheek, Afkorting voor &#39;zoentje op je wang&#39;, wordt vooral gebruikt bij het chatten. Zie ook...Chatten
     title: POTC
   - description: Plain Old Telephone Service, de gewone telefoonlijn
     title: POTS
-  - description: Point Of View, Afkorting voor 'gezichtspunt', wordt vooral gebruikt bij het chatten. Zie ook...Chatten
+  - description: Point Of View, Afkorting voor &#39;gezichtspunt&#39;, wordt vooral gebruikt bij het chatten. Zie ook...Chatten
     title: POV
   - description: Een systeem van AMD om energie te besparen door de processor met behulp van throttling. Deze techniek werd vooral gebruikt in laptopprocessoren. Zie ook...Throttling
     title: PowerNow!
@@ -5019,7 +5019,7 @@ accordion:
     title: PPGA
   - description: Pixels per inch, aanduiding voor de resolutie van een beeld, zoals dat van de scanner afkomt. Zie ook...DPI
     title: PPI
-  - description: Pagina's per minuut, afdruksnelheid van een printer
+  - description: Pagina&#39;s per minuut, afdruksnelheid van een printer
     title: PPM
   - description: Een compressie algoritme dat erg goed is voor compressie van tekstbestanden
     title: PPMd
@@ -5047,9 +5047,9 @@ accordion:
     title: PPU
   - description: programmeertaal
     title: Pragma
-  - description: Besturingssysteem dat meerdere programma's tegelijk kan laten werken. Zie ook...Besturingssysteem
+  - description: Besturingssysteem dat meerdere programma&#39;s tegelijk kan laten werken. Zie ook...Besturingssysteem
     title: Preemptive Multitasking
-  - description: Techniek die vanaf Windows XP in Windows systemen wordt gebruikt om gegevens van de meest gebruikte programma's alvast in het geheugen te laden bij het opstarten van het systeem om zo de programma;'s te versnellen
+  - description: Techniek die vanaf Windows XP in Windows systemen wordt gebruikt om gegevens van de meest gebruikte programma&#39;s alvast in het geheugen te laden bij het opstarten van het systeem om zo de programma;&#39;s te versnellen
     title: Prefetch
   - description: PowerPC Reference Platform, standaard om PowerPC-systemen met elkaar te koppelen
     title: PReP
@@ -5085,25 +5085,25 @@ accordion:
     title: ProDOS
   - description: Een pagina die iets over een gebruiker vertelt. Hier staan vaak een avatar/foto, interesses, homepage en eventueel een biografie op. Zie ook...avatar
     title: Profiel
-  - description: Een website waarop gebruikers een profiel aan kunt maken om zo iets over zichzelf neer te zetten (foto's, biografie etc.) en om contact te leggen met anderen. Vaak een sociaal medium genoemd. Zie ook...Profiel, Social media
+  - description: Een website waarop gebruikers een profiel aan kunt maken om zo iets over zichzelf neer te zetten (foto&#39;s, biografie etc.) en om contact te leggen met anderen. Vaak een sociaal medium genoemd. Zie ook...Profiel, Social media
     title: Profielsite
-  - description: Een reeks commando's die door een computer kunnen worden uitgevoerd. Als je een programma start worden deze commando's uitgevoerd en is een synoniem van Applicatie, Application, App, Executable, Uitvoerbaar bestand
+  - description: Een reeks commando&#39;s die door een computer kunnen worden uitgevoerd. Als je een programma start worden deze commando&#39;s uitgevoerd en is een synoniem van Applicatie, Application, App, Executable, Uitvoerbaar bestand
     title: Programma
-  - description: Een reeks commando's die door een computer kunnen worden uitgevoerd. Als je een programma start worden deze commando's uitgevoerd. Is een synoniem van Programma
+  - description: Een reeks commando&#39;s die door een computer kunnen worden uitgevoerd. Als je een programma start worden deze commando&#39;s uitgevoerd. Is een synoniem van Programma
     title: Applicatie
-  - description: Een reeks commando's die door een computer kunnen worden uitgevoerd. Als je een programma start worden deze commando's uitgevoerd. Is een synoniem van Programma
+  - description: Een reeks commando&#39;s die door een computer kunnen worden uitgevoerd. Als je een programma start worden deze commando&#39;s uitgevoerd. Is een synoniem van Programma
     title: Application
-  - description: Een reeks commando's die door een computer kunnen worden uitgevoerd. Als je een programma start worden deze commando's uitgevoerd. Is een synoniem van Programma
+  - description: Een reeks commando&#39;s die door een computer kunnen worden uitgevoerd. Als je een programma start worden deze commando&#39;s uitgevoerd. Is een synoniem van Programma
     title: App
-  - description: Een reeks commando's die door een computer kunnen worden uitgevoerd. Als je een programma start worden deze commando's uitgevoerd. Is een synoniem van Programma
+  - description: Een reeks commando&#39;s die door een computer kunnen worden uitgevoerd. Als je een programma start worden deze commando&#39;s uitgevoerd. Is een synoniem van Programma
     title: Executable
-  - description: Een reeks commando's die door een computer kunnen worden uitgevoerd. Als je een programma start worden deze commando's uitgevoerd. Is een synoniem van Programma
+  - description: Een reeks commando&#39;s die door een computer kunnen worden uitgevoerd. Als je een programma start worden deze commando&#39;s uitgevoerd. Is een synoniem van Programma
     title: Uitvoerbaar bestand
   - description: een bestand waarin de functies uit een API staan. Als een programma gebruik maakt van een functie uit een API wordt deze uit de bibliotheek gehaald in plaats van dat het in het programma zelf wordt gestopt. Dit bespaart ruimte en is vaak flexibeler en is een synoniem van Library. Zie ook...Functie, API
     title: Programmabibliotheek
   - description: een bestand waarin de functies uit een API staan. Als een programma gebruik maakt van een functie uit een API wordt deze uit de bibliotheek gehaald in plaats van dat het in het programma zelf wordt gestopt. Dit bespaart ruimte en is vaak flexibeler. Is een synoniem van Programmabibliotheek. Zie ook...Functie, API
     title: Library
-  - description: een 'taal' waarin code geschreven kan worden die later kan worden omgezet (gecompileerd) naar een programma. Dit vereenvoudigd het programmeren aanzienlijk. Hierbij maakt men onderscheid tussen hoge en lage programmeertalen... hoge programmeertalen lijken op menselijke taal, lage programmeertalen lijken meer op machinetaal, zijn vaak moeilijker te gebruiken en werken meestal sneller. Zie ook...Code, compileren, programma, programmeren, Taal, Machinetaal
+  - description: een &#39;taal&#39; waarin code geschreven kan worden die later kan worden omgezet (gecompileerd) naar een programma. Dit vereenvoudigd het programmeren aanzienlijk. Hierbij maakt men onderscheid tussen hoge en lage programmeertalen... hoge programmeertalen lijken op menselijke taal, lage programmeertalen lijken meer op machinetaal, zijn vaak moeilijker te gebruiken en werken meestal sneller. Zie ook...Code, compileren, programma, programmeren, Taal, Machinetaal
     title: Programmeertaal
   - description: het maken van een programma. Zie ook...programma
     title: Programmeren
@@ -5123,9 +5123,9 @@ accordion:
     title: Protocol
   - description: Een reeks van bij elkaar horende (en vaak met elkaar werkende) protocollen. Zie ook...Protocol
     title: Protocolsuite
-  - description: Een masker voor een IP-adres, zodat niemand kan zien welk IP-adres je werkelijk hebt. Dit is meestal een computer die de pagina's die jij wilt downloaden eerst download en vervolgens doorstuurt. en is een synoniem van Proxyserver. Zie ook...IP-adres
+  - description: Een masker voor een IP-adres, zodat niemand kan zien welk IP-adres je werkelijk hebt. Dit is meestal een computer die de pagina&#39;s die jij wilt downloaden eerst download en vervolgens doorstuurt. en is een synoniem van Proxyserver. Zie ook...IP-adres
     title: Proxy
-  - description: Een masker voor een IP-adres, zodat niemand kan zien welk IP-adres je werkelijk hebt. Dit is meestal een computer die de pagina's die jij wilt downloaden eerst download en vervolgens doorstuurt.. Is een synoniem van Proxy. Zie ook...IP-adres
+  - description: Een masker voor een IP-adres, zodat niemand kan zien welk IP-adres je werkelijk hebt. Dit is meestal een computer die de pagina&#39;s die jij wilt downloaden eerst download en vervolgens doorstuurt.. Is een synoniem van Proxy. Zie ook...IP-adres
     title: Proxyserver
   - description: Playstation, Een console-spelcomputer van Sony. Zie ook...console
     title: PS
@@ -5157,7 +5157,7 @@ accordion:
     title: PTA
   - description: Point-to-Multi Point, netwerk met ster-topologie. Zie ook...Topologie
     title: PtMP
-  - description: Point-to-Point, 'netwerk' met slechts 2 nodes. Zie ook...Node
+  - description: Point-to-Point, &#39;netwerk&#39; met slechts 2 nodes. Zie ook...Node
     title: PtP
   - description: aanduiding voor programmatuur die vrij gebruikt mag worden
     title: Public Domain
@@ -5165,7 +5165,7 @@ accordion:
     title: PURL
   - description: Een commando op Gnutella dat aan de aanbieder van een bestand wordt verzonden om het bestand te verzenden. Dit moet gebruikt worden als de aanbieder achter een firewall zit. Zie ook...Gnutella
     title: Push
-  - description: Pulse Width Modulation, Een manier om een bepaald voltage te creeren door hoog-frequent een vast voltage aan- en uit te schakelen en vervolgens de hoog-frequente schakelruis te verwijderen. Een begrijpelijk voorbeeld zou zijn een emmer die langzaam leegloopt tot op een bepaald peil gevuld te houden door steeds een kraan helemaal open of helemaal dicht te zetten gedurende een bepaalde tijd. Dit in tegenstelling tot PCM, Pulse Code Modulation, waarbij wel meerdere niveau's tussen aan en uit gebruikt worden.
+  - description: Pulse Width Modulation, Een manier om een bepaald voltage te creeren door hoog-frequent een vast voltage aan- en uit te schakelen en vervolgens de hoog-frequente schakelruis te verwijderen. Een begrijpelijk voorbeeld zou zijn een emmer die langzaam leegloopt tot op een bepaald peil gevuld te houden door steeds een kraan helemaal open of helemaal dicht te zetten gedurende een bepaalde tijd. Dit in tegenstelling tot PCM, Pulse Code Modulation, waarbij wel meerdere niveau&#39;s tussen aan en uit gebruikt worden.
     title: PWM
   - description: Preboot Execution Environment, Een systeem waarmee een computer vanaf een netwerk kan opstarten
     title: PXE
@@ -5231,7 +5231,7 @@ accordion:
     title: Pizza Box form
   - description: Een balkvormige computer, vaak enkele centimeters hoog (minimaal 4cm), enkele decimeters breed (ongeveer 50 cm) Deze kunnen in zogenaamde racks worden opgeborgen. Vaak kunnen in datacentra racks gehuurd worden van 1U, 2U of 4U
     title: Rackserver
-  - description: Rapid Application Development, programmeeromgeving/programmeertaal om snel en makkelijk kant-en-klare programma's te maken. Zie ook...programmeren
+  - description: Rapid Application Development, programmeeromgeving/programmeertaal om snel en makkelijk kant-en-klare programma&#39;s te maken. Zie ook...programmeren
     title: RAD
   - description: Merknaam voor videokaarten van ATI. Zie ook...ATI, Videokaart
     title: Radeon
@@ -5265,7 +5265,7 @@ accordion:
     title: Rasterizer
   - description: techniek die zender en ontvanger laat bepalen hoeveel beeldinformatie ze willen vrijgeven of zien, gebruikt in Jpeg2000
     title: Rate control
-  - description: Ruwe meetgegevens die op geen enkele manier zijn bewerkt. Men slaat soms data (vaak foto's) in Raw op om deze later te kunnen bewerken. Zo heb je meer controle over het proces van omzetten naar een verwerkt bestand en kun je betere resultaten bereiken
+  - description: Ruwe meetgegevens die op geen enkele manier zijn bewerkt. Men slaat soms data (vaak foto&#39;s) in Raw op om deze later te kunnen bewerken. Zo heb je meer controle over het proces van omzetten naar een verwerkt bestand en kun je betere resultaten bereiken
     title: RAW
   - description: het door berekeningen op beeldpuntniveau samenstellen van beelden op het scherm
     title: Raytracing
@@ -5297,7 +5297,7 @@ accordion:
     title: RDS
   - description: Rotating Head Digital Storage Tape, systeem van Gigatape voor het opslaan van grote hoeveelheden data op tapes
     title: RDST
-  - description: REgarding, Afkorting voor 'betreft', wordt vooral gebruikt bij het chatten. Zie ook...Chatten
+  - description: REgarding, Afkorting voor &#39;betreft&#39;, wordt vooral gebruikt bij het chatten. Zie ook...Chatten
     title: RE
   - description: modus van een processor voor compatibiliteit met 8-bits besturingssystemen en max 1 MB geheugen. Deze wordt tijdens het opstarten van een computer met BIOS gebruikt, omdat BIOS in 8-bit werkt
     title: Real mode
@@ -5309,7 +5309,7 @@ accordion:
     title: Record
   - description: Een CD met digitale geluidsbestanden
     title: Red Book
-  - description: Een programma dat ervoor zorgt dat diensten die op een netwerk worden aangeboden kunnen worden aangesproken alsof ze lokaal (op de computer waarop de redirector aanwezig is) beschikbaar zijn. Zo hoeven programma's zich niet bezig te houden met of een dienst lokaal of via een netwerk moet worden aangesproken
+  - description: Een programma dat ervoor zorgt dat diensten die op een netwerk worden aangeboden kunnen worden aangesproken alsof ze lokaal (op de computer waarop de redirector aanwezig is) beschikbaar zijn. Zo hoeven programma&#39;s zich niet bezig te houden met of een dienst lokaal of via een netwerk moet worden aangesproken
     title: Redirector
   - description: Het hebben van reserveronderdelen in het geval er iets kapot gaat of het dubbel of driedubbel opslaan van gegevens voor het geval er gegevens verloren gaan en is een synoniem van Redundancy
     title: Redundantie
@@ -5347,7 +5347,7 @@ accordion:
     title: Replicatie
   - description: database met gegevens over een andere database
     title: Repository
-  - description: Het terugzetten van de instelling naar de instellingen uit de fabriek of het opnieuw opstarten van een computer door 'de stekker eruit te trekken'... de computer sluit niet normaal af
+  - description: Het terugzetten van de instelling naar de instellingen uit de fabriek of het opnieuw opstarten van een computer door &#39;de stekker eruit te trekken&#39;... de computer sluit niet normaal af
     title: Reset
   - description: Programma dat in het RAM aanwezig is zodra de computer aangezet wordt
     title: Resident programma
@@ -5367,7 +5367,7 @@ accordion:
     title: RF
   - description: Request For Comment, Een periode waarin iedereen commentaar mag geven op een nieuwe standaard/aanbeveling
     title: RFC
-  - description: Request For Discussion, Afkorting voor 'verzoek voor discussie', wordt vooral gebruikt bij het chatten. Zie ook...Chatten
+  - description: Request For Discussion, Afkorting voor &#39;verzoek voor discussie&#39;, wordt vooral gebruikt bij het chatten. Zie ook...Chatten
     title: RFD
   - description: Radio-frequency identification, Een goedkope chip die gebruikt kan worden voor identificatie. Hierbij wordt een radiosignaal uitgezonden, opgevangen door de chip en een code teruggezonden, zodat het als het ware een streepjescode werkt. Ze zijn onzichtbaar, erg goedkoop, en je hoeft ze niet zoals een streepjescode op te zoeken
     title: RFID
@@ -5375,7 +5375,7 @@ accordion:
     title: RGB
   - description: Roger, Betekent begrepen. Wordt veel gebruikt bij het online gamen. Zie ook...Chatten
     title: rgr
-  - description: Rank Has Its Privileges, Afkorting voor 'een (hoge) positie hebben heeft voordelen', wordt vooral gebruikt bij het chatten. Zie ook...Chatten
+  - description: Rank Has Its Privileges, Afkorting voor &#39;een (hoge) positie hebben heeft voordelen&#39;, wordt vooral gebruikt bij het chatten. Zie ook...Chatten
     title: RHIP
   - description: formaat van render- en modelbestanden
     title: RIB
@@ -5383,7 +5383,7 @@ accordion:
     title: RIMM
   - description: Een netwerkstructuur waarbij alle computer in een ring zijn aangesloten, een bustopologie waarbij de uiteinden met elkaar zijn verbonden. Zie ook...topologie
     title: Ringtopologie
-  - description: Rest In Peace, Afkorting voor 'rust in vrede', wordt vooral gebruikt bij het chatten. Zie ook...Chatten
+  - description: Rest In Peace, Afkorting voor &#39;rust in vrede&#39;, wordt vooral gebruikt bij het chatten. Zie ook...Chatten
     title: RIP
   - description: Raster image processor, Een chip in de printer die de printopdracht vertaald naar een bitmap die afgedrukt kan worden. Zie ook...Bitmap
     title: RIP
@@ -5391,11 +5391,11 @@ accordion:
     title: RIP
   - description: Het verwijderen van bestanden uit een ISO-bestand zodat het kleiner wordt. Zie ook...iso-bestand
     title: Rippen
-  - description: het omzetten van audio-cd's naar een computerbestand, zoals WAV's of MP3's en is een synoniem van DAE, Digital Audio Extraction
+  - description: het omzetten van audio-cd&#39;s naar een computerbestand, zoals WAV&#39;s of MP3&#39;s en is een synoniem van DAE, Digital Audio Extraction
     title: Rippen
-  - description: het omzetten van audio-cd's naar een computerbestand, zoals WAV's of MP3's. Is een synoniem van Rippen
+  - description: het omzetten van audio-cd&#39;s naar een computerbestand, zoals WAV&#39;s of MP3&#39;s. Is een synoniem van Rippen
     title: DAE
-  - description: het omzetten van audio-cd's naar een computerbestand, zoals WAV's of MP3's. Is een synoniem van Rippen
+  - description: het omzetten van audio-cd&#39;s naar een computerbestand, zoals WAV&#39;s of MP3&#39;s. Is een synoniem van Rippen
     title: Digital Audio Extraction
   - description: Reduced Instruction Set Computer, Een benaming voor simpele instructiesets. RISC-processoren voeren opdrachten in kleine stapjes uit, CISC-processors kunnen veel meer tegelijk doen. RISC is echter sneller per instructie. Uiteindelijk ontlopen RISC en CISC elkaar niet veel in snelheid, maar RISC is zuiniger en goedkoper te ontwerpen. Zie ook...CISC, instructieset
     title: RISC
@@ -5407,7 +5407,7 @@ accordion:
     title: RJ-45
   - description: Reflective Liquid Crystal Display, Een LCD-display die achtergrondlicht gebruikt in plaats van lampen achter de display
     title: RLCD
-  - description: Real-Life COnference, Afkorting voor 'conferentie in de echte wereld', wordt vooral gebruikt bij het chatten. Zie ook...Chatten
+  - description: Real-Life COnference, Afkorting voor &#39;conferentie in de echte wereld&#39;, wordt vooral gebruikt bij het chatten. Zie ook...Chatten
     title: RLCO
   - description: Right to Left Embedding, een stuurteken van Unicode. Zie ook...unicode, Stuurteken
     title: RLE
@@ -5417,11 +5417,11 @@ accordion:
     title: RLO
   - description: videoformaat voor internet van Realmedia, zeer goede compressie en lage kwaliteit
     title: RM
-  - description: Remote Method Invocation, maakt het voor de programmeur mogelijk om gedistribueerde, Java-gebaseerde programma's te maken waar de methodes van Java objecten op afstand in kunnen worden verwerkt
+  - description: Remote Method Invocation, maakt het voor de programmeur mogelijk om gedistribueerde, Java-gebaseerde programma&#39;s te maken waar de methodes van Java objecten op afstand in kunnen worden verwerkt
     title: RMI
   - description: Resource Management System, besturingssysteem van Datapoint. Zie ook...Besturingssysteem
     title: RMS
-  - description: Ring, No Answer, Afkorting voor 'telefoon gaat over, geen antwoord', wordt vooral gebruikt bij het chatten. Zie ook...Chatten
+  - description: Ring, No Answer, Afkorting voor &#39;telefoon gaat over, geen antwoord&#39;, wordt vooral gebruikt bij het chatten. Zie ook...Chatten
     title: RNA
   - description: Zorgt ervoor dat u bij een draadloos netwerk van het ene accesspoint naar het andere kunt gaan zonder opnieuw in te loggen of Mobiel bellen over een ander netwerk dan dat van je provider, vaak bellen vanuit het buitenland
     title: Roaming
@@ -5429,13 +5429,13 @@ accordion:
     title: rofl
   - description: Rolling on the floor laughing, afkorting waarmee je zegt dat je iets heel grappig vind, wordt veel gebruikt bij het chatten. Is een synoniem van rofl
     title: ROTFL
-  - description: Rolling On The Floor Laughing My Ass Off, Afkorting voor 'over de vloer rollend de kont eraf lachend', wordt vooral gebruikt bij het chatten. Zie ook...Chatten
+  - description: Rolling On The Floor Laughing My Ass Off, Afkorting voor &#39;over de vloer rollend de kont eraf lachend&#39;, wordt vooral gebruikt bij het chatten. Zie ook...Chatten
     title: ROFLMAO
-  - description: Rolling On The Floor Laughing My Ass Off And Scaring The Cat, Afkorting voor 'zo erg over de vloer rollend de kont eraf lachend dat de kat ervan schrikt', wordt vooral gebruikt bij het chatten. Zie ook...Chatten
+  - description: Rolling On The Floor Laughing My Ass Off And Scaring The Cat, Afkorting voor &#39;zo erg over de vloer rollend de kont eraf lachend dat de kat ervan schrikt&#39;, wordt vooral gebruikt bij het chatten. Zie ook...Chatten
     title: ROFLMAOASTC
-  - description: Rolling On the Floor Laughing Pissing In My Pants, Afkorting voor 'zo erg over de vloer rollend van het lachen dat ik in mijn broek plas', wordt vooral gebruikt bij het chatten. Zie ook...Chatten
+  - description: Rolling On the Floor Laughing Pissing In My Pants, Afkorting voor &#39;zo erg over de vloer rollend van het lachen dat ik in mijn broek plas&#39;, wordt vooral gebruikt bij het chatten. Zie ook...Chatten
     title: ROFLPIMP
-  - description: Rolling On the Floor Laughing, With My Feet Up In The Air, Afkorting voor 'over de vloer rollend van het lachen met mijn voeten in de lucht', wordt vooral gebruikt bij het chatten. Zie ook...Chatten
+  - description: Rolling On the Floor Laughing, With My Feet Up In The Air, Afkorting voor &#39;over de vloer rollend van het lachen met mijn voeten in de lucht&#39;, wordt vooral gebruikt bij het chatten. Zie ook...Chatten
     title: ROFLWMFUITA
   - description: Read Only Memory, geheugen waarvan alleen gelezen kan worden. Zie ook...CD-ROM, RAM
     title: ROM
@@ -5445,9 +5445,9 @@ accordion:
     title: Rootkit
   - description: Netwerkverkeer dat geroute (doorgestuurd) kan worden. Routeable protocollen sturen een hardwareadres en een netwerkadres mee, een niet-routable alleen een hardwareadres, zodat de ontvanger aan dezelfde lijn moet zitten om het pakket te kunnen ontvangen. Zie ook...routing, hardwareadres
     title: Routable
-  - description: Het doorsturen van gegevens naar een specifiek netwerk op basis van een (IP-)adres door een router. Zo'n router is een apparaat dat aan verschillende netwerken gekoppeld zit en op basis van de inhoud van een pakket bepaald naar welk aangesloten netwerk het heel moet. Vaak heeft een router ook een firewall, die bepaald of een pakket wel doorgestuurd mag worden of 'illegaal' is en is een synoniem van Routeren
+  - description: Het doorsturen van gegevens naar een specifiek netwerk op basis van een (IP-)adres door een router. Zo&#39;n router is een apparaat dat aan verschillende netwerken gekoppeld zit en op basis van de inhoud van een pakket bepaald naar welk aangesloten netwerk het heel moet. Vaak heeft een router ook een firewall, die bepaald of een pakket wel doorgestuurd mag worden of &#39;illegaal&#39; is en is een synoniem van Routeren
     title: Routen
-  - description: Het doorsturen van gegevens naar een specifiek netwerk op basis van een (IP-)adres door een router. Zo'n router is een apparaat dat aan verschillende netwerken gekoppeld zit en op basis van de inhoud van een pakket bepaald naar welk aangesloten netwerk het heel moet. Vaak heeft een router ook een firewall, die bepaald of een pakket wel doorgestuurd mag worden of 'illegaal' is. Is een synoniem van Routen
+  - description: Het doorsturen van gegevens naar een specifiek netwerk op basis van een (IP-)adres door een router. Zo&#39;n router is een apparaat dat aan verschillende netwerken gekoppeld zit en op basis van de inhoud van een pakket bepaald naar welk aangesloten netwerk het heel moet. Vaak heeft een router ook een firewall, die bepaald of een pakket wel doorgestuurd mag worden of &#39;illegaal&#39; is. Is een synoniem van Routen
     title: Routeren
   - description: Apparaat tussen twee of meer netwerken, maakt het mogelijk gegevens met andere netwerk uit te wisselen, te routen. Zie ook...Routen
     title: Router
@@ -5457,13 +5457,13 @@ accordion:
     title: ROW
   - description: Remote Procedure Call. Het starten van een programma dat op een andere computer staat en ook op de andere computer wordt uitgevoerd of op afstand een commando aan een computer geven, via internet of een lokaal netwerk, basis van Distributed Processing
     title: RPC
-  - description: Het regio-gebaseerde kopieërbeveiligingssysteem bij DVD's, opgevolgd door RPC2. Zie ook...RPC2
+  - description: Het regio-gebaseerde kopieërbeveiligingssysteem bij DVD&#39;s, opgevolgd door RPC2. Zie ook...RPC2
     title: RPC1
-  - description: Het regio-gebaseerde kopieërbeveiligingssysteem bij DVD's, opvolger van RPC1. Zie ook...RPC1
+  - description: Het regio-gebaseerde kopieërbeveiligingssysteem bij DVD&#39;s, opvolger van RPC1. Zie ook...RPC1
     title: RPC2
   - description: Role Playing Game, een spel waarbij de speler een karakter of een groep karakters moet trainen (sterker maken) via gevechten om de tegenstanders te kunnen verslaan
     title: RPG
-  - description: Redhat Package Manager, een systeem om programma's mee te installeren. Wordt vaak gebruikt in Linux. Zie ook...Linux
+  - description: Redhat Package Manager, een systeem om programma&#39;s mee te installeren. Wordt vaak gebruikt in Linux. Zie ook...Linux
     title: RPM
   - description: Rounds per minute, Toeren per minuut, het aantal omwentelingen van een harde schijf. Hoe hoger, hoe sneller er data uitgelezen kan worden en is een synoniem van Toeren per minuut, tpm
     title: rpm
@@ -5483,13 +5483,13 @@ accordion:
     title: RSA
   - description: Repetive Strain Injury, verwonding als gevolg van overbelasting door herhaalde bewegingen
     title: RSI
-  - description: Real Soon Now, Afkorting voor 'nu heel binnenkort (meestal juist andersom bedoelt)', wordt vooral gebruikt bij het chatten. Zie ook...Chatten
+  - description: Real Soon Now, Afkorting voor &#39;nu heel binnenkort (meestal juist andersom bedoelt)&#39;, wordt vooral gebruikt bij het chatten. Zie ook...Chatten
     title: RSN
-  - description: Really Simple Syndication, Een document op het internet dat (meestal) nieuwsberichten bevat. Je moet een speciale RSS-lezer hebben om RSS te kunnen gebruiken. Het systeem werkt als een soort e-mail nieuwsbrief, bij een nieuwtje komt die binnen, maar alle berichten blijven op de server staan. Een gebruiker abonneert zich via zijn RSS-lezer op meerdere 'feeds' en hoeft zo niet naar alle webpagina's om de 'krantenkoppen' te scannen. en is een synoniem van Nieuwsstroom, Feed
+  - description: Really Simple Syndication, Een document op het internet dat (meestal) nieuwsberichten bevat. Je moet een speciale RSS-lezer hebben om RSS te kunnen gebruiken. Het systeem werkt als een soort e-mail nieuwsbrief, bij een nieuwtje komt die binnen, maar alle berichten blijven op de server staan. Een gebruiker abonneert zich via zijn RSS-lezer op meerdere &#39;feeds&#39; en hoeft zo niet naar alle webpagina&#39;s om de &#39;krantenkoppen&#39; te scannen. en is een synoniem van Nieuwsstroom, Feed
     title: RSS
-  - description: Really Simple Syndication, Een document op het internet dat (meestal) nieuwsberichten bevat. Je moet een speciale RSS-lezer hebben om RSS te kunnen gebruiken. Het systeem werkt als een soort e-mail nieuwsbrief, bij een nieuwtje komt die binnen, maar alle berichten blijven op de server staan. Een gebruiker abonneert zich via zijn RSS-lezer op meerdere 'feeds' en hoeft zo niet naar alle webpagina's om de 'krantenkoppen' te scannen.. Is een synoniem van RSS
+  - description: Really Simple Syndication, Een document op het internet dat (meestal) nieuwsberichten bevat. Je moet een speciale RSS-lezer hebben om RSS te kunnen gebruiken. Het systeem werkt als een soort e-mail nieuwsbrief, bij een nieuwtje komt die binnen, maar alle berichten blijven op de server staan. Een gebruiker abonneert zich via zijn RSS-lezer op meerdere &#39;feeds&#39; en hoeft zo niet naar alle webpagina&#39;s om de &#39;krantenkoppen&#39; te scannen.. Is een synoniem van RSS
     title: Nieuwsstroom
-  - description: Really Simple Syndication, Een document op het internet dat (meestal) nieuwsberichten bevat. Je moet een speciale RSS-lezer hebben om RSS te kunnen gebruiken. Het systeem werkt als een soort e-mail nieuwsbrief, bij een nieuwtje komt die binnen, maar alle berichten blijven op de server staan. Een gebruiker abonneert zich via zijn RSS-lezer op meerdere 'feeds' en hoeft zo niet naar alle webpagina's om de 'krantenkoppen' te scannen.. Is een synoniem van RSS
+  - description: Really Simple Syndication, Een document op het internet dat (meestal) nieuwsberichten bevat. Je moet een speciale RSS-lezer hebben om RSS te kunnen gebruiken. Het systeem werkt als een soort e-mail nieuwsbrief, bij een nieuwtje komt die binnen, maar alle berichten blijven op de server staan. Een gebruiker abonneert zich via zijn RSS-lezer op meerdere &#39;feeds&#39; en hoeft zo niet naar alle webpagina&#39;s om de &#39;krantenkoppen&#39; te scannen.. Is een synoniem van RSS
     title: Feed
   - description: Resource Reservation Protocol, een protocol voor het reserveren van bandbreedte op een netwerk
     title: RSVP
@@ -5501,9 +5501,9 @@ accordion:
     title: RTC
   - description: Rich Text Format, opslagformaat van Microsoft voor tekstdocumenten, platform-onafhankelijk
     title: RTF
-  - description: Read The FAQ, Afkorting voor 'lees de FAQ', wordt vooral gebruikt bij het chatten. Zie ook...Chatten, FAQ
+  - description: Read The FAQ, Afkorting voor &#39;lees de FAQ&#39;, wordt vooral gebruikt bij het chatten. Zie ook...Chatten, FAQ
     title: RTFAQ
-  - description: Read The Friggin' Manual, Afkorting voor 'lees die verdraaide handleiding!', wordt vooral gebruikt bij het chatten. Zie ook...Chatten
+  - description: Read The Friggin&#39; Manual, Afkorting voor &#39;lees die verdraaide handleiding!&#39;, wordt vooral gebruikt bij het chatten. Zie ook...Chatten
     title: RTFM
   - description: realtime microkernel, een kernel die verplaatsbaar is tussen computers
     title: RTMK
@@ -5521,9 +5521,9 @@ accordion:
     title: Runlevel
   - description: Fout (bug) in een computerprogramma waarbij de gebruiker een waarde invoert waar het programma niet voor gemaakt is, bijvoorbeeld als de gebruiker een negatieve leeftijd invult. Zie ook...Bug
     title: Runtime fout
-  - description: Are You OK, Afkorting voor 'voel je je wel goed?', wordt vooral gebruikt bij het chatten. Zie ook...Chatten
+  - description: Are You OK, Afkorting voor &#39;voel je je wel goed?&#39;, wordt vooral gebruikt bij het chatten. Zie ook...Chatten
     title: RUOK
-  - description: Smile, Afkorting voor 'glimlach', wordt vooral gebruikt bij het chatten. Zie ook...Chatten
+  - description: Smile, Afkorting voor &#39;glimlach&#39;, wordt vooral gebruikt bij het chatten. Zie ook...Chatten
     title: S
   - description: Seperate video, Een aansluiting voor analoge videosignalen. Hierbij worden, in tegenstelling tot composiet, de helderheid en de kleur over aparte kanalen gestuurd
     title: S-Video
@@ -5533,9 +5533,9 @@ accordion:
     title: S/PDIF
   - description: Sony/Philips Digital Interconnect Format, aansluiting om geluidsinformatie digitaal te kunnen transporteren. Is een synoniem van S/PDIF. Zie ook...http...//nl.wikipedia.org/wiki/Sony/Philips_Digital_Interface
     title: AES/EBU
-  - description: Software-as-a-service, Het aanbieden van software, opslagruimte en rekencapaciteit online. Hierbij worden de software en de gegevens op het internet opgeslagen en hoef je alleen maar een internetbrowser of een speciaal programma te hebben om deze software te kunnen gebruiken vanaf een willekeurige computer die verbonden is met het internet. Het gebruiken van Software-as-a-service over het internet waarbij de data ook online ('in de cloud') wordt opgeslagen wordt ook wel Cloud Computing genoemd. en is een synoniem van Cloud Computing
+  - description: Software-as-a-service, Het aanbieden van software, opslagruimte en rekencapaciteit online. Hierbij worden de software en de gegevens op het internet opgeslagen en hoef je alleen maar een internetbrowser of een speciaal programma te hebben om deze software te kunnen gebruiken vanaf een willekeurige computer die verbonden is met het internet. Het gebruiken van Software-as-a-service over het internet waarbij de data ook online (&#39;in de cloud&#39;) wordt opgeslagen wordt ook wel Cloud Computing genoemd. en is een synoniem van Cloud Computing
     title: SAAS
-  - description: Software-as-a-service, Het aanbieden van software, opslagruimte en rekencapaciteit online. Hierbij worden de software en de gegevens op het internet opgeslagen en hoef je alleen maar een internetbrowser of een speciaal programma te hebben om deze software te kunnen gebruiken vanaf een willekeurige computer die verbonden is met het internet. Het gebruiken van Software-as-a-service over het internet waarbij de data ook online ('in de cloud') wordt opgeslagen wordt ook wel Cloud Computing genoemd.. Is een synoniem van SAAS
+  - description: Software-as-a-service, Het aanbieden van software, opslagruimte en rekencapaciteit online. Hierbij worden de software en de gegevens op het internet opgeslagen en hoef je alleen maar een internetbrowser of een speciaal programma te hebben om deze software te kunnen gebruiken vanaf een willekeurige computer die verbonden is met het internet. Het gebruiken van Software-as-a-service over het internet waarbij de data ook online (&#39;in de cloud&#39;) wordt opgeslagen wordt ook wel Cloud Computing genoemd.. Is een synoniem van SAAS
     title: Cloud Computing
   - description: Een CD die gewoon met een CD-speler is af te spelen, maar nog een 2e laag heeft met een signaal van een hogere kwaliteit. Deze is alleen te lezen met SACD-spelers
     title: SACD
@@ -5559,13 +5559,13 @@ accordion:
     title: Satan
   - description: Simple API for XML, een API om XML bestanden te parsen. Is een tegenhanger van DOM. Zie ook...DOM, Parser, XML, API
     title: SAX
-  - description: Smiles Back, Afkorting voor 'terug glimlachen', wordt vooral gebruikt bij het chatten. Zie ook...Chatten
+  - description: Smiles Back, Afkorting voor &#39;terug glimlachen&#39;, wordt vooral gebruikt bij het chatten. Zie ook...Chatten
     title: SB
   - description: Een apparaat waarmee papieren documenten kunnen worden gedigitaliseerd, in veel opzichten het omgekeerde van een printer
     title: Scanner
-  - description: Syndicat des Constructeurs d'Appareils Radiorécepteurs et Téléviseurs, Een aansluiting waarmee analoge geluid- en videosignalen kunnen worden verzonden en is een synoniem van Scartkabel. Zie ook...Analoog
+  - description: Syndicat des Constructeurs d&#39;Appareils Radiorécepteurs et Téléviseurs, Een aansluiting waarmee analoge geluid- en videosignalen kunnen worden verzonden en is een synoniem van Scartkabel. Zie ook...Analoog
     title: SCART
-  - description: Syndicat des Constructeurs d'Appareils Radiorécepteurs et Téléviseurs, Een aansluiting waarmee analoge geluid- en videosignalen kunnen worden verzonden. Is een synoniem van SCART. Zie ook...Analoog
+  - description: Syndicat des Constructeurs d&#39;Appareils Radiorécepteurs et Téléviseurs, Een aansluiting waarmee analoge geluid- en videosignalen kunnen worden verzonden. Is een synoniem van SCART. Zie ook...Analoog
     title: Scartkabel
   - description: een onderdeel van een apparaat of systeem. Zie ook...systeem
     title: Schakeling
@@ -5665,7 +5665,7 @@ accordion:
     title: Netwerkbron
   - description: Een soort dienst die geleverd wordt, meestal door een server, bijvoorbeeld het delen van een printer en bestanden. Op een netwerk wordt dit ook wel een netwerkbron genoemd. Is een synoniem van Service
     title: Dienst
-  - description: Een patch voor Windows waarmee allerlei fouten worden opgelost en soms nieuwe functies/programma's worden toegevoegd
+  - description: Een patch voor Windows waarmee allerlei fouten worden opgelost en soms nieuwe functies/programma&#39;s worden toegevoegd
     title: Servicepack
   - description: De tijd of gebeurtenissen tussen het in- en uitloggen op een systeem. Zie ook...Inloggen, Uitloggen
     title: Sessie
@@ -5685,7 +5685,7 @@ accordion:
     title: Soundfont
   - description: System File Checker, een programma in Windows dat de belangrijke systeembestanden controleert
     title: SFC
-  - description: Stupid Four Letter Acronym, Afkorting voor 'stom vier-letter acroniem', wordt vooral gebruikt bij het chatten. Zie ook...Chatten
+  - description: Stupid Four Letter Acronym, Afkorting voor &#39;stom vier-letter acroniem&#39;, wordt vooral gebruikt bij het chatten. Zie ook...Chatten
     title: SFLA
   - description: System Fault Tolerance, een systeem van Novell dat lijkt op RAID 1. Zie ook...RAID
     title: SFT
@@ -5725,25 +5725,25 @@ accordion:
     title: Shareware
   - description: Single-pair High-speed Digital Subscriber Line, een snelle internetverbinding over 2 DSL lijnen. Zie ook...DSL
     title: SHDSL
-  - description: Een interface voor de gebruiker met het systeem waarmee programma's kunnen worden gestart en het bestandssysteem kan worden doorgebladerd. Zie ook...Interface
+  - description: Een interface voor de gebruiker met het systeem waarmee programma&#39;s kunnen worden gestart en het bestandssysteem kan worden doorgebladerd. Zie ook...Interface
     title: Shell
   - description: Programma dat data op de schijf voor altijd vernietigt, zodat ze niet kunnen worden teruggehaalt
     title: Shredder
   - description: Smart HTML, scripttaal, voegt extra mogelijkheden toe aan HTML. Wordt nauwelijks gebruikt
     title: SHTML
-  - description: Secure Hypertext Transfer Protocol, protocol voor de beveiliging van webpagina's, net zoals HTTPS. Is nooit echt populair geworden. Zie ook...SSL, HTTPS
+  - description: Secure Hypertext Transfer Protocol, protocol voor de beveiliging van webpagina&#39;s, net zoals HTTPS. Is nooit echt populair geworden. Zie ook...SSL, HTTPS
     title: SHTTP
   - description: Organisatie in Nederland die de registratie van .nl domeinen regelt, als je een .nl website wilt hebben moet je een domeinnaam kopen bij een aangesloten hoster
     title: SIDN
-  - description: Sorry, I Don't Understand, Afkorting voor 'sorry, maar ik begrijp het niet', wordt vooral gebruikt bij het chatten. Zie ook...Chatten
+  - description: Sorry, I Don&#39;t Understand, Afkorting voor &#39;sorry, maar ik begrijp het niet&#39;, wordt vooral gebruikt bij het chatten. Zie ook...Chatten
     title: SIDU
-  - description: Special Interest Group, Afkorting voor 'discussiegroep voor een bepaald onderwerp', wordt vooral gebruikt bij het chatten. Zie ook...Chatten
+  - description: Special Interest Group, Afkorting voor &#39;discussiegroep voor een bepaald onderwerp&#39;, wordt vooral gebruikt bij het chatten. Zie ook...Chatten
     title: SIG
   - description: Het signaal dat het commando kill stuurt om zijn werk te doen. Dit signaal stopt het programma waarnaar het gestuurt is direct. Zie ook...Kill
     title: SIGKILL
   - description: Signal Terminate, Een signaal in Linux waarmee een programma kan worden gezegd dat het moet afsluiten. Het programma krijgt dan nog even de tijd om zichzelf af te sluiten
     title: SIGTERM
-  - description: Een systeem van Microsoft voor multimedia programma's op websites, concurrent van Adobe's Flash. Zie ook...Flash
+  - description: Een systeem van Microsoft voor multimedia programma&#39;s op websites, concurrent van Adobe&#39;s Flash. Zie ook...Flash
     title: Silverlight
   - description: Subscriber Identity Module, kaartje voor in een mobiele telefoon waarop gegevens van de gebruiker staan
     title: SIM
@@ -5767,7 +5767,7 @@ accordion:
     title: SIP
   - description: StuffIt archief, formaat voor gecomprimeerde bestanden van Apple. Zie ook...Compressie
     title: SIT
-  - description: Still In The Dark, Afkorting voor 'zich stilhoudend in het donker', wordt vooral gebruikt bij het chatten. Zie ook...Chatten
+  - description: Still In The Dark, Afkorting voor &#39;zich stilhoudend in het donker&#39;, wordt vooral gebruikt bij het chatten. Zie ook...Chatten
     title: SITD
   - description: bestand waarmee het uiterlijk van een programma kan worden aangepast
     title: skin
@@ -5775,11 +5775,11 @@ accordion:
     title: Skype
   - description: reclame op het internet zoals een banner, alleen dan verticaal en groter... 120 bij 600 pixels
     title: Skyscraper
-  - description: Section Leader, Afkorting voor 'leider van een berichtensectie op een forum', wordt vooral gebruikt bij het chatten. Zie ook...Chatten
+  - description: Section Leader, Afkorting voor &#39;leider van een berichtensectie op een forum&#39;, wordt vooral gebruikt bij het chatten. Zie ook...Chatten
     title: SL
-  - description: Stand van een computer waarbij de inhoud van het geheugen naar de harde schijf wordt geschreven, zodat het apparaat helemaal uitkan, maar de volgende keer snel opstart en precies dezelfde programma's aanstaan en is een synoniem van Hibernate
+  - description: Stand van een computer waarbij de inhoud van het geheugen naar de harde schijf wordt geschreven, zodat het apparaat helemaal uitkan, maar de volgende keer snel opstart en precies dezelfde programma&#39;s aanstaan en is een synoniem van Hibernate
     title: Slaapstand
-  - description: Stand van een computer waarbij de inhoud van het geheugen naar de harde schijf wordt geschreven, zodat het apparaat helemaal uitkan, maar de volgende keer snel opstart en precies dezelfde programma's aanstaan. Is een synoniem van Slaapstand
+  - description: Stand van een computer waarbij de inhoud van het geheugen naar de harde schijf wordt geschreven, zodat het apparaat helemaal uitkan, maar de volgende keer snel opstart en precies dezelfde programma&#39;s aanstaan. Is een synoniem van Slaapstand
     title: Hibernate
   - description: een opdracht in programmacode die speciale eigenschappen heeft, en vaak zeer veel gebruikt wordt. Hieronder vallen bijvoorbeeld voorwaarde- en lusconstructies en manieren om variabelen aan te maken of te verwijderen.. Zie ook...code
     title: Sleutelwoord
@@ -5795,7 +5795,7 @@ accordion:
     title: SMART
   - description: flashkaart van Toshiba. Zie ook...Flashkaart
     title: SmartMediaCard
-  - description: Een mobiele telefoon met veel capaciteiten van een PC, zoals een agenda, e-mail, internet, tekstverwerker en dergelijke. Eigenlijk een telefoon met de mogelijkheden van Handheld of PDA, hoewel huidige smartphones veel meer functies hebben dan waar PDA's vroeger voor gemaakt werden. Zie ook...Handheld, PDA
+  - description: Een mobiele telefoon met veel capaciteiten van een PC, zoals een agenda, e-mail, internet, tekstverwerker en dergelijke. Eigenlijk een telefoon met de mogelijkheden van Handheld of PDA, hoewel huidige smartphones veel meer functies hebben dan waar PDA&#39;s vroeger voor gemaakt werden. Zie ook...Handheld, PDA
     title: Smartphone
   - description: Server Message Block, Het systeem dat door Windows gebruikt wordt voor het delen van bestanden en printers op een LAN. Zie ook...CIFS
     title: SMB
@@ -5807,11 +5807,11 @@ accordion:
     title: SMIL
   - description: Siemens Corporate Research Multimedia Mail System, systeem om bijlages aan e-mail te koppelen
     title: SMMS
-  - description: Serious Mode Off, Afkorting voor 'serieuze mode uit', geeft aan dat de spreker nu niet serieus gaat spreken, wordt vooral gebruikt bij het chatten. Zie ook...Chatten
+  - description: Serious Mode Off, Afkorting voor &#39;serieuze mode uit&#39;, geeft aan dat de spreker nu niet serieus gaat spreken, wordt vooral gebruikt bij het chatten. Zie ook...Chatten
     title: SMOff
-  - description: Serious Mode On, Afkorting voor 'serieuze modus aan', geeft aan dat de spreker nu serieus gaat spreken, wordt vooral gebruikt bij het chatten. Zie ook...Chatten
+  - description: Serious Mode On, Afkorting voor &#39;serieuze modus aan&#39;, geeft aan dat de spreker nu serieus gaat spreken, wordt vooral gebruikt bij het chatten. Zie ook...Chatten
     title: SMOn
-  - description: Small Matter Of Programming, Afkorting voor 'even programmeren (zo klaar)', wordt vooral gebruikt bij het chatten. Zie ook...Chatten
+  - description: Small Matter Of Programming, Afkorting voor &#39;even programmeren (zo klaar)&#39;, wordt vooral gebruikt bij het chatten. Zie ook...Chatten
     title: SMOP
   - description: symmetric multiprocessing, computer met meer processoren die gelijktijdig taken uitvoeren
     title: SMP
@@ -5819,51 +5819,51 @@ accordion:
     title: SMS
   - description: Single Mail Transport Protocol, standaardmanier om e-mail te verzenden over internet
     title: SMTP
-  - description: Situation Normal, All F..ked Up, Afkorting voor 'een grote puinhoop', wordt vooral gebruikt bij het chatten. Zie ook...Chatten
+  - description: Situation Normal, All F..ked Up, Afkorting voor &#39;een grote puinhoop&#39;, wordt vooral gebruikt bij het chatten. Zie ook...Chatten
     title: SNAFU
   - description: brievenpost
     title: Snailmail
   - description: Simple Network Management Protocol, een protocol voor de toepassingslaag. Zie ook...Toepassingslaag, Protocol
     title: SNMP
-  - description: Significant Other, Afkorting voor 'geliefde', wordt vooral gebruikt bij het chatten. Zie ook...Chatten
+  - description: Significant Other, Afkorting voor &#39;geliefde&#39;, wordt vooral gebruikt bij het chatten. Zie ook...Chatten
     title: SO
   - description: Small Outline Dual In-Line Memory Module, een geheugenbank met zowel voor als achter contacten, 72 pins, ongeveer de helft van de grootte van een DIMM. Zie ook...geheugenbank, dimm
     title: SO-DIMM
   - description: Simple Object Access Protocol, protocol om diensten aan te vragen op het internet via XML. Zie ook...Protocol, XML
     title: SOAP
-  - description: Een term voor websites en diensten waarop de gebruiker voor een grote groep geïnteresseerden (meestal vrienden) berichten kan achter laten. Deze geïnteresseerden kunnen zich zelf opgeven om een gebruiker 'te volgen', deze krijgen dan bericht zodra de gebruiker iets geplaatst heeft. Vaak gebeurd dit in combinatie met een profiel. Zie ook...Profiel, Profielsite
+  - description: Een term voor websites en diensten waarop de gebruiker voor een grote groep geïnteresseerden (meestal vrienden) berichten kan achter laten. Deze geïnteresseerden kunnen zich zelf opgeven om een gebruiker &#39;te volgen&#39;, deze krijgen dan bericht zodra de gebruiker iets geplaatst heeft. Vaak gebeurd dit in combinatie met een profiel. Zie ook...Profiel, Profielsite
     title: Social media
   - description: Een aansluiting op het moederbord waarmee een processor met het moederbord wordt verbonden. Zie ook...Processor
     title: Socket
-  - description: Een virtuele 'aansluiting' waaraan programma's in een computer zich kunnen koppelen. Op deze manier kunnen programma's met elkaar communiceren, en informatie met elkaar uitwisselen
+  - description: Een virtuele &#39;aansluiting&#39; waaraan programma&#39;s in een computer zich kunnen koppelen. Op deze manier kunnen programma&#39;s met elkaar communiceren, en informatie met elkaar uitwisselen
     title: Socket
   - description: Manier van verbinden over een netwerk. Zie ook...netwerk
     title: Socket
   - description: Protocol om de service van een firewall te gebruiken om veilig te kunnen communiceren. Zie ook...SSL
     title: Socks
-  - description: Some Other Dude Did It, Afkorting voor 'iemand anders deed het', wordt vooral gebruikt bij het chatten. Zie ook...Chatten
+  - description: Some Other Dude Did It, Afkorting voor &#39;iemand anders deed het&#39;, wordt vooral gebruikt bij het chatten. Zie ook...Chatten
     title: SODDI
   - description: Het automatisch herstarten van de computer, in tegenstelling tot een hard reboot en is een synoniem van Soft Reset. Zie ook...Hard Reboot
     title: Soft Reboot
   - description: Het automatisch herstarten van de computer, in tegenstelling tot een hard reboot. Is een synoniem van Soft Reboot. Zie ook...Hard Reboot
     title: Soft Reset
-  - description: programma's op een computer
+  - description: programma&#39;s op een computer
     title: Software
   - description: Small office/Home office, kleine zakelijke computergebruikers
     title: SoHo
   - description: Silicon on Insulator, Een aanduiding dat een chip gemaakt is op een 2 lagen silicium met een laag isolator ertussen, in plaats van 1 laag silicium. Deze techniek werd in 1998 geintroduceert en maakte het mogelijk processoren nog kleiner te maken
     title: SOI
-  - description: Shit, Outta Luck, Afkorting voor 'shit, wat een pech', wordt vooral gebruikt bij het chatten. Zie ook...Chatten
+  - description: Shit, Outta Luck, Afkorting voor &#39;shit, wat een pech&#39;, wordt vooral gebruikt bij het chatten. Zie ook...Chatten
     title: SOL
   - description: besturingssysteem van Sun gebaseerd op UNIX. Zie ook...Besturingssysteem, UNIX
     title: Solaris
   - description: System Object Model, programmeertaal van IBM om verschillende objecten met elkaar te laten communiceren en eigenschappen van elkaar te overerven
     title: SOM
-  - description: Synchronous optical networking, een methode om met LED's of lasers om informatie over een glasvezel lijn te sturen en is een synoniem van SDH, Synchronous Digital Hierarchy
+  - description: Synchronous optical networking, een methode om met LED&#39;s of lasers om informatie over een glasvezel lijn te sturen en is een synoniem van SDH, Synchronous Digital Hierarchy
     title: SONET
-  - description: Synchronous optical networking, een methode om met LED's of lasers om informatie over een glasvezel lijn te sturen. Is een synoniem van SONET
+  - description: Synchronous optical networking, een methode om met LED&#39;s of lasers om informatie over een glasvezel lijn te sturen. Is een synoniem van SONET
     title: SDH
-  - description: Synchronous optical networking, een methode om met LED's of lasers om informatie over een glasvezel lijn te sturen. Is een synoniem van SONET
+  - description: Synchronous optical networking, een methode om met LED&#39;s of lasers om informatie over een glasvezel lijn te sturen. Is een synoniem van SONET
     title: Synchronous Digital Hierarchy
   - description: Een serie geluidskaarten uit het DOS-tijdperk, die uiteindelijk de de facto standaard werd. Zie ook...De facto
     title: Soundblaster
@@ -5871,7 +5871,7 @@ accordion:
     title: Southbridge
   - description: Stack Pointer, pointer die bijhoud waar de processor momenteel in een stack bezig is. Zie ook...stack
     title: SP
-  - description: Sending People Annoying Messages, Afkorting voor 'mensen vervelende berichten sturen', wordt vooral gebruikt bij het chatten. Zie ook...Chatten
+  - description: Sending People Annoying Messages, Afkorting voor &#39;mensen vervelende berichten sturen&#39;, wordt vooral gebruikt bij het chatten. Zie ook...Chatten
     title: SPAM
   - description: ongewenste e-mail, vaak reclame en is een synoniem van junkmail
     title: Spam
@@ -5955,7 +5955,7 @@ accordion:
     title: Stack
   - description: modus van een processor om te kunnen werken met 16-bits besturingssystemen
     title: Standard mode
-  - description: Een stand waarbij het apparaat niet uitstaat, maar ook niets doet. Meestal worden in de standby-stand de onderdelen 'warm' gehouden zodat het opstarten sneller gaat
+  - description: Een stand waarbij het apparaat niet uitstaat, maar ook niets doet. Meestal worden in de standby-stand de onderdelen &#39;warm&#39; gehouden zodat het opstarten sneller gaat
     title: Standby
   - description: Een bepaalde vaste programmeerconstructie die vaak wordt gebruikt en een afwijkende manier van schrijven of speciale eigenschappen heeft. (bijvoorbeeld een functie die kan worden aangeroepen zonder het gebruik van haakjes)
     title: Statement
@@ -5965,9 +5965,9 @@ accordion:
     title: Stereo
   - description: Een netwerkstructuur in de vorm van een ster... de onderdelen zitten allemaal op 1 centraal punt aan gesloten. Je kunt ook meerdere van deze stertopologieen als stertopologie verbinden... je sluit de centrale punten van de sterren aan op hetzelfde centrale punt aan. Zie ook...topologie
     title: Stertopologie
-  - description: Shut The Fuck Up, Afkorting voor 'hou je kop', wordt vooral gebruikt bij het chatten. Zie ook...Chatten
+  - description: Shut The Fuck Up, Afkorting voor &#39;hou je kop&#39;, wordt vooral gebruikt bij het chatten. Zie ook...Chatten
     title: STFU
-  - description: Het samenvoegen van verschillende foto's tot een grote (panorama) foto
+  - description: Het samenvoegen van verschillende foto&#39;s tot een grote (panorama) foto
     title: Stichen
   - description: Het koelen van een computer met vloeibare stikstof. Dit koelt erg goed, maar is ook erg duur. Zie ook...Koeling
     title: Stikstofkoeling
@@ -6011,13 +6011,13 @@ accordion:
     title: Subwoofer
   - description: Een luidspreker die wordt gebruikt voor lage tonen. Is een synoniem van Subwoofer
     title: Woofer
-  - description: Screwing Up Face In Disgust, Afkorting voor 'een van afschuw vertrekkend gezicht', wordt vooral gebruikt bij het chatten. Zie ook...Chatten
+  - description: Screwing Up Face In Disgust, Afkorting voor &#39;een van afschuw vertrekkend gezicht&#39;, wordt vooral gebruikt bij het chatten. Zie ook...Chatten
     title: SUFID
   - description: Fabrikant van soft- en hardware, bekend van Java
     title: Sun
   - description: de allersnelste computers, bedoeld voor bijvoorbeeld omvangrijke berekeningen in de ruimtevaart, medische experimenten etc. Op het moment van schrijven is de IBM Blue Gene de snelste
     title: Supercomputer
-  - description: Uitbreiding op Prefetch die in Windows Vista zit, deze techniek laadt gegevens van programma's en bestanden in bij het opstarten om zo de programma's te versnellen. Zie ook...prefetch
+  - description: Uitbreiding op Prefetch die in Windows Vista zit, deze techniek laadt gegevens van programma&#39;s en bestanden in bij het opstarten om zo de programma&#39;s te versnellen. Zie ook...prefetch
     title: Superfetch
   - description: processor die 2 of meer scalaire instructies parallel kan uitvoeren
     title: Superscalar processor
@@ -6033,9 +6033,9 @@ accordion:
     title: SVGA
   - description: Subversion, Opvolger van CVS. Zie ook...CVS
     title: SVN
-  - description: ShareWare, Afkorting voor 'shareware', wordt vooral gebruikt bij het chatten. Zie ook...Chatten
+  - description: ShareWare, Afkorting voor &#39;shareware&#39;, wordt vooral gebruikt bij het chatten. Zie ook...Chatten
     title: SW
-  - description: Sealed With A Loving Kiss, Afkorting voor 'verzegeld met een liefdeskus', wordt vooral gebruikt bij het chatten. Zie ook...Chatten
+  - description: Sealed With A Loving Kiss, Afkorting voor &#39;verzegeld met een liefdeskus&#39;, wordt vooral gebruikt bij het chatten. Zie ook...Chatten
     title: SWALK
   - description: bestand van Windows op harde schijf waarin data uit het RAM-geheugen die tijdelijk niet nodig is wordt opgeslagen. Zie ook...Swapping
     title: Swapbestand
@@ -6043,7 +6043,7 @@ accordion:
     title: Swarming
   - description: apparaat dat leest voor welke computer welk pakket bestemd is, en het alleen daarheen stuurt. Dit in tegenstelling tot een hub, die alle pakketten op op alle poorten herhaald. ten opzichte van een hub intelligenter maar duurder. Zie ook...hub
     title: Switch
-  - description: She Who Must Be Obeyed, Afkorting voor 'zij die gehoorzaamd moet worden', wordt vooral gebruikt bij het chatten. Zie ook...Chatten
+  - description: She Who Must Be Obeyed, Afkorting voor &#39;zij die gehoorzaamd moet worden&#39;, wordt vooral gebruikt bij het chatten. Zie ook...Chatten
     title: SWMBO
   - description: Super Extended Graphics Array, Een resolutie van 1280x1024
     title: SXGA
@@ -6059,13 +6059,13 @@ accordion:
     title: Synchroniseren
   - description: gelijklopend; bij synchrone datacommunicatie worden zenden en ontvanger met een kloksignaal op gelijke frequentie gehouden, sneller dan asynchroon
     title: Synchroon
-  - description: het snel achter elkaar sturen van veel SYN-commando's om een internetserver lam te leggen, vorm van een DoS-aanval. Zie ook...DoS
+  - description: het snel achter elkaar sturen van veel SYN-commando&#39;s om een internetserver lam te leggen, vorm van een DoS-aanval. Zie ook...DoS
     title: SYNflood
   - description: De manier waarop iets geschreven is
     title: Syntax
   - description: Fout in een computerprogramma die veroorzaakt wordt doordat de programmeur een typefout heeft gemaakt
     title: Syntaxfout
-  - description: SYStem OPerator, Afkorting voor 'systeembeheerder', wordt vooral gebruikt bij het chatten. Zie ook...Chatten
+  - description: SYStem OPerator, Afkorting voor &#39;systeembeheerder&#39;, wordt vooral gebruikt bij het chatten. Zie ook...Chatten
     title: SYSOP
   - description: Iets met een systematische werking, meestal een apparaat (een computer bijvoorbeeld) maar het kan ook een onderdeel van een apparaat zijn of een groep apparaten
     title: Systeem
@@ -6083,9 +6083,9 @@ accordion:
     title: FSB
   - description: Bus tussen de processor en de northbridge. Wordt ook wel Front Side Bus (FSB) genoemd, omdat sommige computers vroeger ook een Back Side Bus (BSB) hadden, welke een verbinding met het cache vormde. Is een synoniem van Systeembus. Zie ook...Bus, Northbridge, Cache
     title: Front Side Bus
-  - description: Een vak waarin icoontjes van belangrijke programma's staan vermeld. Je kunt hem meestal rechts in de taakbalk vinden. Zie ook...Taakbalk
+  - description: Een vak waarin icoontjes van belangrijke programma&#39;s staan vermeld. Je kunt hem meestal rechts in de taakbalk vinden. Zie ook...Taakbalk
     title: Systeemvak
-  - description: Een balk waarin de programma's waar je op dat moment mee werkt staan. Meestal is deze balk onderin het scherm te vinden, maar kan vaak verplaatst worden
+  - description: Een balk waarin de programma&#39;s waar je op dat moment mee werkt staan. Meestal is deze balk onderin het scherm te vinden, maar kan vaak verplaatst worden
     title: Taakbalk
   - description: Een systeem van woorden, uitdrukkingen en tekens waarmee gecommuniceerd kan worden of waarmee iets kan worden beschreven
     title: Taal
@@ -6101,15 +6101,15 @@ accordion:
     title: Tablet
   - description: Computer die geen toetsenbord of muis heeft, maar enkel werkt met een touchscreen. Om te typen heb je dan een extern toetsenbord, of een schermtoetsenbord nodig. Is een synoniem van Tablet PC
     title: TabletPC
-  - description: That's All For Now, Afkorting voor 'hier laat ik het even bij', wordt vooral gebruikt bij het chatten. Zie ook...Chatten
+  - description: That&#39;s All For Now, Afkorting voor &#39;hier laat ik het even bij&#39;, wordt vooral gebruikt bij het chatten. Zie ook...Chatten
     title: TAFN
-  - description: That’s A Fringhtening Thought, Afkorting voor 'dat is een beangstigende gedachte', wordt vooral gebruikt bij het chatten. Zie ook...Chatten
+  - description: That’s A Fringhtening Thought, Afkorting voor &#39;dat is een beangstigende gedachte&#39;, wordt vooral gebruikt bij het chatten. Zie ook...Chatten
     title: TAFT
-  - description: een label, bijvoorbeeld in een Muziekbestand. Er zijn veelvoorkomende tags, bijvoorbeeld bij muziek de titel, artiest en album van een nummer, voor foto's bijvoorbeeld de lens, lensinstellingen, cameratype en dag waarop de foto gemaakt is of een soort instructie in een HTML-bestand (webpagina)
+  - description: een label, bijvoorbeeld in een Muziekbestand. Er zijn veelvoorkomende tags, bijvoorbeeld bij muziek de titel, artiest en album van een nummer, voor foto&#39;s bijvoorbeeld de lens, lensinstellingen, cameratype en dag waarop de foto gemaakt is of een soort instructie in een HTML-bestand (webpagina)
     title: Tag
-  - description: There Ain't No Justice, Afkorting voor 'er is geen recht', wordt vooral gebruikt bij het chatten. Zie ook...Chatten
+  - description: There Ain&#39;t No Justice, Afkorting voor &#39;er is geen recht&#39;, wordt vooral gebruikt bij het chatten. Zie ook...Chatten
     title: TANJ
-  - description: There Ain't No Such Thing As A Free Lunch, Afkorting voor 'er is niet zoiets als een gratis lunch', oftewel, voor niets gaat de zon op. Wordt vooral gebruikt bij het chatten. Zie ook...Chatten
+  - description: There Ain&#39;t No Such Thing As A Free Lunch, Afkorting voor &#39;er is niet zoiets als een gratis lunch&#39;, oftewel, voor niets gaat de zon op. Wordt vooral gebruikt bij het chatten. Zie ook...Chatten
     title: TANSTAAFL
   - description: Een cassetteband waarop een backup kan worden gemaakt. Is traag, maar in verhouding goedkoop als er grote hoeveelheden data moeten worden gebackupt. Er kunnen honderden gigabytes op een tape en is een synoniem van AIT, Advanced Intelligent Tape, DLT, Digital Linear Tape. Zie ook...Backup
     title: Tape
@@ -6123,19 +6123,19 @@ accordion:
     title: Digital Linear Tape
   - description: Tape ARchiver, Een verpakkingsformaat. Er wordt geen compressie toegepast, maar kan wel worden gecomprimeerd. Wordt vaak gebruikt in combinatie met gz of bz2
     title: tar
-  - description: Things Are Really F..cked Up, Afkorting voor 'alles loopt hier in het honderd', wordt vooral gebruikt bij het chatten. Zie ook...Chatten
+  - description: Things Are Really F..cked Up, Afkorting voor &#39;alles loopt hier in het honderd&#39;, wordt vooral gebruikt bij het chatten. Zie ook...Chatten
     title: TARFU
-  - description: That Ain't So Beautiful, Afkorting voor 'dat is niet zo mooi', wordt vooral gebruikt bij het chatten. Zie ook...Chatten
+  - description: That Ain&#39;t So Beautiful, Afkorting voor &#39;dat is niet zo mooi&#39;, wordt vooral gebruikt bij het chatten. Zie ook...Chatten
     title: TASB
-  - description: To Be Announced, Afkorting voor 'wordt aangekondigd', wordt vooral gebruikt bij het chatten. Zie ook...Chatten
+  - description: To Be Announced, Afkorting voor &#39;wordt aangekondigd&#39;, wordt vooral gebruikt bij het chatten. Zie ook...Chatten
     title: TBA
   - description: Turn Based Game, een op beurten gebaseerd spel, waarbij de speler in zijn beurt bijvoorbeeld kan aanvallen of dingen instellen voor de tijd tussen zijn beurten. Als de speler zijn beurt eindigd gaat de beurt naar de volgende. Als iedereen is geweest komt de beurt weer terug bij de eerste persoon
     title: TBG
-  - description: To Be Honest, Afkorting voor 'om eerlijk te zijn', wordt vooral gebruikt bij het chatten. Zie ook...Chatten
+  - description: To Be Honest, Afkorting voor &#39;om eerlijk te zijn&#39;, wordt vooral gebruikt bij het chatten. Zie ook...Chatten
     title: TBH
-  - description: Try Before You Buy, Afkorting voor 'uitproberen voordat je koopt', wordt vooral gebruikt bij het chatten. Zie ook...Chatten
+  - description: Try Before You Buy, Afkorting voor &#39;uitproberen voordat je koopt&#39;, wordt vooral gebruikt bij het chatten. Zie ook...Chatten
     title: TBYB
-  - description: Trouble Came Back, Afkorting voor 'de problemen kwamen terug', wordt vooral gebruikt bij het chatten. Zie ook...Chatten
+  - description: Trouble Came Back, Afkorting voor &#39;de problemen kwamen terug&#39;, wordt vooral gebruikt bij het chatten. Zie ook...Chatten
     title: TCB
   - description: Trusted Computing Base, alle onderdelen van een computer die belangrijk zijn voor de beveiliging ervan
     title: TCB
@@ -6145,7 +6145,7 @@ accordion:
     title: TCP/IP
   - description: Time Division Duplex, CDMA mode waarin het verzenden en ontvangen van signalen werkt op dezelfde radiofrequentie. Dit kan met behulp van een systeem van verzend- en ontvangsttijden
     title: TDD
-  - description: Too Damn Many, Afkorting voor 'veel te veel', wordt vooral gebruikt bij het chatten. Zie ook...Chatten
+  - description: Too Damn Many, Afkorting voor &#39;veel te veel&#39;, wordt vooral gebruikt bij het chatten. Zie ook...Chatten
     title: TDM
   - description: Time Division Multiple Access, toegangsmechanisme waarbij een aantal langzame digitale kanalen elk om de beurt een korte tijd een snelle verbinding krijgen toegewezen. Zie ook...FDMA
     title: TDMA
@@ -6181,9 +6181,9 @@ accordion:
     title: TFT
   - description: Trivial File Transfer Protocol, bestandsoverdracht zonder beveiliging
     title: TFTP
-  - description: Thanks For The Thought, Afkorting voor 'bedankt voor het idee', wordt vooral gebruikt bij het chatten. Zie ook...Chatten
+  - description: Thanks For The Thought, Afkorting voor &#39;bedankt voor het idee&#39;, wordt vooral gebruikt bij het chatten. Zie ook...Chatten
     title: TFTT
-  - description: Thank God It's Friday, Afkorting voor 'gelukkig is het vrijdag', wordt vooral gebruikt bij het chatten. Zie ook...Chatten
+  - description: Thank God It&#39;s Friday, Afkorting voor &#39;gelukkig is het vrijdag&#39;, wordt vooral gebruikt bij het chatten. Zie ook...Chatten
     title: TGIF
   - description: Ticket Granting Ticket, aanvraag van een STkt. Zie ook...Kerberos, STkt
     title: TGT
@@ -6199,7 +6199,7 @@ accordion:
     title: Skin
   - description: Een compressietechniek voor video. Wordt vaak gebruikt in combinatie met OGG en Vorbis. Zie ook...OGG
     title: Theora
-  - description: Een proces dat binnen een proces uitgevoerd wordt. Programma's kunnen uit meerdere threads bestaan, dat wil zeggen dat deze threads allemaal een stukje werk doen. Deze threads kunnen over processoren (of cores) verdeelt worden, waarmee het werk sneller gedaan kan worden of een onderwerp op een computerforum
+  - description: Een proces dat binnen een proces uitgevoerd wordt. Programma&#39;s kunnen uit meerdere threads bestaan, dat wil zeggen dat deze threads allemaal een stukje werk doen. Deze threads kunnen over processoren (of cores) verdeelt worden, waarmee het werk sneller gedaan kan worden of een onderwerp op een computerforum
     title: Thread
   - description: Letterlijk vertaalt een gevaar. Op het internet worden hier vaak dingen als hackers/crackers, virussen, phising, spyware en dergelijke mee bedoelt
     title: Threat
@@ -6213,15 +6213,15 @@ accordion:
     title: Thumbnail
   - description: Een manier om apparaten aan te sluiten op een computer met hoge snelheid
     title: Thunderbolt
-  - description: Het vertalen van geheugenaanvragen door 16-bit programma's naar 32-bit geheugen en de resultaten van 32-bit naar 16-bit. Dit geld ook van 32-bit naar 64-bit, etc
+  - description: Het vertalen van geheugenaanvragen door 16-bit programma&#39;s naar 32-bit geheugen en de resultaten van 32-bit naar 16-bit. Dit geld ook van 32-bit naar 64-bit, etc
     title: Thunking
-  - description: Thanks, Afkorting voor 'bedankt', wordt vooral gebruikt bij het chatten. Zie ook...Chatten
+  - description: Thanks, Afkorting voor &#39;bedankt&#39;, wordt vooral gebruikt bij het chatten. Zie ook...Chatten
     title: THX
   - description: Thanks, Chatafkorting voor dankje
     title: Thx
-  - description: Thanks In Advance, Afkorting voor 'bij voorbaat dank', wordt vooral gebruikt bij het chatten. Zie ook...Chatten
+  - description: Thanks In Advance, Afkorting voor &#39;bij voorbaat dank&#39;, wordt vooral gebruikt bij het chatten. Zie ook...Chatten
     title: TIA
-  - description: Tongue In Cheek, Afkorting voor 'lachend met de tong in de wang', wordt vooral gebruikt bij het chatten. Zie ook...Chatten
+  - description: Tongue In Cheek, Afkorting voor &#39;lachend met de tong in de wang&#39;, wordt vooral gebruikt bij het chatten. Zie ook...Chatten
     title: TIC
   - description: Tagged Image File Format, bitmapformaat voor hoge resoluties. Zie ook...bitmap, formaat
     title: TIFF
@@ -6231,27 +6231,27 @@ accordion:
     title: Tint
   - description: De eigenlijke kleur van een kleur, bijvoorbeeld rood, blauw of paars. Je kunt deze kleur meer of minder verzadigd maken, of lichter/donkerder (luminantie). Een tint van 0 is rood, hogere waarden worden achtereenvolgens geel, oranje, groen, blauw, paars tot rood. Is een synoniem van Tint. Zie ook...Verzadiging, Luminantie
     title: Hue
-  - description: That Is Not What I Said, Afkorting voor 'dat zei ik niet', wordt vooral gebruikt bij het chatten. Zie ook...Chatten
+  - description: That Is Not What I Said, Afkorting voor &#39;dat zei ik niet&#39;, wordt vooral gebruikt bij het chatten. Zie ook...Chatten
     title: TINWIS
-  - description: Three Letter Acronym, Afkorting voor 'drie letter acroniem', wordt vooral gebruikt bij het chatten. Zie ook...Chatten
+  - description: Three Letter Acronym, Afkorting voor &#39;drie letter acroniem&#39;, wordt vooral gebruikt bij het chatten. Zie ook...Chatten
     title: TLA
-  - description: Top Level Domain, hoogste domeinnaam op internet, zoals .net, .org, .com. Een domeinnaam op internet eindigt altijd op een TLD. Met het systeem van TLD's kunnen organisaties makkelijk hun wesbite meertalig maken, en kunnen gelijknamige bedrijven in verschillende landen dezelfde naam, met een andere TLD gebruiken, bijvoorbeeld google.nl en google.com
+  - description: Top Level Domain, hoogste domeinnaam op internet, zoals .net, .org, .com. Een domeinnaam op internet eindigt altijd op een TLD. Met het systeem van TLD&#39;s kunnen organisaties makkelijk hun wesbite meertalig maken, en kunnen gelijknamige bedrijven in verschillende landen dezelfde naam, met een andere TLD gebruiken, bijvoorbeeld google.nl en google.com
     title: TLD
   - description: Transport Layer Security, De opvolger van SSL. Zie ook...SSL
     title: TLS
-  - description: Thread Local Storage, geheugenruimte voor een thread, doorgaans gebruikt in DLL's. Zie ook...DLL, Thread
+  - description: Thread Local Storage, geheugenruimte voor een thread, doorgaans gebruikt in DLL&#39;s. Zie ook...DLL, Thread
     title: TLS
-  - description: Thread Mangler, Afkorting voor 'iemand die discussies verminkt', wordt vooral gebruikt bij het chatten. Zie ook...Chatten
+  - description: Thread Mangler, Afkorting voor &#39;iemand die discussies verminkt&#39;, wordt vooral gebruikt bij het chatten. Zie ook...Chatten
     title: TM
-  - description: To My Knowledge, Afkorting voor 'voor zover ik weet', wordt vooral gebruikt bij het chatten. Zie ook...Chatten
+  - description: To My Knowledge, Afkorting voor &#39;voor zover ik weet&#39;, wordt vooral gebruikt bij het chatten. Zie ook...Chatten
     title: TMK
   - description: Twisted nematic, Een techniek voor LCD-schermen. Dit levert over het algemeen schermen op die goedkoper en sneller zijn dan LCD-schermen met IPS, maar is weinig kleurecht en heeft een kleine kijkhoek. Zie ook...Beeldscherm, LCD, IPS
     title: TN
-  - description: The Next Generation, Afkorting voor 'de volgende generatie', wordt vooral gebruikt bij het chatten. Zie ook...Chatten
+  - description: The Next Generation, Afkorting voor &#39;de volgende generatie&#39;, wordt vooral gebruikt bij het chatten. Zie ook...Chatten
     title: TNG
   - description: Telecommunication Network Voltage, het voltage waarop een netwerk werkt
     title: TNV
-  - description: Thanks, Afkorting voor 'bedankt', wordt vooral gebruikt bij het chatten. Zie ook...Chatten
+  - description: Thanks, Afkorting voor &#39;bedankt&#39;, wordt vooral gebruikt bij het chatten. Zie ook...Chatten
     title: TNX
   - description: Table of Contents, een inhoudsopgave
     title: TOC
@@ -6265,9 +6265,9 @@ accordion:
     title: Keyboard
   - description: Een apparaat of nummer waarmee je je kunt identificeren of het recht om iets te zeggen in een Token Ring systeem. Zie ook...Token Ring 
     title: Token
-  - description: Token passing ring of Token passing bus, een netwerktechniek. In tegenstelling tot Ethernet, waar elk apparaat kan beginnen met communiceren als de lijn vrij is werkt Token passing zo dat elk apparaat pas pakketten mag versturen zodra het de token heeft gekregen, oftewel is aangewezen als de computer die 'nu iets mag zeggen'. Een Token passing ring is een netwerk waarbij alle computers achter elkaar (in een ring) zijn aangelegd, bij een token passing bus zijn alle computers aan dezelfde lijn gelegd, dus aan een lijn in plaats van een ring
+  - description: Token passing ring of Token passing bus, een netwerktechniek. In tegenstelling tot Ethernet, waar elk apparaat kan beginnen met communiceren als de lijn vrij is werkt Token passing zo dat elk apparaat pas pakketten mag versturen zodra het de token heeft gekregen, oftewel is aangewezen als de computer die &#39;nu iets mag zeggen&#39;. Een Token passing ring is een netwerk waarbij alle computers achter elkaar (in een ring) zijn aangelegd, bij een token passing bus zijn alle computers aan dezelfde lijn gelegd, dus aan een lijn in plaats van een ring
     title: Token passing
-  - description: netwerksysteem, IEEE 802.5. De computers zijn in een ringvorm op elkaar aangesloten en elke computer in het netwerk mag pas 'iets zeggen' als hij de token krijgt. Dit systeem is vrij duur, maar wel zeer efficient (en dus erg snel, de prestatiewinst ten opzicht van een normaal netwerk kan oplopen tot 150%)
+  - description: netwerksysteem, IEEE 802.5. De computers zijn in een ringvorm op elkaar aangesloten en elke computer in het netwerk mag pas &#39;iets zeggen&#39; als hij de token krijgt. Dit systeem is vrij duur, maar wel zeer efficient (en dus erg snel, de prestatiewinst ten opzicht van een normaal netwerk kan oplopen tot 150%)
     title: Token ring
   - description: Een klein computerprogramma speciaal voor een bepaalde taak, neemt de gebruiker vaak veel werk uit handen
     title: Tool
@@ -6289,13 +6289,13 @@ accordion:
     title: TPI
   - description: Third Person Shooter, een schietspel waarin de speler slechts een karakter bedient, daarmee rondloopt en vijanden neerschiet. Hierbij kijkt de speler niet vanuit de ogen van het personage
     title: TPS
-  - description: The Powers That Be, Afkorting voor 'de machten (de overheid)', wordt vooral gebruikt bij het chatten. Zie ook...Chatten
+  - description: The Powers That Be, Afkorting voor &#39;de machten (de overheid)&#39;, wordt vooral gebruikt bij het chatten. Zie ook...Chatten
     title: TPTB
   - description: Engels voor opsporen. Zie ook...Traceroute
     title: Trace
   - description: (een commando voor) het uitzoeken welke route een pakketje op een netwerk neemt naar een bepaald eindpunt
     title: Traceroute
-  - description: onderverdeling van een opslagmedium; elke 'ring' op een harde schijf is een track, en elk muzieknummer op een geluidsCD is meestal een andere track
+  - description: onderverdeling van een opslagmedium; elke &#39;ring&#39; op een harde schijf is een track, en elk muzieknummer op een geluidsCD is meestal een andere track
     title: Track
   - description: Een vervanging voor de muis waarbij je een bal in een houden beweegt in plaats van het hele apparaat. Dit is handig voor mensen die last hebben van RSI. Zie ook...RSI
     title: Trackball
@@ -6313,41 +6313,41 @@ accordion:
     title: Transportlaag
   - description: De 4e laag uit het OSI-model. Deze laag splitst de gegevens in pakketjes en controleert de gegevens op fouten. Is een synoniem van Transportlaag. Zie ook...OSI, de tutorial hardware/wat_is_het_OSI_model
     title: Transport layer
-  - description: Tears Running Down My Cheeks, Afkorting voor 'tranen lopen over mijn wangen', wordt vooral gebruikt bij het chatten. Zie ook...Chatten
+  - description: Tears Running Down My Cheeks, Afkorting voor &#39;tranen lopen over mijn wangen&#39;, wordt vooral gebruikt bij het chatten. Zie ook...Chatten
     title: TRDMC
   - description: een techniek om de beeldkwaliteit van een gecomprimeerd video bestand te verhogen... wordt gebruik bij XVID en x264
     title: Trellis quantization
   - description: Processor met 3 processorkernen. Zie ook...core
     title: TripleCore
-  - description: Een virus dat de weg vrij maakt voor een hacker als het een computer infecteert. De naam is afgeleid van een 'het paard van Troje' en is een synoniem van Trojan, Trojaans Paard
+  - description: Een virus dat de weg vrij maakt voor een hacker als het een computer infecteert. De naam is afgeleid van een &#39;het paard van Troje&#39; en is een synoniem van Trojan, Trojaans Paard
     title: Trojan Horse
-  - description: Een virus dat de weg vrij maakt voor een hacker als het een computer infecteert. De naam is afgeleid van een 'het paard van Troje'. Is een synoniem van Trojan Horse
+  - description: Een virus dat de weg vrij maakt voor een hacker als het een computer infecteert. De naam is afgeleid van een &#39;het paard van Troje&#39;. Is een synoniem van Trojan Horse
     title: Trojan
-  - description: Een virus dat de weg vrij maakt voor een hacker als het een computer infecteert. De naam is afgeleid van een 'het paard van Troje'. Is een synoniem van Trojan Horse
+  - description: Een virus dat de weg vrij maakt voor een hacker als het een computer infecteert. De naam is afgeleid van een &#39;het paard van Troje&#39;. Is een synoniem van Trojan Horse
     title: Trojaans Paard
   - description: formaat voor lettertypes, opgevolgd door opentype
     title: TrueType
-  - description: Tiny Sex, Afkorting voor 'mini wip', wordt vooral gebruikt bij het chatten. Zie ook...Chatten
+  - description: Tiny Sex, Afkorting voor &#39;mini wip&#39;, wordt vooral gebruikt bij het chatten. Zie ook...Chatten
     title: TS
   - description: Thin Small Outline Package, soort chipbehuizing
     title: TSOP
   - description: Terminate and Stay Resident, een programma dat al afgesloten is maar in het geheugen blijft zodat het de volgende keer sneller opstart
     title: TSR
-  - description: To The Best Of My Knowledge, Afkorting voor 'naar mijn beste weten', wordt vooral gebruikt bij het chatten. Zie ook...Chatten
+  - description: To The Best Of My Knowledge, Afkorting voor &#39;naar mijn beste weten&#39;, wordt vooral gebruikt bij het chatten. Zie ook...Chatten
     title: TTBOMK
   - description: formaat voor lettertypes, kan zowel TrueType als OpenType zijn. Zie ook...Opentype, Truetype
     title: ttf
-  - description: Ta Ta For Now, Afkorting voor 'tot ziens', wordt vooral gebruikt bij het chatten. Zie ook...Chatten
+  - description: Ta Ta For Now, Afkorting voor &#39;tot ziens&#39;, wordt vooral gebruikt bij het chatten. Zie ook...Chatten
     title: TTFN
   - description: De tijd dat een DNS-record wordt bewaard voordat het opnieuw wordt opgevraagd bij de hoofdserver
     title: TTL
-  - description: Thats The Lot For Now, Afkorting voor 'dat was alles voor dit moment', wordt vooral gebruikt bij het chatten. Zie ook...Chatten
+  - description: Thats The Lot For Now, Afkorting voor &#39;dat was alles voor dit moment&#39;, wordt vooral gebruikt bij het chatten. Zie ook...Chatten
     title: TTL4N
   - description: Trusted Third Party, onafhankelijke partij bij betalingen via internet
     title: TTP
-  - description: Talk To You Later, Afkorting voor 'spreek je later', wordt vooral gebruikt bij het chatten. Zie ook...Chatten
+  - description: Talk To You Later, Afkorting voor &#39;spreek je later&#39;, wordt vooral gebruikt bij het chatten. Zie ook...Chatten
     title: TTYL
-  - description: Talk To You Soon, Afkorting voor 'spreek je binnenkort', wordt vooral gebruikt bij het chatten. Zie ook...Chatten
+  - description: Talk To You Soon, Afkorting voor &#39;spreek je binnenkort&#39;, wordt vooral gebruikt bij het chatten. Zie ook...Chatten
     title: TTYS
   - description: Text User Interface, een interface met alleen tekst, geen opmaak, zoals DOS, in tegenstelling tot GUI. Zie ook...GUI
     title: TUI
@@ -6385,9 +6385,9 @@ accordion:
     title: ty
   - description: Typefout
     title: Typo
-  - description: Thank You Very Much, Afkorting voor 'heel erg bedankt', wordt vooral gebruikt bij het chatten. Zie ook...Chatten
+  - description: Thank You Very Much, Afkorting voor &#39;heel erg bedankt&#39;, wordt vooral gebruikt bij het chatten. Zie ook...Chatten
     title: TYVM
-  - description: Software die het mogelijk maakt programma's op een USB-stick te zetten die je op elke Windows-computer kunt gebruiken zonder sporen achter te laten. Zie ook...USB-Stick
+  - description: Software die het mogelijk maakt programma&#39;s op een USB-stick te zetten die je op elke Windows-computer kunt gebruiken zonder sporen achter te laten. Zie ook...USB-Stick
     title: U3
   - description: User Agent Accessibility Guidelines, richtlijnen voor het maken van browsers voor gehandicapten. Zie ook...browser, WAI
     title: UAAG
@@ -6395,7 +6395,7 @@ accordion:
     title: UAE
   - description: Universal Asynchronous Receiver/Transmitter, chip die de communicatie met apparaten die onregelmatig (asynchroon) gegevens verzenden en ontvangen regelt
     title: UART
-  - description: User Brain Damage, Afkorting voor 'hersenletsel bij computergebruiker', wordt vooral gebruikt bij het chatten. Zie ook...Chatten
+  - description: User Brain Damage, Afkorting voor &#39;hersenletsel bij computergebruiker&#39;, wordt vooral gebruikt bij het chatten. Zie ook...Chatten
     title: UBD
   - description: Een Linux-distributie. Op het moment van schrijven (2008) de populairste. Van Ubuntu zijn enkele afgeleiden... Kubuntu, Xubuntu, Edubuntu en gobunutu. Ubuntu zelf werkt op GNOME, Kubuntu op KDE, Xubuntu op xfce, Edubuntu is speciaal voor scholen en gobunutu is helemaal gebaseerd op open-source software. Zie ook...Linux-distributie, Linux
     title: Ubuntu
@@ -6417,7 +6417,7 @@ accordion:
     title: Afmelden
   - description: Een gegevenspakket van headers ontdoen. Zie ook...header
     title: Uitpakken
-  - description: UpLoad, Afkorting voor 'uploaden', wordt vooral gebruikt bij het chatten. Zie ook...Chatten
+  - description: UpLoad, Afkorting voor &#39;uploaden&#39;, wordt vooral gebruikt bij het chatten. Zie ook...Chatten
     title: UL
   - description: Een gebruiker van Gnutella die zich met een groot aantal andere ultrapeers en een nog veel groter aantal leafs verbindt om deze leafs van diensten te kunnen voorzien, de ultrapeers vormen eigenlijk de ruggengraat (backbone) van het Gnutella netwerk. Zie ook...Gnutella, Backbone, Leaf
     title: Ultrapeer
@@ -6451,11 +6451,11 @@ accordion:
     title: Update
   - description: Het vervangen van hardware of software door nieuwe versies of betere onderdelen
     title: Upgraden
-  - description: Het verzenden van een bestand via een communicatieverbinding, bijvoorbeeld via het internet of via een USB kabel. (voorbeeld... het verzenden van foto's naar het internet en naar een digitale fotocamera heet allebei uploaden) Het ontvangen van data (het tegenstelde van uploaden dus) heet downloaden. Zie ook...downloaden
+  - description: Het verzenden van een bestand via een communicatieverbinding, bijvoorbeeld via het internet of via een USB kabel. (voorbeeld... het verzenden van foto&#39;s naar het internet en naar een digitale fotocamera heet allebei uploaden) Het ontvangen van data (het tegenstelde van uploaden dus) heet downloaden. Zie ook...downloaden
     title: Uploaden
   - description: Universal Plug and Play, hulpmiddel voor het herkennen van hardware op netwerken zonder dat er iets opnieuw moet worden opgestart, net zoals bij PnP. Zie ook...pnp
     title: UPnP
-  - description: Uninterruptable Power Supply, noodvoeding met accu's
+  - description: Uninterruptable Power Supply, noodvoeding met accu&#39;s
     title: UPS
   - description: Universal Resource Identifier, verwijzing die zowel een URL als een URN mag zijn
     title: URI
@@ -6485,7 +6485,7 @@ accordion:
     title: UserAgent
   - description: Update Sequence Number, Een nummer dat aangeeft welke versie van het bestand er is opgeslagen
     title: USN
-  - description: Unable To Breathe, Afkorting voor 'niet in staat om te ademen', wordt vooral gebruikt bij het chatten. Zie ook...Chatten
+  - description: Unable To Breathe, Afkorting voor &#39;niet in staat om te ademen&#39;, wordt vooral gebruikt bij het chatten. Zie ook...Chatten
     title: UTB
   - description: tekenset voor XML, volgens UCS standaard. Deze heeft ruimte voor veel Aziatische tekens en wordt door de nauwe verbondenheid met UTF-8 steeds meer gebruikt.. Zie ook...UCS, UTF-8
     title: UTF-16
@@ -6497,7 +6497,7 @@ accordion:
     title: UUCP
   - description: Unix-Unix Encode, programma om binaire bestanden (8 bits) te verzenden via e-mail (7 bits). Zie ook...UNIX
     title: UUEncode
-  - description: Universally Unique Identifier, unieke naam voor een computer, kan worden gebruikt in programma's
+  - description: Universally Unique Identifier, unieke naam voor een computer, kan worden gebruikt in programma&#39;s
     title: UUID
   - description: Ultra Extended Graphics Array, Een resolutie van 1600x1200 en is een synoniem van UGA, Ultra Graphics Array
     title: UXGA
@@ -6521,21 +6521,21 @@ accordion:
     title: Backupvault
   - description: Visual Basic, programmeertaal van Microsoft
     title: VB
-  - description: Visual Basic for Applications, Een soort Visual Basic waarmee je uitbreidingen voor programma's kunt maken, is veel krachtiger dan de bekende macro's. Zie ook...Visual Basic, Macro
+  - description: Visual Basic for Applications, Een soort Visual Basic waarmee je uitbreidingen voor programma&#39;s kunt maken, is veel krachtiger dan de bekende macro&#39;s. Zie ook...Visual Basic, Macro
     title: VBA
   - description: extensie voor geëncrypteerd Visual Basic Script. Zie ook...Visual Basic
     title: VBE
-  - description: Very Big Grin, Afkorting voor 'erg grote grijns', wordt vooral gebruikt bij het chatten. Zie ook...Chatten
+  - description: Very Big Grin, Afkorting voor &#39;erg grote grijns&#39;, wordt vooral gebruikt bij het chatten. Zie ook...Chatten
     title: VBG
-  - description: Very Big Grin, But Seriously, Afkorting voor 'erg groote grijns, maar even serieus,...', wordt vooral gebruikt bij het chatten. Zie ook...Chatten
+  - description: Very Big Grin, But Seriously, Afkorting voor &#39;erg groote grijns, maar even serieus,...&#39;, wordt vooral gebruikt bij het chatten. Zie ook...Chatten
     title: VBGBS
   - description: Variable BitRate, Een datastroom die in tegenstelling tot CBR geen vaste grootte per tijdseenheid heeft, dus per seconde niet altijd evenveel bits heeft. Zie ook...CBR
     title: VBR
   - description: extensie voor Visual Basic Script. Zie ook...Visual Basic
     title: VBS
-  - description: Very Big Scheepish Grin, Afkorting voor 'erg grote, schaapachtige grijns', wordt vooral gebruikt bij het chatten. Zie ook...Chatten
+  - description: Very Big Scheepish Grin, Afkorting voor &#39;erg grote, schaapachtige grijns&#39;, wordt vooral gebruikt bij het chatten. Zie ook...Chatten
     title: VBSG
-  - description: Virtual Community, Afkorting voor 'virtuele gemeenschap', wordt vooral gebruikt bij het chatten. Zie ook...Chatten
+  - description: Virtual Community, Afkorting voor &#39;virtuele gemeenschap&#39;, wordt vooral gebruikt bij het chatten. Zie ook...Chatten
     title: VC
   - description: Video CD, video op een CD met de MPEG-1 codering
     title: VCD
@@ -6545,7 +6545,7 @@ accordion:
     title: VADSL
   - description: Very high data rate Digital Subscriber Line, supersnelle internetverbinding over gewone koperen twisted-pair kabels, werkt op 12.9 tot 52.8 Mb/s. Is een synoniem van VDSL. Zie ook...xDSL
     title: BDSL
-  - description: Very Evil Grin, Afkorting voor 'erg gemene grijns', wordt vooral gebruikt bij het chatten. Zie ook...Chatten
+  - description: Very Evil Grin, Afkorting voor &#39;erg gemene grijns&#39;, wordt vooral gebruikt bij het chatten. Zie ook...Chatten
     title: VEG
   - description: Een ruimte waar je bepaalde informatie in kan typen of in kan opslaan
     title: Veld
@@ -6581,13 +6581,13 @@ accordion:
     title: VIA
   - description: Een dochterkaart die zorgt voor het maken van het beeld en dit doorgeven naar het beeldscherm. Zie ook...Dochterkaart
     title: Videokaart
-  - description: Very Important Guest, Afkorting voor 'erg belangrijke gast', wordt vooral gebruikt bij het chatten. Zie ook...Chatten
+  - description: Very Important Guest, Afkorting voor &#39;erg belangrijke gast&#39;, wordt vooral gebruikt bij het chatten. Zie ook...Chatten
     title: VIG
-  - description: Standaard van Intel voor communicatie tussen verschillende multimediale apparaten. Tegenhanger van AMD's live!
+  - description: Standaard van Intel voor communicatie tussen verschillende multimediale apparaten. Tegenhanger van AMD&#39;s live!
     title: ViiV
   - description: Vendor Independent Messaging, concurrent van MAPI, MAPI heeft uiteindelijk gewonnen
     title: VIM
-  - description: Very Important Person, Afkorting voor 'zeer belangrijk persoon', wordt vooral gebruikt bij het chatten. Zie ook...Chatten
+  - description: Very Important Person, Afkorting voor &#39;zeer belangrijk persoon&#39;, wordt vooral gebruikt bij het chatten. Zie ook...Chatten
     title: VIP
   - description: Een techniek waarmee het mogelijk wordt meerdere besturingssystemen op één computer te gebruiken. De computer doet dat meerdere computers op hardwareniveau na zodat de besturingssystemen denken dat ze met een echte computer te maken hebben. Dit kan handig zijn om meerdere strict gescheiden systemen veilig op een enkele server te laten draaien
     title: Virtualisatie
@@ -6597,21 +6597,21 @@ accordion:
     title: Virtueel geheugen
   - description: Een programma dat computers infecteert om al dan niet schade aan te brengen of de gebruik van de computer te pesten
     title: Virus
-  - description: Virtual Local Area Network, een virtueel LAN. Hiermee kunnen verschillende LAN's binnen een netwerk gemaakt worden, of meerdere netwerken met elkaar verbonden worden tot 1 LAN
+  - description: Virtual Local Area Network, een virtueel LAN. Hiermee kunnen verschillende LAN&#39;s binnen een netwerk gemaakt worden, of meerdere netwerken met elkaar verbonden worden tot 1 LAN
     title: VLAN
   - description: Very Long Instruction Word, Processorarchitectuur die meerdere instructies tegelijk kan verwerken of de verschillende delen van 1 instructie tegelijkertijd uitvoert. Zie ook...Architectuur
     title: VLIW
-  - description: Afkorting van Video Weblog, een weblog met video's. Zie ook...blog
+  - description: Afkorting van Video Weblog, een weblog met video&#39;s. Zie ook...blog
     title: Vlog
   - description: Een Vlog bijhouden. Zie ook...vlog
     title: Vloggen
-  - description: Very Large Smiley Face, Afkorting voor 'erg groot glimlachgezicht', wordt vooral gebruikt bij het chatten. Zie ook...Chatten
+  - description: Very Large Smiley Face, Afkorting voor &#39;erg groot glimlachgezicht&#39;, wordt vooral gebruikt bij het chatten. Zie ook...Chatten
     title: VLSF
-  - description: Very Large Scale Integration, een chip die bestaat uit verschillende IC's. Term wordt niet veel meer gebruikt
+  - description: Very Large Scale Integration, een chip die bestaat uit verschillende IC&#39;s. Term wordt niet veel meer gebruikt
     title: VLSI
-  - description: Virtual Machine, programma dat gewoon in een besturingssysteem (zoals Windows of Linux) draait, maar een ander besturingssysteem simuleert. Hierin kun je programma's die je niet vertrouwt draaien, omdat eventuele vastlopers of virussen niet in het echte besturingssysteem komen, en veilig verwijderd kunnen worden en is een synoniem van Virtual Machine. Zie ook...Besturingssysteem
+  - description: Virtual Machine, programma dat gewoon in een besturingssysteem (zoals Windows of Linux) draait, maar een ander besturingssysteem simuleert. Hierin kun je programma&#39;s die je niet vertrouwt draaien, omdat eventuele vastlopers of virussen niet in het echte besturingssysteem komen, en veilig verwijderd kunnen worden en is een synoniem van Virtual Machine. Zie ook...Besturingssysteem
     title: VM
-  - description: Virtual Machine, programma dat gewoon in een besturingssysteem (zoals Windows of Linux) draait, maar een ander besturingssysteem simuleert. Hierin kun je programma's die je niet vertrouwt draaien, omdat eventuele vastlopers of virussen niet in het echte besturingssysteem komen, en veilig verwijderd kunnen worden. Is een synoniem van VM. Zie ook...Besturingssysteem
+  - description: Virtual Machine, programma dat gewoon in een besturingssysteem (zoals Windows of Linux) draait, maar een ander besturingssysteem simuleert. Hierin kun je programma&#39;s die je niet vertrouwt draaien, omdat eventuele vastlopers of virussen niet in het echte besturingssysteem komen, en veilig verwijderd kunnen worden. Is een synoniem van VM. Zie ook...Besturingssysteem
     title: Virtual Machine
   - description: Virtual memory, totale beschikbare hoeveelheid geheugen, RAM en Swap bij elkaar opgeteld. Zie ook...swapbestand, RAM
     title: VM
@@ -6621,7 +6621,7 @@ accordion:
     title: VMS
   - description: Virtual Network Computing, standaard voor beheer computers op afstand die werkt met TCP/IP
     title: VNC
-  - description: Video on Demand, TV-programma's bekijken op elk gewenst moment
+  - description: Video on Demand, TV-programma&#39;s bekijken op elk gewenst moment
     title: VoD
   - description: Video podcast, Een podcast met videoberichten. Elke keer dat je Vodcast reader toegang krijgt kijkt hij of er al nieuwe afleveringen binnen zijn. Zie ook...podcast
     title: Vodcast
@@ -6643,7 +6643,7 @@ accordion:
     title: VoWLAN
   - description: Virtual Private Network, met deze techniek kunnen bedrijfnetwerken met elkaar worden verbonden over het internet, en ook thuiswerkers gebruik te laten maken met het netwerk van het bedrijf. Zie ook...de tutorial hardware/vpn
     title: VPN
-  - description: Virtual Reality, Afkorting voor 'virtual reality', wordt vooral gebruikt bij het chatten. Zie ook...Chatten
+  - description: Virtual Reality, Afkorting voor &#39;virtual reality&#39;, wordt vooral gebruikt bij het chatten. Zie ook...Chatten
     title: VR
   - description: Virtual Reality, een omgeving die gesimuleerd is door een computer. Zie ook...simuleren
     title: VR
@@ -6655,23 +6655,23 @@ accordion:
     title: VS
   - description: Virtual Studio Technology, De standaard voor virtuele muziekinstrumenten en effecten voor muziekproductiesoftware
     title: VST
-  - description: Virtual Studio Technology effects, effecten gebruikt in VST's. Zie ook...VST
+  - description: Virtual Studio Technology effects, effecten gebruikt in VST&#39;s. Zie ook...VST
     title: VSTfx
-  - description: Virtual Studio Technology instruments, virtuele muziekinstrumenten, gebruikt in VST's. Zie ook...VST
+  - description: Virtual Studio Technology instruments, virtuele muziekinstrumenten, gebruikt in VST&#39;s. Zie ook...VST
     title: VSTi
-  - description: Very Wicked Grin, Afkorting voor 'erg gemene grijns', wordt vooral gebruikt bij het chatten. Zie ook...Chatten
+  - description: Very Wicked Grin, Afkorting voor &#39;erg gemene grijns&#39;, wordt vooral gebruikt bij het chatten. Zie ook...Chatten
     title: VWG
-  - description: Very Wicked Smile, Afkorting voor 'erg gemene glimlach', wordt vooral gebruikt bij het chatten. Zie ook...Chatten
+  - description: Very Wicked Smile, Afkorting voor &#39;erg gemene glimlach&#39;, wordt vooral gebruikt bij het chatten. Zie ook...Chatten
     title: VWS
   - description: Windows Driver Model, driversysteem in Windows 3.1, 95 en 98
     title: VxD
-  - description: Wink, Afkorting voor 'knipoog', wordt vooral gebruikt bij het chatten. Zie ook...Chatten
+  - description: Wink, Afkorting voor &#39;knipoog&#39;, wordt vooral gebruikt bij het chatten. Zie ook...Chatten
     title: W
   - description: Consortium (dat is een vereniging van autoriteiten) voor standaaren op het internet. Hier zijn onder andere HTML, XHTML, XML en CSS ontwikkeld
     title: W3C
-  - description: Working As Designed, Afkorting voor 'het werkt zoals het bedoeld is', wordt vooral gebruikt bij het chatten. Zie ook...Chatten
+  - description: Working As Designed, Afkorting voor &#39;het werkt zoals het bedoeld is&#39;, wordt vooral gebruikt bij het chatten. Zie ook...Chatten
     title: WAD
-  - description: When All Else Fails, Afkorting voor 'als laatste redmiddel', wordt vooral gebruikt bij het chatten. Zie ook...Chatten
+  - description: When All Else Fails, Afkorting voor &#39;als laatste redmiddel&#39;, wordt vooral gebruikt bij het chatten. Zie ook...Chatten
     title: WAEF
   - description: Web Accessibility Initiative, initiatief voor het geschikt maken van internettoepassingen voor gehandicapten
     title: WAI
@@ -6689,11 +6689,11 @@ accordion:
     title: WAV
   - description: systeem dat wordt gebruikt voor compressie
     title: Wavelet
-  - description: Why Ask Why?, Afkorting voor 'waarom vragen waarom?', wordt vooral gebruikt bij het chatten. Zie ook...Chatten
+  - description: Why Ask Why?, Afkorting voor &#39;waarom vragen waarom?&#39;, wordt vooral gebruikt bij het chatten. Zie ook...Chatten
     title: WAW
-  - description: Welcome Back, Afkorting voor 'welkom terug', wordt vooral gebruikt bij het chatten. Zie ook...Chatten
+  - description: Welcome Back, Afkorting voor &#39;welkom terug&#39;, wordt vooral gebruikt bij het chatten. Zie ook...Chatten
     title: WB
-  - description: Web Content Accessibility Guidelines, richtlijnen voor het toegankelijk maken van internetpagina's voor (visueel) gehandicapten. Zie ook...WAI
+  - description: Web Content Accessibility Guidelines, richtlijnen voor het toegankelijk maken van internetpagina&#39;s voor (visueel) gehandicapten. Zie ook...WAI
     title: WCAG
   - description: Wideband Code Division Multiple Access, verbinding voor UMTS. Zie ook...CDMA, UMTS
     title: WCDMA
@@ -6701,9 +6701,9 @@ accordion:
     title: WDM
   - description: Wavelength Division Multiplexing, techniek waarbij lichtsignalen van verschillende golflengtes op 1 glasvezel worden gebruikt, op die manier kunnen er tot 8x zoveel gegevens over 1 glasvezel
     title: WDM
-  - description: Watchdog Timer, Een systeem dat in de gaten houdt of er programma's vastlopen en deze afsluit indien dat het geval is
+  - description: Watchdog Timer, Een systeem dat in de gaten houdt of er programma&#39;s vastlopen en deze afsluit indien dat het geval is
     title: WDT
-  - description: What Do You Mean By That?, Afkorting voor 'wat bedoel je daarmee?', wordt vooral gebruikt bij het chatten. Zie ook...Chatten
+  - description: What Do You Mean By That?, Afkorting voor &#39;wat bedoel je daarmee?&#39;, wordt vooral gebruikt bij het chatten. Zie ook...Chatten
     title: WDYMBT
   - description: World Wide Web, het internet. Zie ook...WWW
     title: Web
@@ -6719,25 +6719,25 @@ accordion:
     title: Webmail
   - description: Een pagina op het internet. Zie ook...Internet
     title: Webpagina
-  - description: Een server die een webpagina 'aanbiedt'... je moet met deze server contact maken om de webpagina die hij aanbiedt te kunnen bekijken. Zie ook...Server
+  - description: Een server die een webpagina &#39;aanbiedt&#39;... je moet met deze server contact maken om de webpagina die hij aanbiedt te kunnen bekijken. Zie ook...Server
     title: Webserver
-  - description: verzameling bij elkaar horende webpagina's en is een synoniem van Site, Internetsite. Zie ook...Webpagina
+  - description: verzameling bij elkaar horende webpagina&#39;s en is een synoniem van Site, Internetsite. Zie ook...Webpagina
     title: Website
-  - description: verzameling bij elkaar horende webpagina's. Is een synoniem van Website. Zie ook...Webpagina
+  - description: verzameling bij elkaar horende webpagina&#39;s. Is een synoniem van Website. Zie ook...Webpagina
     title: Site
-  - description: verzameling bij elkaar horende webpagina's. Is een synoniem van Website. Zie ook...Webpagina
+  - description: verzameling bij elkaar horende webpagina&#39;s. Is een synoniem van Website. Zie ook...Webpagina
     title: Internetsite
   - description: Ruimte voor een website bij een hoster
     title: Webspace
   - description: Wired Equivalent Privacy, data encryptie, gedefinieerd door de 802.11 standaard om te voorkomen dat indringers toegang krijgen tot een nspeciale uitvoering van etwerk; echter niet waterdicht. WPA is de verbeterde variant
     title: WEP
-  - description: Works For Me, Afkorting voor 'bij mij werkt het' of 'ik vind het prima', wordt vooral gebruikt bij het chatten. Zie ook...Chatten
+  - description: Works For Me, Afkorting voor &#39;bij mij werkt het&#39; of &#39;ik vind het prima&#39;, wordt vooral gebruikt bij het chatten. Zie ook...Chatten
     title: WFM
   - description: Windows File Protection, techniek van Microsoft waarbij continue wordt gecontroleerd of een beveiligde map wordt geprobeerd te wijzigen
     title: WFP
   - description: Windows for Workgroups, systeem voor SMB op Windows 3.1. Zie ook...SMB
     title: WfW
-  - description: Wicked Grin, Afkorting voor 'gemene grijns', wordt vooral gebruikt bij het chatten. Zie ook...Chatten
+  - description: Wicked Grin, Afkorting voor &#39;gemene grijns&#39;, wordt vooral gebruikt bij het chatten. Zie ook...Chatten
     title: WG
   - description: Windows Genuine Advantage, in het Nederlands...Legale Windows versie voordeel. Dit is een programma van Microsoft om te controleren of je een legale Windows versie hebt, om je zo extra voordelen te kunnen bieden
     title: WGA
@@ -6745,27 +6745,27 @@ accordion:
     title: White Hat Hacker
   - description: service op internet om de eigenaar van een website te achterhalen
     title: Whois
-  - description: Wide Hexadecatuple Super Extended Graphics Array, Een resolutie van (meestal) 6400x4096, hoewel volgens de definitie elke resolutie breder dan HSXGA in aanmerking komt, omdat deze resolutie de 'breedbeeldvariant' van HSXGA is en is een synoniem van HSXGA
+  - description: Wide Hexadecatuple Super Extended Graphics Array, Een resolutie van (meestal) 6400x4096, hoewel volgens de definitie elke resolutie breder dan HSXGA in aanmerking komt, omdat deze resolutie de &#39;breedbeeldvariant&#39; van HSXGA is en is een synoniem van HSXGA
     title: WHSXGA
-  - description: Wide Hexadecatuple Super Extended Graphics Array, Een resolutie van (meestal) 6400x4096, hoewel volgens de definitie elke resolutie breder dan HSXGA in aanmerking komt, omdat deze resolutie de 'breedbeeldvariant' van HSXGA is. Is een synoniem van WHSXGA
+  - description: Wide Hexadecatuple Super Extended Graphics Array, Een resolutie van (meestal) 6400x4096, hoewel volgens de definitie elke resolutie breder dan HSXGA in aanmerking komt, omdat deze resolutie de &#39;breedbeeldvariant&#39; van HSXGA is. Is een synoniem van WHSXGA
     title: HSXGA
-  - description: Wide Hexadecatuple Ultra Extended Graphics Array, Een resolutie van (meestal) 7680x4800, hoewel volgens de definitie elke resolutie breder dan HUXGA in aanmerking komt, omdat deze resolutie de 'breedbeeldvariant' van HUXGA is en is een synoniem van HUXGA
+  - description: Wide Hexadecatuple Ultra Extended Graphics Array, Een resolutie van (meestal) 7680x4800, hoewel volgens de definitie elke resolutie breder dan HUXGA in aanmerking komt, omdat deze resolutie de &#39;breedbeeldvariant&#39; van HUXGA is en is een synoniem van HUXGA
     title: WHUXGA
-  - description: Wide Hexadecatuple Ultra Extended Graphics Array, Een resolutie van (meestal) 7680x4800, hoewel volgens de definitie elke resolutie breder dan HUXGA in aanmerking komt, omdat deze resolutie de 'breedbeeldvariant' van HUXGA is. Is een synoniem van WHUXGA
+  - description: Wide Hexadecatuple Ultra Extended Graphics Array, Een resolutie van (meestal) 7680x4800, hoewel volgens de definitie elke resolutie breder dan HUXGA in aanmerking komt, omdat deze resolutie de &#39;breedbeeldvariant&#39; van HUXGA is. Is een synoniem van WHUXGA
     title: HUXGA
-  - description: Wide Hexadecatuple Extended Graphics Array, Een resolutie van (meestal) 5120x3072, hoewel volgens de definitie elke resolutie breder dan HXGA in aanmerking komt, omdat deze resolutie de 'breedbeeldvariant' van HXGA is en is een synoniem van HXGA
+  - description: Wide Hexadecatuple Extended Graphics Array, Een resolutie van (meestal) 5120x3072, hoewel volgens de definitie elke resolutie breder dan HXGA in aanmerking komt, omdat deze resolutie de &#39;breedbeeldvariant&#39; van HXGA is en is een synoniem van HXGA
     title: WHXGA
-  - description: Wide Hexadecatuple Extended Graphics Array, Een resolutie van (meestal) 5120x3072, hoewel volgens de definitie elke resolutie breder dan HXGA in aanmerking komt, omdat deze resolutie de 'breedbeeldvariant' van HXGA is. Is een synoniem van WHXGA
+  - description: Wide Hexadecatuple Extended Graphics Array, Een resolutie van (meestal) 5120x3072, hoewel volgens de definitie elke resolutie breder dan HXGA in aanmerking komt, omdat deze resolutie de &#39;breedbeeldvariant&#39; van HXGA is. Is een synoniem van WHXGA
     title: HXGA
   - description: Windows Image Acquisition, Microsofts versie van TWAIN. Zie ook...TWAIN
     title: WIA
-  - description: Wouldn't It Be Lovely If, Afkorting voor 'zo het niet leuk zijn als', wordt vooral gebruikt bij het chatten. Zie ook...Chatten
+  - description: Wouldn&#39;t It Be Lovely If, Afkorting voor &#39;zo het niet leuk zijn als&#39;, wordt vooral gebruikt bij het chatten. Zie ook...Chatten
     title: WIBLI
-  - description: Would It Be Nice If, Afkorting voor 'zou het leuk zijn als', wordt vooral gebruikt bij het chatten. Zie ook...Chatten
+  - description: Would It Be Nice If, Afkorting voor &#39;zou het leuk zijn als&#39;, wordt vooral gebruikt bij het chatten. Zie ook...Chatten
     title: WIBNI
   - description: Een klein programmaatje dat als een soort van gadget werkt, het geeft handige informatie of opzoekmogelijkheden of schakeling die een digitale camera aanpast zodat de FireWire-uitgang ook als ingang kan worden gebruikt
     title: Widget
-  - description: When In Doubt, Leave It Out, Afkorting voor 'als je twijfelt, doe het dan niet', wordt vooral gebruikt bij het chatten. Zie ook...Chatten
+  - description: When In Doubt, Leave It Out, Afkorting voor &#39;als je twijfelt, doe het dan niet&#39;, wordt vooral gebruikt bij het chatten. Zie ook...Chatten
     title: WIDLIO
   - description: Wireless Fidelity, standaard voor uitwisseling gegevens met IEEE 802.11 High Rate WLAN apparatten, 10x zo snel als BlueTooth, bereik varierend 20-150 m en is een synoniem van WiFi
     title: WiFi
@@ -6773,7 +6773,7 @@ accordion:
     title: WiFi
   - description: Een console-spelcomputer van Nintendo. Is vooral populair geworden doordat het een besturing met bewegingsdetectie had. Concureert met de Playstation 3 en de Xbox 360. Zie ook...console, Playstation 3, Xbox 360
     title: Wii
-  - description: Een verzameling pagina's die door (bijna) iedereen kan worden aangepast. Het systeem is vaak erg compleet maar helaas &quot;vandalismegevoelig&quot;
+  - description: Een verzameling pagina&#39;s die door (bijna) iedereen kan worden aangepast. Het systeem is vaak erg compleet maar helaas &quot;vandalismegevoelig&quot;
     title: Wiki
   - description: een symbool in een zoekopdracht waarmee je aangeeft dat je niet precies weet wat daar moet staan. Als je bijvoorbeeld wilt zoeken naar het woord wildcard in dit woordenboek, en je weet niet precies hoe je dat schrijft kun je naar wil*ard zoeken. Het sterretje (*) is de meest gebruikte wildcard, meestal staat deze voor 0 of meer onbekende tekens. Daarnaast wordt vaak het vraagteken gebruikt, deze staat voor 1 onbekend teken en is een synoniem van Jokerteken
     title: Wildcard
@@ -6831,7 +6831,7 @@ accordion:
     title: Wireless
   - description: Engels voor tovenaar, een reeks stappen die doorlopen moet worden om iets in te stellen of een actie uit te voeren met een programma. Een wizard vereenvoudigd dingen door ze in stappen aan de gebruiker voor te schotelen
     title: Wizard
-  - description: WIZard sysOP, Afkorting voor 'primaire systeembeheerder' (de systeembeheerder-account die gemaakt is met de installatiewizard), wordt vooral gebruikt bij het chatten. Zie ook...Chatten
+  - description: WIZard sysOP, Afkorting voor &#39;primaire systeembeheerder&#39; (de systeembeheerder-account die gemaakt is met de installatiewizard), wordt vooral gebruikt bij het chatten. Zie ook...Chatten
     title: WIZOP
   - description: Wireless Local Area Network, Draadloos netwerk. Zie ook...LAN
     title: WLAN
@@ -6845,15 +6845,15 @@ accordion:
     title: WML
   - description: Windows Movie Maker, Een programma van Microsoft voor videobewerking
     title: WMM
-  - description: Wash My Mouth Out With Soap!, Afkorting voor 'ik moet mijnmond spoelen met zeep', wordt vooral gebruikt bij het chatten. Zie ook...Chatten
+  - description: Wash My Mouth Out With Soap!, Afkorting voor &#39;ik moet mijnmond spoelen met zeep&#39;, wordt vooral gebruikt bij het chatten. Zie ook...Chatten
     title: WMMOWS
   - description: Windows Media Player, Een programma van Microsoft voor het afspelen van multimedia. Zie ook...multimedia
     title: WMP
   - description: Windows Media Video, formaat van Microsoft voor compressie van video
     title: WMV
-  - description: Work Of Art, Afkorting voor 'kunstwerk', wordt vooral gebruikt bij het chatten. Zie ook...Chatten
+  - description: Work Of Art, Afkorting voor &#39;kunstwerk&#39;, wordt vooral gebruikt bij het chatten. Zie ook...Chatten
     title: WOA
-  - description: Waste Of Flaming Time And Money, Afkorting voor 'verspilling van kostbare tijd en geld', wordt vooral gebruikt bij het chatten. Zie ook...Chatten
+  - description: Waste Of Flaming Time And Money, Afkorting voor &#39;verspilling van kostbare tijd en geld&#39;, wordt vooral gebruikt bij het chatten. Zie ook...Chatten
     title: WOFTAM
   - description: Wake On LAN, voorziening op moederbord om computer te starten bij een signaal via het netwerk
     title: WOL
@@ -6875,7 +6875,7 @@ accordion:
     title: WORM
   - description: een soort virus. Zie ook...virus
     title: Worm
-  - description: Techniek om 32-bits Windows programma's op een 64-bits Windows versie te laten lopen
+  - description: Techniek om 32-bits Windows programma&#39;s op een 64-bits Windows versie te laten lopen
     title: WoW64
   - description: Encryptie standaard voor draadloze netwerken. Beter dan WEP. Gebruikt techniek die met intervallen van de encryptiesleutel veranderd
     title: WPA
@@ -6889,39 +6889,39 @@ accordion:
     title: WPG
   - description: WiFi Protected Setup, Een makkelijke manier om een WiFi netwerk te beveiligen
     title: WPS
-  - description: Wide Quad Super Extended Graphics Array, Een resolutie van (meestal) 3200x2048, hoewel volgens de definitie elke resolutie breder dan QSXGA in aanmerking komt, omdat deze resolutie de 'breedbeeldvariant' van QSXGA is en is een synoniem van QSXGA
+  - description: Wide Quad Super Extended Graphics Array, Een resolutie van (meestal) 3200x2048, hoewel volgens de definitie elke resolutie breder dan QSXGA in aanmerking komt, omdat deze resolutie de &#39;breedbeeldvariant&#39; van QSXGA is en is een synoniem van QSXGA
     title: WQSXGA
-  - description: Wide Quad Super Extended Graphics Array, Een resolutie van (meestal) 3200x2048, hoewel volgens de definitie elke resolutie breder dan QSXGA in aanmerking komt, omdat deze resolutie de 'breedbeeldvariant' van QSXGA is. Is een synoniem van WQSXGA
+  - description: Wide Quad Super Extended Graphics Array, Een resolutie van (meestal) 3200x2048, hoewel volgens de definitie elke resolutie breder dan QSXGA in aanmerking komt, omdat deze resolutie de &#39;breedbeeldvariant&#39; van QSXGA is. Is een synoniem van WQSXGA
     title: QSXGA
-  - description: Wide Quad Ultra Extended Graphics Array, Een resolutie van (meestal) 3840x2400, hoewel volgens de definitie elke resolutie breder dan QUXGA in aanmerking komt, omdat deze resolutie de 'breedbeeldvariant' van QUXGA is en is een synoniem van QUXGA
+  - description: Wide Quad Ultra Extended Graphics Array, Een resolutie van (meestal) 3840x2400, hoewel volgens de definitie elke resolutie breder dan QUXGA in aanmerking komt, omdat deze resolutie de &#39;breedbeeldvariant&#39; van QUXGA is en is een synoniem van QUXGA
     title: WQUXGA
-  - description: Wide Quad Ultra Extended Graphics Array, Een resolutie van (meestal) 3840x2400, hoewel volgens de definitie elke resolutie breder dan QUXGA in aanmerking komt, omdat deze resolutie de 'breedbeeldvariant' van QUXGA is. Is een synoniem van WQUXGA
+  - description: Wide Quad Ultra Extended Graphics Array, Een resolutie van (meestal) 3840x2400, hoewel volgens de definitie elke resolutie breder dan QUXGA in aanmerking komt, omdat deze resolutie de &#39;breedbeeldvariant&#39; van QUXGA is. Is een synoniem van WQUXGA
     title: QUXGA
-  - description: Wide Quarter Virtual Graphics Array, Een resolutie van (meestal) 384x240, hoewel volgens de definitie elke resolutie breder dan QVGA in aanmerking komt, omdat deze resolutie de 'breedbeeldvariant' van QVGA is en is een synoniem van QVGA
+  - description: Wide Quarter Virtual Graphics Array, Een resolutie van (meestal) 384x240, hoewel volgens de definitie elke resolutie breder dan QVGA in aanmerking komt, omdat deze resolutie de &#39;breedbeeldvariant&#39; van QVGA is en is een synoniem van QVGA
     title: WQVGA
-  - description: Wide Quarter Virtual Graphics Array, Een resolutie van (meestal) 384x240, hoewel volgens de definitie elke resolutie breder dan QVGA in aanmerking komt, omdat deze resolutie de 'breedbeeldvariant' van QVGA is. Is een synoniem van WQVGA
+  - description: Wide Quarter Virtual Graphics Array, Een resolutie van (meestal) 384x240, hoewel volgens de definitie elke resolutie breder dan QVGA in aanmerking komt, omdat deze resolutie de &#39;breedbeeldvariant&#39; van QVGA is. Is een synoniem van WQVGA
     title: QVGA
-  - description: Wide Quad Extended Graphics Array, Een resolutie van (meestal) 2560x1536, hoewel volgens de definitie elke resolutie breder dan QXGA in aanmerking komt, omdat deze resolutie de 'breedbeeldvariant' van QXGA is en is een synoniem van QXGA
+  - description: Wide Quad Extended Graphics Array, Een resolutie van (meestal) 2560x1536, hoewel volgens de definitie elke resolutie breder dan QXGA in aanmerking komt, omdat deze resolutie de &#39;breedbeeldvariant&#39; van QXGA is en is een synoniem van QXGA
     title: WQXGA
-  - description: Wide Quad Extended Graphics Array, Een resolutie van (meestal) 2560x1536, hoewel volgens de definitie elke resolutie breder dan QXGA in aanmerking komt, omdat deze resolutie de 'breedbeeldvariant' van QXGA is. Is een synoniem van WQXGA
+  - description: Wide Quad Extended Graphics Array, Een resolutie van (meestal) 2560x1536, hoewel volgens de definitie elke resolutie breder dan QXGA in aanmerking komt, omdat deze resolutie de &#39;breedbeeldvariant&#39; van QXGA is. Is een synoniem van WQXGA
     title: QXGA
-  - description: With Regards To, Afkorting voor 'de groeten aan', wordt vooral gebruikt bij het chatten. Zie ook...Chatten
+  - description: With Regards To, Afkorting voor &#39;de groeten aan&#39;, wordt vooral gebruikt bij het chatten. Zie ook...Chatten
     title: WRT
   - description: Web Services Description Language, een XML dialect om services op het internet mee te beschrijven zodat je ze kunt raadplegen met SOAP
     title: WSDL
   - description: Windows Script Host, scripttaal om scripts voor Windows in te schrijven. Zie ook...Scripttaal
     title: WSH
-  - description: Wide Super Virtual Graphics Array, Een resolutie van (meestal) 1024x600, hoewel volgens de definitie elke resolutie breder dan SVGA in aanmerking komt, omdat deze resolutie de 'breedbeeldvariant' van SVGA is en is een synoniem van SVGA
+  - description: Wide Super Virtual Graphics Array, Een resolutie van (meestal) 1024x600, hoewel volgens de definitie elke resolutie breder dan SVGA in aanmerking komt, omdat deze resolutie de &#39;breedbeeldvariant&#39; van SVGA is en is een synoniem van SVGA
     title: WSVGA
-  - description: Wide Super Virtual Graphics Array, Een resolutie van (meestal) 1024x600, hoewel volgens de definitie elke resolutie breder dan SVGA in aanmerking komt, omdat deze resolutie de 'breedbeeldvariant' van SVGA is. Is een synoniem van WSVGA
+  - description: Wide Super Virtual Graphics Array, Een resolutie van (meestal) 1024x600, hoewel volgens de definitie elke resolutie breder dan SVGA in aanmerking komt, omdat deze resolutie de &#39;breedbeeldvariant&#39; van SVGA is. Is een synoniem van WSVGA
     title: SVGA
-  - description: Wide Super Extended Graphics Array, Een resolutie van (meestal) 1440x900, hoewel volgens de definitie elke resolutie breder dan SXGA in aanmerking komt, omdat deze resolutie de 'breedbeeldvariant' van SXGA is
+  - description: Wide Super Extended Graphics Array, Een resolutie van (meestal) 1440x900, hoewel volgens de definitie elke resolutie breder dan SXGA in aanmerking komt, omdat deze resolutie de &#39;breedbeeldvariant&#39; van SXGA is
     title: WSXGA
-  - description: Wide Super Extended Graphics Array Plus, Een resolutie van (meestal) 1680x1050, hoewel volgens de definitie elke resolutie breder dan SXGA+ in aanmerking komt, omdat deze resolutie de 'breedbeeldvariant' van SXGA+ is en is een synoniem van SXGA+    title: Wide Super Extended Graphics Array, Een resolutie van (meestal) 1440x900, hoewel volgens de definitie elke resolutie breder dan SXGA in aanmerking komt, omdat deze resolutie de 'breedbeeldvariant' van SXGA is. Is een synoniem van WSXGA
+  - description: Wide Super Extended Graphics Array Plus, Een resolutie van (meestal) 1680x1050, hoewel volgens de definitie elke resolutie breder dan SXGA+ in aanmerking komt, omdat deze resolutie de &#39;breedbeeldvariant&#39; van SXGA+ is en is een synoniem van SXGA+    title: Wide Super Extended Graphics Array, Een resolutie van (meestal) 1440x900, hoewel volgens de definitie elke resolutie breder dan SXGA in aanmerking komt, omdat deze resolutie de &#39;breedbeeldvariant&#39; van SXGA is. Is een synoniem van WSXGA
     title: WSXGA+
-  - description: Wide Super Extended Graphics Array Plus, Een resolutie van (meestal) 1680x1050, hoewel volgens de definitie elke resolutie breder dan SXGA+ in aanmerking komt, omdat deze resolutie de 'breedbeeldvariant' van SXGA+ is. Is een synoniem van WSXGA+
+  - description: Wide Super Extended Graphics Array Plus, Een resolutie van (meestal) 1680x1050, hoewel volgens de definitie elke resolutie breder dan SXGA+ in aanmerking komt, omdat deze resolutie de &#39;breedbeeldvariant&#39; van SXGA+ is. Is een synoniem van WSXGA+
     title: SXGA+
-  - description: Want To Buy, Afkorting voor 'te koop gevraagd', wordt vooral gebruikt bij het chatten. Zie ook...Chatten
+  - description: Want To Buy, Afkorting voor &#39;te koop gevraagd&#39;, wordt vooral gebruikt bij het chatten. Zie ook...Chatten
     title: WTB
   - description: What the F*ck, Term die gebruikt wordt om aan te geven dat de gebruiker verbaast is of iets niet snapt
     title: wtf
@@ -6931,33 +6931,33 @@ accordion:
     title: wth
   - description: Term die gebruikt wordt om aan te geven dat de gebruiker verbaast is of iets niet snapt. Is een synoniem van wth
     title: What the Hell
-  - description: What The Heck Do I Know, Afkorting voor 'hoe moet ik dat nou weten', wordt vooral gebruikt bij het chatten en is een synoniem van WTFDIK. Zie ook...Chatten
+  - description: What The Heck Do I Know, Afkorting voor &#39;hoe moet ik dat nou weten&#39;, wordt vooral gebruikt bij het chatten en is een synoniem van WTFDIK. Zie ook...Chatten
     title: WTHDIK
-  - description: What The Heck Do I Know, Afkorting voor 'hoe moet ik dat nou weten', wordt vooral gebruikt bij het chatten. Is een synoniem van WTHDIK. Zie ook...Chatten
+  - description: What The Heck Do I Know, Afkorting voor &#39;hoe moet ik dat nou weten&#39;, wordt vooral gebruikt bij het chatten. Is een synoniem van WTHDIK. Zie ook...Chatten
     title: WTFDIK
-  - description: What The Heck Does That Mean?, Afkorting voor 'wat betekent dat in godsnaam?', wordt vooral gebruikt bij het chatten. Zie ook...Chatten
+  - description: What The Heck Does That Mean?, Afkorting voor &#39;wat betekent dat in godsnaam?&#39;, wordt vooral gebruikt bij het chatten. Zie ook...Chatten
     title: WTHDTM
-  - description: Wide Ultra Extended Graphics Array, Een resolutie van (meestal) 1920x1200, hoewel volgens de definitie elke resolutie breder dan UXGA in aanmerking komt, omdat deze resolutie de 'breedbeeldvariant' van UXGA is en is een synoniem van UXGA
+  - description: Wide Ultra Extended Graphics Array, Een resolutie van (meestal) 1920x1200, hoewel volgens de definitie elke resolutie breder dan UXGA in aanmerking komt, omdat deze resolutie de &#39;breedbeeldvariant&#39; van UXGA is en is een synoniem van UXGA
     title: WUXGA
-  - description: Wide Ultra Extended Graphics Array, Een resolutie van (meestal) 1920x1200, hoewel volgens de definitie elke resolutie breder dan UXGA in aanmerking komt, omdat deze resolutie de 'breedbeeldvariant' van UXGA is. Is een synoniem van WUXGA
+  - description: Wide Ultra Extended Graphics Array, Een resolutie van (meestal) 1920x1200, hoewel volgens de definitie elke resolutie breder dan UXGA in aanmerking komt, omdat deze resolutie de &#39;breedbeeldvariant&#39; van UXGA is. Is een synoniem van WUXGA
     title: UXGA
-  - description: Wide Virtual Graphics Array, Een resolutie van (meestal) 854x480, hoewel volgens de definitie elke resolutie breder dan VGA in aanmerking komt, omdat deze resolutie de 'breedbeeldvariant' van VGA is en is een synoniem van VGA
+  - description: Wide Virtual Graphics Array, Een resolutie van (meestal) 854x480, hoewel volgens de definitie elke resolutie breder dan VGA in aanmerking komt, omdat deze resolutie de &#39;breedbeeldvariant&#39; van VGA is en is een synoniem van VGA
     title: WVGA
-  - description: Wide Virtual Graphics Array, Een resolutie van (meestal) 854x480, hoewel volgens de definitie elke resolutie breder dan VGA in aanmerking komt, omdat deze resolutie de 'breedbeeldvariant' van VGA is. Is een synoniem van WVGA
+  - description: Wide Virtual Graphics Array, Een resolutie van (meestal) 854x480, hoewel volgens de definitie elke resolutie breder dan VGA in aanmerking komt, omdat deze resolutie de &#39;breedbeeldvariant&#39; van VGA is. Is een synoniem van WVGA
     title: VGA
   - description: World Wide Web, Een alternatieve benaming voor het internet en is een synoniem van W3
     title: WWW
   - description: World Wide Web, Een alternatieve benaming voor het internet. Is een synoniem van WWW
     title: W3
-  - description: Wide Extended Graphics Adapter, Een resolutie van (meestal) 1366x768, hoewel volgens de definitie elke resolutie breder dan XGA in aanmerking komt, omdat deze resolutie de 'breedbeeldvariant' van XGA is en is een synoniem van XGA
+  - description: Wide Extended Graphics Adapter, Een resolutie van (meestal) 1366x768, hoewel volgens de definitie elke resolutie breder dan XGA in aanmerking komt, omdat deze resolutie de &#39;breedbeeldvariant&#39; van XGA is en is een synoniem van XGA
     title: WXGA
-  - description: Wide Extended Graphics Adapter, Een resolutie van (meestal) 1366x768, hoewel volgens de definitie elke resolutie breder dan XGA in aanmerking komt, omdat deze resolutie de 'breedbeeldvariant' van XGA is. Is een synoniem van WXGA
+  - description: Wide Extended Graphics Adapter, Een resolutie van (meestal) 1366x768, hoewel volgens de definitie elke resolutie breder dan XGA in aanmerking komt, omdat deze resolutie de &#39;breedbeeldvariant&#39; van XGA is. Is een synoniem van WXGA
     title: XGA
-  - description: What You Get Is What You Pay For, Afkorting voor 'je krijgt waarvoor je betaalt en niet meer', wordt vooral gebruikt bij het chatten. Zie ook...Chatten
+  - description: What You Get Is What You Pay For, Afkorting voor &#39;je krijgt waarvoor je betaalt en niet meer&#39;, wordt vooral gebruikt bij het chatten. Zie ook...Chatten
     title: WYGIWYPF
-  - description: What You See Before You Get It, Afkorting voor 'wat je ziet voor je het krijgt', wordt vooral gebruikt bij het chatten. Zie ook...Chatten
+  - description: What You See Before You Get It, Afkorting voor &#39;wat je ziet voor je het krijgt&#39;, wordt vooral gebruikt bij het chatten. Zie ook...Chatten
     title: WYSBYGI
-  - description: What You See Is Totally Worthless In Real Life, Afkorting voor 'wat je ziet is totaal nutteloos in het echte leven', wordt vooral gebruikt bij het chatten. Zie ook...Chatten
+  - description: What You See Is Totally Worthless In Real Life, Afkorting voor &#39;wat je ziet is totaal nutteloos in het echte leven&#39;, wordt vooral gebruikt bij het chatten. Zie ook...Chatten
     title: WYSITWIRL
   - description: What You See Is What You Get, term die een programma aanduid voor webpaginaontwerp waarbij u geen code hoeft te gebruiken maar simpelweg alle opmaak en tekst in moet voeren waarna u het resultaat meteen te zien krijgt
     title: WYSIWYG
@@ -6967,7 +6967,7 @@ accordion:
     title: X11
   - description: opensource codec gebaseerd op H.264. Zie ook...opensource, codec, H.264
     title: x264
-  - description: de meeste gebruikte instructieset in PC's. Deze werd voor het eerste gebruikt inde Intel 8086. Doordat deze 8086 zo populair werd is de x86 tot op de dag van vandaag veel in gebruik. In de loop der tijd zijn er steeds meer registers aan de x86 instructieset toegevoegd, waaronder 32-bit en 64-bit registers en uitbreidingen zoals MMX en SSE. Zie ook...instructieset
+  - description: de meeste gebruikte instructieset in PC&#39;s. Deze werd voor het eerste gebruikt inde Intel 8086. Doordat deze 8086 zo populair werd is de x86 tot op de dag van vandaag veel in gebruik. In de loop der tijd zijn er steeds meer registers aan de x86 instructieset toegevoegd, waaronder 32-bit en 64-bit registers en uitbreidingen zoals MMX en SSE. Zie ook...instructieset
     title: x86
   - description: reeks van rekenkundige coprocessors die bij de gelijknamige x86 processoren hoorden. Zie ook...x86, coprocessor
     title: x87
@@ -6983,7 +6983,7 @@ accordion:
     title: XBox 360
   - description: eXtended Command, plug-in voor HyperCard
     title: XCMD
-  - description: Een formaat flashkaart voor foto's. Zie ook...Flashkaart
+  - description: Een formaat flashkaart voor foto&#39;s. Zie ook...Flashkaart
     title: xD
   - description: Xbox Developer Kit, Een programmeeromgeving waarmee software voor de XBox kan worden gemaakt
     title: XDK
@@ -7029,7 +7029,7 @@ accordion:
     title: XSL-FO
   - description: XSL Transformations, het omzetten van een XML-document naar een HTML, XHTML, SGML, SVG of tekst document.. Zie ook...XSL
     title: XSLT
-  - description: Cross site scripting, een techniek om mensen aan te vallen met 'kwaadaardige' code, gebruikt bij onder andere Phising. Zie ook...Phishing
+  - description: Cross site scripting, een techniek om mensen aan te vallen met &#39;kwaadaardige&#39; code, gebruikt bij onder andere Phising. Zie ook...Phishing
     title: XSS
   - description: eXtended Technology, een oude benaming voor een PC met een 8086-processor
     title: XT
@@ -7039,35 +7039,35 @@ accordion:
     title: XVID
   - description: Year 2000, Het jaar 2000, vaak genoemd in combinatie met computerproblemen bij de overgang van het jaar 1999 naar 2000
     title: Y2k
-  - description: Yet Another Bloody Acronym, Afkorting voor 'alweer zo'n stom acroniem', wordt vooral gebruikt bij het chatten. Zie ook...Chatten
+  - description: Yet Another Bloody Acronym, Afkorting voor &#39;alweer zo&#39;n stom acroniem&#39;, wordt vooral gebruikt bij het chatten. Zie ook...Chatten
     title: YABA
-  - description: Yet Another DOS Shell, Afkorting voor 'de zoveelste dos-shell', wordt vooral gebruikt bij het chatten. Zie ook...Chatten
+  - description: Yet Another DOS Shell, Afkorting voor &#39;de zoveelste dos-shell&#39;, wordt vooral gebruikt bij het chatten. Zie ook...Chatten
     title: YADS
-  - description: You Are Great, Afkorting voor 'je bent geweldig', wordt vooral gebruikt bij het chatten. Zie ook...Chatten
+  - description: You Are Great, Afkorting voor &#39;je bent geweldig&#39;, wordt vooral gebruikt bij het chatten. Zie ook...Chatten
     title: YAG
-  - description: Yet Another HTML Editor, Afkorting voor 'alweer een html-editor', wordt vooral gebruikt bij het chatten. Zie ook...Chatten
+  - description: Yet Another HTML Editor, Afkorting voor &#39;alweer een html-editor&#39;, wordt vooral gebruikt bij het chatten. Zie ook...Chatten
     title: YAHE
-  - description: You Don't Know Jack, Afkorting voor 'jij weet helemaal niks', wordt vooral gebruikt bij het chatten. Zie ook...Chatten
+  - description: You Don&#39;t Know Jack, Afkorting voor &#39;jij weet helemaal niks&#39;, wordt vooral gebruikt bij het chatten. Zie ook...Chatten
     title: YDKJ
-  - description: Your Guess Is As Good As Mine, Afkorting voor 'ik snap er net zoveel van als jij (niet dus)', wordt vooral gebruikt bij het chatten. Zie ook...Chatten
+  - description: Your Guess Is As Good As Mine, Afkorting voor &#39;ik snap er net zoveel van als jij (niet dus)&#39;, wordt vooral gebruikt bij het chatten. Zie ook...Chatten
     title: YGIAGAM
-  - description: You Have Bin Mail, Afkorting voor 'je hebt binaire e-mail', wordt vooral gebruikt bij het chatten. Zie ook...Chatten
+  - description: You Have Bin Mail, Afkorting voor &#39;je hebt binaire e-mail&#39;, wordt vooral gebruikt bij het chatten. Zie ook...Chatten
     title: YHBM
-  - description: You Have Mail, Afkorting voor 'je hebt e-mail', wordt vooral gebruikt bij het chatten. Zie ook...Chatten
+  - description: You Have Mail, Afkorting voor &#39;je hebt e-mail&#39;, wordt vooral gebruikt bij het chatten. Zie ook...Chatten
     title: YHM
-  - description: You Know You've Been Hacking, Afkorting voor 'je weet wanneer je te lang hebt gehackt', wordt vooral gebruikt bij het chatten. Zie ook...Chatten
+  - description: You Know You&#39;ve Been Hacking, Afkorting voor &#39;je weet wanneer je te lang hebt gehackt&#39;, wordt vooral gebruikt bij het chatten. Zie ook...Chatten
     title: YKYBHTLW
-  - description: You Must Be Kidding Kidding, Afkorting voor 'je neemt me vast in de maling', wordt vooral gebruikt bij het chatten. Zie ook...Chatten
+  - description: You Must Be Kidding Kidding, Afkorting voor &#39;je neemt me vast in de maling&#39;, wordt vooral gebruikt bij het chatten. Zie ook...Chatten
     title: YMBK
-  - description: You Must Be Kidding Joking, Afkorting voor 'je maakt vast een grapje', wordt vooral gebruikt bij het chatten. Zie ook...Chatten
+  - description: You Must Be Kidding Joking, Afkorting voor &#39;je maakt vast een grapje&#39;, wordt vooral gebruikt bij het chatten. Zie ook...Chatten
     title: YMBKJ
-  - description: Your Mileage May Vary, Afkorting voor 'in het verleden behaalde resultaten bieden geen garantie voor de toekomst', wordt vooral gebruikt bij het chatten. Zie ook...Chatten
+  - description: Your Mileage May Vary, Afkorting voor &#39;in het verleden behaalde resultaten bieden geen garantie voor de toekomst&#39;, wordt vooral gebruikt bij het chatten. Zie ook...Chatten
     title: YMMV
   - description: 1000 zetta, dat is 1.000.000.000.000.000.000.000.000 keer iets, ofwel een quadtriljoen, bijvoorbeeld... een yottabyte is 1.000.000.000.000.000.000.000.000 byte, een yottahertz is 1.000.000.000.000.000.000.000.000 hertz
     title: Yotta
   - description: 1000 zettabyte, dus 1 quadriljoen byte
     title: Yottabyte
-  - description: You're Welcome In Advance, Afkorting voor 'je bent bij voorbaat welkom', wordt vooral gebruikt bij het chatten. Zie ook...Chatten
+  - description: You&#39;re Welcome In Advance, Afkorting voor &#39;je bent bij voorbaat welkom&#39;, wordt vooral gebruikt bij het chatten. Zie ook...Chatten
     title: YWIA
   - description: Traceert de rechte hoek van hoeken die gebruikt worden om objecten te tekenen en te garanderen dat de voorgaande ook getekent zijn
     title: Z-buffering
