@@ -10,9 +10,10 @@ class Form extends React.Component {
     name: 'Simple Form Ajax',
     subject: '', // optional subject of the notification email
     action: '',
-    successMessage: 'Thanks for your enquiry, we will get back to you soon',
+    successMessage:
+      'Dank u voor uw verzoek om informatie, als het voor mocht komen dat een vraag niet onmiddellijk kan worden beantwoord, dan zal ik contact met u opnemen zodra ik het antwoord heb.',
     errorMessage:
-      'There is a problem, your message has not been sent, please try contacting us via email'
+      'Sorry maar uw bericht werd niet verzonden, neemt u aub contact met mij op via e-mail.'
   }
 
   state = {
@@ -62,13 +63,16 @@ class Form extends React.Component {
           <script src="https://www.google.com/recaptcha/api.js" />
         </Helmet>
         <form
+          method="post"
+          netlify-honeypot="bot-field"
+          data-netlify="true"
           className="Form"
           name={name}
           action={action}
           onSubmit={this.handleSubmit}
-          data-netlify=""
-          netlify-recaptcha=""
+          data-netlify-recaptcha="true"
         >
+          <input type="hidden" name="bot-field" />
           {this.state.alert && (
             <div className="Form--Alert">{this.state.alert}</div>
           )}
@@ -77,21 +81,21 @@ class Form extends React.Component {
               <input
                 className="Form--Input Form--InputText"
                 type="text"
-                placeholder="Firstname"
-                name="firstname"
+                placeholder="Voornaam"
+                name="voornaam"
                 required
               />
-              <span>Firstname</span>
+              <span>Voornaam</span>
             </label>
             <label className="Form--Label">
               <input
                 className="Form--Input Form--InputText"
                 type="text"
-                placeholder="Lastname"
-                name="lastname"
+                placeholder="Achternaam"
+                name="achternaam"
                 required
               />
-              <span>Lastname</span>
+              <span>Achternaam</span>
             </label>
           </div>
           <fieldset>
@@ -100,19 +104,28 @@ class Form extends React.Component {
                 className="Form--RadioInput"
                 type="radio"
                 name="gender"
-                value="male"
+                value="dhr"
                 defaultChecked
               />
-              <span>Male</span>
+              <span>Man</span>
             </label>
             <label className="Form--Label Form--Radio">
               <input
                 className="Form--RadioInput"
                 type="radio"
                 name="gender"
-                value="female"
+                value="mevr"
               />
-              <span>Female</span>
+              <span>Vrouw</span>
+            </label>
+            <label className="Form--Label Form--Radio">
+              <input
+                className="Form--RadioInput"
+                type="radio"
+                name="gender"
+                value="anders"
+              />
+              <span>Anders</span>
             </label>
           </fieldset>
           <label className="Form--Label">
@@ -123,7 +136,7 @@ class Form extends React.Component {
               name="emailAddress"
               required
             />
-            <span>Email address</span>
+            <span>Email adres</span>
           </label>
           <label className="Form--Label has-arrow">
             <select
@@ -133,11 +146,11 @@ class Form extends React.Component {
               required
             >
               <option disabled hidden>
-                Type of Enquiry
+                Soort van gevraagde informatie
               </option>
-              <option>Need to know more</option>
-              <option>Found a bug</option>
-              <option>Want to say hello</option>
+              <option>Wil meer te weten komen over</option>
+              <option>Ik heb een fout gevonden</option>
+              <option>Wil gewoon hallo zeggen</option>
             </select>
           </label>
           <label className="Form--Label">
@@ -156,18 +169,18 @@ class Form extends React.Component {
               name="newsletter"
               type="checkbox"
             />
-            <span>Get news updates</span>
+            <span>Ontvang het laatste nieuws in uw inbox</span>
           </label>
           <div
             className="g-recaptcha"
-            data-sitekey="6LfKN3kUAAAAAGIM1CbXmaRZx3LIh_W2twn1tzkA"
+            data-sitekey="6LfD5soUAAAAAN7GcbgKwWvhIT5veY6vak_tybY"
           />
           {!!subject && <input type="hidden" name="subject" value={subject} />}
           <input type="hidden" name="form-name" value={name} />
           <input
             className="Button Form--SubmitButton"
             type="submit"
-            value="Enquire"
+            value="Informeer"
             disabled={this.state.disabled}
           />
         </form>
