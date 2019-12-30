@@ -18,4 +18,4 @@ meta:
 
 # Contact formulier
 
-U kunt uw vragen stellen via het onderstaand contactformulier of direct met mij contact opnemen via react@unboundit.com
+U kunt uw vragen stellen via het contactformulier of direct met mij contact opnemen via react@unboundit.com
