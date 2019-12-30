@@ -61,8 +61,6 @@ export const ContactPageTemplate = ({
         </div>
       </div>
     </section>
-
-    <GoogleMap locations={locations} />
   </main>
 )
 
@@ -87,14 +85,7 @@ export const pageQuery = graphql`
         template
         subtitle
         featuredImage
-        address
-        phone
         email
-        locations {
-          mapLink
-          lat
-          lng
-        }
       }
     }
   }
