@@ -66,10 +66,6 @@ export const pageQuery = graphql`
         subtitle
         featuredImage
         section1
-        section2
-        video
-        videoPoster
-        videoTitle
         accordion {
           title
           description
