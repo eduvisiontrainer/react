@@ -173,7 +173,7 @@ class Form extends React.Component {
           </label>
           <div
             className="g-recaptcha"
-            data-sitekey="6LfD5soUAAAAAN7GcbgKwWvhIT5veY6vak_tybY"
+            data-sitekey="6LfD5soUAAAAAN7GcbgKwWvhIT5veY6vak_tybY-"
           />
           {!!subject && <input type="hidden" name="subject" value={subject} />}
           <input type="hidden" name="form-name" value={name} />
