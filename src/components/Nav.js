@@ -36,6 +36,7 @@ export class Navigation extends Component {
             to === this.state.currentPath ? 'active' : ''
           } ${className}`}
           onClick={this.handleLinkClick}
+          onKeyDown={this.handleLinkClick}
           {...props}
         >
           {children}
@@ -45,7 +46,11 @@ export class Navigation extends Component {
     return (
       <nav className={`Nav ${active ? 'Nav-active' : ''}`}>
         <div className="Nav--Container container">
-          <Link to="/" onClick={this.handleLinkClick}>
+          <Link
+            to="/"
+            onClick={this.handleLinkClick}
+            onKeyDown={this.handleLinkClick}
+          >
             <Logo />
           </Link>
           <div className="Nav--Links">
@@ -65,6 +70,7 @@ export class Navigation extends Component {
                     : ''
                 }`}
                 onClick={() => this.toggleSubNav('posts')}
+                onKeyDown={() => this.toggleSubNav('posts')}
               >
                 Info
               </span>
@@ -83,12 +89,12 @@ export class Navigation extends Component {
                 ))}
               </div>
             </div>
-{/* <NavLink to="/default/">Default</NavLink> */}
             <NavLink to="/contact/">Contact</NavLink>
           </div>
           <button
             className="Button-blank Nav--MenuButton"
             onClick={this.handleMenuToggle}
+            onKeyDown={this.handleMenuToggle}
           >
             {active ? <X /> : <Menu />}
           </button>

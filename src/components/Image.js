@@ -118,6 +118,7 @@ class Image extends React.Component {
                   srcSet={this.state.isIntersecting ? secSet : ''}
                   sizes={'100vw'}
                   onClick={onClick}
+                  onKeyDown={onClick}
                   title={title}
                   alt={alt}
                 />

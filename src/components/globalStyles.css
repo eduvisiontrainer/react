@@ -3,7 +3,7 @@
   --secondary: #000;
   --lightGrey: whitesmoke;
   --midGrey: #cacaca;
-  --darkGrey: #272727;
+  --darkGrey: #7f8c8d;
   --danger: #ff3d3d;
   --font-primary: 'Open Sans', sans-serif;
   --font-system: system-ui; /* postcssPresetEnv */
@@ -231,4 +231,25 @@ blockquote {
   display: flex;
   align-items: center;
   justify-content: center;
+}
+/**
+ * If you only want to use line numbering
+ */
+
+.gatsby-highlight {
+  /*background-color: #fdf6e3;*/
+  border-radius: 0.3em;
+  margin: 0.5em -3em;
+  padding: 1em;
+  overflow: auto;
+  width: inherit;
+}
+
+.gatsby-highlight pre[class*='language-'].line-numbers {
+  padding: 0;
+  padding-left: 1.8em;
+  overflow: initial;
+}
+pre[class*='language-'] > code {
+  border-left: 3px solid #358ccb;
 }

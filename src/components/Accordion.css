@@ -28,7 +28,7 @@
   display: block;
   margin: 0;
   font-size: 1.4rem;
-  text-transform: uppercase;
+  /* text-transform: uppercase; */
   letter-spacing: 0.02rem;
   font-weight: bold;
   pointer-events: none;
