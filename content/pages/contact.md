@@ -2,7 +2,7 @@
 template: ContactPage
 slug: contact
 title: Contact
-featuredImage: ../images/contactme.svg
+featuredImage: ../images/puzzle.svg
 subtitle: Ik neem zo snel mogelijk contact met u op.
 address: 'Stuartweg 8a, 4131 NJ VIANEN'
 phone: +31 (0)347-357 000
