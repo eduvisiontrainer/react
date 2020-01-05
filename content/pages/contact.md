@@ -2,7 +2,7 @@
 template: ContactPage
 slug: contact
 title: Contact
-featuredImage: 'https://ucarecdn.com/e22a858a-b420-47af-99f6-ed54b6860333/'
+featuredImage: ../images/contactme.svg
 subtitle: Ik neem zo snel mogelijk contact met u op.
 address: 'Stuartweg 8a, 4131 NJ VIANEN'
 phone: +31 (0)347-357 000
@@ -18,4 +18,4 @@ meta:
 
 # Contact formulier
 
-U kunt uw vragen stellen via het contactformulier of direct met mij contact opnemen via react@unboundit.com
+U kunt uw vragen stellen via het onderstaand contactformulier of direct met mij contact opnemen via react@unboundit.com
