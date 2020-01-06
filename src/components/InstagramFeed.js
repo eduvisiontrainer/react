@@ -5,10 +5,11 @@ import './InstagramFeed.css'
 
 // A quick way to get your access token
 // https://instagram.pixelunion.net/
+// https://instagramapi.thrivex.io/?ref=26943826437.452bff1.86c6d2adffbe4541b13a9a3b85c31acc
 
 export default class InstagramFeed extends Component {
   static defaultProps = {
-    accessToken: '1353697840.1677ed0.5a1cbfbc18f84915aa0d9a0bd02bff5a',
+    accessToken: '26943826437.452bff1.86c6d2adffbe4541b13a9a3b85c31acc',
     count: 20
   }
 
