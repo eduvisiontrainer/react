@@ -3,7 +3,7 @@ template: SinglePost
 title: Sign
 status: Featured / Published
 date: '2018-03-27'
-featuredImage: 'https://ucarecdn.com/157877ea-a2cb-49b6-8130-768fbe1a60a7/'
+featuredImage: ../../images/metro.svg
 excerpt: >-
   Etiam ac quam eget lectus venenatis ullamcorper sit amet non arcu. Nullam
   interdum arcu vitae augue pulvinar sodales. Sed non dui diam. Quisque lectus
@@ -20,7 +20,7 @@ meta:
 
 ## Model View Controller in PHP
 
-[Patterns](# 'View all posts in Patterns') August 10th, 2009
+[Patterns](# 'View all posts in Patterns')
 
 The model view controller pattern is the most used pattern for today’s world web applications. It has been used for the first time in Smalltalk and then adopted and popularized by Java. At present there are more than a dozen PHP web frameworks based on MVC pattern.
 
@@ -33,16 +33,16 @@ The MVC pattern separates an application in 3 modules: Model, View and Controlle
 - The **controller** handles the model and view layers to work together. The controller receives a request from the client, invoke the model to perform the requested operations and send the data to the View. The view format the data to be presented to the user, in a web application as an html output.
 
 The above figure contains the MVC Collaboration Diagram, where the links and dependencies between figures can be observed:  
-![mvc-collaboration](https://web.archive.org/web/20090813093030im_/http://php-html.net/tutorials/wp-content/uploads/2009/08/mvc-collaboration.png 'mvc-collaboration')
+![mvc-collaboration](../../images/mvc-collaboration.png 'mvc-collaboration')
 
 Our short php example has a simple structure, putting each MVC module in one folder:  
-![mvc-structure](https://web.archive.org/web/20090813093030im_/http://php-html.net/tutorials/wp-content/uploads/2009/08/mvc-structure.png 'mvc-structure')
+![mvc-structure](../../images/mvc-structure.png 'mvc-structure')
 
 ### Controller
 
 The controller is the first thing which takes a request, parse it, initialize and invoke the model and takes the model response and send it to the presentation layer. It’s practically the liant between the Model and the View, a small framework where Model and View are plugged in. In our naive php implementation the controller is implemented by only one class, named unexpectedly controller. The application entry point will be index.php. The index php file will delegate all the requests to the controller:
 
-```php
+```php{numberLines: true}
 // index.php file
 include_once("controller/Controller.php");
 $controller = new Controller();
@@ -52,7 +52,7 @@ $controller->invoke();
 
 Our Controller class has only one function and the constructor. The constructor instantiate a model class and when a request is done, the controller decide which data is required from the model. Then it calls the model class to retrieve the data. After that it calls the corresponding passing the data coming from the model. The code is extremely simple. Note that the controller does not know anything about the database or about how the page is generated.
 
-```php
+```php{numberLines: true}
 
 include_once("model/Model.php");
 class Controller {
@@ -81,7 +81,7 @@ class Controller {
 ```
 
 In the following MVC Sequence Diagram it can be observed the flow during a http request:  
-![mvc-sequence1](https://web.archive.org/web/20090813093030im_/http://php-html.net/tutorials/wp-content/uploads/2009/08/mvc-sequence1.png 'mvc-sequence1')
+![mvc-sequence1](../../images/mvc-sequence1.png 'mvc-sequence1')
 
 ### Model and Entity Classes
 
@@ -92,7 +92,7 @@ The Model represents the data and the logic of an application, what many calls b
 
 In our example the model is represented by 2 classes: the “Model” class and a “Book” class. The model doesn’t need any other presentation. The “Book” class is an entity class. This class should be exposed to the View layer and represents the format exported by the Model view. In a good implementation of the MVC pattern only entity classes should be exposed by the model and they should not encapsulate any business logic. Their solely purpose is to keep data. Depending on implementation Entity objects can be replaced by xml or json chunk of data. In the above snippet you can notice how Model is returning a specific book, or a list of all available books:
 
-```php
+```php{numberLines: true}
 include_once("model/Book.php");
 class Model {
 public function getBookList()
@@ -117,7 +117,7 @@ return $allBooks[$title];
 
 In our example the model layer includes the Book class. In a real scenario, the model will include all the entities and the classes to persist data into the database, and the classes encapsulating the business logic.
 
-```php
+```php{numberLines: true}
 class Book {
 public $title;
 public $author;
@@ -185,11 +185,3 @@ This post should not be ended before enumerating the advantages of Model View Co
 - the Model and View are separated, making the application more flexible.
 - the Model and view can be changed separately, or replaced. For example a web application can be transformed in a smart client application just by writing a new View module, or an application can use web services in the backend instead of a database, just replacing the model module.
 - each module can be tested and debugged separately.
-
-### Leave a Reply
-
-**Name** (required)
-
-**Mail** (will not be published) (required)
-
-**Website**
