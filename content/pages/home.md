@@ -3,7 +3,18 @@ template: HomePage
 slug: ''
 title: React
 featuredImage: ./images/boek.png
-subtitle: De jongste telg van de Web Development Library familie.
+subtitle: >-
+  Één van de jongste telgen van de Web Development Library familie.
+
+
+  # Ik ben zo terug!
+
+  Sorry voor het ongemak, maar ik voer op dit moment wat onderhoudwerkzaamheden
+  uit. Als het nodig is kunt u altijd [contact met
+  mij](mailto:react@unboundit.com) opnemen, anders is de boel binnenkort weer
+  compleet!  
+
+  &mdash; Jim
 meta:
   description: De jongste telg van de Web Development Library familie.
   title: React hét boek
