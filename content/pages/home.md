@@ -10,9 +10,8 @@ subtitle: >-
   # Ik ben zo terug!
 
   Sorry voor het ongemak, maar ik voer op dit moment wat onderhoudwerkzaamheden
-  uit. Als het nodig is kunt u altijd [contact met
-  mij](mailto:react@unboundit.com) opnemen, anders is de boel binnenkort weer
-  compleet!  
+  uit. Als het nodig is kunt u altijd contact met mij opnemen, de boel is
+  binnenkort weer compleet!  
 
   &mdash; Jim
 meta:
